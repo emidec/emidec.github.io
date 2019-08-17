@@ -15,10 +15,10 @@ author_profile: true
     London, UK, May 2017
 -   The Genomics Revolution: The Good, The Bad, and The Ugly -- A Privacy Researcher's Perspective  
     Privacy-aware Computational Genomics ([PRIVAGEN 2015](https://aistcrypt.github.io/Privacy-Aware-Computational-Genomics/))  
-    Tokyo, September 2015
+    Tokyo, Japan, September 2015
 -   The Genomics Revolution: Innovation Dream or Privacy Nightmare?  
     [HotSpot](http://www.lucavigano.com/HotSpot2015/) and [TPDP](http://tpdp.computing.dundee.ac.uk/) 2015 Joint Keynote  
-    London, April 2015
+    London, UK, April 2015
 -   Whole Genome Sequencing: Innovation Dream or Privacy Nightmare?  
     2nd Translational Medicine Meeting, Biomedical Neuroscience Institute  
     University of Chile, Santiago, Chile, November 2013
