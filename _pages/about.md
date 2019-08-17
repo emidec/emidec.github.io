@@ -8,7 +8,7 @@ Before joining UCL in 2013, I was a Research Scientist at [Xerox PARC](http://w
 
 I am also a Faculty Fellow at the [Alan Turing Institute](https://emilianodc.com/index.html), the national institute for data science and AI, and on the Technology Advisory Panel at the UK Information Commissioner's Office ([ICO](https://ico.org.uk/)). And, I am a member and co-founder of the International Data-driven Research for Advanced Modeling and Analysis Lab ([iDrama Lab](https://idrama.science/)).
 
-## Education
+### Education
 - **PhD in Networked Systems, 2011**  
   University of California, Irvine  
   Advisor: Gene Tsudik  
@@ -19,15 +19,15 @@ I am also a Faculty Fellow at the [Alan Turing Institute](https://emilianodc.co
  
 During my PhD, I also spent a few months on research internships at NEC in Heidelberg (2008), INRIA in Grenoble (2009), and Nokia in Lausanne (2010).
 
-## Research
+### Research
 
 Overall, I do research in the broad information security area. Recently, I have been doing a lot of work at the intersection of [machine learning and privacy](https://emilianodc.com/privacyML), as well as on understanding and countering [cybersafety issues](https://emilianodc.com/idrama) using measurement studies and tools from data science.
 
-My research has been published at top-tier conferences such as IEEE S&P, NDSS, ACM CCS, WWW, ICWSM, ACM IMC. My co-authors and I have received best/distinguished paper awards from CyberSafety'19, NDSS'18, and ACM IMC'18, and were runners-up for best paper at ACM IMC'14 and ICSWM'17.
+My research has been published at top-tier conferences such as IEEE S&P, NDSS, ACM CCS, WWW, ICWSM, ACM IMC. My co-authors and I have received best/distinguished paper awards from NDSS 2018, ACM IMC 2018, and CyberSafety 2019, and were runners-up for best paper at ACM IMC 2014 and ICSWM 2017.
 
 <!--For a list of recent papers on machine learning and privacy, please see (https://emilianodc.com/privacyML) https://emilianodc.com/idrama-->
 
-## News
+### News
 
 -   Paper accepted at [ACM CSCW](http://cscw.acm.org/): "You Know What to Do: Proactive Detection of YouTube Videos Targeted by Coordinated Hate Attacks" -- congrats Enrico et al.!
 -   Paper accepted at [ACM IMC](https://conferences.sigcomm.org/imc/2019/): "Challenges in the Decentralized Web: The Mastodon Case" -- congrats Aravindh et al.!
@@ -47,8 +47,8 @@ My research has been published at top-tier conferences such as IEEE S&P, NDSS, A
 -   Two papers accepted at [PETS 2019](https://petsymposium.org/): "LOGAN: Membership Inference Attacks Against Generative Models" ([PDF](https://arxiv.org/pdf/1705.07663.pdf)) and "Systematizing Genome Privacy Research: A Privacy-Enhancing Technologies Perspective" ([PDF](https://arxiv.org/pdf/1712.02193.pdf)) -- congrats Alexandros, Luca, and Jamie!
 -->
 
-### Personal
+## Personal
 
-I was born in Avellino, a small town in South of Italy on the green hills of [Irpinia](https://en.wikipedia.org/wiki/Irpinia). Irpinia is known for its [landscapes](https://web.unisa.it/en/campus-life/surroundings/irpinia), [medieval castles](http://www.irpinia24.it/wp/wp-content/uploads/2016/12/header.jpg), hazelnuts, [black truffles](https://www.ecoturismocampania.it/wp-content/uploads/2015/10/tartufo-nero-di-bagnoli-irpino.jpg), [torrone](http://www.italymagazine.com/sites/default/files/story/torrone.jpg), and some great wines like Taurasi, Fiano di Avellino, and Greco di Tufo (which I know of only thanks to my brother [Paolo](http://tipicamente.it/curatori/paolo-de-cristofaro/) who is a top wine journalist).  I have spent six awesome years in California (4 in Irvine and 2 in Palo Alto), before moving to (pre-Brexit) London. I have also lived in Venice, Rome, Portsmouth, Heidelberg, Singapore, Grenoble, Lausanne, and Barcelona.
+I was born in Avellino, a small town in South of Italy on the green hills of [Irpinia](https://en.wikipedia.org/wiki/Irpinia). Irpinia is known for its [landscapes](https://web.unisa.it/en/campus-life/surroundings/irpinia), [medieval castles](http://www.irpinia24.it/wp/wp-content/uploads/2016/12/header.jpg), hazelnuts, [black truffles](https://www.ecoturismocampania.it/wp-content/uploads/2015/10/tartufo-nero-di-bagnoli-irpino.jpg), [torrone](http://www.italymagazine.com/sites/default/files/story/torrone.jpg), and some great wines like Taurasi, Fiano di Avellino, and Greco di Tufo (which I know of only thanks to my brother [Paolo](http://tipicamente.it/curatori/paolo-de-cristofaro/) who is a top wine journalist). I have spent six awesome years in California before moving to (pre-Brexit) London. I have also lived in Venice, Rome, Portsmouth, Heidelberg, Singapore, Grenoble, Lausanne, and Barcelona.
 
-In my free time, I like acting as a coffee snob and an anti-pineapple pizza radical, pretending to know about movies and world politics, remembering (not without melancholy) the times I used to surf San Onofre, cooking (only pasta and pizza, obviously), and planning trips with my better half Darya and little one Maya. I also love languages and I am fluent in English, French, Italian, and Napolitan, and can utter enough words to get out of (or in, most of the times) trouble in German, Spanish, and Farsi.
+In my free(?) time, I like acting as a coffee snob and anti-pineapple pizza radical, remembering (with melancholy) the times I used to surf San Onofre, cooking (only pasta and pizza, obviously), and planning trips with my better half Darya and little one Maya. I am fluent in English, French, Italian (+Napolitan), and can utter enough words to get out of (or in, most of the times) trouble in German, Spanish, and Farsi.
