@@ -8,6 +8,12 @@ Before joining UCL in 2013, I was a Research Scientist at [Xerox PARC](http://w
 
 I am also a Faculty Fellow at the [Alan Turing Institute](https://emilianodc.com/index.html), the national institute for data science and AI, and on the Technology Advisory Panel at the UK Information Commissioner's Office ([ICO](https://ico.org.uk/)). And, I am a member and co-founder of the International Data-driven Research for Advanced Modeling and Analysis Lab ([iDrama Lab](https://idrama.science/)).
 
+### Research
+
+Overall, I do research in the broad information security area. Recently, I have been doing a lot of work at the intersection of [machine learning and privacy](https://emilianodc.com/privacyML), as well as on understanding and countering [cybersafety issues](https://emilianodc.com/cybersafety/) using measurement studies and data science.
+
+My research has been published at top-tier conferences such as IEEE S&P, NDSS, ACM CCS, WWW, ICWSM, ACM IMC. My co-authors and I have received best/distinguished paper awards from NDSS 2018, ACM IMC 2018, and CyberSafety 2019, and were runners-up for best paper at ACM IMC 2014 and ICSWM 2017.
+
 ### Education
 - **PhD in Networked Systems, 2011**  
   University of California, Irvine  
@@ -18,12 +24,6 @@ I am also a Faculty Fellow at the [Alan Turing Institute](https://emilianodc.co
   Summa cum Laude, top 1% in graduating class
  
 During my PhD, I also spent a few months on research internships at NEC in Heidelberg (2008), INRIA in Grenoble (2009), and Nokia in Lausanne (2010).
-
-### Research
-
-Overall, I do research in the broad information security area. Recently, I have been doing a lot of work at the intersection of [machine learning and privacy](https://emilianodc.com/privacyML), as well as on understanding and countering [cybersafety issues](https://emilianodc.com/cybersafety/) using measurement studies and data science.
-
-My research has been published at top-tier conferences such as IEEE S&P, NDSS, ACM CCS, WWW, ICWSM, ACM IMC. My co-authors and I have received best/distinguished paper awards from NDSS 2018, ACM IMC 2018, and CyberSafety 2019, and were runners-up for best paper at ACM IMC 2014 and ICSWM 2017.
 
 <!--For a list of recent papers on machine learning and privacy, please see (https://emilianodc.com/privacyML) https://emilianodc.com/idrama-->
 
