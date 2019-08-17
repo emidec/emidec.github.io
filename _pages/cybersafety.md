@@ -7,7 +7,7 @@ author_profile: true
 
 ## Cybersafety
 
-<span style="font-size:1.18em;">This is a list of publications roughly related to understanding and countering **cybersafety** issues using measurement studies and data science. Many of these papers are written in collaboration with the [iDrama Lab](https://idrama.science){:target="_blank"} crew and were in part funded by the [ENCASE](https://encase.socialcomputing.eu/){:target="_blank"} project.</span>
+<span style="font-size:1.18em;">This is the list of my publications roughly related to understanding and countering **cybersafety** issues using measurement studies and data science. Many of these papers are written in collaboration with the [iDrama Lab](https://idrama.science){:target="_blank"} crew and were in part funded by the [ENCASE](https://encase.socialcomputing.eu/){:target="_blank"} project.</span>
 
 
 ### 2020
