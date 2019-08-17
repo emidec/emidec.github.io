@@ -6,7 +6,7 @@ author_profile: true
 {% include base_path %}
 
 
-### Keynote Talks
+## Keynote Talks
 -   Membership and Property Inference Attacks against Machine Learning Models  
     IEEE CVPR Workshop on Bright and Dark Sides of Computer Vision: Challenges and Opportunities for Privacy and Security ([CV-COPS 2019](https://cvcops19.cispa.saarland/))  
     Long Beach, CA, June 2019
@@ -24,7 +24,7 @@ author_profile: true
     University of Chile, Santiago, Chile, November 2013
     
 
-### Invited Talks
+## Invited Talks
 
 -   Exploiting Unintended Feature Leakage in Collaborative Learning  
     [Workshop on Federated Learning and Analytics](https://sites.google.com/view/federated-learning-2019)  
@@ -144,7 +144,7 @@ author_profile: true
 -   Privacy-Preserving Policy-based Information Transfer  
     KU Leuven, Belgium, October 2009
 
-### PhD Committee and Mentorship
+## PhD Committee and Mentorship
 
 -   Ingolf Becker, UCL, PhD Committee, 2018
 -   Marc Roeschlin, Oxford University, PhD Committee, 2018
