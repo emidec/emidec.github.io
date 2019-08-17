@@ -21,7 +21,7 @@ During my PhD, I also spent a few months on research internships at NEC in Heide
 
 ### Research
 
-Overall, I do research in the broad information security area. Recently, I have been doing a lot of work at the intersection of machine learning and privacy, as well as on understanding and countering cybersafety issues using measurement studies and data science.
+Overall, I do research in the broad information security area. Recently, I have been doing a lot of work at the intersection of *machine learning and privacy*, as well as on understanding and countering *cybersafety issues* using measurement studies and data science.
 
 My research has been published at top-tier conferences such as IEEE S&P, NDSS, ACM CCS, WWW, ICWSM, ACM IMC. My co-authors and I have received best/distinguished paper awards from NDSS 2018, ACM IMC 2018, and CyberSafety 2019, and were runners-up for best paper at ACM IMC 2014 and ICSWM 2017.
 
