@@ -5,7 +5,7 @@ author_profile: true
 
 {% include base_path %}
 
-### Program Co-Chair
+## Program Co-Chair
 
 -   [GenoPri 2018](https://www.genopri.org/), Basel, Switzerland, October 3, 2018
 -   [WWW 2018](http://www2018.thewebconf.org/) (Security & Privacy track), Lyon, France, April 23--27, 2018
@@ -14,12 +14,12 @@ author_profile: true
 -   [PETS 2013](http://petsymposium.org/), Bloomington, Indiana, July 10-12, 2013
 -   [HotPETs 2012](http://petsymposium.org/2012/hotpets.php), Vigo, Spain, July 13, 2012
 
-### Organization
+## Organization
 
 -   [IEEE EuroSP 2018](https://www.ieee-security.org/TC/EuroSP2018/), General (Co-)Chair, London, UK, April 24--26, 2018
 -   [Cybersafety in Modern Online Social Networks](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17372), Dagstuhl Seminar, Germany, September 10--13,2017
 
-### Program Committee Member
+## Program Committee Member
 
 -   [Usenix Security 2020](https://www.usenix.org/conference/usenixsecurity20), Boston, MA, August 2020
 -   [ACM SIGMETRICS](http://www.sigmetrics.org/sigmetrics2020/), Boston, MA, June 2020
@@ -70,18 +70,18 @@ author_profile: true
 -   [CANS 2011](http://www.infosec.sdu.edu.cn/cans2011/), Sanya, China, December 10-12, 2011
 -   [ISC 2010](http://math.fau.edu/~isc2010/), Boca Raton, Florida, October 25-28, 2010
 
-### Editor
+## Editor
 
 -   Journal of Cybersecurity ([JCS](http://cybersecurity.oxfordjournals.org/)), Cryptography and Associated Topics Area Editor, 2015-2018
 
-### Reviewer
+## Reviewer
 
 -   **Conferences**: NDSS 2015, S&P 2014, CCS 2013, Eurocrypt 2012, NDSS 2012, Codaspy 2012, CCS 2011, ESORICS 2011, Secrypt 2011, ACNS 2011, WiSec 2011, PKC 2011, PerCom 2010, ICDCS 2010, FCS 2010, WiSec 2010, CANS 2009, ICNP 2009, COMPSAC 2009, Asiaccs 2009, SEC 2009, S&P 2008, OPODIS 2008, MCN 2008
 -   **Journals**: Journal of Cybersecurity (**Area Editor**), Reviewer for Journal of Computer Security, ACM Transactions on Information and System Security, IEEE Transactions on Knowledge and Data Engineering, IEEE Transaction on Mobile Computing, IEEE Security and Privacy Magazine, IEEE Transactions on Parallel and Distributed Systems, Journal of Computer Communications, Journal of Systems and Software, Ad Hoc Networks, Computing and Informatics, VLDB Journal, Data Mining and Knowledge Discovery
 -   **Panels (Funding)**: NESRC (Canada), NSF SaTC (USA), PRIN (Italy), FWO (Belgium)
 
 
-### PhD Committee and Mentorship
+## PhD Committee and Mentorship
 
 -   Ingolf Becker, UCL, PhD Committee, 2018
 -   Marc Roeschlin, Oxford University, PhD Committee, 2018

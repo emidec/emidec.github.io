@@ -5,16 +5,18 @@ author_profile: true
 
 {% include base_path %}
 
-Test
+## Publications
 
-## 2020
+<span style="font-size:1.1em;">This is the list of all my peer-reviewed publications order by year. You can also visit my [Google Scholar](https://scholar.google.com/citations?hl=en&user=1wfzUuEAAAAJ&view_op=list_works&pagesize=100){:target="_blank"} or my [DBLP](http://dblp.uni-trier.de/pers/hd/c/Cristofaro:Emiliano_De){:target="_blank"} pages.</span>
+
+### 2020
 
 Alexandros Mittos, Savvas Zannettou, Jeremy Blackburn, and Emiliano De Cristofaro  
 **"And We Will Fight For Our Race! A Measurement Study of Genetic Testing Conversations on Reddit and 4chan**  
 14th International AAAI Conference on Web and Social Media (ICWSM 2020)  
 [full version](https://arxiv.org/pdf/1901.09735.pdf){: .btn--danger}{:target="_blank"}
 
-## 2019
+### 2019
 
 Enrico Mariconti, Guillermo Suarez-Tangil, Jeremy Blackburn, Emiliano De Cristofaro, Nicolas Kourtellis, Ilias Leontiadis, Jordi Luque Serrano, and Gianluca Stringhini  
 **"You Know What to Do": Proactive Detection of YouTube Videos Targeted by Coordinated Hate Attacks**  
@@ -66,7 +68,7 @@ Proceedings on Privacy Enhancing Technologies, Vol. 2019, Issue 1 (PoPETS 2019)
 
 
 
-## 2018
+### 2018
 Juan Echeverria, Emiliano De Cristofaro, Nicolas Kourtellis, Ilias Leontiadis, Gianluca Stringhini, Shi Zhou  
 **LOBO -- Evaluation of Generalization Deficiencies in Twitter Bot Classifiers**  
 34th Annual Computer Security Applications Conference (ACSAC 2018)  
@@ -138,7 +140,7 @@ Apostolos Pyrgelis, Carmela Troncoso, Emiliano De Cristofaro
 25th Network and Distributed System Security Symposium (NDSS 2018) [distinguished paper award](https://www.ndss-symposium.org/ndss2018/){: .btn--success}{:target="_blank"}  
 [full version](https://arxiv.org/pdf/1708.06145.pdf){: .btn--danger}{:target="_blank"} [blog](https://www.benthamsgaze.org/2018/10/02/on-location-time-and-membership-studying-how-aggregate-location-data-can-harm-users-privacy/){: .btn--danger}{:target="_blank"}  
 
-## 2017
+### 2017
 
 Gergely Acs, Luca Melis, Claude Castelluccia, Emiliano De Cristofaro  
 **Differentially Private Mixture of Generative Neural Networks**  
@@ -207,7 +209,7 @@ CSAW Europe Applied Research Award](http://csaw-europe.com/), 2nd place (out of 
 [pdf](https://arxiv.org/pdf/1612.04433.pdf){: .btn--danger}{:target="_blank"} [blog](https://www.benthamsgaze.org/2017/03/28/mamadroid-detecting-android-malware-by-building-markov-chains-of-behavioral-models/){: .btn--danger}{:target="_blank"} [code](https://bitbucket.org/gianluca_students/mamadroid_code){: .btn--danger}{:target="_blank"}  
 [media coverage](){: .btn--pippo} [The Morning Paper](https://blog.acolyer.org/2017/03/09/mamadroid-detecting-android-malware-by-building-markov-chains-of-behavorial-models/)  
 
-## 2016
+### 2016
 
 Hamed Haddadi, Rishab Nithyanand, Sheharbano Khattak, Mobin Javed, Narseo Vallina-Rodriguez, Marjan Falahrastegar, Julia E. Powles, Emiliano De Cristofaro, Steven J. Murdoch  
 **The Adblocking Tug-of-War**  
@@ -264,7 +266,7 @@ Luca Melis, Hassan Jameel Asghar, Emiliano De Cristofaro, Dali Kaafar
 [full version](https://eprint.iacr.org/2015/949.pdf){: .btn--danger}{:target="_blank"}
 
 
-## 2015
+### 2015
 
 Julien Freudiger, Emiliano De Cristofaro, Alex Brito  
 **Controlled Data Sharing for Collaborative Predictive Blacklisting**  
@@ -296,7 +298,7 @@ Kat Krol, Eleni Philippou, Emiliano De Cristofaro, M. Angela Sasse
 9th NDSS Workshop on Usable Security (USEC 2015)  
 [pdf](http://arxiv.org/pdf/1501.04434v1.pdf){: .btn--danger}{:target="_blank"}
 
-## 2014
+### 2014
 
 Abdelberi Chaabane, Terence Chen, Mathieu Cunche, Emiliano De Cristofaro, Arik Friedman, Dali Kaafar  
 **Censorship in the Wild: Analyzing Web Filtering in Syria**  
@@ -355,7 +357,7 @@ Carlo Blundo, Emiliano De Cristofaro, Paolo Gasti
 Journal of Computer Security, Vol. 22, No. 3, 2014  
 [pdf](http://arxiv.org/pdf/1111.5062.pdf){: .btn--danger}{:target="_blank"}
 
-## 2013
+### 2013
 
 Marcin Nagy, Emiliano De Cristofaro, Alexandra Dmitrienko, N. Asokan, Amhad-Reza Sadeghi  
 **Do I Know You? - Efficient and Privacy-Preserving Common Friend-Finder Protocols and Applications**  
@@ -406,7 +408,7 @@ International Journal of Information Security (IJIS), Vol. 12, No. 1, 2013
 ACNS 2011 Selected Papers Special Issue  
 [pdf](https://emilianodc.com/PAPERS/DMP-IJIS13.pdf){: .btn--danger}{:target="_blank"}
 
-## 2012
+### 2012
 
 Emiliano De Cristofaro, Claudio Soriente, Gene Tsudik, Andrew Williams  
 **Tweeting with Hummingbird: Privacy in Large-Scale Micro-Blogging OSNs**  
@@ -462,7 +464,7 @@ International Journal of Network Security (IJSN), Vol. 14, No. 6, 2012
 [pdf](https://emilianodc.com/PAPERS/IJSN12.pdf){: .btn--danger}{:target="_blank"}
 
 
-## 2011
+### 2011
 
 Emiliano De Cristofaro  
 **Sharing Sensitive Information with Privacy**  
@@ -511,7 +513,7 @@ Giuseppe Ateniese, Emiliano De Cristofaro, Gene Tsudik
 14th IACR Conference on Practice and Theory of Public Key Cryptography (PKC 2011)  
 [full version](http://eprint.iacr.org/2010/220){: .btn--danger}{:target="_blank"}
 
-## 2010
+### 2010
 
 Emiliano De Cristofaro, Jihye Kim, Gene Tsudik  
 **Linear-Complexity Private Set Intersection Protocols Secure in Malicious Model**  
@@ -541,7 +543,7 @@ Vincenzo Auletta, Carlo Blundo, Angelo De Caro, Emiliano De Cristofaro, Giuseppe
 **Increasing Privacy Threats in the Cyberspace: the Case of Italian E-Passports**  
 1st International Workshop on Lightweight Cryptography for Resource-Constrained Devices (WLC 2010)
 
-## 2009
+### 2009
 
 Emiliano De Cristofaro, Stanislaw Jarecki, Jihye Kim, Gene Tsudik  
 **Privacy-preserving Policy-based Information Transfer**  
@@ -560,7 +562,7 @@ Emiliano De Cristofaro, Xuhua Ding, Gene Tsudik
 18th IEEE Conference on Computer Communications and Networks (ICCCN 2009)  
 [full version](http://arxiv.org/pdf/0905.2158.pdf){: .btn--danger}{:target="_blank"}
 
-## 2008
+### 2008
 
 Carlo Blundo, Emiliano De Cristofaro, Clemente Galdi, Giuseppe Persiano  
 **A Distributed Implementation of the Certified Information Access Service**  
@@ -572,7 +574,7 @@ Carlo Blundo, Emiliano De Cristofaro, Aniello Del Sorbo, Clemente Galdi, Giusepp
 **Validating Orchestration of Web Services with BPEL and Aggregate Signatures**  
 6th IEEE Conference on Web Services (ECOWS 2008)
 
-## 2007
+### 2007
 
 Emiliano De Cristofaro  
 **A Secure and Privacy-Protecting Aggregation Scheme for Sensor Networks**  
