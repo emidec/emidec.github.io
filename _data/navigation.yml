@@ -1,0 +1,23 @@
+# main links links
+main:
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Research Group"
+    url: /students/    
+
+  - title: "Talks"
+    url: /talks/
+
+  - title: "Service"
+    url: /service/
+    
+  - title: "CV"
+    url: https://emilianodc.com/CV.pdf
+
+  - title: "Misc"
+    url: /misc/
