@@ -3,10 +3,10 @@ permalink: /
 author_profile: true
 ---
 
-I am a (Full) Professor of Security and Privacy Enhancing Technologies at University College London ([UCL](http://www.ucl.ac.uk/)). I am affiliated with the [Computer Science Department](http://www.cs.ucl.ac.uk/) and currently serve as Head of the [Information Security Research Group](http://sec.cs.ucl.ac.uk/) and Director of the Academic Center of Excellence in Cyber Security Research ([ACE-CSR](http://sec.cs.ucl.ac.uk/ace_csr/)). 
+I am (Full) Professor of Security and Privacy Enhancing Technologies at University College London ([UCL](http://www.ucl.ac.uk/)). I am affiliated with the [Computer Science Department](http://www.cs.ucl.ac.uk/) and currently serve as Head of the [Information Security Research Group](http://sec.cs.ucl.ac.uk/) and Director of the Academic Center of Excellence in Cyber Security Research ([ACE-CSR](http://sec.cs.ucl.ac.uk/ace_csr/)). 
 Before joining UCL in 2013, I was a Research Scientist at [Xerox PARC](http://www.parc.com/).
 
-I am also a Faculty Fellow at the [Alan Turing Institute](https://emilianodc.com/index.html), the national institute for data science and AI, and on the Technology Advisory Panel at the UK Information Commissioner's Office ([ICO](https://ico.org.uk/)). And, I am a member and co-founder of the International Data-driven Research for Advanced Modeling and Analysis Lab ([iDrama Lab](https://idrama.science/)).
+I am also a Faculty Fellow at the [Alan Turing Institute](https://emilianodc.com/index.html), the national institute for data science and AI, and on the Technology Advisory Panel at the UK Information Commissioner's Office ([ICO](https://ico.org.uk/)). And, I am a co-founder of the International Data-driven Research for Advanced Modeling and Analysis Lab ([iDrama Lab](https://idrama.science/)).
 
 ### Research
 
@@ -15,11 +15,11 @@ Overall, I do research in the broad information security area. Recently, I have 
 My research has been published at top-tier conferences such as IEEE S&P, NDSS, ACM CCS, WWW, ICWSM, ACM IMC. My co-authors and I have received best/distinguished paper awards from NDSS 2018, ACM IMC 2018, and CyberSafety 2019, as well as the Data Protection by Design Award from the Catalan Data Protection authority, and were runners-up for best paper at ACM IMC 2014 and ICSWM 2017.
 
 ### Education
-- **PhD in Networked Systems, 2011**  
+- *PhD in Networked Systems,* 2011   
   University of California, Irvine  
   Advisor: Gene Tsudik  
   Dissertation: [Sharing Sensitive Information with Privacy](https://emilianodc.com/PAPERS/dissertation.pdf) 
-- **BSc in Computer Science, 2005**  
+- *BSc in Computer Science,* 2005  
   University of Salerno, Italy  
   Summa cum Laude, top 1% in graduating class
  
