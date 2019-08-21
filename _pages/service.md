@@ -74,12 +74,6 @@ author_profile: true
 
 -   Journal of Cybersecurity ([JCS](http://cybersecurity.oxfordjournals.org/)), Cryptography and Associated Topics Area Editor, 2015-2018
 
-## Reviewer
-
--   **Conferences**: NDSS 2015, S&P 2014, CCS 2013, Eurocrypt 2012, NDSS 2012, Codaspy 2012, CCS 2011, ESORICS 2011, Secrypt 2011, ACNS 2011, WiSec 2011, PKC 2011, PerCom 2010, ICDCS 2010, FCS 2010, WiSec 2010, CANS 2009, ICNP 2009, COMPSAC 2009, Asiaccs 2009, SEC 2009, S&P 2008, OPODIS 2008, MCN 2008
--   **Journals**: Journal of Cybersecurity (**Area Editor**), Reviewer for Journal of Computer Security, ACM Transactions on Information and System Security, IEEE Transactions on Knowledge and Data Engineering, IEEE Transaction on Mobile Computing, IEEE Security and Privacy Magazine, IEEE Transactions on Parallel and Distributed Systems, Journal of Computer Communications, Journal of Systems and Software, Ad Hoc Networks, Computing and Informatics, VLDB Journal, Data Mining and Knowledge Discovery
--   **Panels (Funding)**: NESRC (Canada), NSF SaTC (USA), PRIN (Italy), FWO (Belgium)
-
 
 ## PhD Committee and Mentorship
 
