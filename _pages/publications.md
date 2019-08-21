@@ -22,6 +22,10 @@ Enrico Mariconti, Guillermo Suarez-Tangil, Jeremy Blackburn, Emiliano De Cristof
 **"You Know What to Do": Proactive Detection of YouTube Videos Targeted by Coordinated Hate Attacks**  
 22nd ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2019)  
 
+Bristena Oprisanu, Christophe Dessimoz, and Emiliano De Cristofaro  
+**How Much Does GenoGuard Really Guard? An Empirical Analysis of Long-Term Security for Genomic Data**  
+17th ACM CCS Workshop on Privacy in the Electronic Society (WPES 2019)  
+
 Aravindh Raman, Sagar Joglekar, Emiliano De Cristofaro, Nishanth Sastry, Gareth Tyson  
 **Challenges in the Decentralized Web: The Mastodon Case**  
 19th ACM Internet Measurement Conference (IMC 2019)
