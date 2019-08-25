@@ -20,7 +20,7 @@ author_profile: true
     Privacy-aware Computational Genomics ([PRIVAGEN 2015](https://aistcrypt.github.io/Privacy-Aware-Computational-Genomics/))  
     Tokyo, Japan, September 2015
 -   The Genomics Revolution: Innovation Dream or Privacy Nightmare?  
-    [HotSpot](http://www.lucavigano.com/HotSpot2015/) and [TPDP](http://tpdp.computing.dundee.ac.uk/) 2015 Joint Keynote  
+    [HotSpot](http://www.lucavigano.com/HotSpot2015/) and [TPDP](http://tpdp.computing.dundee.ac.uk/) ETAPS 2015 Joint Keynote  
     London, UK, April 2015
 -   Whole Genome Sequencing: Innovation Dream or Privacy Nightmare?  
     2nd Translational Medicine Meeting, Biomedical Neuroscience Institute  
