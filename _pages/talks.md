@@ -10,6 +10,9 @@ author_profile: true
 -   Membership and Property Inference Attacks against Machine Learning Models  
     IEEE CVPR Workshop on Bright and Dark Sides of Computer Vision: Challenges and Opportunities for Privacy and Security ([CV-COPS 2019](https://cvcops19.cispa.saarland/))  
     Long Beach, CA, June 2019
+-	Genomic Privacy: Are we heading in the right direction?
+	IEEE S&P International Workshop on Privacy Engineering ([IWPE'18](http://iwpe.info/IWPE18))  
+	London, UK, April 2018  
 -   From Private Statistics to Privacy in Mobility Analytics  
     Royal Statistical Society meeting on Privacy and Security in Statistics  
     London, UK, May 2017
