@@ -130,7 +130,7 @@ Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Michael Sirivianos, 
 Bristena Oprisanu and Emilliano De Cristofaro  
 **AnoniMME: Bringing Anonymity to the Matchmaker Exchange Platform for Rare Disease Gene Discovery**  
 26th ISCB Conference on Intelligent Systems for Molecular Biology (ISMB 2018)  
-[full version](https://www.biorxiv.org/content/early/2018/02/13/262295.1){: .btn--danger}{:target="_blank"}
+[full version](https://www.biorxiv.org/content/10.1101/262295v4){: .btn--danger}{:target="_blank"}
 
 
 Savvas Zannettou, Barry Bradlyn, Emiliano De Cristofaro, Haewoon Kwak, Michael Sirivianos, Gianluca Stringhini, Jeremy Blackburn  
