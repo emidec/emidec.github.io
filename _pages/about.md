@@ -33,7 +33,7 @@ During my PhD, I also spent a few months on research internships at NEC in Heide
 -   Paper accepted at [ACM CSCW](http://cscw.acm.org/): "You Know What to Do: Proactive Detection of YouTube Videos Targeted by Coordinated Hate Attacks" -- congrats Enrico et al.!
 -   Paper accepted at [ACM IMC](https://conferences.sigcomm.org/imc/2019/): "Challenges in the Decentralized Web: The Mastodon Case" -- congrats Aravindh et al.!
 -   Paper accepted at [ICWSM](https://icwsm.org/): "And We Will Fight For Our Race!" A Measurement Study of Genetic Testing Conversations on Reddit and 4chan has been accepted -- congrats Alexandros!
--   Joined the PC of [ACM SIGMETRICS](http://www.sigmetrics.org/sigmetrics2020/)
+-   Joined the PCs of [ACM SIGMETRICS](http://www.sigmetrics.org/sigmetrics2020/) and [WWW](https://www2020.thewebconf.org/)  
 -   Incredibly honored to be promoted to (Full) Professor with a Chair in Security and Privacy Enhancing Technologies at UCL
 -   Small US "tour" in June to give a keynote at the CVPR [CV-COPS](https://cvcops19.cispa.saarland/) in Long Beach and participate in a [workshop](https://sites.google.com/view/federated-learning-2019/home) on federated learning and analytics at Google Seattle
 -   Joined the Information Commisioner's Office ([ICO](https://ico.org.uk/)) as member of the Technology Advisory [Panel](https://iapp.org/news/a/icos-mcdougall-were-losing-the-battle-for-trust-but-theres-a-solution/)
