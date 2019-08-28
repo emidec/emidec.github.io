@@ -12,8 +12,8 @@ author_profile: true
 
 
 ## Alumni
--   [Apostolos Pyrgelis](https://mex2meou.github.io/webpage/) (PhD student, May 2015--November 2018); now Post-Doctoral Researcher at EPFL
--   [Lucky Onwuzurike](http://www0.cs.ucl.ac.uk/people/L.Onwuzurike.html) (PhD student, September 2014--October 2018); now Senior Security Consultant at Ernst & Young London
+-   [Apostolos Pyrgelis](https://mex2meou.github.io/) (PhD student, May 2015--November 2018); now Post-Doctoral Researcher at EPFL
+-   [Lucky Onwuzurike](https://luckenzo.github.io/) (PhD student, September 2014--October 2018); now Senior Security Consultant at Ernst & Young London
 -   [Luca Melis](https://lucamelis.github.io/) (PhD student, September 2014--August 2018); now Research Scientist at Amazon New York
 
 
