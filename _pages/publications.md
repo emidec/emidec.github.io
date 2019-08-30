@@ -21,12 +21,13 @@ Alexandros Mittos, Savvas Zannettou, Jeremy Blackburn, and Emiliano De Cristofar
 Enrico Mariconti, Guillermo Suarez-Tangil, Jeremy Blackburn, Emiliano De Cristofaro, Nicolas Kourtellis, Ilias Leontiadis, Jordi Luque Serrano, and Gianluca Stringhini  
 **"You Know What to Do": Proactive Detection of YouTube Videos Targeted by Coordinated Hate Attacks**  
 22nd ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2019)  
-[full version](https://arxiv.org/pdf/1805.08168.pdf){: .btn--danger}{:target="_blank"}
+[pdf](https://arxiv.org/pdf/1805.08168.pdf){: .btn--danger}{:target="_blank"}
 
 
 Bristena Oprisanu, Christophe Dessimoz, and Emiliano De Cristofaro  
 **How Much Does GenoGuard Really Guard? An Empirical Analysis of Long-Term Security for Genomic Data**  
 18th ACM CCS Workshop on Privacy in the Electronic Society (WPES 2019)  
+[pdf](https://arxiv.org/pdf/1908.11315.pdf){: .btn--danger}{:target="_blank"}
 
 Aravindh Raman, Sagar Joglekar, Emiliano De Cristofaro, Nishanth Sastry, Gareth Tyson  
 **Challenges in the Decentralized Web: The Mastodon Case**  
