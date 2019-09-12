@@ -32,10 +32,12 @@ Bristena Oprisanu, Christophe Dessimoz, and Emiliano De Cristofaro
 Aravindh Raman, Sagar Joglekar, Emiliano De Cristofaro, Nishanth Sastry, Gareth Tyson  
 **Challenges in the Decentralized Web: The Mastodon Case**  
 19th ACM Internet Measurement Conference (IMC 2019)
+[pdf](https://arxiv.org/){: .btn--danger}{:target="_blank"}
 
 Hassan Jameel Asghar, Emiliano De Cristofaro, Guillaume Jourjon, Dali Kaafar, Laurent Mathy, Luca Melis, Craig Russell, and Mang Yu  
 **Fast Privacy-Preserving Network Function Outsourcing**  
 Computer Networks, Vol. 163, 2019
+[pdf](https://emilianodc.com/PAPERS/splitbox19.pdf){: .btn--danger}{:target="_blank"}
 
 
 Despoina Chatzakou, Ilias Leontiadis, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Athena Vakali, and Nicolas Kourtellis  
