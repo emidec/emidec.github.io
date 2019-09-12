@@ -33,6 +33,11 @@ Aravindh Raman, Sagar Joglekar, Emiliano De Cristofaro, Nishanth Sastry, Gareth 
 **Challenges in the Decentralized Web: The Mastodon Case**  
 19th ACM Internet Measurement Conference (IMC 2019)
 
+Hassan Asghar, Emiliano De Cristofaro, Guillaume Jourjon, Dali Kaafar, Laurent Mathy, Luca Melis, Craig Russell, and Mang Yu  
+**Fast Privacy-Preserving Network Function Outsourcing**  
+Computer Networks, Vol. 163, 2019
+
+
 Despoina Chatzakou, Ilias Leontiadis, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Athena Vakali, and Nicolas Kourtellis  
 **Detecting Cyberbullying and Cyberaggression in Social Media**  
 ACM Transactions on the Web (TWEB), to appear  
