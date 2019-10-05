@@ -25,7 +25,8 @@ Enrico Mariconti, Guillermo Suarez-Tangil, Jeremy Blackburn, Emiliano De Cristof
 
 Aravindh Raman, Sagar Joglekar, Emiliano De Cristofaro, Nishanth Sastry, Gareth Tyson  
 **Challenges in the Decentralized Web: The Mastodon Case**  
-19th ACM Internet Measurement Conference (IMC 2019)
+19th ACM Internet Measurement Conference (IMC 2019)  
+[pdf](https://arxiv.org/pdf/1909.05801.pdf){: .btn--danger}{:target="_blank"}
 
 Despoina Chatzakou, Ilias Leontiadis, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Athena Vakali, and Nicolas Kourtellis  
 **Detecting Cyberbullying and Cyberaggression in Social Media**  
