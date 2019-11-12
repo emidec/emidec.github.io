@@ -7,7 +7,7 @@ author_profile: true
 
 ## PrivacyML
 
-<span style="font-size:1.18em;">This is the list of my publications roughly related to **privacy** in **machine learning**.</span>
+This is the list of my publications roughly related to **privacy** in **machine learning**
 
 ### 2019
 
