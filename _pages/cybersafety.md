@@ -13,7 +13,7 @@ This is the list of my publications roughly related to understanding and counter
 ### 2020
 
 Savvas Zannettou, Barry Bradlyn, Tristan Caulfield, Emiliano De Cristofaro, Gianluca Stringhini, and Jeremy Blackburn  
-**Characterizing the Use of Images in State-Sponsored Information Warfare Operations by Russian Trolls on Twitter**
+**Characterizing the Use of Images in State-Sponsored Information Warfare Operations by Russian Trolls on Twitter**  
 14th International AAAI Conference on Web and Social Media (ICWSM 2020)  
 
 Alexandros Mittos, Savvas Zannettou, Jeremy Blackburn, and Emiliano De Cristofaro  
