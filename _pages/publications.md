@@ -11,6 +11,10 @@ This is the list of all my peer-reviewed publications ordered by year. You can a
 
 ### 2020
 
+Savvas Zannettou, Barry Bradlyn, Tristan Caulfield, Emiliano De Cristofaro, Gianluca Stringhini, and Jeremy Blackburn  
+**Characterizing the Use of Images in State-Sponsored Information Warfare Operations by Russian Trolls on Twitter**
+14th International AAAI Conference on Web and Social Media (ICWSM 2020)  
+
 Alexandros Mittos, Savvas Zannettou, Jeremy Blackburn, and Emiliano De Cristofaro  
 **"And We Will Fight For Our Race! A Measurement Study of Genetic Testing Conversations on Reddit and 4chan**  
 14th International AAAI Conference on Web and Social Media (ICWSM 2020)  
