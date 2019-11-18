@@ -6,9 +6,8 @@ author_profile: true
 {% include base_path %}
 
 ## Current PhD students
--   [Matthew Wixey](https://www.pwc.co.uk/contacts/m/matt-wixey.html) (Part-time, January 2018--)
--   [Bristena Oprisanu](https://www.bristenaop.com/) (September 2017--)
 -   [Alexandros Mittos](http://mittos.me/) (August 2016--)
+-   [Bristena Oprisanu](https://www.bristenaop.com/) (September 2017--)
 -	[Antonis Papasavva](http://www0.cs.ucl.ac.uk/people/A.Papasavva.html) (September 2019--)
 -	[Mohammad Naseri](https://www.linkedin.com/in/mohammad-naseri-2329ba109) (November 2019--)
 
