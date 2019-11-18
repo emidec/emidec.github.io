@@ -18,8 +18,8 @@ author_profile: true
 
 
 ## Past Post-Doctoral Researchers
--   [Lukasz Olejnik](https://lukaszolejnik.com/) (Post-Doctoral researcher, March 2016--March 2017); now at EDPS
--   [Vincent Primault](http://www.cs.ucl.ac.uk/people/V.Primault.html/) (Post-Doctoral Researcher, October 2017--December 2018); now at Salesforce
+-   [Lukasz Olejnik](https://lukaszolejnik.com/) (March 2016--March 2017); now at EDPS
+-   [Vincent Primault](http://www.cs.ucl.ac.uk/people/V.Primault.html/) (October 2017--December 2018); now at Salesforce
 
 
 ## Co-Supervision
