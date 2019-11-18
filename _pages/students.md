@@ -12,9 +12,9 @@ author_profile: true
 -	[Mohammad Naseri](https://www.linkedin.com/in/mohammad-naseri-2329ba109) (November 2019--)
 
 ## Alumni
--   [Luca Melis](https://lucamelis.github.io/) (PhD student, September 2014--August 2018); now Research Scientist at Amazon New York
--   [Lucky Onwuzurike](https://luckenzo.github.io/) (PhD student, September 2014--October 2018); now Senior Security Consultant at Ernst & Young London
--   [Apostolos Pyrgelis](https://mex2meou.github.io/webpage/) (PhD student, May 2015--November 2018); now Post-Doctoral Researcher at EPFL
+-   [Luca Melis](https://lucamelis.github.io/) (September 2014--August 2018); now Research Scientist at Amazon New York
+-   [Lucky Onwuzurike](https://luckenzo.github.io/) (September 2014--October 2018); now Senior Security Consultant at Ernst & Young London
+-   [Apostolos Pyrgelis](https://mex2meou.github.io/webpage/) (May 2015--November 2018); now Post-Doctoral Researcher at EPFL
 
 
 ## Past Post-Doctoral Researchers
