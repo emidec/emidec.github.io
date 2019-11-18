@@ -13,14 +13,14 @@ author_profile: true
 -	[Mohammad Naseri](https://www.linkedin.com/in/mohammad-naseri-2329ba109) (November 2019--)
 
 ## Alumni
--   [Apostolos Pyrgelis](https://mex2meou.github.io/webpage/) (PhD student, May 2015--November 2018); now Post-Doctoral Researcher at EPFL
--   [Lucky Onwuzurike](https://luckenzo.github.io/) (PhD student, September 2014--October 2018); now Senior Security Consultant at Ernst & Young London
 -   [Luca Melis](https://lucamelis.github.io/) (PhD student, September 2014--August 2018); now Research Scientist at Amazon New York
+-   [Lucky Onwuzurike](https://luckenzo.github.io/) (PhD student, September 2014--October 2018); now Senior Security Consultant at Ernst & Young London
+-   [Apostolos Pyrgelis](https://mex2meou.github.io/webpage/) (PhD student, May 2015--November 2018); now Post-Doctoral Researcher at EPFL
 
 
 ## Past Post-Doctoral Researchers
--   [Vincent Primault](http://www.cs.ucl.ac.uk/people/V.Primault.html/) (Post-Doctoral Researcher, October 2017--December 2018); now at Salesforce
 -   [Lukasz Olejnik](https://lukaszolejnik.com/) (Post-Doctoral researcher, March 2016--March 2017); now at EDPS
+-   [Vincent Primault](http://www.cs.ucl.ac.uk/people/V.Primault.html/) (Post-Doctoral Researcher, October 2017--December 2018); now at Salesforce
 
 
 ## Co-Supervision
