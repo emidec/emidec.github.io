@@ -36,7 +36,7 @@ Aravindh Raman, Sagar Joglekar, Emiliano De Cristofaro, Nishanth Sastry, Gareth 
 
 Despoina Chatzakou, Ilias Leontiadis, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Athena Vakali, and Nicolas Kourtellis  
 **Detecting Cyberbullying and Cyberaggression in Social Media**  
-ACM Transactions on the Web (TWEB), to appear  
+ACM Transactions on the Web (TWEB), Vol. 13, No. 3, 2019  
 [pdf](https://arxiv.org/pdf/1907.08873.pdf){: .btn--danger}{:target="_blank"}
 
 Savvas Zannettou, Tristan Caulfield, Emiliano De Cristofaro, Michael Sirivianos, Gianluca Stringhini, and Jeremy Blackburn  
