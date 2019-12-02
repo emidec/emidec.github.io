@@ -28,7 +28,13 @@ author_profile: true
     
 
 ## Invited Talks
-
+-   Understanding Information Weaponization via Data-driven Analysis  
+    [Hate and harassment: can technology solve online abuse?](https://www.turing.ac.uk/events/hate-and-harassment-can-technology-solve-online-abuse)  
+    Alan Turing Institute, London, UK, November 2019  
+-   Understanding Information Weaponization via Data-driven Analysis  
+    Twitter, London, UK, November 2019
+-   Understanding Information Weaponization via Data-driven Analysis  
+    Global Forum for Humanity ([GFAIH](https://gfaih.org/)), Paris, France, October 2019    
 -   Exploiting Unintended Feature Leakage in Collaborative Learning  
     [Workshop on Federated Learning and Analytics](https://sites.google.com/view/federated-learning-2019)  
     Google Seattle, WA, June 2019
