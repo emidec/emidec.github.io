@@ -146,22 +146,3 @@ author_profile: true
     EPFL, Lausanne, Switzerland, December 2009
 -   Privacy-Preserving Policy-based Information Transfer  
     KU Leuven, Belgium, October 2009
-
-## PhD Committee and Mentorship
-
--   Ingolf Becker, UCL, PhD Committee, 2018
--   Marc Roeschlin, Oxford University, PhD Committee, 2018
--   Manu Drijvers, IBM/ETH, PhD Committee, 2018
--   Jean-Louis Raisaro, EPFL, PhD Committee, 2018
--   Sharad Kumar, University of Cambridge, PhD Committee, 2016
--   Iacovos Kirlappos, UCL, PhD Committee, 2016
--   Iraklis Leontidas, EURECOM, PhD Committee, 2015
--   Filipe Beato, KU Leuven, PhD Committee, 2015
--   Lukasz Olejnik, INRIA, PhD Committee, 2015
--   Gines Dolera Tormo, University of Murcia, PhD Committee, 2014
--   Abdelberi Chaabane, INRIA, PhD Committee, 2014
--   Miguel Malheiros, UCL, PhD Committee, 2013
--   Greg Norcie, Indiana University, Summer Internship at PARC, 2013
--   Igor Bilogrevic, EPFL, Summer Internship at PARC, 2013
--   Greg Norcie, Indiana University, Summer Internship at PARC, 2012
--   Abdelberi Chaabane, INRIA, Summer Internship at PARC, 2012    
