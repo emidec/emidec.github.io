@@ -20,7 +20,8 @@ Savvas Zannettou, Barry Bradlyn, Tristan Caulfield, Emiliano De Cristofaro, Gian
 Alexandros Mittos, Savvas Zannettou, Jeremy Blackburn, and Emiliano De Cristofaro  
 **"And We Will Fight For Our Race! A Measurement Study of Genetic Testing Conversations on Reddit and 4chan**  
 14th International AAAI Conference on Web and Social Media (ICWSM 2020)  
-[full version](https://arxiv.org/pdf/1901.09735.pdf){: .btn--danger}{:target="_blank"}
+[full version](https://arxiv.org/pdf/1901.09735.pdf){: .btn--danger}{:target="_blank"}  
+[media coverage](){: .btn--pippo} [The Times](https://www.thetimes.co.uk/article/genetic-tests-for-ancestry-being-hijacked-by-racists-ltwr72f6c), [StatNews](https://www.statnews.com/2019/08/02/he-studies-jerks-on-the-internet-his-latest-project-researching-how-they-talk-about-genetic-testing/)
 
 
 ### 2019
@@ -37,7 +38,8 @@ Aravindh Raman, Sagar Joglekar, Emiliano De Cristofaro, Nishanth Sastry, Gareth 
 Despoina Chatzakou, Ilias Leontiadis, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Athena Vakali, and Nicolas Kourtellis  
 **Detecting Cyberbullying and Cyberaggression in Social Media**  
 ACM Transactions on the Web (TWEB), Vol. 13, No. 3, 2019  
-[pdf](https://arxiv.org/pdf/1907.08873.pdf){: .btn--danger}{:target="_blank"}
+[pdf](https://arxiv.org/pdf/1907.08873.pdf){: .btn--danger}{:target="_blank"}  
+[media coverage](){: .btn--pippo} [The Register](https://www.theregister.co.uk/AMP/2019/09/17/twitter_bullying_classifier/?__twitter_impression=true), [BBC](https://www.bbc.com/news/technology-49740135), [NewsBusters](https://www.newsbusters.org/blogs/techwatch/corinne-weaver/2019/09/18/twitter-study-targets-maga-cyberbullying-pro-choice-normal), [SkyNews](https://news.sky.com/story/new-algorithm-spots-twitter-bullies-with-90-accuracy-11812012)
 
 Savvas Zannettou, Tristan Caulfield, Emiliano De Cristofaro, Michael Sirivianos, Gianluca Stringhini, and Jeremy Blackburn  
 **Disinformation Warfare: Understanding State-Sponsored Trolls on Twitter & Their Influence on the Web**  
