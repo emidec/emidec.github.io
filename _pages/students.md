@@ -23,4 +23,4 @@ author_profile: true
 
 
 ## Co-Supervision
-I have also been lucky to co-supervise/collaborate with a number of other students at UCL and elsewhere, including [Savvas Zannettou](https://netsysci.cut.ac.cy/savvas.zannettou/) (de-facto co-advisor), [Enrico Mariconti](http://www0.cs.ucl.ac.uk/staff/E.Mariconti/), [Despoina Chatzakou](http://oswinds.csd.auth.gr/people/despoina-chatzakou), [Jamie Hayes](http://www.homepages.ucl.ac.uk/~ucabaye/), and [Andrea Cerulli](https://andreacerulli.github.io/).
+I have also been lucky to co-supervise/collaborate with a number of other students at UCL and elsewhere, including [Savvas Zannettou](http://zsavvas.github.io) (honored and humbled to have been de-facto co-advisor of best student in Cyprus), [Enrico Mariconti](http://www0.cs.ucl.ac.uk/staff/E.Mariconti/), [Despoina Chatzakou](http://oswinds.csd.auth.gr/people/despoina-chatzakou), [Jamie Hayes](http://www.homepages.ucl.ac.uk/~ucabaye/), and [Andrea Cerulli](https://andreacerulli.github.io/).
