@@ -9,7 +9,7 @@ author_profile: true
 -   [Alexandros Mittos](http://mittos.me/) (August 2016--)
 -   [Bristena Oprisanu](https://www.bristenaop.com/) (September 2017--)
 -	[Antonis Papasavva](http://www0.cs.ucl.ac.uk/people/A.Papasavva.html) (September 2019--)
--	[Mohammad Naseri](https://www.linkedin.com/in/mohammad-naseri-2329ba109) (November 2019--)
+-	[Mohammad Naseri](https://mohammadnaseri.github.io/) (November 2019--)
 
 ## Alumni
 -   [Luca Melis](https://lucamelis.github.io/) (September 2014--August 2018); now Research Scientist at Amazon New York
