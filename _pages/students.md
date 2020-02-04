@@ -8,7 +8,7 @@ author_profile: true
 ## Current PhD students
 -   [Alexandros Mittos](http://mittos.me/) (August 2016--)
 -   [Bristena Oprisanu](https://www.bristenaop.com/) (September 2017--)
--	[Antonis Papasavva](http://www0.cs.ucl.ac.uk/people/A.Papasavva.html) (September 2019--)
+-	[Antonis Papasavva](https://antonispapasavva.github.io/) (September 2019--)
 -	[Mohammad Naseri](https://mohammadnaseri.github.io/) (November 2019--)
 
 ## Alumni
