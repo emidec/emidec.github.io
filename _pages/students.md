@@ -6,7 +6,7 @@ author_profile: true
 {% include base_path %}
 
 ## Current PhD students
--   [Alexandros Mittos](http://mittos.me/) (August 2016--)
+-   [Alexandros Mittos](https://mittos.xyz) (August 2016--)
 -   [Bristena Oprisanu](https://www.bristenaop.com/) (September 2017--)
 -	[Antonis Papasavva](https://antonispapasavva.github.io/) (September 2019--)
 -	[Mohammad Naseri](https://mohammadnaseri.github.io/) (November 2019--)
