@@ -158,7 +158,8 @@ Savvas Zannettou, Barry Bradlyn, Emiliano De Cristofaro, Haewoon Kwak, Michael S
 
 Apostolos Pyrgelis, Carmela Troncoso, Emiliano De Cristofaro  
 **Knock Knock, Who's There? Membership Inference on Aggregate Location Data**  
-25th Network and Distributed System Security Symposium (NDSS 2018) [distinguished paper award](https://www.ndss-symposium.org/ndss2018/){: .btn--success}{:target="_blank"} [CNIL privacy protection award, runner-up](https://www.cnil.fr/en/inria-and-cnil-award-2019-privacy-protection-prize-european-research-team){: .btn--success}{:target="_blank"}   
+25th Network and Distributed System Security Symposium (NDSS 2018)  
+[distinguished paper award](https://www.ndss-symposium.org/ndss2018/){: .btn--success}{:target="_blank"} [CNIL award runner-up](https://www.cnil.fr/en/inria-and-cnil-award-2019-privacy-protection-prize-european-research-team){: .btn--success}{:target="_blank"}   
 [full version](https://arxiv.org/pdf/1708.06145.pdf){: .btn--danger}{:target="_blank"} [blog](https://www.benthamsgaze.org/2018/10/02/on-location-time-and-membership-studying-how-aggregate-location-data-can-harm-users-privacy/){: .btn--danger}{:target="_blank"}  
 
 ### 2017
