@@ -39,7 +39,7 @@ During my PhD, I also spent a few months on research internships at NEC in Heide
 -   Joined the Information Commisioner's Office ([ICO](https://ico.org.uk/)) as member of the Technology Advisory [Panel](https://iapp.org/news/a/icos-mcdougall-were-losing-the-battle-for-trust-but-theres-a-solution/)
 -   Our paper "Disinformation Warfare: Understanding State-Sponsored Trolls on Twitter and Their Influence on the Web" won best paper award at WWW CyberSafety!
 -   On the PC of CCS, S&P, Usenix, and NDSS -- how did that happen? :-)
-PhD position funded through [Microsoft Research PhD Scholarship Program](https://www.microsoft.com/en-us/research/academic-program/phd-scholarship-europe-middle-east-africa/) to work on security and privacy in machine learning
+-   PhD position funded through [Microsoft Research PhD Scholarship Program](https://www.microsoft.com/en-us/research/academic-program/phd-scholarship-europe-middle-east-africa/) to work on security and privacy in machine learning
 -   $100,000 grant awarded from Amazon ([Amazon Research Award](https://ara.amazon-ml.com/recipients/#2018)) for studying and mitigating attacks on collaborative learning
 -   Paper accepted at [WWW](https://www2019.thewebconf.org/): "Privacy-Preserving Crowd-Sourcing of Web Searches with Private Data Donor" -- congrats Vincent et al.!
 -   Our paper "On the Origins of Memes by Means of Fringe Web Communities" ([PDF](https://arxiv.org/pdf/1805.12512.pdf)) won best paper award at [IMC](https://conferences.sigcomm.org/imc/2018/) -- congrats Savvas et al.!
