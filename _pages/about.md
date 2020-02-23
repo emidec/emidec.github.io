@@ -28,14 +28,13 @@ During my PhD, I also spent a few months on research internships at NEC in Heide
 <!--For a list of recent papers on machine learning and privacy, please see (https://emilianodc.com/privacyML) https://emilianodc.com/idrama-->
 
 ### News
-
+-	Joined the PC of S&P 2021
 -	Two papers accepted at [ICWSM 2020](https://icwsm.org/): 1) "And We Will Fight For Our Race!" A Measurement Study of Genetic Testing Conversations on Reddit and 4chan and 2) Characterizing the Use of Images in State-Sponsored Information Warfare Operations by Russian Trolls on Twitter -- congrats Alexandros and Savvas!  
 -	Paper accepted at [ACM WPES](https://crises-deim.urv.cat/wpes2019/index.html): "How Much Does GenoGuard Really Guard? An Empirical Analysis of Long-Term Security for Genomic Data" -- congrats Bristena!
 -   Paper accepted at [ACM CSCW](http://cscw.acm.org/): "You Know What to Do: Proactive Detection of YouTube Videos Targeted by Coordinated Hate Attacks" -- congrats Enrico et al.!
 -   Paper accepted at [ACM IMC](https://conferences.sigcomm.org/imc/2019/): "Challenges in the Decentralized Web: The Mastodon Case" -- congrats Aravindh et al.!
--   Paper accepted at [ICWSM](https://icwsm.org/): "And We Will Fight For Our Race!" A Measurement Study of Genetic Testing Conversations on Reddit and 4chan has been accepted -- congrats Alexandros!
 -   Joined the PCs of [ACM SIGMETRICS](http://www.sigmetrics.org/sigmetrics2020/) and [WWW](https://www2020.thewebconf.org/)  
--   Incredibly honored to be promoted to (Full) Professor with a Chair in Security and Privacy Enhancing Technologies at UCL
+-   Promoted to Full Professor with a Chair in Security and Privacy Enhancing Technologies at UCL -- congrats to everyone who made that possible!
 <!-- -   Small US "tour" in June to give a keynote at the CVPR [CV-COPS](https://cvcops19.cispa.saarland/) in Long Beach and participate in a [workshop](https://sites.google.com/view/federated-learning-2019/home) on federated learning and analytics at Google Seattle
 -   Joined the Information Commisioner's Office ([ICO](https://ico.org.uk/)) as member of the Technology Advisory [Panel](https://iapp.org/news/a/icos-mcdougall-were-losing-the-battle-for-trust-but-theres-a-solution/)
 -   Our paper "Disinformation Warfare: Understanding State-Sponsored Trolls on Twitter and Their Influence on the Web" won best paper award at WWW CyberSafety!
