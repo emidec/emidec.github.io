@@ -35,17 +35,7 @@ During my PhD, I also spent a few months on research internships at NEC in Heide
 -   Paper accepted at [ACM IMC](https://conferences.sigcomm.org/imc/2019/): "Challenges in the Decentralized Web: The Mastodon Case" -- congrats Aravindh et al.!
 -   Joined the PCs of [ACM SIGMETRICS](http://www.sigmetrics.org/sigmetrics2020/) and [WWW](https://www2020.thewebconf.org/)  
 -   Promoted to Full Professor with a Chair in Security and Privacy Enhancing Technologies at UCL -- congrats to everyone who made that possible!
-<!-- -   Small US "tour" in June to give a keynote at the CVPR [CV-COPS](https://cvcops19.cispa.saarland/) in Long Beach and participate in a [workshop](https://sites.google.com/view/federated-learning-2019/home) on federated learning and analytics at Google Seattle
--   Joined the Information Commisioner's Office ([ICO](https://ico.org.uk/)) as member of the Technology Advisory [Panel](https://iapp.org/news/a/icos-mcdougall-were-losing-the-battle-for-trust-but-theres-a-solution/)
--   Our paper "Disinformation Warfare: Understanding State-Sponsored Trolls on Twitter and Their Influence on the Web" won best paper award at WWW CyberSafety!
--   On the PC of CCS, S&P, Usenix, and NDSS -- how did that happen? :-)
--   PhD position funded through [Microsoft Research PhD Scholarship Program](https://www.microsoft.com/en-us/research/academic-program/phd-scholarship-europe-middle-east-africa/) to work on security and privacy in machine learning
--   $100,000 grant awarded from Amazon ([Amazon Research Award](https://ara.amazon-ml.com/recipients/#2018)) for studying and mitigating attacks on collaborative learning
--   Paper accepted at [WWW](https://www2019.thewebconf.org/): "Privacy-Preserving Crowd-Sourcing of Web Searches with Private Data Donor" -- congrats Vincent et al.!
--   Our paper "On the Origins of Memes by Means of Fringe Web Communities" ([PDF](https://arxiv.org/pdf/1805.12512.pdf)) won best paper award at [IMC](https://conferences.sigcomm.org/imc/2018/) -- congrats Savvas et al.!
--   Paper accepted at IEEE S&P (["Oakland"](https://www.ieee-security.org/TC/SP2019/)): "Exploiting Unintended Feature Leakage in Collaborative Learning" ([PDF](https://arxiv.org/pdf/1805.04049.pdf)) -- congrats Luca et al.!
--   Two papers accepted at [PETS 2019](https://petsymposium.org/): "LOGAN: Membership Inference Attacks Against Generative Models" ([PDF](https://arxiv.org/pdf/1705.07663.pdf)) and "Systematizing Genome Privacy Research: A Privacy-Enhancing Technologies Perspective" ([PDF](https://arxiv.org/pdf/1712.02193.pdf)) -- congrats Alexandros, Luca, and Jamie!
--->
+
 
 ## Personal
 
