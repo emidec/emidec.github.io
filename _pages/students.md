@@ -15,7 +15,6 @@ author_profile: true
 -   [Luca Melis](https://lucamelis.github.io/) (September 2014--August 2018); now Research Scientist at Amazon New York
 -   [Lucky Onwuzurike](https://luckenzo.github.io/) (September 2014--October 2018); now Senior Security Consultant at Ernst & Young London
 -   [Apostolos Pyrgelis](https://mex2meou.github.io/webpage/) (May 2015--November 2018); now Post-Doctoral Researcher at EPFL
--   [Savvas Zannettou](https://zsavvas.github.io) (Cyprus University of Technology, de-facto co-advisor, January 2016--October 2019); now Post-Doctoral Researcher at Max Planck Institute for Informatics
 
 
 ## Past Post-Doctoral Researchers
