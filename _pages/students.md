@@ -15,7 +15,6 @@ author_profile: true
 -   [Luca Melis](https://lucamelis.github.io/) (September 2014--August 2018); now Research Scientist at Amazon New York
 -   [Lucky Onwuzurike](https://luckenzo.github.io/) (September 2014--October 2018); now Senior Security Consultant at Ernst & Young London
 -   [Apostolos Pyrgelis](https://mex2meou.github.io/webpage/) (May 2015--November 2018); now Post-Doctoral Researcher at EPFL
--   [Savvas Zannettou](https://zsavvas.github.io) (Cyprus University of Technology, de-facto co-advisor, January 2016--October 2019); now Post-Doctoral Researcher at Max Planck Institute for Informatics
 
 
 ## Past Post-Doctoral Researchers
@@ -24,4 +23,4 @@ author_profile: true
 
 
 ## Co-Supervision
-I have also been lucky to co-supervise/collaborate with a number of other students at UCL and elsewhere, including [Savvas Zannettou](http://zsavvas.github.io) (honored and humbled to have been de-facto co-advisor of best student in Cyprus), [Enrico Mariconti](http://www0.cs.ucl.ac.uk/staff/E.Mariconti/), [Despoina Chatzakou](http://oswinds.csd.auth.gr/people/despoina-chatzakou), [Jamie Hayes](http://www.homepages.ucl.ac.uk/~ucabaye/), and [Andrea Cerulli](https://andreacerulli.github.io/).
+I have also been lucky to co-supervise/collaborate with a number of other students at UCL and elsewhere, including [Enrico Mariconti](http://www0.cs.ucl.ac.uk/staff/E.Mariconti/), [Despoina Chatzakou](http://oswinds.csd.auth.gr/people/despoina-chatzakou), [Jamie Hayes](http://www.homepages.ucl.ac.uk/~ucabaye/), [Andrea Cerulli](https://andreacerulli.github.io/), and [Savvas Zannettou](http://zsavvas.github.io) (honored and humbled to have been de-facto co-advisor of best student in Cyprus).
