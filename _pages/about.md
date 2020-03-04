@@ -28,7 +28,7 @@ During my PhD, I also spent a few months on research internships at NEC in Heide
 <!--For a list of recent papers on machine learning and privacy, please see (https://emilianodc.com/privacyML) https://emilianodc.com/idrama-->
 
 ### News
--	Paper accepted at [IEEE SafeThings 2020](https://www.ieee-security.org/TC/SPW2020/SafeThings/): On the Feasibility of Acoustic Attacks Using Commodity Smart Devices ([preprint](https://arxiv.org/abs/2001.07157)) &ndash congrats Matt!
+-	Paper accepted at [IEEE SafeThings 2020](https://www.ieee-security.org/TC/SPW2020/SafeThings/): On the Feasibility of Acoustic Attacks Using Commodity Smart Devices ([preprint](https://arxiv.org/abs/2001.07157)) &ndash; congrats Matt!
 -	Joined the PC of [S&P 2021](https://www.ieee-security.org/TC/SP2021/)
 -	Two papers accepted at [ICWSM 2020](https://icwsm.org/): 1) "And We Will Fight For Our Race!" A Measurement Study of Genetic Testing Conversations on Reddit and 4chan and 2) Characterizing the Use of Images in State-Sponsored Information Warfare Operations by Russian Trolls on Twitter -- congrats Alexandros and Savvas!  
 -	Paper accepted at [ACM WPES](https://crises-deim.urv.cat/wpes2019/index.html): "How Much Does GenoGuard Really Guard? An Empirical Analysis of Long-Term Security for Genomic Data" -- congrats Bristena!
