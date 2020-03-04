@@ -13,7 +13,7 @@ This is the list of all my peer-reviewed publications ordered by year. You can a
 
 Matt Wixey, Shane Johnson, Emiliano De Cristofaro  
 **On the Feasibility of Acoustic Attacks Using Commodity Smart Devices**  
-IEEE Workshop on the Internet of Safe Things  
+IEEE Workshop on the Internet of Safe Things (co-located with IEEE S&P 2020)  
 [preprint](https://arxiv.org/pdf/2001.07157.pdf){: .btn--danger}{:target="_blank"}
 
 Savvas Zannettou, Barry Bradlyn, Tristan Caulfield, Emiliano De Cristofaro, Gianluca Stringhini, and Jeremy Blackburn  
