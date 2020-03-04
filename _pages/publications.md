@@ -11,6 +11,11 @@ This is the list of all my peer-reviewed publications ordered by year. You can a
 
 ### 2020
 
+Matt Wixey, Shane Johnson, Emiliano De Cristofaro  
+**On the Feasibility of Acoustic Attacks Using Commodity Smart Devices**  
+IEEE Workshop on the Internet of Safe Things  
+[preprint](https://arxiv.org/pdf/2001.07157.pdf){: .btn--danger}{:target="_blank"}
+
 Savvas Zannettou, Barry Bradlyn, Tristan Caulfield, Emiliano De Cristofaro, Gianluca Stringhini, and Jeremy Blackburn  
 **Characterizing the Use of Images in State-Sponsored Information Warfare Operations by Russian Trolls on Twitter**  
 14th International AAAI Conference on Web and Social Media (ICWSM 2020)  
