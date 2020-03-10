@@ -6,20 +6,20 @@ author_profile: true
 {% include base_path %}
 
 ## Current PhD students
--   [Alexandros Mittos](https://mittos.xyz) (August 2016--)
--   [Bristena Oprisanu](https://www.bristenaop.com/) (September 2017--)
--	[Antonis Papasavva](https://antonispapasavva.github.io/) (September 2019--)
--	[Mohammad Naseri](https://mohammadnaseri.github.io/) (November 2019--)
+-   [Alexandros Mittos](https://mittos.xyz) (Aug 2016--)
+-   [Bristena Oprisanu](https://www.bristenaop.com/) (Sep 2017--)
+-	[Antonis Papasavva](https://antonispapasavva.github.io/) (Sep 2019--)
+-	[Mohammad Naseri](https://mohammadnaseri.github.io/) (Nov 2019--)
 
 ## Alumni
--   [Luca Melis](https://lucamelis.github.io/) (September 2014--August 2018); now Research Scientist at Amazon New York
--   [Lucky Onwuzurike](https://luckenzo.github.io/) (September 2014--October 2018); now Senior Security Consultant at Ernst & Young London
--   [Apostolos Pyrgelis](https://mex2meou.github.io/webpage/) (May 2015--November 2018); now Post-Doctoral Researcher at EPFL
+-   [Luca Melis](https://lucamelis.github.io/) (Sep 2014--Aug 2018); now Research Scientist at Amazon New York
+-   [Lucky Onwuzurike](https://luckenzo.github.io/) (Sep 2014--Oct 2018); now Senior Security Consultant at Ernst & Young London
+-   [Apostolos Pyrgelis](https://mex2meou.github.io/webpage/) (May 2015--Nov 2018); now Post-Doctoral Researcher at EPFL
 
 
 ## Past Post-Doctoral Researchers
 -   [Lukasz Olejnik](https://lukaszolejnik.com/) (March 2016--March 2017); now at EDPS
--   [Vincent Primault](http://www.cs.ucl.ac.uk/people/V.Primault.html/) (October 2017--December 2018); now at Salesforce
+-   [Vincent Primault](http://www.cs.ucl.ac.uk/people/V.Primault.html/) (Oct 2017--Dec 2018); now at Salesforce
 
 
 ## Co-Supervision
