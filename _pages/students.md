@@ -6,10 +6,10 @@ author_profile: true
 {% include base_path %}
 
 ## Current PhD students
--   [Alexandros Mittos](https://mittos.xyz) (Aug 2016--)
--   [Bristena Oprisanu](https://www.bristenaop.com/) (Sep 2017--)
--	[Antonis Papasavva](https://antonispapasavva.github.io/) (Sep 2019--)
--	[Mohammad Naseri](https://mohammadnaseri.github.io/) (Nov 2019--)
+-   [Alexandros Mittos](https://mittos.xyz) (since August 2016)
+-   [Bristena Oprisanu](https://www.bristenaop.com/) (since September 2017)
+-	[Antonis Papasavva](https://antonispapasavva.github.io/) (since September 2019)
+-	[Mohammad Naseri](https://mohammadnaseri.github.io/) (since November 2019)
 
 ## Alumni
 -   [Luca Melis](https://lucamelis.github.io/) (Sep 2014--Aug 2018); now Research Scientist at Amazon New York
@@ -18,7 +18,7 @@ author_profile: true
 
 
 ## Past Post-Doctoral Researchers
--   [Lukasz Olejnik](https://lukaszolejnik.com/) (March 2016--March 2017); now at EDPS
+-   [Lukasz Olejnik](https://lukaszolejnik.com/) (Mar 2016--Mar 2017); now at EDPS
 -   [Vincent Primault](http://www.cs.ucl.ac.uk/people/V.Primault.html/) (Oct 2017--Dec 2018); now at Salesforce
 
 
