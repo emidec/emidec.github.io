@@ -29,8 +29,8 @@ During my PhD, I also spent a few months on research internships at NEC in Heide
 
 ### News
 -	Paper accepted at [IEEE SafeThings 2020](https://www.ieee-security.org/TC/SPW2020/SafeThings/): On the Feasibility of Acoustic Attacks Using Commodity Smart Devices ([preprint](https://arxiv.org/abs/2001.07157)) &ndash; congrats Matt!
+-	Three papers accepted at [ICWSM 2020](https://icwsm.org/): 1) "And We Will Fight For Our Race!" A Measurement Study of Genetic Testing Conversations on Reddit and 4chan, 2) Characterizing the Use of Images in State-Sponsored Information Warfare Operations by Russian Trolls on Twitter, 3) Raiders of the Lost Kek: 3.5 Years of Augmented 4chan Posts from the Politically Incorrect Board -- congrats Alexandros, Antonis, and Savvas!  
 -	Joined the PC of [S&P 2021](https://www.ieee-security.org/TC/SP2021/)
--	Two papers accepted at [ICWSM 2020](https://icwsm.org/): 1) "And We Will Fight For Our Race!" A Measurement Study of Genetic Testing Conversations on Reddit and 4chan and 2) Characterizing the Use of Images in State-Sponsored Information Warfare Operations by Russian Trolls on Twitter -- congrats Alexandros and Savvas!  
 -	Paper accepted at [ACM WPES](https://crises-deim.urv.cat/wpes2019/index.html): "How Much Does GenoGuard Really Guard? An Empirical Analysis of Long-Term Security for Genomic Data" -- congrats Bristena!
 -   Paper accepted at [ACM CSCW](http://cscw.acm.org/): "You Know What to Do: Proactive Detection of YouTube Videos Targeted by Coordinated Hate Attacks" -- congrats Enrico et al.!
 -   Paper accepted at [ACM IMC](https://conferences.sigcomm.org/imc/2019/): "Challenges in the Decentralized Web: The Mastodon Case" -- congrats Aravindh et al.!
