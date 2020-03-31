@@ -9,6 +9,12 @@ author_profile: true
 
 This is the list of my publications roughly related to **privacy** in **machine learning**
 
+### 2020
+Apostolos Pyrgelis, Carmela Troncoso, and Emiliano De Cristofaro  
+**Measuring Membership Privacy on Aggregate Location Time-Series**  
+ACM SIGMETRICS 2020 (conditional)  
+
+
 ### 2019
 
 Luca Melis, Congzheng Song, Emiliano De Cristofaro, and Vitaly Shmatikov  
