@@ -7,7 +7,7 @@ author_profile: true
 
 ## Cybersafety
 
-This is the list of my publications roughly related to understanding and countering **cybersafety** issues using measurement studies and data science. Many of these papers are written in collaboration with the [iDrama Lab](https://idrama.science){:target="_blank"} crew and were in part funded by the [ENCASE](https://encase.socialcomputing.eu/){:target="_blank"} project.
+This is the list of my publications roughly related to understanding and countering **cybersafety** issues using measurement studies and data science. Many of these papers are written in collaboration with the [iDramaLab](https://idrama.science){:target="_blank"} crew and were in part funded by the [ENCASE](https://encase.socialcomputing.eu/){:target="_blank"} project.
 
 
 ### 2020
@@ -47,7 +47,7 @@ ACM Transactions on the Web (TWEB), Vol. 13, No. 3, 2019
 
 Savvas Zannettou, Tristan Caulfield, Emiliano De Cristofaro, Michael Sirivianos, Gianluca Stringhini, and Jeremy Blackburn  
 **Disinformation Warfare: Understanding State-Sponsored Trolls on Twitter & Their Influence on the Web**  
-4th WebConf Workshop on Computational Methods in CyberSafety, Online Harassment, and Misinformation (CyberSafety 2019)  
+4th WebConf Workshop on CyberSafety, Online Harassment, and Misinformation (CyberSafety 2019)  
 [best paper award](https://cybersafety2019.github.io/awards/){: .btn--success}{:target="_blank"}  
 [pdf](https://arxiv.org/pdf/1801.09288){: .btn--danger}{:target="_blank"}  
 

@@ -80,7 +80,7 @@ The Web Conference (WWW 2019)
 
 Savvas Zannettou, Tristan Caulfield, Emiliano De Cristofaro, Michael Sirivianos, Gianluca Stringhini, and Jeremy Blackburn  
 **Disinformation Warfare: Understanding State-Sponsored Trolls on Twitter & Their Influence on the Web**  
-4th WebConf Workshop on Computational Methods in CyberSafety, Online Harassment, and Misinformation (CyberSafety 2019)  
+4th WebConf Workshop on CyberSafety, Online Harassment, and Misinformation (CyberSafety 2019)  
 [best paper award](https://cybersafety2019.github.io/awards/){: .btn--success}{:target="_blank"}  
 [pdf](https://arxiv.org/pdf/1801.09288){: .btn--danger}{:target="_blank"}  
 
