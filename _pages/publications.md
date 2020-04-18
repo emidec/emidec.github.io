@@ -18,23 +18,23 @@ ACM SIGMETRICS 2020 (conditional)
 Matt Wixey, Shane Johnson, and Emiliano De Cristofaro  
 **On the Feasibility of Acoustic Attacks Using Commodity Smart Devices**  
 IEEE Workshop on the Internet of Safe Things (co-located with IEEE S&P 2020)  
-[preprint](https://arxiv.org/pdf/2001.07157.pdf){: .btn--danger}{:target="_blank"}
+[full verison](https://arxiv.org/pdf/2001.07157.pdf){: .btn--danger}{:target="_blank"}
 
 Antonis Papasavva, Savvas Zannettou, Emiliano De Cristofaro, Gianluca Stringhini, and Jeremy Blackburn  
 **Raiders of the Lost Kek: 3.5 Years of Augmented 4chan Posts from the Politically Incorrect Board**  
 14th International AAAI Conference on Web and Social Media (ICWSM 2020)  
-[preprint](){: .btn--danger}{:target="_blank"}
+[full version](){: .btn--danger}{:target="_blank"}
 
 Savvas Zannettou, Barry Bradlyn, Tristan Caulfield, Emiliano De Cristofaro, Gianluca Stringhini, and Jeremy Blackburn  
 **Characterizing the Use of Images in State-Sponsored Information Warfare Operations by Russian Trolls on Twitter**  
 14th International AAAI Conference on Web and Social Media (ICWSM 2020)  
-[preprint](https://arxiv.org/pdf/1901.05997.pdf){: .btn--danger}{:target="_blank"}
+[full version](https://arxiv.org/pdf/1901.05997.pdf){: .btn--danger}{:target="_blank"}
 
 Alexandros Mittos, Savvas Zannettou, Jeremy Blackburn, and Emiliano De Cristofaro  
 **"And We Will Fight For Our Race! A Measurement Study of Genetic Testing Conversations on Reddit and 4chan**  
 14th International AAAI Conference on Web and Social Media (ICWSM 2020)  
 [full version](https://arxiv.org/pdf/1901.09735.pdf){: .btn--danger}{:target="_blank"}  
-<span style="color:white;background-color:navy">media coverage</span> [StatNews](https://www.statnews.com/2019/08/02/he-studies-jerks-on-the-internet-his-latest-project-researching-how-they-talk-about-genetic-testing/), [The Times](https://www.thetimes.co.uk/article/genetic-tests-for-ancestry-being-hijacked-by-racists-ltwr72f6c)
+<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [The Times](https://www.thetimes.co.uk/article/genetic-tests-for-ancestry-being-hijacked-by-racists-ltwr72f6c), [StatNews](https://www.statnews.com/2019/08/02/he-studies-jerks-on-the-internet-his-latest-project-researching-how-they-talk-about-genetic-testing/)
 
 ### 2019
 
