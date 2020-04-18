@@ -80,7 +80,8 @@ The Web Conference (WWW 2019)
 
 Savvas Zannettou, Tristan Caulfield, Emiliano De Cristofaro, Michael Sirivianos, Gianluca Stringhini, and Jeremy Blackburn  
 **Disinformation Warfare: Understanding State-Sponsored Trolls on Twitter & Their Influence on the Web**  
-4th WebConf Workshop on Computational Methods in CyberSafety, Online Harassment, and Misinformation (CyberSafety 2019) [best paper award](https://cybersafety2019.github.io/awards/){: .btn--success}{:target="_blank"}  
+4th WebConf Workshop on Computational Methods in CyberSafety, Online Harassment, and Misinformation (CyberSafety 2019)  
+[best paper award](https://cybersafety2019.github.io/awards/){: .btn--success}{:target="_blank"}  
 [pdf](https://arxiv.org/pdf/1801.09288){: .btn--danger}{:target="_blank"}  
 
 
@@ -118,7 +119,8 @@ ACM SIGCOMM's Computer Communication Review (CCR), Vol. 48, No. 5, Oct. 2018
 
 Savvas Zannettou, Tristan Caulfield, Jeremy Blackburn, Emiliano De Cristofaro, Michael Sirivianos, Gianluca Stringhini, and Guillermo Suarez-Tangil  
 **On the Origins of Memes by Means of Fringe Web Communities**  
-18th ACM Internet Measurement Conference (IMC 2018) [distinguished paper award](https://conferences.sigcomm.org/imc/2018/awards/){: .btn--success}{:target="_blank"}  
+18th ACM Internet Measurement Conference (IMC 2018)  
+[distinguished paper award](https://conferences.sigcomm.org/imc/2018/awards/){: .btn--success}{:target="_blank"}  
 [pdf](https://arxiv.org/pdf/1805.12512.pdf){: .btn--danger}{:target="_blank"} [code](https://github.com/memespaper/memes_pipeline){: .btn--danger}{:target="_blank"}  
 [media coverage](){: .btn--pippo} [BBC Trending](https://www.bbc.co.uk/programmes/w3csws6t), [BBC News](https://www.bbc.com/news/blogs-trending-45888176), [MIT Technology Review](https://www.technologyreview.com/s/611332/this-is-where-internet-memes-come-from/), [CBS News](https://www.youtube.com/watch?v=oLUZnTN-zeo&feature=youtu.be), [The Independent](https://indy100.com/article/most-popular-memes-science-study-reddit-twitter-8386051), [VICE](https://motherboard.vice.com/en_us/article/zm884j/where-do-memes-come-from-researchers-studied-reddit-4chan), [Business Insider](https://www.businessinsider.com.au/origin-of-memes-study-2018-6), [The Daily Dot](https://www.dailydot.com/unclick/meme-studies), [Quartz](https://qz.com/1296094/most-popular-memes-finally-a-scientific-list-of-the-most-popular-memes-on-the-internet/), [El Pais (in Spanish)](https://elpais.com/tecnologia/2019/03/26/actualidad/1553596590_520008.html), [MotherJones](https://www.motherjones.com/politics/2019/04/right-wing-groups-are-training-young-conservatives-to-win-the-next-meme-war/), [InfoWars](https://www.infowars.com/new-scientific-study-proves-the-left-cant-meme/), [Thinkprogress](https://thinkprogress.org/how-horrible-memes-thrive-on-the-internet-135bd2d2ea6b/), [Iflscience](http://www.iflscience.com/technology/scientists-discover-the-most-popular-memes-on-the-internet-finally/), [Hornet](https://hornet.com/stories/racist-memes-alt-right-memes/), [Bellingcat](https://bellingcat.com/news/americas/2018/10/31/magabomber-synagogue-shooter-likely-radicalized/)
 
@@ -209,7 +211,8 @@ Despoina Chatzakou, Nicolas Kourtellis, Jeremy Blackburn, Emiliano De Cristofaro
 
 Gabriel Hine, Jeremiah Onaolapo, Emiliano De Cristofaro, Nicolas Kourtellis, Ilias Leontiadis, Gianluca Stringhini, Jeremy Blackburn  
 **Kek, Cucks, and God Emperor Trump: A Measurement Study of 4chan's Politically Incorrect Forum and Its Effects on the Web**  
-11th International AAAI Conference on Web and Social Media (ICWSM 2017) [best paper runner-up](https://www.icwsm.org/2017/){: .btn--success}{:target="_blank"}  
+11th International AAAI Conference on Web and Social Media (ICWSM 2017)  
+[best paper runner-up](https://www.icwsm.org/2017/){: .btn--success}{:target="_blank"}  
 [full version](https://arxiv.org/pdf/1610.03452){: .btn--danger}{:target="_blank"} [blog](https://www.benthamsgaze.org/2016/11/16/a-longitudinal-measurement-study-of-4chans-politically-incorrect-forum-and-its-effect-on-the-web/){: .btn--danger}{:target="_blank"}  
 [media coverage](){: .btn--pippo} [Nature](http://www.nature.com/news/shining-a-light-on-the-dark-corners-of-the-web-1.22128), [Motherboard](https://motherboard.vice.com/en_us/article/how-4chans-structure-creates-a-survival-of-the-fittest-for-memes), [The Independent](http://www.independent.co.uk/life-style/gadgets-and-tech/4chan-raids-how-one-dark-corner-of-the-internet-is-spreading-its-shadows-a7416631.html), [The Conversation](https://theconversation.com/4chan-raids-how-one-dark-corner-of-the-internet-is-spreading-its-shadows-68394), [MIT Technology Review](https://www.technologyreview.com/s/602707/the-best-of-the-physics-arxiv-week-ending-october-22-2016/), [Vice](http://motherboard.vice.com/read/block-4chan-to-stop-the-alt-right-from-spreading-racist-memes-scientists-say?=dhdhd), [La Stampa (in Italian)](http://www.lastampa.it/2016/10/14/societa/rane-odio-e-protrump-cos-funziona-chan-la-pancia-di-internet-qSR7NV32eMNHYxYtWGh4tJ/pagina.html), [La Repubblica (in Italian)](http://www.repubblica.it/speciali/esteri/presidenziali-usa2016/2016/11/12/news/trump_internet_meme_virali_social_4chan-151826943/?ref=HREC1-1), [BoingBoing](http://boingboing.net/2016/10/14/academic-paper-about-4chans.html), [Pacific Standard](https://psmag.com/what-happens-when-4chan-attacks-8747e5958705#.1jk23u5d0)
 
@@ -338,7 +341,8 @@ Kat Krol, Eleni Philippou, Emiliano De Cristofaro, M. Angela Sasse
 
 Abdelberi Chaabane, Terence Chen, Mathieu Cunche, Emiliano De Cristofaro, Arik Friedman, Dali Kaafar  
 **Censorship in the Wild: Analyzing Web Filtering in Syria**  
-14th ACM Internet Measurement Conference (IMC 2014) [best paper runner-up](https://conferences.sigcomm.org/imc/2014/){: .btn--success}{:target="_blank"}  
+14th ACM Internet Measurement Conference (IMC 2014)  
+[best paper runner-up](https://conferences.sigcomm.org/imc/2014/){: .btn--success}{:target="_blank"}  
 [full version](http://arxiv.org/pdf/1402.3401){: .btn--danger}{:target="_blank"}  
 [media coverage](){: .btn--pippo} [The Register](http://www.theregister.co.uk/2014/11/28/syria_regime_filtering_study/), [MIT Tech Review](http://www.technologyreview.com/view/525076/syrian-web-censorship-techniques-revealed/), [Boing Boing](http://boingboing.net/2014/02/18/detailed-analysis-of-syrias.html), [ACM Tech News](http://technews.acm.org/#708558), [Physics Central](http://physicsbuzz.physicscentral.com/2014/02/syrias-censorship-practices-exposed.html), [Motherboard](http://motherboard.vice.com/blog/hacked-data-reveals-the-syrian-governments-tactics-for-censoring-the-internet), [The Conversation](https://theconversation.com/lessons-on-censorship-from-syrias-internet-filter-machines-33951)  
 
