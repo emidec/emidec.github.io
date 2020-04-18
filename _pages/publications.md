@@ -283,7 +283,7 @@ Hassan Jameel Asghar, Luca Melis, Cyril Soldani, Emiliano De Cristofaro, Dali Ka
 Luca Melis, George Danezis, Emiliano De Cristofaro  
 **Efficient Private Statistics with Succinct Sketches**  
 23rd Network and Distributed System Security Symposium (NDSS 2016)  
-**Winner of the [5th Data Protection by Design Award](http://apdcat.gencat.cat/en/actualitat/premi/2017-/index.html)**, issued by the Catalan Data Protection authority and the Parliament of Catalonia  
+[2017 Data Protection by Design Award](http://apdcat.gencat.cat/en/actualitat/premi/2017-/index.html){: .btn--success}{:target="_blank"} (Catalan Data Protection authority)  
 [pdf](http://arxiv.org/pdf/1508.06110.pdf){: .btn--danger}{:target="_blank"} [blog](https://www.benthamsgaze.org/2016/03/04/privately-gathering-statistics-and-training-simple-models/){: .btn--danger}{:target="_blank"}
 
 
