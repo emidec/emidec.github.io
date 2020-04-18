@@ -241,7 +241,7 @@ Sina Sajadmanesh, Sina Jafarzadeh, Seyed Ali Ossia, Hamid R. Rabiee, Hamed Hadda
 Enrico Mariconti, Lucky Onwuzurike, Panagiotis Andriotis, Emiliano De Cristofaro, Gordon Ross, Gianluca Stringhini  
 **MaMaDroid: Detecting Android Malware by Building Markov Chains of Behavioral Models**  
 24th Network and Distributed System Security Symposium (NDSS 2017)  
-CSAW Europe Applied Research Award](http://csaw-europe.com/), 2nd place (out of 128 papers)  
+[CSAW Europe Applied Research Award](http://csaw-europe.com/), 2nd place (out of 128 papers)  
 [pdf](https://arxiv.org/pdf/1612.04433.pdf){: .btn--danger}{:target="_blank"} [blog](https://www.benthamsgaze.org/2017/03/28/mamadroid-detecting-android-malware-by-building-markov-chains-of-behavioral-models/){: .btn--danger}{:target="_blank"} [code](https://bitbucket.org/gianluca_students/mamadroid_code){: .btn--danger}{:target="_blank"}  
 [media coverage](){: .btn--pippo} [The Morning Paper](https://blog.acolyer.org/2017/03/09/mamadroid-detecting-android-malware-by-building-markov-chains-of-behavorial-models/)  
 
