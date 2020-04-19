@@ -27,18 +27,13 @@ During my PhD, I also spent a few months on research internships at NEC in Heide
 
 <!--For a list of recent papers on machine learning and privacy, please see (https://emilianodc.com/privacyML) https://emilianodc.com/idrama-->
 
-### News
+### Recent News
 -	I will be on sabbatical in 2020/21
 -	Our NDSS'18 paper on membership inference against aggregate location time series was runner-up for the [2019 INRIA-CNIL Privacy Protection Award](https://www.cnil.fr/en/inria-and-cnil-award-2019-privacy-protection-prize-european-research-team)
 -	Paper conditionally accepted at [ACM SIGMETRICS 2020](https://www.sigmetrics.org/sigmetrics2020/): Measuring Membership Privacy on Aggregate Location Time-Series &ndash; congrats Apostolos!
 -	Paper accepted at [IEEE SafeThings 2020](https://www.ieee-security.org/TC/SPW2020/SafeThings/): On the Feasibility of Acoustic Attacks Using Commodity Smart Devices ([preprint](https://arxiv.org/abs/2001.07157)) &ndash; congrats Matt!
 -	Three papers accepted at [ICWSM 2020](https://icwsm.org/): 1) "And We Will Fight For Our Race!" A Measurement Study of Genetic Testing Conversations on Reddit and 4chan, 2) Characterizing the Use of Images in State-Sponsored Information Warfare Operations by Russian Trolls on Twitter, 3) Raiders of the Lost Kek: 3.5 Years of Augmented 4chan Posts from the Politically Incorrect Board -- congrats Alexandros, Antonis, and Savvas!  
 -	Joined the PC of [S&P 2021](https://www.ieee-security.org/TC/SP2021/)
--	Paper accepted at [ACM WPES](https://crises-deim.urv.cat/wpes2019/index.html): "How Much Does GenoGuard Really Guard? An Empirical Analysis of Long-Term Security for Genomic Data" -- congrats Bristena!
--   Paper accepted at [ACM CSCW](http://cscw.acm.org/): "You Know What to Do: Proactive Detection of YouTube Videos Targeted by Coordinated Hate Attacks" -- congrats Enrico et al.!
--   Paper accepted at [ACM IMC](https://conferences.sigcomm.org/imc/2019/): "Challenges in the Decentralized Web: The Mastodon Case" -- congrats Aravindh et al.!
--   Joined the PCs of [ACM SIGMETRICS](http://www.sigmetrics.org/sigmetrics2020/) and [WWW](https://www2020.thewebconf.org/)  
--   Promoted to Full Professor with a Chair in Security and Privacy Enhancing Technologies at UCL -- congrats to everyone who made that possible!
 
 
 ## Personal
