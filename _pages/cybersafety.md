@@ -14,12 +14,12 @@ This is the list of my publications roughly related to understanding and counter
 Antonis Papasavva, Savvas Zannettou, Emiliano De Cristofaro, Gianluca Stringhini, and Jeremy Blackburn  
 **Raiders of the Lost Kek: 3.5 Years of Augmented 4chan Posts from the Politically Incorrect Board**  
 14th International AAAI Conference on Web and Social Media (ICWSM 2020)  
-[PDF](https://arxiv.org/pdf/2001.07487.pdf){: .btn--danger}{:target="_blank"}
+[pdf](https://arxiv.org/pdf/2001.07487.pdf){: .btn--danger}{:target="_blank"}
 
 Savvas Zannettou, Barry Bradlyn, Tristan Caulfield, Emiliano De Cristofaro, Gianluca Stringhini, and Jeremy Blackburn  
 **Characterizing the Use of Images in State-Sponsored Information Warfare Operations by Russian Trolls on Twitter**  
 14th International AAAI Conference on Web and Social Media (ICWSM 2020)  
-[preprint](https://arxiv.org/pdf/1901.05997.pdf){: .btn--danger}{:target="_blank"}
+[full version](https://arxiv.org/pdf/1901.05997.pdf){: .btn--danger}{:target="_blank"}
 
 Alexandros Mittos, Savvas Zannettou, Jeremy Blackburn, and Emiliano De Cristofaro  
 **"And We Will Fight For Our Race! A Measurement Study of Genetic Testing Conversations on Reddit and 4chan**  
