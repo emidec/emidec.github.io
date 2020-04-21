@@ -18,12 +18,12 @@ To appear in ACM SIGMETRICS 2020
 Matt Wixey, Shane Johnson, and Emiliano De Cristofaro  
 **On the Feasibility of Acoustic Attacks Using Commodity Smart Devices**  
 IEEE Workshop on the Internet of Safe Things (co-located with IEEE S&P 2020)  
-[full verison](https://arxiv.org/pdf/2001.07157.pdf){: .btn--danger}{:target="_blank"}
+[full version](https://arxiv.org/pdf/2001.07157.pdf){: .btn--danger}{:target="_blank"}
 
 Antonis Papasavva, Savvas Zannettou, Emiliano De Cristofaro, Gianluca Stringhini, and Jeremy Blackburn  
 **Raiders of the Lost Kek: 3.5 Years of Augmented 4chan Posts from the Politically Incorrect Board**  
 14th International AAAI Conference on Web and Social Media (ICWSM 2020)  
-[full version](){: .btn--danger}{:target="_blank"}
+[PDF](https://arxiv.org/pdf/2001.07487.pdf){: .btn--danger}{:target="_blank"}
 
 Savvas Zannettou, Barry Bradlyn, Tristan Caulfield, Emiliano De Cristofaro, Gianluca Stringhini, and Jeremy Blackburn  
 **Characterizing the Use of Images in State-Sponsored Information Warfare Operations by Russian Trolls on Twitter**  
