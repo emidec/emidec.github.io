@@ -13,7 +13,7 @@ This is the list of all my peer-reviewed publications ordered by year. You can a
 
 Apostolos Pyrgelis, Carmela Troncoso, and Emiliano De Cristofaro  
 **Measuring Membership Privacy on Aggregate Location Time-Series**  
-ACM SIGMETRICS 2020 (conditional)  
+To appear in ACM SIGMETRICS 2020  
 
 Matt Wixey, Shane Johnson, and Emiliano De Cristofaro  
 **On the Feasibility of Acoustic Attacks Using Commodity Smart Devices**  
