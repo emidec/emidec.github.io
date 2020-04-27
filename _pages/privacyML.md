@@ -12,7 +12,8 @@ This is the list of my publications roughly related to **privacy** in **machine 
 ### 2020
 Apostolos Pyrgelis, Carmela Troncoso, and Emiliano De Cristofaro  
 **Measuring Membership Privacy on Aggregate Location Time-Series**  
-To appear in ACM SIGMETRICS 2020
+To appear in ACM SIGMETRICS 2020  
+[pdf](https://arxiv.org/pdf/1902.07456.pdf){: .btn--danger}{:target="_blank"}
 
 ### 2019
 
