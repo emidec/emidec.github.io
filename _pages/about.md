@@ -28,7 +28,7 @@ During my PhD, I also spent a few months on research internships at NEC in Heide
 <!--For a list of recent papers on machine learning and privacy, please see (https://emilianodc.com/privacyML) https://emilianodc.com/idrama-->
 
 ### Recent News
--	Over the winter I wrote a "review" paper on privacy in machine learning with the Turing, it's now available [online](https://arxiv.org/abs/2005.08679)
+-	I wrote a "review" paper on privacy in machine learning with the Turing, it's now available [here](https://arxiv.org/abs/2005.08679)
 -	I will be on sabbatical in 2020/21
 -	Paper accepted at [ACM SIGMETRICS 2020](https://www.sigmetrics.org/sigmetrics2020/): Measuring Membership Privacy on Aggregate Location Time-Series &ndash; congrats Apostolos!
 -	Our NDSS'18 paper on membership inference against aggregate location time series was runner-up for the [2019 INRIA-CNIL Privacy Protection Award](https://www.cnil.fr/en/inria-and-cnil-award-2019-privacy-protection-prize-european-research-team)
