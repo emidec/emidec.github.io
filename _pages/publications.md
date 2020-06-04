@@ -35,7 +35,7 @@ Alexandros Mittos, Savvas Zannettou, Jeremy Blackburn, and Emiliano De Cristofar
 **"And We Will Fight For Our Race! A Measurement Study of Genetic Testing Conversations on Reddit and 4chan**  
 14th International AAAI Conference on Web and Social Media (ICWSM 2020)  
 [full version](https://arxiv.org/pdf/1901.09735.pdf){: .btn--danger}{:target="_blank"} [video](https://www.youtube.com/watch?v=qTLKspE36kY){: .btn--danger}{:target="_blank"}  
-<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">[media coverage]</span> [The Times](https://www.thetimes.co.uk/article/genetic-tests-for-ancestry-being-hijacked-by-racists-ltwr72f6c), [StatNews](https://www.statnews.com/2019/08/02/he-studies-jerks-on-the-internet-his-latest-project-researching-how-they-talk-about-genetic-testing/)
+<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [The Times](https://www.thetimes.co.uk/article/genetic-tests-for-ancestry-being-hijacked-by-racists-ltwr72f6c), [StatNews](https://www.statnews.com/2019/08/02/he-studies-jerks-on-the-internet-his-latest-project-researching-how-they-talk-about-genetic-testing/)
 
 ### 2019
 
