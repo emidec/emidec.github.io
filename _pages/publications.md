@@ -81,8 +81,7 @@ The Web Conference (WWW 2019)
 
 Savvas Zannettou, Tristan Caulfield, Emiliano De Cristofaro, Michael Sirivianos, Gianluca Stringhini, and Jeremy Blackburn  
 **Disinformation Warfare: Understanding State-Sponsored Trolls on Twitter & Their Influence on the Web**  
-4th WebConf Workshop on CyberSafety, Online Harassment, and Misinformation (CyberSafety 2019)  
-[best paper award](https://cybersafety2019.github.io/awards/){: .btn--success}{:target="_blank"}  
+4th WebConf Workshop on CyberSafety, Online Harassment, and Misinformation (CyberSafety 2019) [best paper award](https://cybersafety2019.github.io/awards/){: .btn--success}{:target="_blank"}  
 [pdf](https://arxiv.org/pdf/1801.09288){: .btn--danger}{:target="_blank"}  
 
 
@@ -120,8 +119,7 @@ ACM SIGCOMM's Computer Communication Review (CCR), Vol. 48, No. 5, Oct. 2018
 
 Savvas Zannettou, Tristan Caulfield, Jeremy Blackburn, Emiliano De Cristofaro, Michael Sirivianos, Gianluca Stringhini, and Guillermo Suarez-Tangil  
 **On the Origins of Memes by Means of Fringe Web Communities**  
-18th ACM Internet Measurement Conference (IMC 2018)  
-[distinguished paper award](https://conferences.sigcomm.org/imc/2018/awards/){: .btn--success}{:target="_blank"}  
+18th ACM Internet Measurement Conference (IMC 2018) [distinguished paper award](https://conferences.sigcomm.org/imc/2018/awards/){: .btn--success}{:target="_blank"}  
 [pdf](https://arxiv.org/pdf/1805.12512.pdf){: .btn--danger}{:target="_blank"} [code](https://github.com/memespaper/memes_pipeline){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [BBC Trending](https://www.bbc.co.uk/programmes/w3csws6t), [BBC News](https://www.bbc.com/news/blogs-trending-45888176), [MIT Technology Review](https://www.technologyreview.com/s/611332/this-is-where-internet-memes-come-from/), [CBS News](https://www.youtube.com/watch?v=oLUZnTN-zeo&feature=youtu.be), [The Independent](https://indy100.com/article/most-popular-memes-science-study-reddit-twitter-8386051), [VICE](https://motherboard.vice.com/en_us/article/zm884j/where-do-memes-come-from-researchers-studied-reddit-4chan), [Business Insider](https://www.businessinsider.com.au/origin-of-memes-study-2018-6), [The Daily Dot](https://www.dailydot.com/unclick/meme-studies), [Quartz](https://qz.com/1296094/most-popular-memes-finally-a-scientific-list-of-the-most-popular-memes-on-the-internet/), [El Pais](https://elpais.com/tecnologia/2019/03/26/actualidad/1553596590_520008.html), [MotherJones](https://www.motherjones.com/politics/2019/04/right-wing-groups-are-training-young-conservatives-to-win-the-next-meme-war/), [InfoWars](https://www.infowars.com/new-scientific-study-proves-the-left-cant-meme/), [Thinkprogress](https://thinkprogress.org/how-horrible-memes-thrive-on-the-internet-135bd2d2ea6b/), [Iflscience](http://www.iflscience.com/technology/scientists-discover-the-most-popular-memes-on-the-internet-finally/), [Hornet](https://hornet.com/stories/racist-memes-alt-right-memes/), [Bellingcat](https://bellingcat.com/news/americas/2018/10/31/magabomber-synagogue-shooter-likely-radicalized/)
 
@@ -175,8 +173,7 @@ Savvas Zannettou, Barry Bradlyn, Emiliano De Cristofaro, Haewoon Kwak, Michael S
 
 Apostolos Pyrgelis, Carmela Troncoso, Emiliano De Cristofaro  
 **Knock Knock, Who's There? Membership Inference on Aggregate Location Data**  
-25th Network and Distributed System Security Symposium (NDSS 2018)  
-[distinguished paper award](https://www.ndss-symposium.org/ndss2018/){: .btn--success}{:target="_blank"} [INRIA-CNIL Privacy Protection Award Runner-up](https://www.cnil.fr/en/inria-and-cnil-award-2019-privacy-protection-prize-european-research-team){: .btn--success}{:target="_blank"}   
+25th Network and Distributed System Security Symposium (NDSS 2018) [distinguished paper award](https://www.ndss-symposium.org/ndss2018/){: .btn--success}{:target="_blank"} [INRIA-CNIL Privacy Protection Award Runner-up](https://www.cnil.fr/en/inria-and-cnil-award-2019-privacy-protection-prize-european-research-team){: .btn--success}{:target="_blank"}   
 [full version](https://arxiv.org/pdf/1708.06145.pdf){: .btn--danger}{:target="_blank"} [blog](https://www.benthamsgaze.org/2018/10/02/on-location-time-and-membership-studying-how-aggregate-location-data-can-harm-users-privacy/){: .btn--danger}{:target="_blank"} [video](https://www.youtube.com/watch?v=hwGAE5NqAP0){: .btn--danger}{:target="_blank"}  
 
 ### 2017
