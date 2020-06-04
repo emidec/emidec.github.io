@@ -13,18 +13,18 @@ This is the list of all my peer-reviewed publications ordered by year. You can a
 
 Apostolos Pyrgelis, Carmela Troncoso, and Emiliano De Cristofaro  
 **Measuring Membership Privacy on Aggregate Location Time-Series**  
-To appear in ACM SIGMETRICS 2020  
-[pdf](https://arxiv.org/pdf/1902.07456.pdf){: .btn--danger}{:target="_blank"}
+ACM SIGMETRICS 2020  
+[pdf](https://arxiv.org/pdf/1902.07456.pdf){: .btn--danger}{:target="_blank"} [video](https://www.youtube.com/watch?v=8dFU9Ug-Hsg){: .btn--danger}{:target="_blank"}  
 
 Matt Wixey, Shane Johnson, and Emiliano De Cristofaro  
 **On the Feasibility of Acoustic Attacks Using Commodity Smart Devices**  
 IEEE Workshop on the Internet of Safe Things (co-located with IEEE S&P 2020)  
 [full version](https://arxiv.org/pdf/2001.07157.pdf){: .btn--danger}{:target="_blank"}
 
-Antonis Papasavva, Savvas Zannettou, Emiliano De Cristofaro, Gianluca Stringhini, and Jeremy Blackburn  
+Antonis Papasavva, Savvas Zannettou, Emiliano De Cristofaro, Gianluca Stringhini, Jeremy Blackburn  
 **Raiders of the Lost Kek: 3.5 Years of Augmented 4chan Posts from the Politically Incorrect Board**  
 14th International AAAI Conference on Web and Social Media (ICWSM 2020)  
-[pdf](https://arxiv.org/pdf/2001.07487.pdf){: .btn--danger}{:target="_blank"}
+[pdf](https://arxiv.org/pdf/2001.07487.pdf){: .btn--danger}{:target="_blank"} [video](https://www.youtube.com/watch?v=XtqE6ztLK6U){: .btn--danger}{:target="_blank"}  
 
 Savvas Zannettou, Barry Bradlyn, Tristan Caulfield, Emiliano De Cristofaro, Gianluca Stringhini, and Jeremy Blackburn  
 **Characterizing the Use of Images in State-Sponsored Information Warfare Operations by Russian Trolls on Twitter**  
@@ -34,8 +34,8 @@ Savvas Zannettou, Barry Bradlyn, Tristan Caulfield, Emiliano De Cristofaro, Gian
 Alexandros Mittos, Savvas Zannettou, Jeremy Blackburn, and Emiliano De Cristofaro  
 **"And We Will Fight For Our Race! A Measurement Study of Genetic Testing Conversations on Reddit and 4chan**  
 14th International AAAI Conference on Web and Social Media (ICWSM 2020)  
-[full version](https://arxiv.org/pdf/1901.09735.pdf){: .btn--danger}{:target="_blank"}  
-<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [The Times](https://www.thetimes.co.uk/article/genetic-tests-for-ancestry-being-hijacked-by-racists-ltwr72f6c), [StatNews](https://www.statnews.com/2019/08/02/he-studies-jerks-on-the-internet-his-latest-project-researching-how-they-talk-about-genetic-testing/)
+[full version](https://arxiv.org/pdf/1901.09735.pdf){: .btn--danger}{:target="_blank"} [video](https://www.youtube.com/watch?v=qTLKspE36kY){: .btn--danger}{:target="_blank"}  
+[media coverage](){: .btn--media} [The Times](https://www.thetimes.co.uk/article/genetic-tests-for-ancestry-being-hijacked-by-racists-ltwr72f6c), [StatNews](https://www.statnews.com/2019/08/02/he-studies-jerks-on-the-internet-his-latest-project-researching-how-they-talk-about-genetic-testing/)
 
 ### 2019
 
@@ -70,7 +70,7 @@ ACM Transactions on the Web (TWEB), Vol. 13, No. 3, 2019
 Luca Melis, Congzheng Song, Emiliano De Cristofaro, and Vitaly Shmatikov  
 **Exploiting Unintended Feature Leakage in Collaborative Learning**  
 40th IEEE Symposium on Security & Privacy (S&P 2019)  
-[pdf](https://arxiv.org/pdf/1805.04049.pdf){: .btn--danger}{:target="_blank"}
+[pdf](https://arxiv.org/pdf/1805.04049.pdf){: .btn--danger}{:target="_blank"} [video](https://www.youtube.com/watch?v=yBz1RnlaTko){: .btn--danger}{:target="_blank"}  
 
 
 Vincent Primault, Vasileios Lampos, Ingemar Cox, and Emiliano De Cristofaro  
@@ -177,7 +177,7 @@ Apostolos Pyrgelis, Carmela Troncoso, Emiliano De Cristofaro
 **Knock Knock, Who's There? Membership Inference on Aggregate Location Data**  
 25th Network and Distributed System Security Symposium (NDSS 2018)  
 [distinguished paper award](https://www.ndss-symposium.org/ndss2018/){: .btn--success}{:target="_blank"} [INRIA-CNIL Privacy Protection Award Runner-up](https://www.cnil.fr/en/inria-and-cnil-award-2019-privacy-protection-prize-european-research-team){: .btn--success}{:target="_blank"}   
-[full version](https://arxiv.org/pdf/1708.06145.pdf){: .btn--danger}{:target="_blank"} [blog](https://www.benthamsgaze.org/2018/10/02/on-location-time-and-membership-studying-how-aggregate-location-data-can-harm-users-privacy/){: .btn--danger}{:target="_blank"}  
+[full version](https://arxiv.org/pdf/1708.06145.pdf){: .btn--danger}{:target="_blank"} [blog](https://www.benthamsgaze.org/2018/10/02/on-location-time-and-membership-studying-how-aggregate-location-data-can-harm-users-privacy/){: .btn--danger}{:target="_blank"} [video](https://www.youtube.com/watch?v=hwGAE5NqAP0){: .btn--danger}{:target="_blank"}  
 
 ### 2017
 

@@ -11,10 +11,10 @@ This is the list of my publications roughly related to understanding and counter
 
 
 ### 2020
-Antonis Papasavva, Savvas Zannettou, Emiliano De Cristofaro, Gianluca Stringhini, and Jeremy Blackburn  
+Antonis Papasavva, Savvas Zannettou, Emiliano De Cristofaro, Gianluca Stringhini, Jeremy Blackburn  
 **Raiders of the Lost Kek: 3.5 Years of Augmented 4chan Posts from the Politically Incorrect Board**  
 14th International AAAI Conference on Web and Social Media (ICWSM 2020)  
-[pdf](https://arxiv.org/pdf/2001.07487.pdf){: .btn--danger}{:target="_blank"}
+[pdf](https://arxiv.org/pdf/2001.07487.pdf){: .btn--danger}{:target="_blank"} [video](https://www.youtube.com/watch?v=XtqE6ztLK6U){: .btn--danger}{:target="_blank"}  
 
 Savvas Zannettou, Barry Bradlyn, Tristan Caulfield, Emiliano De Cristofaro, Gianluca Stringhini, and Jeremy Blackburn  
 **Characterizing the Use of Images in State-Sponsored Information Warfare Operations by Russian Trolls on Twitter**  
@@ -24,8 +24,8 @@ Savvas Zannettou, Barry Bradlyn, Tristan Caulfield, Emiliano De Cristofaro, Gian
 Alexandros Mittos, Savvas Zannettou, Jeremy Blackburn, and Emiliano De Cristofaro  
 **"And We Will Fight For Our Race! A Measurement Study of Genetic Testing Conversations on Reddit and 4chan**  
 14th International AAAI Conference on Web and Social Media (ICWSM 2020)  
-[full version](https://arxiv.org/pdf/1901.09735.pdf){: .btn--danger}{:target="_blank"}  
-<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [The Times](https://www.thetimes.co.uk/article/genetic-tests-for-ancestry-being-hijacked-by-racists-ltwr72f6c), [StatNews](https://www.statnews.com/2019/08/02/he-studies-jerks-on-the-internet-his-latest-project-researching-how-they-talk-about-genetic-testing/)
+[full version](https://arxiv.org/pdf/1901.09735.pdf){: .btn--danger}{:target="_blank"} [video](https://www.youtube.com/watch?v=qTLKspE36kY){: .btn--danger}{:target="_blank"}  
+[media coverage](){: .btn--media} [The Times](https://www.thetimes.co.uk/article/genetic-tests-for-ancestry-being-hijacked-by-racists-ltwr72f6c), [StatNews](https://www.statnews.com/2019/08/02/he-studies-jerks-on-the-internet-his-latest-project-researching-how-they-talk-about-genetic-testing/)
 
 
 ### 2019

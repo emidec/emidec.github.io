@@ -13,14 +13,14 @@ This is the list of my publications roughly related to **privacy** in **machine 
 Apostolos Pyrgelis, Carmela Troncoso, and Emiliano De Cristofaro  
 **Measuring Membership Privacy on Aggregate Location Time-Series**  
 To appear in ACM SIGMETRICS 2020  
-[pdf](https://arxiv.org/pdf/1902.07456.pdf){: .btn--danger}{:target="_blank"}
+[pdf](https://arxiv.org/pdf/1902.07456.pdf){: .btn--danger}{:target="_blank"} [video](https://www.youtube.com/watch?v=8dFU9Ug-Hsg){: .btn--danger}{:target="_blank"}  
 
 ### 2019
 
 Luca Melis, Congzheng Song, Emiliano De Cristofaro, and Vitaly Shmatikov  
 **Exploiting Unintended Feature Leakage in Collaborative Learning**  
 40th IEEE Symposium on Security & Privacy (S&P 2019)  
-[pdf](https://arxiv.org/pdf/1805.04049.pdf){: .btn--danger}{:target="_blank"}
+[pdf](https://arxiv.org/pdf/1805.04049.pdf){: .btn--danger}{:target="_blank"} [video](https://www.youtube.com/watch?v=yBz1RnlaTko){: .btn--danger}{:target="_blank"}  
 
 
 Vincent Primault, Vasileios Lampos, Ingemar Cox, and Emiliano De Cristofaro  
@@ -53,7 +53,7 @@ Apostolos Pyrgelis, Carmela Troncoso, Emiliano De Cristofaro
 **Knock Knock, Who's There? Membership Inference on Aggregate Location Data**  
 25th Network and Distributed System Security Symposium (NDSS 2018)  
 [distinguished paper award](https://www.ndss-symposium.org/ndss2018/){: .btn--success}{:target="_blank"} [INRIA-CNIL Privacy Protection Award Runner-up](https://www.cnil.fr/en/inria-and-cnil-award-2019-privacy-protection-prize-european-research-team){: .btn--success}{:target="_blank"}  
-[full version](https://arxiv.org/pdf/1708.06145.pdf){: .btn--danger}{:target="_blank"} [blog](https://www.benthamsgaze.org/2018/10/02/on-location-time-and-membership-studying-how-aggregate-location-data-can-harm-users-privacy/){: .btn--danger}{:target="_blank"}  
+[full version](https://arxiv.org/pdf/1708.06145.pdf){: .btn--danger}{:target="_blank"} [blog](https://www.benthamsgaze.org/2018/10/02/on-location-time-and-membership-studying-how-aggregate-location-data-can-harm-users-privacy/){: .btn--danger}{:target="_blank"}  [video](https://www.youtube.com/watch?v=hwGAE5NqAP0){: .btn--danger}{:target="_blank"}   
 
 ### 2017
 
