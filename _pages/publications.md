@@ -53,7 +53,7 @@ Bristena Oprisanu, Christophe Dessimoz, and Emiliano De Cristofaro
 Aravindh Raman, Sagar Joglekar, Emiliano De Cristofaro, Nishanth Sastry, Gareth Tyson  
 **Challenges in the Decentralized Web: The Mastodon Case**  
 19th ACM Internet Measurement Conference (IMC 2019)  
-[pdf](https://arxiv.org/pdf/1909.05801.pdf){: .btn--danger}{:target="_blank"}
+[pdf](https://arxiv.org/pdf/1909.05801.pdf){: .btn--danger}{:target="_blank"} [video](https://www.youtube.com/watch?v=ACzqhpfILHM){: .btn--danger}{:target="_blank"}  
 
 Hassan Jameel Asghar, Emiliano De Cristofaro, Guillaume Jourjon, Dali Kaafar, Laurent Mathy, Luca Melis, Craig Russell, and Mang Yu  
 **Fast Privacy-Preserving Network Function Outsourcing**  
