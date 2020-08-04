@@ -9,6 +9,15 @@ author_profile: true
 
 This is the list of all my peer-reviewed publications ordered by year. You can also visit my [DBLP](http://dblp.uni-trier.de/pers/hd/c/Cristofaro:Emiliano_De){:target="_blank"} or my [Google Scholar](https://scholar.google.com/citations?hl=en&user=1wfzUuEAAAAJ&view_op=list_works&pagesize=100){:target="_blank"} page.
 
+
+### 2021
+
+Manoel Horta Ribeiro, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro Gianluca Stringhini, Summer Long, Stephanie Greenberg, Savvas Zannettou  
+**The Evolution of the Manosphere Across the Web**  
+15th International AAAI Conference on Web and Social Media (ICWSM 2021), to appear  
+[pre-print](https://arxiv.org/pdf/2001.07600.pdf){: .btn--danger}{:target="_blank"}  
+[media coverage](){: .btn--media} [Newsweek](https://www.newsweek.com/manosphere-incel-communities-online-more-toxic-data-research-shows-1486943), [MIT Tech](https://www.technologyreview.com/s/615155/the-manosphere-is-getting-more-toxic-as-angry-men-join-the-incels/), [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-7997085/Men-internet-extreme-toxic-abusive-according-study.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+
 ### 2020
 
 Alexandros Mittos, Savvas Zannettou, Jeremy Blackburn, and Emiliano De Cristofaro  

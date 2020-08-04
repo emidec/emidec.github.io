@@ -9,6 +9,13 @@ author_profile: true
 
 This is the list of my publications roughly related to understanding and countering **cybersafety** issues using measurement studies and data science. Many of these papers are written in collaboration with the [iDramaLab](https://idrama.science){:target="_blank"} crew and were in part funded by the [ENCASE](https://encase.socialcomputing.eu/){:target="_blank"} project.
 
+### 2021
+
+Manoel Horta Ribeiro, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro Gianluca Stringhini, Summer Long, Stephanie Greenberg, Savvas Zannettou  
+**The Evolution of the Manosphere Across the Web**  
+15th International AAAI Conference on Web and Social Media (ICWSM 2021), to appear  
+[pre-print](https://arxiv.org/pdf/2001.07600.pdf){: .btn--danger}{:target="_blank"}  
+[media coverage](){: .btn--media} [Newsweek](https://www.newsweek.com/manosphere-incel-communities-online-more-toxic-data-research-shows-1486943), [MIT Tech](https://www.technologyreview.com/s/615155/the-manosphere-is-getting-more-toxic-as-angry-men-join-the-incels/), [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-7997085/Men-internet-extreme-toxic-abusive-according-study.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
 
 ### 2020
 Antonis Papasavva, Savvas Zannettou, Emiliano De Cristofaro, Gianluca Stringhini, Jeremy Blackburn  
