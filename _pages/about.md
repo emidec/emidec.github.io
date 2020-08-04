@@ -28,6 +28,7 @@ During my PhD, I also spent a few months on research internships at NEC in Heide
 <!--For a list of recent papers on machine learning and privacy, please see (https://emilianodc.com/privacyML) https://emilianodc.com/idrama-->
 
 ### Recent News
+-	Paper accepted at [ICWSM 2021](https://www.icwsm.org/): "The Evolution of the Manosphere Across the Web" & ndash; congrats Manoel!
 -	Paper accepted at [ACM TWEB](https://dl.acm.org/journal/tweb): "Analyzing Genetic Testing Discourse on the Web Through the Lens of Twitter, Reddit, and 4chan" &ndash; congrats Alex!
 -	I wrote a "review" paper on privacy in machine learning with the Turing, it's now available [here](https://arxiv.org/abs/2005.08679)
 -	I will be on sabbatical in 2020/21
