@@ -28,13 +28,12 @@ During my PhD, I also spent a few months on research internships at NEC in Heide
 <!--For a list of recent papers on machine learning and privacy, please see (https://emilianodc.com/privacyML) https://emilianodc.com/idrama-->
 
 ### Recent News
--	With Preslav Nakov, I will be co-chairing the 2nd Conference on Truth and Trust Online ([TTO 2020](http://truthandtrustonline.com/)) &ndash; submit great papers and talk proposals!
+-	With Preslav Nakov, I will be co-chairing the 2nd Conference on Truth and Trust Online ([TTO 2020](http://truthandtrustonline.com/)); submit great papers and talk proposals!
 -	Paper accepted at [ICWSM 2021](https://www.icwsm.org/): "The Evolution of the Manosphere Across the Web" & ndash; congrats Manoel!
 -	Paper accepted at [ACM TWEB](https://dl.acm.org/journal/tweb): "Analyzing Genetic Testing Discourse on the Web Through the Lens of Twitter, Reddit, and 4chan" &ndash; congrats Alex!
 -	I wrote a "review" paper on privacy in machine learning with the Turing, it's now available [here](https://arxiv.org/abs/2005.08679)
 -	I will be on sabbatical in 2020/21
 -	Paper accepted at [ACM SIGMETRICS 2020](https://www.sigmetrics.org/sigmetrics2020/): Measuring Membership Privacy on Aggregate Location Time-Series &ndash; congrats Apostolos!
 -	Our NDSS'18 paper on membership inference against aggregate location time series was runner-up for the [2019 INRIA-CNIL Privacy Protection Award](https://www.cnil.fr/en/inria-and-cnil-award-2019-privacy-protection-prize-european-research-team)
--	Paper accepted at [IEEE SafeThings 2020](https://www.ieee-security.org/TC/SPW2020/SafeThings/): On the Feasibility of Acoustic Attacks Using Commodity Smart Devices ([preprint](https://arxiv.org/abs/2001.07157)) &ndash; congrats Matt!
--	Three papers accepted at [ICWSM 2020](https://icwsm.org/): 1) "And We Will Fight For Our Race!" A Measurement Study of Genetic Testing Conversations on Reddit and 4chan, 2) Characterizing the Use of Images in State-Sponsored Information Warfare Operations by Russian Trolls on Twitter, 3) Raiders of the Lost Kek: 3.5 Years of Augmented 4chan Posts from the Politically Incorrect Board -- congrats Alexandros, Antonis, and Savvas!  
+-	Three papers accepted at [ICWSM 2020](https://icwsm.org/): congrats Alexandros, Antonis, and Savvas!  
 -	Joined the PC of [S&P 2021](https://www.ieee-security.org/TC/SP2021/)
