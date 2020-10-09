@@ -23,6 +23,11 @@ Antonis Papasavva, Savvas Zannettou, Emiliano De Cristofaro, Gianluca Stringhini
 14th International AAAI Conference on Web and Social Media (ICWSM 2020)  
 [pdf](https://arxiv.org/pdf/2001.07487.pdf){: .btn--danger}{:target="_blank"} [video](https://www.youtube.com/watch?v=XtqE6ztLK6U){: .btn--danger}{:target="_blank"}  
 
+Alexandros Mittos, Savvas Zannettou, Jeremy Blackburn, and Emiliano De Cristofaro  
+**Analyzing Genetic Testing Discourse on the Web Through the Lens of Twitter, Reddit, and 4chan**  
+ACM Transactions on the Web (TWEB), Volume 13, Issue 4, August 2020  
+[pdf](https://emilianodc.com/PAPERS/tweb20.pdf){: .btn--danger}{:target="_blank"}  
+
 Savvas Zannettou, Barry Bradlyn, Tristan Caulfield, Emiliano De Cristofaro, Gianluca Stringhini, and Jeremy Blackburn  
 **Characterizing the Use of Images in State-Sponsored Information Warfare Operations by Russian Trolls on Twitter**  
 14th International AAAI Conference on Web and Social Media (ICWSM 2020)  

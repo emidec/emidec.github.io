@@ -22,7 +22,7 @@ Manoel Horta Ribeiro, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro Gi
 
 Alexandros Mittos, Savvas Zannettou, Jeremy Blackburn, and Emiliano De Cristofaro  
 **Analyzing Genetic Testing Discourse on the Web Through the Lens of Twitter, Reddit, and 4chan**  
-ACM Transactions on the Web (TWEB), to appear  
+ACM Transactions on the Web (TWEB), Volume 13, Issue 4, August 2020  
 [pdf](https://emilianodc.com/PAPERS/tweb20.pdf){: .btn--danger}{:target="_blank"}  
 
 Apostolos Pyrgelis, Carmela Troncoso, and Emiliano De Cristofaro  
