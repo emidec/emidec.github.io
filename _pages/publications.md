@@ -12,7 +12,17 @@ This is the list of all my peer-reviewed publications ordered by year. You can a
 
 ### 2021
 
-Manoel Horta Ribeiro, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro Gianluca Stringhini, Summer Long, Stephanie Greenberg, Savvas Zannettou  
+Chen Ling, Ihab AbuHilal, Jeremy Blackburn, Emiliano De Cristofaro, Savvas Zannettou, Gianluca Stringhini  
+**Dissecting the Meme Magic: Understanding Indicators of Virality in Image Memes**  
+24th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2021), to appear  
+
+Yuping Wang, Fatemeh Tahmasbi, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro, David Magerman, Savvas Zannettou, and Gianluca Stringhini  
+**Understanding the Use of Fauxtography on Social Media**  
+15th International AAAI Conference on Web and Social Media (ICWSM 2021), to appear  
+[pre-print](https://arxiv.org/pdf/2009.11792.pdf){: .btn--danger}{:target="_blank"}  
+
+
+Manoel Horta Ribeiro, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro Gianluca Stringhini, Summer Long, Stephanie Greenberg, and Savvas Zannettou  
 **The Evolution of the Manosphere Across the Web**  
 15th International AAAI Conference on Web and Social Media (ICWSM 2021), to appear  
 [pre-print](https://arxiv.org/pdf/2001.07600.pdf){: .btn--danger}{:target="_blank"}  
