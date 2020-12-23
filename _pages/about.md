@@ -25,11 +25,12 @@ My research has been published at top-tier conferences such as IEEE S&P, NDSS, A
  
 During my PhD, I also spent a few months on research internships at NEC in Heidelberg (2008), INRIA in Grenoble (2009), and Nokia in Lausanne (2010).
 
+<!--For a list of recent papers on machine learning and privacy, please see (https://emilianodc.com/privacyML) https://emilianodc.com/idrama-->
+
 ### Recent News
--	Another paper accepted at [ICWSM 2021](https://www.icwsm.org/): "Understanding the Use of Fauxtography on Social Media" &ndash; congrats Yuping et al.!
-- Excited to be part of be a co-lead of [REPHRAIN](https://www.rephrain.ac.uk/), a new research center supported by a £7M UKRI investment on Protecting Citizens Online, funding cutting-edge research on privacy and online harms
+-	Paper accepted at [CSCW 2021](http://cscw.acm.org/2021): "Dissecting the Meme Magic: Understanding Indicators of Virality in Image Memes" &ndash; congrats Cici!
 -	With Preslav Nakov, I will be co-chairing the 2nd Conference on Truth and Trust Online ([TTO 2020](http://truthandtrustonline.com/)); submit great papers and talk proposals!
--	Paper accepted at [ICWSM 2021](https://www.icwsm.org/): "The Evolution of the Manosphere Across the Web" &ndash; congrats Manoel!
+-	Paper accepted at [ICWSM 2021](https://www.icwsm.org/): "The Evolution of the Manosphere Across the Web" & ndash; congrats Manoel!
 -	Paper accepted at [ACM TWEB](https://dl.acm.org/journal/tweb): "Analyzing Genetic Testing Discourse on the Web Through the Lens of Twitter, Reddit, and 4chan" &ndash; congrats Alex!
 -	I wrote a "review" paper on privacy in machine learning with the Turing, it's now available [here](https://arxiv.org/abs/2005.08679)
 -	I will be on sabbatical in 2020/21
