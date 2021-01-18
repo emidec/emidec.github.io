@@ -28,6 +28,7 @@ During my PhD, I also spent a few months on research internships at NEC in Heide
 <!--For a list of recent papers on machine learning and privacy, please see (https://emilianodc.com/privacyML) https://emilianodc.com/idrama-->
 
 ### Recent News
+-	Paper studying QAnon on Voat accepted at [TheWebConf 2021](https://www2021.thewebconf.org/) &ndash; congrats Antonis!
 -	We have created a Slack for cybersafety researchers &ndash; see [here](https://idrama.science/cybersafety-slack) if you'd like to join
 -	Paper accepted at [CSCW 2021](http://cscw.acm.org/2021): "Dissecting the Meme Magic: Understanding Indicators of Virality in Image Memes" &ndash; congrats Cici and Ihab!
 -	Another paper accepted at [ICWSM 2021](https://www.icwsm.org/): "Understanding the Use of Fauxtography on Social Media" – congrats Yuping and Fati!

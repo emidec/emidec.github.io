@@ -12,6 +12,12 @@ This is the list of all my peer-reviewed publications ordered by year. You can a
 
 ### 2021
 
+Antonis Papasavva, Jeremy Blackburn, Gianluca Stringhini, Savvas Zannettou, Emiliano De Cristofaro  
+**"Is it a Qoincidence?": A First Step Towards Understanding and Characterizing the QAnon Movement on Voat.co**  
+30th The Web Conference (WWW 2021), to appear  
+[pre-print](https://arxiv.org/pdf/2009.04885.pdf){: .btn--danger}{:target="_blank"}  
+
+
 Chen Ling, Ihab AbuHilal, Jeremy Blackburn, Emiliano De Cristofaro, Savvas Zannettou, Gianluca Stringhini  
 **Dissecting the Meme Magic: Understanding Indicators of Virality in Image Memes**  
 24th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2021), to appear  
@@ -99,7 +105,7 @@ Luca Melis, Congzheng Song, Emiliano De Cristofaro, and Vitaly Shmatikov
 
 Vincent Primault, Vasileios Lampos, Ingemar Cox, and Emiliano De Cristofaro  
 **Privacy-Preserving Crowd-Sourcing of Web Searches with Private Data Donor**  
-The Web Conference (WWW 2019)  
+28th The Web Conference (WWW 2019)  
 [pdf](https://emilianodc.com/PAPERS/pdd-www19.pdf){: .btn--danger}{:target="_blank"}
 
 
