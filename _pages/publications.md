@@ -14,24 +14,24 @@ This is the list of all my peer-reviewed publications ordered by year. You can a
 
 Antonis Papasavva, Jeremy Blackburn, Gianluca Stringhini, Savvas Zannettou, Emiliano De Cristofaro  
 **"Is it a Qoincidence?": A First Step Towards Understanding and Characterizing the QAnon Movement on Voat.co**  
-30th The Web Conference (WWW 2021), to appear  
+30th The Web Conference (WWW 2021)  
 [pre-print](https://arxiv.org/pdf/2009.04885.pdf){: .btn--danger}{:target="_blank"}
 
 Chen Ling, Ihab AbuHilal, Jeremy Blackburn, Emiliano De Cristofaro, Savvas Zannettou, Gianluca Stringhini  
 **Dissecting the Meme Magic: Understanding Indicators of Virality in Image Memes**  
-24th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2021), to appear  
+24th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2021)  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [Input Mag](https://www.inputmag.com/culture/viral-meme-ai-study-bernie-sanders)
 
 Manoel Horta Ribeiro, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro Gianluca Stringhini, Summer Long, Stephanie Greenberg, and Savvas Zannettou  
 **The Evolution of the Manosphere Across the Web**  
-15th International AAAI Conference on Web and Social Media (ICWSM 2021), to appear  
+15th International AAAI Conference on Web and Social Media (ICWSM 2021)  
 [pre-print](https://arxiv.org/pdf/2001.07600.pdf){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [Newsweek](https://www.newsweek.com/manosphere-incel-communities-online-more-toxic-data-research-shows-1486943), [MIT Tech](https://www.technologyreview.com/s/615155/the-manosphere-is-getting-more-toxic-as-angry-men-join-the-incels/), [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-7997085/Men-internet-extreme-toxic-abusive-according-study.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
 
 
 Yuping Wang, Fatemeh Tahmasbi, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro, David Magerman, Savvas Zannettou, and Gianluca Stringhini  
 **Understanding the Use of Fauxtography on Social Media**  
-15th International AAAI Conference on Web and Social Media (ICWSM 2021), to appear  
+15th International AAAI Conference on Web and Social Media (ICWSM 2021)  
 [pre-print](https://arxiv.org/pdf/2009.11792.pdf){: .btn--danger}{:target="_blank"}  
 
 
