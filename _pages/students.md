@@ -10,7 +10,7 @@ author_profile: true
 -	[Antonis Papasavva](https://antonispapasavva.github.io/) (since September 2019)
 -	[Mohammad Naseri](https://mohammadnaseri.github.io/) (since November 2019)
 - [Alexandros Efstratiou]() (since September 2020)
-- [Georgi Ganev]() (since October 2020)
+- [Georgi Ganev](https://ganevgv.github.io/) (since October 2020, part-time)
 
 ## Alumni
 -  [Luca Melis](https://lucamelis.github.io/) (Sep 2014--Aug 2018); now Research Scientist at Amazon New York
