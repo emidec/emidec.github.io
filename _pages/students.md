@@ -9,7 +9,7 @@ author_profile: true
 - [Bristena Oprisanu](https://www.bristenaop.com/) (since September 2017)
 -	[Antonis Papasavva](https://antonispapasavva.github.io/) (since September 2019)
 -	[Mohammad Naseri](https://mohammadnaseri.github.io/) (since November 2019)
-- [Alexandros Efstratiou]() (since September 2020)
+- [Alexandros Efstratiou](https://alefstrat.github.io/) (since September 2020)
 - [Georgi Ganev](https://ganevgv.github.io/) (since October 2020, part-time)
 
 ## Alumni
