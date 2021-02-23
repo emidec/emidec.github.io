@@ -6,7 +6,7 @@ author_profile: true
 I am (Full) Professor of Security and Privacy Enhancing Technologies at University College London ([UCL](http://www.ucl.ac.uk/)). I am affiliated with the [Computer Science Department](http://www.cs.ucl.ac.uk/) and currently serve as Head of the [Information Security Research Group](http://sec.cs.ucl.ac.uk/) and Director of the Academic Center of Excellence in Cyber Security Research ([ACE-CSR](http://sec.cs.ucl.ac.uk/ace_csr/)). 
 Before joining UCL in 2013, I was a Research Scientist at [Xerox PARC](http://www.parc.com/).
 
-I am also a Faculty Fellow at the [Alan Turing Institute](https://emilianodc.com/index.html) and on the Technology Advisory Panel at the UK Information Commissioner's Office ([ICO](https://ico.org.uk/)). In 2016, I co-founded the International Data-driven Research for Advanced Modeling and Analysis Lab ([iDramaLab](https://idrama.science/)).
+I am also a Faculty Fellow at the [Alan Turing Institute](https://emilianodc.com/index.html) and on the Technology Advisory Panel at the UK Information Commissioner's Office ([ICO](https://ico.org.uk/)). In 2016, I co-founded the International Data-driven Research for Advanced Modeling and Analysis Lab ([iDRAMA Lab](https://idrama.science/)).
 
 ### Research
 
