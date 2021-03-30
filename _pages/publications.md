@@ -20,7 +20,7 @@ Antonis Papasavva, Jeremy Blackburn, Gianluca Stringhini, Savvas Zannettou, and 
 
 
 
-Manoel Horta Ribeiro, Shagun Jhaver, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, and Robert West
+Manoel Horta Ribeiro, Shagun Jhaver, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, and Robert West  
 **Does Platform Migration Compromise Content Moderation? Evidence from r/The_Donald and r/Incels**  
 24th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2021)  
 [pre-print](https://arxiv.org/pdf/2010.10397.pdf){: .btn--danger}{:target="_blank"}  

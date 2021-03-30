@@ -7,7 +7,7 @@ author_profile: true
 
 ## Cybersafety
 
-This is the list of my publications roughly related to understanding and countering **cybersafety** issues using measurement studies and data science. Many of these papers are written in collaboration with the [iDramaLab](https://idrama.science){:target="_blank"} crew and were in part funded by the [ENCASE](https://encase.socialcomputing.eu/){:target="_blank"} project.
+This is a non-exxaustive list of my publications related to understanding and countering **cybersafety** and other socio-technical issues. Many of these papers are written in collaboration with the [iDRAMA Lab](https://idrama.science) crew and were in part funded by the EU through the [ENCASE](https://encase.socialcomputing.eu/) project.
 
 ### 2021
 
@@ -17,7 +17,7 @@ Antonis Papasavva, Jeremy Blackburn, Gianluca Stringhini, Savvas Zannettou, and 
 [pre-print](https://arxiv.org/pdf/2009.04885.pdf){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [Wired](https://www.wired.com/story/qanon-facebook-deplatforming/), [Echosec](https://www.echosec.net/blog/what-is-voat), [The Daily Beast](https://www.thedailybeast.com/another-blow-for-qanon-as-voat-announces-a-christmas-shutdown)  
 
-Manoel Horta Ribeiro, Shagun Jhaver, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, and Robert West
+Manoel Horta Ribeiro, Shagun Jhaver, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, and Robert West  
 **Does Platform Migration Compromise Content Moderation? Evidence from r/The_Donald and r/Incels**  
 24th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2021)  
 [pre-print](https://arxiv.org/pdf/2010.10397.pdf){: .btn--danger}{:target="_blank"}  
