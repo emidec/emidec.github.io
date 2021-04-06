@@ -21,10 +21,12 @@ author_profile: true
 -   [Cybersafety in Modern Online Social Networks](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17372), Dagstuhl Seminar, Germany, September 10--13,2017
 
 ## Program Committee Member
--	[IEEE S&P 2021](https://www.ieee-security.org/TC/SP2021/), San Francisco, CA, May 2021
--	[WWW Security & Privacy 2020](https://www2020.thewebconf.org/), Taipei, Taiwan, April 2020  
--   [Usenix Security 2020](https://www.usenix.org/conference/usenixsecurity20), Boston, MA, August 2020
--   [ACM SIGMETRICS](http://www.sigmetrics.org/sigmetrics2020/), Boston, MA, June 2020
+-	[IEEE S&P 2022](https://www.ieee-security.org/TC/SP2022/), Virtual, May 2022
+-   [ACM SIGMETRICS 2021](http://www.sigmetrics.org/sigmetrics2021/), Virtual, June 2021
+-	[IEEE S&P 2021](https://www.ieee-security.org/TC/SP2021/), Virtual, May 2021
+-	[WWW Security & Privacy 2020](https://www2020.thewebconf.org/), Virtual, April 2020  
+-   [Usenix Security 2020](https://www.usenix.org/conference/usenixsecurity20), Virtual, August 2020
+-   [ACM SIGMETRICS 2020](http://www.sigmetrics.org/sigmetrics2020/), Virtual, June 2020
 -   [NDSS 2020](https://www.ndss-symposium.org/ndss2020/), San Diego, CA, USA, February 2020
 -   [IEEE S&P 2020](https://www.ieee-security.org/TC/SP2020/), San Jose, CA, May 2020
 -   [ACM CCS 2019](https://www.sigsac.org/ccs/CCS2019/), London, UK, November 2019
@@ -72,13 +74,17 @@ author_profile: true
 -   [CANS 2011](http://www.infosec.sdu.edu.cn/cans2011/), Sanya, China, December 10-12, 2011
 -   [ISC 2010](http://math.fau.edu/~isc2010/), Boca Raton, Florida, October 25-28, 2010
 
-## Editor
+## Associate Editor
 
 -   Journal of Cybersecurity ([JCS](http://cybersecurity.oxfordjournals.org/)), Cryptography and Associated Topics Area Editor, 2015-2018
+-   ACM Transactions on Privacy and Security ([ACM TOPS](https://dl.acm.org/journal/tops)), 2021-
 
 
 ## PhD Committee and Mentorship
 
+-   Ania Piotrowska, UCL, PhD Committee, 2020
+-   Tejas Kulkarni, University of Warwick, PhD Committee, 2019
+-   Marc Roeschlin, Oxford University, PhD Committee, 2018
 -   Ingolf Becker, UCL, PhD Committee, 2018
 -   Marc Roeschlin, Oxford University, PhD Committee, 2018
 -   Manu Drijvers, IBM/ETH, PhD Committee, 2018
