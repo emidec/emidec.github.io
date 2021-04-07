@@ -34,7 +34,7 @@ Chen Ling, Ihab AbuHilal, Jeremy Blackburn, Emiliano De Cristofaro, Savvas Zanne
 Max Aliapoulios, Emmi Bevensee, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, and Savvas Zannettou  
 **A Large Open Dataset from the Parler Social Network**  
 15th International AAAI Conference on Web and Social Media (ICWSM 2021)  
-[pre-print](https://arxiv.org/pdf/2001.07600.pdf){: .btn--danger}{:target="_blank"}  
+[pre-print](https://arxiv.org/pdf/2101.03820.pdf){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [USA Today](https://eu.usatoday.com/in-depth/news/2021/02/01/civil-war-during-trumps-pre-riot-speech-parler-talk-grew-darker/4297165001/), [The Conversation](https://theconversation.com/does-deplatforming-work-to-curb-hate-speech-and-calls-for-violence-3-experts-in-online-communications-weigh-in-153177), [Business Insider-1](https://www.businessinsider.com/parler-shutdown-by-amazon-might-not-be-fatal-to-the-social-network-2021-1), [Business Insider-2](https://www.businessinsider.com/parler-app-hotbed-radicalization-extremism-2021-1)
 
 Manoel Horta Ribeiro, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro Gianluca Stringhini, Summer Long, Stephanie Greenberg, and Savvas Zannettou  
