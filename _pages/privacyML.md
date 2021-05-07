@@ -9,6 +9,11 @@ author_profile: true
 
 This is the list of my publications roughly related to **privacy** in **machine learning**
 
+### 2021
+Emiliano De Cristofaro  
+**A Critical Overview of Privacy in Machine Learning**  
+IEEE Security & Privacy Magazine, Volume 19, Issue 4, May 2021  
+
 ### 2020
 Apostolos Pyrgelis, Carmela Troncoso, and Emiliano De Cristofaro  
 **Measuring Membership Privacy on Aggregate Location Time-Series**  
