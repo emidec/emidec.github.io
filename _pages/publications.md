@@ -12,6 +12,10 @@ This is the list of all my peer-reviewed publications ordered by year. You can a
 
 ### 2021
 
+Emiliano De Cristofaro  
+**A Critical Overview of Privacy in Machine Learning**  
+IEEE Security & Privacy Magazine, Volume 19, Issue 4, May 2021. 
+
 Antonis Papasavva, Jeremy Blackburn, Gianluca Stringhini, Savvas Zannettou, and Emiliano De Cristofaro  
 **"Is it a Qoincidence?": An Exploratory Study of QAnon on Voat**  
 30th The Web Conference (WWW 2021)  
