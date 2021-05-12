@@ -9,18 +9,30 @@ author_profile: true
 
 This is the list of my publications roughly related to **privacy** in **machine learning**
 
-### 2021
+Bristena Oprisanu, Georgi Ganev, Emiliano De Cristofaro  
+**Measuring Utility and Privacy of Synthetic Genomic Data**  
+ArXiv 2102.03314  
+[pre-print](https://arxiv.org/pdf/2102.03314){: .btn--danger}{:target="_blank"} 
+
+Yugeng Liu, Rui Wen, Xinlei He, Ahmed Salem, Zhikun Zhang, Michael Backes, Emiliano De Cristofaro, Mario Fritz, Yang Zhang  
+**ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models**  
+ArXiv 2102.02551  
+[pre-print](https://arxiv.org/pdf/2102.02551){: .btn--danger}{:target="_blank"} 
+
+
+**Toward Robustness and Privacy in Federated Learning: Experimenting with Local and Central Differential Privacy**  
+ArXiv 2102.03314  
+[pre-print](https://arxiv.org/pdf/2102.03314){: .btn--danger}{:target="_blank"} 
+
 Emiliano De Cristofaro  
 **A Critical Overview of Privacy in Machine Learning**  
-IEEE Security & Privacy Magazine, Volume 19, Issue 4, May 2021  
+IEEE Security & Privacy Magazine, Volume 19, Issue 4, June 2021  
+[draft](https://arxiv.org/pdf/2005.08679.pdf){: .btn--danger}{:target="_blank"} 
 
-### 2020
 Apostolos Pyrgelis, Carmela Troncoso, and Emiliano De Cristofaro  
 **Measuring Membership Privacy on Aggregate Location Time-Series**  
 To appear in ACM SIGMETRICS 2020  
 [pdf](https://arxiv.org/pdf/1902.07456.pdf){: .btn--danger}{:target="_blank"} [video](https://www.youtube.com/watch?v=8dFU9Ug-Hsg){: .btn--danger}{:target="_blank"}  
-
-### 2019
 
 Luca Melis, Congzheng Song, Emiliano De Cristofaro, and Vitaly Shmatikov  
 **Exploiting Unintended Feature Leakage in Collaborative Learning**  
@@ -40,8 +52,6 @@ Proceedings on Privacy Enhancing Technologies, Vol. 2019, Issue 1 (PoPETS 2019)
 [pdf](https://arxiv.org/pdf/1705.07663.pdf){: .btn--danger}{:target="_blank"}
 
 
-### 2018
-
 Luca Melis, Apostolos Pyrgelis, Emiliano De Cristofaro  
 **On Collaborative Predictive Blacklisting**  
 ACM SIGCOMM's Computer Communication Review (CCR), Vol. 48, No. 5, Oct. 2018  
@@ -60,8 +70,6 @@ Apostolos Pyrgelis, Carmela Troncoso, Emiliano De Cristofaro
 [distinguished paper award](https://www.ndss-symposium.org/ndss2018/){: .btn--success}{:target="_blank"} [INRIA-CNIL Privacy Protection Award Runner-up](https://www.cnil.fr/en/inria-and-cnil-award-2019-privacy-protection-prize-european-research-team){: .btn--success}{:target="_blank"}  
 [full version](https://arxiv.org/pdf/1708.06145.pdf){: .btn--danger}{:target="_blank"} [blog](https://www.benthamsgaze.org/2018/10/02/on-location-time-and-membership-studying-how-aggregate-location-data-can-harm-users-privacy/){: .btn--danger}{:target="_blank"}  [video](https://www.youtube.com/watch?v=hwGAE5NqAP0){: .btn--danger}{:target="_blank"}   
 
-### 2017
-
 Gergely Acs, Luca Melis, Claude Castelluccia, Emiliano De Cristofaro  
 **Differentially Private Mixture of Generative Neural Networks**  
 17th IEEE International Conference on Data Mining (ICDM 2017)  
@@ -74,18 +82,12 @@ Proceedings on Privacy Enhancing Technologies, Vol. 2017, Issue 4 (PoPETS 2017)
 [pdf](https://arxiv.org/pdf/1703.00366.pdf){: .btn--danger}{:target="_blank"}
 
 
-
-### 2016
-
 Luca Melis, George Danezis, Emiliano De Cristofaro  
 **Efficient Private Statistics with Succinct Sketches**  
 23rd Network and Distributed System Security Symposium (NDSS 2016)  
 [2017 Data Protection by Design Award](http://apdcat.gencat.cat/en/actualitat/premi/2017-/index.html){: .btn--success}{:target="_blank"} (Catalan Data Protection authority)  
 [pdf](http://arxiv.org/pdf/1508.06110.pdf){: .btn--danger}{:target="_blank"} [blog](https://www.benthamsgaze.org/2016/03/04/privately-gathering-statistics-and-training-simple-models/){: .btn--danger}{:target="_blank"}
 
-
-
-### 2015
 
 Julien Freudiger, Emiliano De Cristofaro, Alex Brito  
 **Controlled Data Sharing for Collaborative Predictive Blacklisting**  

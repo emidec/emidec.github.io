@@ -9,8 +9,6 @@ author_profile: true
 
 This is a non-exxaustive list of my publications related to understanding and countering **cybersafety** and other socio-technical issues. Many of these papers are written in collaboration with the [iDRAMA Lab](https://idrama.science) crew and were in part funded by the EU through the [ENCASE](https://encase.socialcomputing.eu/) project.
 
-### 2021
-
 Periwinkle Doerfler, Andrea Forte, Emiliano De Cristofaro, Gianluca Stringhini, Jeremy Blackburn, and Damon McCoy  
 **"I'm a Professor, which isn't usually a dangerous job": Internet-Facilitated Harassment and its Impact on Researchers**  
 24th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2021)  
@@ -52,7 +50,6 @@ Yuping Wang, Fatemeh Tahmasbi, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cris
 [pre-print](https://arxiv.org/pdf/2009.11792.pdf){: .btn--danger}{:target="_blank"}  
 
 
-### 2020
 Antonis Papasavva, Savvas Zannettou, Emiliano De Cristofaro, Gianluca Stringhini, Jeremy Blackburn  
 **Raiders of the Lost Kek: 3.5 Years of Augmented 4chan Posts from the Politically Incorrect Board**  
 14th International AAAI Conference on Web and Social Media (ICWSM 2020)  
@@ -75,7 +72,6 @@ Alexandros Mittos, Savvas Zannettou, Jeremy Blackburn, and Emiliano De Cristofar
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [The Times](https://www.thetimes.co.uk/article/genetic-tests-for-ancestry-being-hijacked-by-racists-ltwr72f6c), [StatNews](https://www.statnews.com/2019/08/02/he-studies-jerks-on-the-internet-his-latest-project-researching-how-they-talk-about-genetic-testing/)
 
 
-### 2019
 Enrico Mariconti, Guillermo Suarez-Tangil, Jeremy Blackburn, Emiliano De Cristofaro, Nicolas Kourtellis, Ilias Leontiadis, Jordi Luque Serrano, and Gianluca Stringhini  
 **"You Know What to Do": Proactive Detection of YouTube Videos Targeted by Coordinated Hate Attacks**  
 22nd ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2019)  
@@ -99,7 +95,6 @@ Savvas Zannettou, Tristan Caulfield, Emiliano De Cristofaro, Michael Sirivianos,
 [pdf](https://arxiv.org/pdf/1801.09288){: .btn--danger}{:target="_blank"}  
 
 
-### 2018
 Juan Echeverria, Emiliano De Cristofaro, Nicolas Kourtellis, Ilias Leontiadis, Gianluca Stringhini, Shi Zhou  
 **LOBO -- Evaluation of Generalization Deficiencies in Twitter Bot Classifiers**  
 34th Annual Computer Security Applications Conference (ACSAC 2018)  
@@ -125,7 +120,6 @@ Savvas Zannettou, Barry Bradlyn, Emiliano De Cristofaro, Haewoon Kwak, Michael S
 [pdf](https://arxiv.org/pdf/1802.05287.pdf){: .btn--danger}{:target="_blank"}
 
 
-### 2017
 Savvas Zannettou, Tristan Caulfield, Emiliano De Cristofaro, N. Kourtellis, I. Leontiadis, M. Sirivianos, Gianluca Stringhini, Jeremy Blackburn  
 **The Web Centipede: Understanding How Web Communities Influence Each Other Through the Lens of Mainstream and Alternative News Sources**  
 17th ACM Internet Measurement Conference (IMC 2017)  
@@ -167,14 +161,14 @@ Despoina Chatzakou, Nicolas Kourtellis, Jeremy Blackburn, Emiliano De Cristofaro
 [pdf](https://arxiv.org/pdf/1702.07784.pdf){: .btn--danger}{:target="_blank"}
 
 
-### 2016
+
 Rishab Nithyanand, Sheharbano Khattak, Mobin Javed, Narseo Vallina-Rodriguez, Marjan Falahrastegar, Julia E. Powles, Emiliano De Cristofaro, Hamed Haddadi, Steven J. Murdoch  
 **Ad-Blocking and Counter Blocking: A Slice of the Arms Races**  
 6th USENIX Workshop on Free and Open Communications on the Internet (FOCI 2016)  
 [pdf](http://arxiv.org/pdf/1605.05077.pdf){: .btn--danger}{:target="_blank"}
 
 
-### 2014
+
 Abdelberi Chaabane, Terence Chen, Mathieu Cunche, Emiliano De Cristofaro, Arik Friedman, Dali Kaafar  
 **Censorship in the Wild: Analyzing Web Filtering in Syria**  
 14th ACM Internet Measurement Conference (IMC 2014)  
