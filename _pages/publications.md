@@ -12,6 +12,11 @@ This is the list of all my peer-reviewed publications ordered by year. You can a
 
 ### 2021
 
+Periwinkle Doerfler, Andrea Forte, Emiliano De Cristofaro, Gianluca Stringhini, Jeremy Blackburn, and Damon McCoy  
+**"I'm a Professor, which isn't usually a dangerous job": Internet-Facilitated Harassment and its Impact on Researchers**  
+24th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2021)  
+[pre-print](https://arxiv.org/pdf/2104.11145.pdf){: .btn--danger}{:target="_blank"}  
+
 Emiliano De Cristofaro  
 **A Critical Overview of Privacy in Machine Learning**  
 IEEE Security & Privacy Magazine, Volume 19, Issue 4, May 2021  

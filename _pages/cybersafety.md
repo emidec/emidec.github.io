@@ -11,6 +11,11 @@ This is a non-exxaustive list of my publications related to understanding and co
 
 ### 2021
 
+Periwinkle Doerfler, Andrea Forte, Emiliano De Cristofaro, Gianluca Stringhini, Jeremy Blackburn, and Damon McCoy  
+**"I'm a Professor, which isn't usually a dangerous job": Internet-Facilitated Harassment and its Impact on Researchers**  
+24th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2021)  
+[pre-print](https://arxiv.org/pdf/2104.11145.pdf){: .btn--danger}{:target="_blank"}  
+
 Antonis Papasavva, Jeremy Blackburn, Gianluca Stringhini, Savvas Zannettou, and Emiliano De Cristofaro  
 **"Is it a Qoincidence?": An Exploratory Study of QAnon on Voat**  
 30th The Web Conference (WWW 2021)  
