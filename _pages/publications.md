@@ -69,7 +69,7 @@ ACM Transactions on the Web (TWEB), Volume 13, Issue 4, August 2020
 
 Apostolos Pyrgelis, Carmela Troncoso, and Emiliano De Cristofaro  
 **Measuring Membership Privacy on Aggregate Location Time-Series**  
-ACM SIGMETRICS 2020  
+ACM International Conference on Measurement and Modeling of Computer Systems (SIGMETRICS 2020)  
 [pdf](https://arxiv.org/pdf/1902.07456.pdf){: .btn--danger}{:target="_blank"} [video](https://www.youtube.com/watch?v=8dFU9Ug-Hsg){: .btn--danger}{:target="_blank"}  
 
 Matt Wixey, Shane Johnson, and Emiliano De Cristofaro  
