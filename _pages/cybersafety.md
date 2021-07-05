@@ -14,6 +14,12 @@ Periwinkle Doerfler, Andrea Forte, Emiliano De Cristofaro, Gianluca Stringhini, 
 24th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2021)  
 [pre-print](https://arxiv.org/pdf/2104.11145.pdf){: .btn--danger}{:target="_blank"}  
 
+Kostantinos Papadamou, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, and Michael Sirivianos  
+**"How over is it?" Understanding the Incel Community on YouTube**  
+24th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2021)  
+[pre-print](https://arxiv.org/pdf/2001.08293){: .btn--danger}{:target="_blank"}  
+
+
 Antonis Papasavva, Jeremy Blackburn, Gianluca Stringhini, Savvas Zannettou, and Emiliano De Cristofaro  
 **"Is it a Qoincidence?": An Exploratory Study of QAnon on Voat**  
 30th The Web Conference (WWW 2021)  
