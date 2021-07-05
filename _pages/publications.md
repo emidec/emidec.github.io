@@ -22,6 +22,10 @@ Kostantinos Papadamou, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofar
 24th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2021)  
 [pre-print](https://arxiv.org/pdf/2001.08293){: .btn--danger}{:target="_blank"}  
 
+Shiza Ali, Mohammad Hammas Saeed, Esraa Aldreabi, Jeremy Blackburn, Emiliano De Cristofaro, Savvas Zannettou, and Gianluca Stringhini  
+**Understanding the Effect of Deplatforming on Social Networks**  
+13th ACM Web Science Conference (ACM WebSci 2021)
+[pdf](https://dl.acm.org/doi/pdf/10.1145/3447535.3462637){: .btn--danger}{:target="_blank"}  
 
 Emiliano De Cristofaro  
 **A Critical Overview of Privacy in Machine Learning**  
@@ -30,7 +34,7 @@ IEEE Security & Privacy Magazine, Volume 19, Issue 4, May 2021
 Antonis Papasavva, Jeremy Blackburn, Gianluca Stringhini, Savvas Zannettou, and Emiliano De Cristofaro  
 **"Is it a Qoincidence?": An Exploratory Study of QAnon on Voat**  
 30th The Web Conference (WWW 2021)  
-[pre-print](https://arxiv.org/pdf/2009.04885.pdf){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2009.04885.pdf){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [Wired](https://www.wired.com/story/qanon-facebook-deplatforming/), [Echosec](https://www.echosec.net/blog/what-is-voat), [The Daily Beast](https://www.thedailybeast.com/another-blow-for-qanon-as-voat-announces-a-christmas-shutdown)  
 
 
@@ -49,20 +53,20 @@ Chen Ling, Ihab AbuHilal, Jeremy Blackburn, Emiliano De Cristofaro, Savvas Zanne
 Max Aliapoulios, Emmi Bevensee, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, and Savvas Zannettou  
 **A Large Open Dataset from the Parler Social Network**  
 15th International AAAI Conference on Web and Social Media (ICWSM 2021)  
-[pre-print](https://arxiv.org/pdf/2101.03820.pdf){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2101.03820.pdf){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [USA Today](https://eu.usatoday.com/in-depth/news/2021/02/01/civil-war-during-trumps-pre-riot-speech-parler-talk-grew-darker/4297165001/), [The Conversation](https://theconversation.com/does-deplatforming-work-to-curb-hate-speech-and-calls-for-violence-3-experts-in-online-communications-weigh-in-153177), [Business Insider-1](https://www.businessinsider.com/parler-shutdown-by-amazon-might-not-be-fatal-to-the-social-network-2021-1), [Business Insider-2](https://www.businessinsider.com/parler-app-hotbed-radicalization-extremism-2021-1)
 
 Manoel Horta Ribeiro, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro Gianluca Stringhini, Summer Long, Stephanie Greenberg, and Savvas Zannettou  
 **The Evolution of the Manosphere Across the Web**  
 15th International AAAI Conference on Web and Social Media (ICWSM 2021)  
-[pre-print](https://arxiv.org/pdf/2001.07600.pdf){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2001.07600.pdf){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [Newsweek](https://www.newsweek.com/manosphere-incel-communities-online-more-toxic-data-research-shows-1486943), [MIT Tech](https://www.technologyreview.com/s/615155/the-manosphere-is-getting-more-toxic-as-angry-men-join-the-incels/), [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-7997085/Men-internet-extreme-toxic-abusive-according-study.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
 
 
 Yuping Wang, Fatemeh Tahmasbi, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro, David Magerman, Savvas Zannettou, and Gianluca Stringhini  
 **Understanding the Use of Fauxtography on Social Media**  
 15th International AAAI Conference on Web and Social Media (ICWSM 2021)  
-[pre-print](https://arxiv.org/pdf/2009.11792.pdf){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2009.11792.pdf){: .btn--danger}{:target="_blank"}  
 
 
 
