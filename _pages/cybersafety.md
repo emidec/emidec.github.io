@@ -21,7 +21,7 @@ Kostantinos Papadamou, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofar
 
 Shiza Ali, Mohammad Hammas Saeed, Esraa Aldreabi, Jeremy Blackburn, Emiliano De Cristofaro, Savvas Zannettou, and Gianluca Stringhini  
 **Understanding the Effect of Deplatforming on Social Networks**  
-13th ACM Web Science Conference (ACM WebSci 2021)
+13th ACM Web Science Conference (ACM WebSci 2021)  
 [pdf](https://dl.acm.org/doi/pdf/10.1145/3447535.3462637){: .btn--danger}{:target="_blank"}  
 
 Antonis Papasavva, Jeremy Blackburn, Gianluca Stringhini, Savvas Zannettou, and Emiliano De Cristofaro  
