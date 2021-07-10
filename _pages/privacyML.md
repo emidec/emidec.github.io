@@ -12,7 +12,7 @@ This is the list of my publications roughly related to **privacy** in **machine 
 Emiliano De Cristofaro  
 **A Critical Overview of Privacy in Machine Learning**  
 IEEE Security & Privacy Magazine, Volume 19, Issue 4, July-August 2021  
-[PDF](https://emilianodc.com/PAPERS/IEEESP2021.pdf){: .btn--danger}{:target="_blank"} 
+[pdf](https://emilianodc.com/PAPERS/IEEESP2021.pdf){: .btn--danger}{:target="_blank"} 
 
 Bristena Oprisanu, Georgi Ganev, Emiliano De Cristofaro  
 **Measuring Utility and Privacy of Synthetic Genomic Data**  

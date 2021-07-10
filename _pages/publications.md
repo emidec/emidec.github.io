@@ -15,7 +15,7 @@ This is the list of all my peer-reviewed publications ordered by year. You can a
 Emiliano De Cristofaro  
 **A Critical Overview of Privacy in Machine Learning**  
 IEEE Security & Privacy Magazine, Volume 19, Issue 4, July-August 2021  
-[PDF](https://emilianodc.com/PAPERS/IEEESP2021.pdf){: .btn--danger}{:target="_blank"} 
+[pdf](https://emilianodc.com/PAPERS/IEEESP2021.pdf){: .btn--danger}{:target="_blank"} 
 
 
 Periwinkle Doerfler, Andrea Forte, Emiliano De Cristofaro, Gianluca Stringhini, Jeremy Blackburn, and Damon McCoy  
