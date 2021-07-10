@@ -12,6 +12,12 @@ This is the list of all my peer-reviewed publications ordered by year. You can a
 
 ### 2021
 
+Emiliano De Cristofaro  
+**A Critical Overview of Privacy in Machine Learning**  
+IEEE Security & Privacy Magazine, Volume 19, Issue 4, July-August 2021  
+[PDF](https://emilianodc.com/PAPERS/IEEESP2021.pdf){: .btn--danger}{:target="_blank"} 
+
+
 Periwinkle Doerfler, Andrea Forte, Emiliano De Cristofaro, Gianluca Stringhini, Jeremy Blackburn, and Damon McCoy  
 **"I'm a Professor, which isn't usually a dangerous job": Internet-Facilitated Harassment and its Impact on Researchers**  
 24th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2021)  
@@ -26,10 +32,6 @@ Shiza Ali, Mohammad Hammas Saeed, Esraa Aldreabi, Jeremy Blackburn, Emiliano De 
 **Understanding the Effect of Deplatforming on Social Networks**  
 13th ACM Web Science Conference (ACM WebSci 2021)  
 [pdf](https://dl.acm.org/doi/pdf/10.1145/3447535.3462637){: .btn--danger}{:target="_blank"}  
-
-Emiliano De Cristofaro  
-**A Critical Overview of Privacy in Machine Learning**  
-IEEE Security & Privacy Magazine, Volume 19, Issue 4, May 2021  
 
 Antonis Papasavva, Jeremy Blackburn, Gianluca Stringhini, Savvas Zannettou, and Emiliano De Cristofaro  
 **"Is it a Qoincidence?": An Exploratory Study of QAnon on Voat**  
