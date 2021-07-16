@@ -28,8 +28,9 @@ During my PhD, I also spent a few months on research internships at NEC in Heide
 ### Personal
 I was born in Avellino, a small town in South of Italy on the green hills of [Irpinia](https://en.wikipedia.org/wiki/Irpinia). Irpinia is known for its [landscapes](https://web.unisa.it/en/campus-life/surroundings/irpinia), [medieval castles](http://www.irpinia24.it/wp/wp-content/uploads/2016/12/header.jpg), hazelnuts, [black truffles](https://www.ecoturismocampania.it/wp-content/uploads/2015/10/tartufo-nero-di-bagnoli-irpino.jpg), [torrone](http://www.italymagazine.com/sites/default/files/story/torrone.jpg), its [soccer team](https://en.wikipedia.org/wiki/U.S._Avellino_1912), and some great wines like Taurasi, Fiano di Avellino, and Greco di Tufo (which I know of only thanks to my brother [Paolo](http://tipicamente.it/curatori/paolo-de-cristofaro/) who is an amazing wine journalist).  
 
-I have spent six awesome years in California (4 in Irvine and 2 in Palo Alto), before moving to (pre-Brexit) London. I have also lived in Venice, Rome, Portsmouth, Heidelberg, Singapore, Grenoble, Lausanne, and Barcelona.  
+I have spent six awesome years in California (4 in Irvine and 2 in Palo Alto), before moving to (pre-Brexit) London. I have also lived in Venice and Rome, and briefly in Portsmouth, Heidelberg, Singapore, Grenoble, Lausanne, Tehran, and Barcelona.  
 
-In my free time, I like acting as a coffee snob and an anti-pineapple pizza radical, pretending to know about movies and world politics, remembering (not without melancholy) the times I used to surf in San Onofre, cooking (only pasta and pizza, obviously) and planning trips (sigh) with my better half Darya and little one Maya.  
+In my free time, I like acting as a coffee snob and an anti pineapple-on-pizza radical, remembering (not without melancholy) the times I used to surf in San Onofre, cooking (only pasta and pizza, obviously) and planning trips (sigh) with my better half Darya and little one Maya.  
 
-I also love languages and I am fluent in English, French, Italian (and Napolitan/Avellinese dialacts), and can utter enough words to get out of (or _in_) trouble in German, Spanish, and Farsi.
+I also love languages and I am kind of fluent in English, French, and Italian (and Napolitan/Avellinese dialacts), and can utter enough words to get out of (or _in_) trouble in German, Spanish, and Farsi.
+
