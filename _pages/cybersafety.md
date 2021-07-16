@@ -9,6 +9,19 @@ author_profile: true
 
 This is a non-exxaustive list of my publications related to understanding and countering **cybersafety** and other socio-technical issues. Many of these papers are written in collaboration with the [iDRAMA Lab](https://idrama.science) crew and were in part funded by the EU through the [ENCASE](https://encase.socialcomputing.eu/) project.
 
+
+Max Aliapoulios, Antonis Papasavva, Cameron Ballard, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou, and Jeremy Blackburn  
+**The Gospel According to Q: Understanding the QAnon Conspiracy from the Perspective of Canonical Information**  
+To appear at the 16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
+[pre-print](https://arxiv.org/abs/2101.08750){: .btn--danger}{:target="_blank"}  
+
+
+Kostantinos Papadamou, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, and Michael Sirivianos  
+**"It is just a flu": Assessing the Effect of Watch History on YouTube's Pseudoscientific Video Recommendations**  
+Conditionally accepted at the 16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
+[pre-print](https://arxiv.org/abs/2010.11638){: .btn--danger}{:target="_blank"}  
+
+
 Periwinkle Doerfler, Andrea Forte, Emiliano De Cristofaro, Gianluca Stringhini, Jeremy Blackburn, and Damon McCoy  
 **"I'm a Professor, which isn't usually a dangerous job": Internet-Facilitated Harassment and its Impact on Researchers**  
 24th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2021)  
