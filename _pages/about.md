@@ -3,10 +3,10 @@ permalink: /
 author_profile: true
 ---
 
-I am (Full) Professor of Security and Privacy Enhancing Technologies at University College London ([UCL](http://www.ucl.ac.uk/)). I am affiliated with the [Computer Science Department](http://www.cs.ucl.ac.uk/) and currently serve as Head of the [Information Security Research Group](http://sec.cs.ucl.ac.uk/) and Director of the Academic Center of Excellence in Cyber Security Research ([ACE-CSR](http://sec.cs.ucl.ac.uk/ace_csr/)). 
-Before joining UCL in 2013, I was a Research Scientist at [Xerox PARC](http://www.parc.com/).
+I am (Full) Professor of Security and Privacy Enhancing Technologies at University College London ([UCL](http://www.ucl.ac.uk/)). I am affiliated with the [Computer Science Department](http://www.cs.ucl.ac.uk/) and currently serve as Head of the [Information Security Research Group](http://sec.cs.ucl.ac.uk/) and Director of the Academic Center of Excellence in Cyber Security Research ([ACE-CSR](http://sec.cs.ucl.ac.uk/ace_csr/)). 
+Before joining UCL in 2013, I was a Research Scientist at [Xerox PARC](http://www.parc.com/).
 
-I am also a Faculty Fellow at the [Alan Turing Institute](https://emilianodc.com/index.html) and on the Technology Advisory Panel at the UK Information Commissioner's Office ([ICO](https://ico.org.uk/)). In 2016, I co-founded the International Data-driven Research for Advanced Modeling and Analysis Lab ([iDRAMA Lab](https://idrama.science/)).
+I am also a Faculty Fellow at the [Alan Turing Institute](https://emilianodc.com/index.html) and on the Technology Advisory Panel at the UK Information Commissioner's Office ([ICO](https://ico.org.uk/)). In 2016, I co-founded the International Data-driven Research for Advanced Modeling and Analysis Lab ([iDRAMA Lab](https://idrama.science/)).
 
 ### Research
 
@@ -25,19 +25,11 @@ My research has been published at top-tier conferences such as IEEE S&P, NDSS, A
  
 During my PhD, I also spent a few months on research internships at NEC in Heidelberg (2008), INRIA in Grenoble (2009), and Nokia in Lausanne (2010).
 
+### Personal
+I was born in Avellino, a small town in South of Italy on the green hills of [Irpinia](https://en.wikipedia.org/wiki/Irpinia). Irpinia is known for its [landscapes](https://web.unisa.it/en/campus-life/surroundings/irpinia), [medieval castles](http://www.irpinia24.it/wp/wp-content/uploads/2016/12/header.jpg), hazelnuts, [black truffles](https://www.ecoturismocampania.it/wp-content/uploads/2015/10/tartufo-nero-di-bagnoli-irpino.jpg), [torrone](http://www.italymagazine.com/sites/default/files/story/torrone.jpg), its [soccer team](https://en.wikipedia.org/wiki/U.S._Avellino_1912), and some great wines like Taurasi, Fiano di Avellino, and Greco di Tufo (which I know of only thanks to my brother [Paolo](http://tipicamente.it/curatori/paolo-de-cristofaro/) who is an amazing wine journalist).  
 
-<!--### Recent News
--	Paper studying QAnon on Voat accepted at [TheWebConf 2021](https://www2021.thewebconf.org/) &ndash; congrats Antonis!
--	We have created a Slack for cybersafety researchers &ndash; see [here](https://idrama.science/cybersafety-slack) if you'd like to join
--	Paper accepted at [CSCW 2021](http://cscw.acm.org/2021): "Dissecting the Meme Magic: Understanding Indicators of Virality in Image Memes" &ndash; congrats Cici and Ihab!
--	Another paper accepted at [ICWSM 2021](https://www.icwsm.org/): "Understanding the Use of Fauxtography on Social Media" – congrats Yuping and Fati!
--	Excited to be part of be a co-lead of [REPHRAIN](https://www.rephrain.ac.uk/), a new research center supported by a £7M UKRI investment on Protecting Citizens Online, funding cutting-edge research on privacy and online harms
--	With Preslav Nakov, I will be co-chairing the 2nd Conference on Truth and Trust Online ([TTO 2020](http://truthandtrustonline.com/)); submit great papers and talk proposals!
--	Paper accepted at [ICWSM 2021](https://www.icwsm.org/): "The Evolution of the Manosphere Across the Web" & ndash; congrats Manoel!
--	Paper accepted at [ACM TWEB](https://dl.acm.org/journal/tweb): "Analyzing Genetic Testing Discourse on the Web Through the Lens of Twitter, Reddit, and 4chan" &ndash; congrats Alex!
--	I wrote a "review" paper on privacy in machine learning with the Turing, it's now available [here](https://arxiv.org/abs/2005.08679)
--	I will be on sabbatical in 2020/21
--	Paper accepted at [ACM SIGMETRICS 2020](https://www.sigmetrics.org/sigmetrics2020/): Measuring Membership Privacy on Aggregate Location Time-Series &ndash; congrats Apostolos!
--	Our NDSS'18 paper on membership inference against aggregate location time series was runner-up for the [2019 INRIA-CNIL Privacy Protection Award](https://www.cnil.fr/en/inria-and-cnil-award-2019-privacy-protection-prize-european-research-team)
--	Three papers accepted at [ICWSM 2020](https://icwsm.org/): congrats Alexandros, Antonis, and Savvas!  
--	Joined the PC of [S&P 2021](https://www.ieee-security.org/TC/SP2021/) -->
+I have spent six awesome years in California (4 in Irvine and 2 in Palo Alto), before moving to (pre-Brexit) London. I have also lived in Venice, Rome, Portsmouth, Heidelberg, Singapore, Grenoble, Lausanne, and Barcelona.  
+
+In my free time, I like acting as a coffee snob and an anti-pineapple pizza radical, pretending to know about movies and world politics, remembering (not without melancholy) the times I used to surf in San Onofre, cooking (only pasta and pizza, obviously) and planning trips (sigh) with my better half Darya and little one Maya.  
+
+I also love languages and I am fluent in English, French, Italian (and Napolitan/Avellinese dialacts), and can utter enough words to get out of (or _in_) trouble in German, Spanish, and Farsi.
