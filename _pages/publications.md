@@ -657,8 +657,7 @@ Claude Castelluccia, Emiliano De Cristofaro, Daniele Perito
 Emiliano De Cristofaro and Gene Tsudik  
 **Practical Private Set Intersection Protocols with Linear Complexity**  
 Financial Cryptography and Data Security, 14th International Conference (FC 2010)  
-[full version](http://eprint.iacr.org/2009/491.pdf){: .btn--danger}{:target="_blank"}
-
+[full version](http://eprint.iacr.org/2009/491.pdf){: .btn--danger}{:target="_blank"} [code](https://emilianodc.com/code/psi_edc_v1.1.tgz){: .btn--danger}{:target="_blank"}  
 
 Vincenzo Auletta, Carlo Blundo, Angelo De Caro, Emiliano De Cristofaro, Giuseppe Persiano, Ivan Visconti  
 **Increasing Privacy Threats in the Cyberspace: the Case of Italian E-Passports**  
