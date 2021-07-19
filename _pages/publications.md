@@ -547,7 +547,7 @@ Emiliano De Cristofaro, Paolo Gasti, Gene Tsudik
 Emiliano De Cristofaro, Sky Faber, Paolo Gasti, Gene Tsudik  
 **GenoDroid: Are Privacy-Preserving Genomic Tests Ready for Prime Time?**  
 11th ACM CCS Workshop on Privacy in the Electronic Society (WPES 2012)  
-[pdf](https://emilianodc.com/PAPERS/WPES12.pdf){: .btn--danger}{:target="_blank"} [code](emilianodc.com/code/genodroid.tar.gz){: .btn--danger}{:target="_blank"}  
+[pdf](https://emilianodc.com/PAPERS/WPES12.pdf){: .btn--danger}{:target="_blank"} [code](https://emilianodc.com/code/genodroid.tar.gz){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [NewScientist](http://www.newscientist.com/article/mg21628896.300-want-to-keep-your-genome-safe-theres-an-app-for-that.html), [MIT Tech Review](http://www.technologyreview.com/view/510746/dna-data-security-and-you/), [Fierce Mobile Healthcare](http://www.fiercemobilehealthcare.com/story/smartphone-app-enables-secure-storage-testing-dna-data/2013-01-28), [PBS SoCal](http://video.pbssocal.org/video/2328787709), [Privacy Surgeon](http://www.privacysurgeon.org/blog/incision/gene-genie-your-genome-may-soon-be-on-a-smartphone-app/), [OC Register](http://www.ocregister.com/articles/dna-383823-genome-tsudik.html), [eWeek](http://www.eweek.com/mobile/android-paternity-test-app-developed-by-uc-irvine-computer-scientists), [IEEE Computer Society](http://www.computer.org/portal/web/news/home/-/blogs/smartphone-application-secures-dna-data), [About.com](http://biotech.about.com/b/2013/01/26/safely-access-your-genetic-profile-on-your-smart-phone.htm)  
 
 Carlo Blundo, Emiliano De Cristofaro, Paolo Gasti  
@@ -559,7 +559,7 @@ Carlo Blundo, Emiliano De Cristofaro, Paolo Gasti
 Emiliano De Cristofaro and Gene Tsudik  
 **Experimenting with Fast Private Set Intersection**  
 5th International Conference on Trust and Trustworthy Computing (TRUST 2012)  
-[full version](http://eprint.iacr.org/2012/054.pdf){: .btn--danger}{:target="_blank"} [code](emilianodc.com/code/psi_edc_v1.1.tgz){: .btn--danger}{:target="_blank"}
+[full version](http://eprint.iacr.org/2012/054.pdf){: .btn--danger}{:target="_blank"} [code](https://emilianodc.com/code/psi_edc_v1.1.tgz){: .btn--danger}{:target="_blank"}
 
 
 Emiliano De Cristofaro, Claudio Soriente, Gene Tsudik, Andrew Williams  
