@@ -13,10 +13,10 @@ author_profile: true
 - [Georgi Ganev](https://ganevgv.github.io/) (since October 2020, part-time)
 
 ## Alumni
--  [Luca Melis](https://lucamelis.github.io/) (Sep 2014--Aug 2018); now Research Scientist at Amazon New York
+-  [Luca Melis](https://lucamelis.github.io/) (Sep 2014--Aug 2018); now Research Scientist at Facebook New York
 -  [Lucky Onwuzurike](https://luckenzo.github.io/) (Sep 2014--Oct 2018); now Senior Security Consultant at Ernst & Young London
 -  [Apostolos Pyrgelis](https://mex2meou.github.io/webpage/) (May 2015--Nov 2018); now Post-Doctoral Researcher at EPFL
--  [Alexandros Mittos](https://mittos.xyz) (Aug 2016--Oct 2020); now Data Scientist at Human Digital
+-  [Alexandros Mittos](https://mittos.xyz) (Aug 2016--Oct 2020); now Data Scientist at PS AI Labs
 
 
 ## Past Post-Doctoral Researchers
