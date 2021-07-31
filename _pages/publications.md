@@ -18,7 +18,7 @@ To appear at the 16th International AAAI Conference on Web and Social Media (ICW
 
 Kostantinos Papadamou, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, and Michael Sirivianos  
 **"It is just a flu": Assessing the Effect of Watch History on YouTube's Pseudoscientific Video Recommendations**  
-Conditionally accepted at the 16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
+To appear at the 16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
 [pre-print](https://arxiv.org/abs/2010.11638){: .btn--danger}{:target="_blank"}  
 
 
