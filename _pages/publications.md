@@ -10,6 +10,11 @@ author_profile: true
 This is the list of all my peer-reviewed publications ordered by year. You can also visit my [DBLP](http://dblp.uni-trier.de/pers/hd/c/Cristofaro:Emiliano_De){:target="_blank"} or my [Google Scholar](https://scholar.google.com/citations?hl=en&user=1wfzUuEAAAAJ&view_op=list_works&pagesize=100){:target="_blank"} page.
 
 ### 2022
+Anaobi Ishaku, Igancio Castro, Aravindh Raman, Haris Bin Zia, Emiliano De Cristofaro, Nishanth Sastry, Gareth Tyson. 
+**Throwing the Baby out with the Bathwater: Exploring Moderation in the Decentralised Web**  
+Conditionally accepted at the 17th International Conference on emerging Networking EXperiments and Technologies (ACM CoNext 2021)  
+[pre-print](https://arxiv.org/abs/2010.11638){: .btn--danger}{:target="_blank"}  
+
 Max Aliapoulios, Antonis Papasavva, Cameron Ballard, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou, and Jeremy Blackburn  
 **The Gospel According to Q: Understanding the QAnon Conspiracy from the Perspective of Canonical Information**  
 To appear at the 16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
