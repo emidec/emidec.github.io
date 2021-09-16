@@ -51,7 +51,7 @@ Again, this is to be negotiated, but typically, yes, you can expect some "seed" 
 
 ### 9. How do you get promoted?
 
-We have a transparent (yearly) process. See [https://www.ucl.ac.uk/human-resources/policies-advice/academic-careers-framework-and-promotions-processes/academic-promotions-guidance](https://www.ucl.ac.uk/human-resources/policies-advice/academic-careers-framework-and-promotions-processes/academic-promotions-guidance).
+We have a transparent (yearly) [process](https://www.ucl.ac.uk/human-resources/policies-advice/academic-careers-framework-and-promotions-processes/academic-promotions-guidance). I think it works pretty well.
 
 ### 10. Where can I find more information about UCL?
 
