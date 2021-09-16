@@ -31,7 +31,7 @@ We are paid and have some work all year round. The teaching terms are Oct-Dec an
 
 UCL's CS Department is huge (more than 100 academic staff according to [this list](https://www.ucl.ac.uk/computer-science/people/computer-science-academic-staff), which I don't even think is up to date). So, we are organized in about a dozen [research groups](https://www.ucl.ac.uk/computer-science/research/research-groups), which broadly reflect research interests. This helps (or at least is supposed to) scale up logistics.
 
-As Head of Group, I am nobody's boss (although I usually am their "line manager", so I need to sign stuff once in a while) but I _represent_ the group in several meetings (including promotion and hiring committees), and help coordinate things like teaching, space, strategic planning, and a million other "fun" things. You can think of me as an interface to the rest of the department and to "management" (Head of Department, Dean of the Faculty, etc.)
+As Head of Group, I am nobody's boss (although I usually am their "line manager", so I might need to occasionally sign some things) but I _represent_ the group in several meetings (including promotion and hiring committees), and help coordinate a few organizational and strategic things. You can think of me as an interface to the rest of the department and to "management" (Head of Department, Dean of the Faculty, etc.)
 
 
 ### 6. Are faculty positions tenure-track?
