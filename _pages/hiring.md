@@ -7,15 +7,18 @@ author_profile: true
 
 ## Open Positions Frequently Asked Questions (FAQs)
 
-### 1. What is the Information Security (UCL ISec) group? Is it like a department? You are the Head of Group, will you be, like, my boss?
+#### 1. What is the Information Security (UCL ISec) group? Is it like a department? You are the Head of Group, will you be, like, my boss?
 
-No, the Computer Science Department at UCL is huge (see [this](https://www.ucl.ac.uk/computer-science/people/computer-science-academic-staff), which I don't even think it's fully up to date). So, we are organized in research groups, which broadly reflects research interests. This helps (or at least is supposed to) scale up the logistics of the department.<br> 
+No, the Computer Science Department at UCL is huge (see [this](https://www.ucl.ac.uk/computer-science/people/computer-science-academic-staff), which I don't even think it's fully up to date). So, we are organized in research groups, which broadly reflects research interests. This helps (or at least is supposed to) scale up the logistics of the department.
+
 As Head of Group, I am not anyone's boss (although I am usually their "line manager" as per HR structure, so I need to sign stuff once in a while) but I represent the group in a number of meetings (including promotion and hiring committees), and help coordinate teaching, space, research reporting, and a million other "fun" things. You can think of me as an interface to the rest of the department.
 
 ### 2.What is the teaching load?
 
-We have two teaching terms (10 weeks plus 1 week break in the middle) and ballpark everyone teaches 1 class per term, but that might vary based on the "size" of the class. Some classes are also co-taught. Junior faculty often get reduced teaching load when joining. No/reduced teaching is also common for grants like ERC or certain fellowships. We also have (paid) sabbaticals, I believe 1 term "off" every 3 years.<br>
+We have two teaching terms (10 weeks plus 1 week break in the middle) and ballpark everyone teaches 1 class per term, but that might vary based on the "size" of the class. Some classes are also co-taught. Junior faculty often get reduced teaching load when joining. No/reduced teaching is also common for grants like ERC or certain fellowships. We also have (paid) sabbaticals, I believe 1 term "off" every 3 years.
+
 We are also expected to supervise undergrad students for their final year projects and masters students for their summer project (also see 5. below)
+
 3. **Do you follow a specific Research/Teaching/Admin split (e.g. 50/40/10)?**<br>
 At least in UCL ISec, we don't have an "official" split. Personally, I see our group as research heavy, so research definitely is and very likely will continue to be a very top priority for us. See 2. for teaching and See 4. for admin loads.
 4. **What is the admin load?**<br>
