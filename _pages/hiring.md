@@ -9,7 +9,7 @@ author_profile: true
 
 ### 1. What is the standard teaching load?
 
-We have two teaching terms (10 weeks plus 1 week break in the middle); ballpark, everyone teaches 1 class per term, but that might vary based on the "size" of the class. Some classes are also co-taught. Junior faculty often get reduced teaching load for the first 1-2 years. No or reduced teaching is also common for grants like ERC or certain fellowships. We also have (paid) [sabbaticals](https://www.ucl.ac.uk/human-resources/sites/human_resources/files/sabbatical_leave_policy.pdf) of course &ndash; 1 term "off" every 3 years.
+We have two teaching terms (10 weeks plus 1 week break in the middle); ballpark, everyone teaches 1 class per term, but that might vary, e.g., based on the "size" of the class. Some classes are also co-taught. Junior faculty often get reduced teaching load for the first 1-2 years. No or reduced teaching is also common for grants like ERC or certain fellowships. We also have (paid) [sabbaticals](https://www.ucl.ac.uk/human-resources/sites/human_resources/files/sabbatical_leave_policy.pdf) of course &ndash; 1 term "off" every 3 years.
 
 We are also expected to supervise undergrad students for their final year projects and masters students for their summer project (also see 4. below), and serve as [personal tutors](https://www.ucl.ac.uk/students/academic-support/personal-tutors) for a few students a year.
 
