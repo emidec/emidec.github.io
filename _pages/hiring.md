@@ -15,7 +15,7 @@ We are also expected to supervise undergrad students for their final year projec
 
 ### 2. Do you follow a specific Research/Teaching/Admin split (e.g. 50/40/10)?
 
-At least in UCL ISec, we don't have an "official" split. Personally, I see our group as doing world-leading research, so research definitely is and very likely will continue to be the top priority for us. See 2. for teaching and See 3. for admin loads.
+At least in our department, we don't have an "official" split. Personally, I see our group as doing world-leading research, so research definitely is and very likely will continue to be the top priority for us. See 2. for teaching and See 3. for admin loads.
 
 ### 3. What is the admin load?
 
