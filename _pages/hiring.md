@@ -11,7 +11,7 @@ author_profile: true
 
 We have two teaching terms (10 weeks plus 1 week break in the middle); ballpark, everyone teaches 1 class per term, but that might vary based on the "size" of the class. Some classes are also co-taught. Junior faculty often get reduced teaching load for the first 1-2 years. No or reduced teaching is also common for grants like ERC or certain fellowships. We also have (paid) [sabbaticals](https://www.ucl.ac.uk/human-resources/sites/human_resources/files/sabbatical_leave_policy.pdf) of course &ndash; 1 term "off" every 3 years.
 
-We are also expected to supervise undergrad students for their final year projects and masters students for their summer project (also see 4. below)
+We are also expected to supervise undergrad students for their final year projects and masters students for their summer project (also see 4. below), and serve as [personal tutors](https://www.ucl.ac.uk/students/academic-support/personal-tutors) for a few students a year.
 
 ### 2. Do you follow a specific Research/Teaching/Admin split (e.g. 50/40/10)?
 
@@ -19,7 +19,7 @@ At least in UCL ISec, we don't have an "official" split. Personally, I see our g
 
 ### 3. What is the admin load?
 
-A big, successful department like ours cannot function well, unless everybody pitches in. So I think everyone should do something. Personally, I try to let people find what they feel they can do most productively or passionately, and take charge of that. Examples include: directing or doing the admissions for our MSc in Information Security, sitting in or leading some departmental committee, leading extra-curriculum activities for our students, etc. To be quite honest, the load is pretty low compared to other places 
+A big, successful department like ours cannot function well, unless everybody pitches in. So I think everyone should do something. Personally, I try to let people find what they feel they can do most productively or passionately, and take charge of that. Examples include: directing or doing the admissions for our MSc in Information Security, sitting in or leading some departmental committee, leading extra-curriculum activities for our students, etc. To be quite honest, the load is pretty low compared to other places. 
 
 ### 4. What about summers?
 
