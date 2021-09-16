@@ -9,7 +9,7 @@ author_profile: true
 
 ### 1. What is the Information Security (UCL ISec) group? Is it like a department? You are the Head of Group, will you be, like, my boss?
 
-No, the Computer Science Department at UCL is huge (see [this](https://www.ucl.ac.uk/computer-science/people/computer-science-academic-staff), which I don't even think it's fully up to date). So, we are organized in research groups, which broadly reflect research interests. This helps (or at least is supposed to) scale up logistics et al.
+No, the Computer Science Department at UCL is huge (more than 100 academic staff according to [this list](https://www.ucl.ac.uk/computer-science/people/computer-science-academic-staff), which I don't even think is fully up to date). So, we are organized in about a dozen [https://www.ucl.ac.uk/computer-science/research/research-groups](research groups), which broadly reflect research interests. This helps (or at least is supposed to) scale up logistics et al.
 
 As Head of Group, I am nobody's boss (although I am usually their "line manager" as per HR structure, so I need to sign stuff once in a while) but I represent the group in a number of meetings (including promotion and hiring committees), and help coordinate teaching, space, research reporting, and a million other "fun" things. You can think of me as an interface to the rest of the department and to "management" (Dept Chair, Dean, etc.)
 
