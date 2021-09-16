@@ -41,9 +41,9 @@ Most posts, at all levels, have a three-year "probation" period, which means fac
 
 ### 7. How much do you pay?
 
-UCL "pay scales" are public -- see [https://www.ucl.ac.uk/human-resources/sites/human_resources/files/21-22_ucl_non-clinical_grade_structure_with_spinal_points-202108.pdf](https://www.ucl.ac.uk/human-resources/sites/human_resources/files/21-22_ucl_non-clinical_grade_structure_with_spinal_points-202108.pdf). 
+UCL "pay scales" are [public](https://www.ucl.ac.uk/human-resources/sites/human_resources/files/21-22_ucl_non-clinical_grade_structure_with_spinal_points-202108.pdf). Associate Professor are appointed at Grade 9, Lecturers typically at Grade 8. Pay, spine points, etc. are to be negotiated with the Head of Department and HR. 
 
-Associate Professor are appointed at Grade 9, Lecturers typically at Grade 8. Pay, spine points, etc. are to be negotiated with the Head of Department and HR. Full Professors are on a [banding structure](https://www.ucl.ac.uk/human-resources/pay-benefits/salary-scales/professorial-banding-structure-20212022).
+Full Professors are on a [banding structure](https://www.ucl.ac.uk/human-resources/pay-benefits/salary-scales/professorial-banding-structure-20212022).
 
 ### 8. Do you offer a start-up package?
 
