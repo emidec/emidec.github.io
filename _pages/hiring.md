@@ -43,17 +43,17 @@ Most posts, at all levels, have a three-year "probation" period, which means fac
 
 UCL "pay scales" are public -- see [https://www.ucl.ac.uk/human-resources/sites/human_resources/files/21-22_ucl_non-clinical_grade_structure_with_spinal_points-202108.pdf](https://www.ucl.ac.uk/human-resources/sites/human_resources/files/21-22_ucl_non-clinical_grade_structure_with_spinal_points-202108.pdf). 
 
-Associate Professor are appointed at Grade 9, Lecturers typically at Grade 8. Pay, spine points, etc. are to be negotiated with the Head of Department and HR.
+Associate Professor are appointed at Grade 9, Lecturers typically at Grade 8. Pay, spine points, etc. are to be negotiated with the Head of Department and HR. Full Professors are on a [banding structure](https://www.ucl.ac.uk/human-resources/pay-benefits/salary-scales/professorial-banding-structure-20212022).
 
 ### 8. Do you offer a start-up package?
 
-Again, this is to be negotiated, but typically yes you can expect some "seed" funding for small equipment, travel, and some student support.
+Again, this is to be negotiated, but typically, yes, you can expect some "seed" funding for some equipment, travel, and student support.
 
 ### 9. How do you get promoted?
 
-We have a transparent and clear yearly process. See [https://www.ucl.ac.uk/human-resources/policies-advice/academic-careers-framework-and-promotions-processes/academic-promotions-guidance](https://www.ucl.ac.uk/human-resources/policies-advice/academic-careers-framework-and-promotions-processes/academic-promotions-guidance).
+We have a transparent (yearly) process. See [https://www.ucl.ac.uk/human-resources/policies-advice/academic-careers-framework-and-promotions-processes/academic-promotions-guidance](https://www.ucl.ac.uk/human-resources/policies-advice/academic-careers-framework-and-promotions-processes/academic-promotions-guidance).
 
 ### 10. Where can I find more information about UCL?
 
-Google is your friend :) But I think the UCL HR [Pay & Benefits page](https://www.ucl.ac.uk/human-resources/pay-and-staff-benefits) is a good resource for applicants.
+Google is your friend :) But I think the UCL HR Pay & Benefits [page](https://www.ucl.ac.uk/human-resources/pay-and-staff-benefits) is a really good resource for applicants.
 
