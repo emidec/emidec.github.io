@@ -19,7 +19,9 @@ At least in our department, we don't have an "official" split. Personally, I see
 
 ### 3. What is the admin load?
 
-A big, successful department like ours cannot function well, unless everybody pitches in. So I think everyone should do something. Personally, I try to let people find what they feel they can do most productively or passionately, and take charge of that. Examples include: directing or doing the admissions for our MSc in Information Security, sitting in or leading some departmental committee, leading extra-curriculum activities for our students, etc. To be quite honest, the load is pretty low compared to other places. 
+A big, successful department like ours cannot function well, unless everybody pitches in. So I think everyone should do something. Personally, I encourage people to find what they feel they can do most productively or passionately, and take charge of that. Examples include: directing or doing the admissions for our MSc in Information Security, sitting in or leading some departmental committee, leading extra-curriculum activities for/with our students, etc. 
+
+To be quite honest, the load is pretty low overall.
 
 ### 4. What about summers?
 
