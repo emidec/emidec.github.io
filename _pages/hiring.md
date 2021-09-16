@@ -27,7 +27,7 @@ At least in UCL ISec, we don't have an "official" split. Personally, I see our g
 
 A big, successful department like ours cannot function well, unless everybody pitches in. So I think everyone should do something. Personally, I try to let people find what they feel they can do most productively or passionately, and take charge of that. Examples include: directing or doing the admissions for our MSc in Information Security, sitting in or leading some departmental committee, leading extra-curriculum activities for our students, etc. To be quite honest, the load is pretty low compared to other places 
 
-### 5. What about Summers?
+### 5. What about summers?
 
 We are paid and have some work The teaching terms are Oct-Dec and Jan-Mar. Late Apr to early Jun there is an exam session for classes of both terms (although some classes are homework/project only). Jun-Sep is dedicated to master's projects supervision, although you can do that remotely.
 
