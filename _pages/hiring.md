@@ -34,9 +34,9 @@ No, UCL's CS Department is huge (more than 100 academic staff according to [this
 As Head of Group, I am nobody's boss (although I usually am their "line manager", so I need to sign stuff once in a while) but I _represent_ the group in several meetings (including promotion and hiring committees), and help coordinate things like teaching, space, strategic planning, and a million other "fun" things. You can think of me as an interface to the rest of the department and to "management" (Head of Department, Dean of the Faculty, etc.)
 
 
-### 6. Are these positions tenure-track?
+### 6. Are faculty positions tenure-track?
 
-No. UCL doesn't have tenure track. We have three "levels": Lecturer, Associate Professor, and (Full) Professor. You can think of Lecturer as the equivalent to Assistant Professor, although with no tenure review.
+No. UCL doesn't have a tenure track. We have three "levels": Lecturer, Associate Professor, and (Full) Professor. All have the same "job description." You can think of Lecturer as the equivalent to Assistant Professor, although with no tenure review.
 
 Most posts, at all levels, have a three-year "probation" period, which means faculty could be dismissed if they repeatedly fail to meet basic objectives with respect to, e.g., research and/or teaching expectations. Probation is not even remotely comparable to a tenure review process. E.g., there is no package to submit, or letters. Put simply, if we hire you, you should not be worried about it :)
 
