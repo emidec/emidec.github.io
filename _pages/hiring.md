@@ -7,7 +7,7 @@ author_profile: true
 
 ## Open Positions Frequently Asked Questions (FAQs)
 
-#### 1. What is the Information Security (UCL ISec) group? Is it like a department? You are the Head of Group, will you be, like, my boss?
+### 1. What is the Information Security (UCL ISec) group? Is it like a department? You are the Head of Group, will you be, like, my boss?
 
 No, the Computer Science Department at UCL is huge (see [this](https://www.ucl.ac.uk/computer-science/people/computer-science-academic-staff), which I don't even think it's fully up to date). So, we are organized in research groups, which broadly reflect research interests. This helps (or at least is supposed to) scale up logistics et al.
 
