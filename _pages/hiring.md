@@ -11,7 +11,7 @@ author_profile: true
 
 No, the Computer Science Department at UCL is huge (more than 100 academic staff according to [this list](https://www.ucl.ac.uk/computer-science/people/computer-science-academic-staff), which I don't even think is fully up to date). So, we are organized in about a dozen [research groups](https://www.ucl.ac.uk/computer-science/research/research-groups), which broadly reflect research interests. This helps (or at least is supposed to) scale up logistics.
 
-As Head of Group, I am nobody's boss (although I am usually their "line manager" as per HR structure, so I need to sign stuff once in a while) but I represent the group in a number of meetings (including promotion and hiring committees), and help coordinate teaching, space, research reporting, and a million other "fun" things. You can think of me as an interface to the rest of the department and to "management" (Dept Chair, Dean, etc.)
+As Head of Group, I am nobody's boss (although I am usually their "line manager" as per HR structure, so I need to sign stuff once in a while) but I represent the group in a number of meetings (including promotion and hiring committees), and help coordinate teaching, space, research reporting, and a million other "fun" things. You can think of me as an interface to the rest of the department and to "management" (Head of Department, Dean of the Faculty, etc.)
 
 ### 2. What is the teaching load?
 
