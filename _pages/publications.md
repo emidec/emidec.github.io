@@ -12,7 +12,7 @@ This is the list of all my peer-reviewed publications ordered by year. You can a
 ### 2022
 Yugeng Liu, Rui Wen, Xinlei He, Ahmed Salem, Zhikun Zhang, Michael Backes, Emiliano De Cristofaro, Mario Fritz, Yang Zhang  
 **ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models**  
-31st USENIX Security Symposium (Usenix Sec 2021)  
+31st USENIX Security Symposium (Usenix Security 2021)  
 [pre-print](https://arxiv.org/abs/2102.02551){: .btn--danger}{:target="_blank"} 
 
 Max Aliapoulios<sup>\*</sup>, Antonis Papasavva<sup>\*</sup>, Cameron Ballard, Emiliano De Stringhini, Savvas Zannettou, and Jeremy Blackburn  

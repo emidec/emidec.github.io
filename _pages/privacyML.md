@@ -11,7 +11,7 @@ This is the list of my publications roughly related to **privacy** in **machine 
 
 Yugeng Liu, Rui Wen, Xinlei He, Ahmed Salem, Zhikun Zhang, Michael Backes, Emiliano De Cristofaro, Mario Fritz, Yang Zhang  
 **ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models**  
-31st USENIX Security Symposium (Usenix Sec 2021)  
+31st USENIX Security Symposium (Usenix Security 2021)  
 [pre-print](https://arxiv.org/abs/2102.02551){: .btn--danger}{:target="_blank"} 
 
 Emiliano De Cristofaro  
