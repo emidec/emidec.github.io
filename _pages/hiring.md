@@ -80,8 +80,8 @@ The Information Security Research Group (see [home page](https://sec.cs.ucl.ac.u
 - [Sarah Meiklejohn](https://smeiklej.com/) (cryptography, blockchains), _currently part-time_
 - [Steven Murdoch](https://murdoch.is/) (privacy, anonymity, banking security)
 - [David Pym](http://www0.cs.ucl.ac.uk/staff/D.Pym/) (logic, security policy, security economics)
-- [Angela Sasse](https://uclisec.github.io/people/m_angela_sasse/) (human factors of security), _currently part-time
-- [Marie Vasek](https://mvasek.com/), (security economics, cybercrime)
+- [Angela Sasse](https://uclisec.github.io/people/m_angela_sasse/) (human factors of security), _currently part-time_
+- [Marie Vasek](https://mvasek.com/) (security economics, cybercrime)
 
 There are also a number of excellent people doing security research in other groups in CS, or even in other departments; see [https://www.ucl.ac.uk/cybersecurity-centre-of-excellence/](https://www.ucl.ac.uk/cybersecurity-centre-of-excellence/) for a non-exhaustive list. 
 
