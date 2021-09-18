@@ -33,7 +33,7 @@ Examples include: directing or doing the admissions for our MSc in Information S
 
 ### 4. What about summers?
 
-We are paid and have some "duties" all year round. The teaching terms are October-Dececember and January-March. Between late April and early June, there is an exam session for classes of both terms. 
+We are paid and have some "duties" all year round. The teaching terms are October-December and January-March. Between late April and early June, there is an exam session for classes of both terms. 
 
 June-September is dedicated to master's projects supervision, although you can usually do that remotely, e.g., if you wish to spend your summer visiting another university or lab, etc. (modulo visa requirements/restrictions).
 
@@ -46,9 +46,9 @@ Most posts, at all levels, have a 1 to 3 years "[probation](https://www.ucl.ac.u
 
 ### 6. How much do you pay?
 
-UCL _pay scales_ are [public](https://www.ucl.ac.uk/human-resources/sites/human_resources/files/21-22_ucl_non-clinical_grade_structure_with_spinal_points-202108.pdf). Associate Profs are appointed at Grade 9, Lecturers (typically) at Grade 8. Pay, spine points, etc. are usually negotiated with the Head of Department. Full Professors are on a [banding structure](https://www.ucl.ac.uk/human-resources/pay-benefits/salary-scales/professorial-banding-structure-20212022).
+UCL's _pay scales_ are [public](https://www.ucl.ac.uk/human-resources/sites/human_resources/files/21-22_ucl_non-clinical_grade_structure_with_spinal_points-202108.pdf). Associate Profs are appointed at Grade 9, Lecturers (typically) at Grade 8. Pay, spine points, etc. are usually negotiated with the Head of Department. Full Professors are on a [banding structure](https://www.ucl.ac.uk/human-resources/pay-benefits/salary-scales/professorial-banding-structure-20212022).
 
-You can estimate your take-home pay using websites like [thesalarycalculator.co.uk](https://www.thesalarycalculator.co.uk/salary.php). Note that our pension contributions are now 9.8% (sigh), so make sure to keep that into account.
+You can estimate your take-home pay using websites like [thesalarycalculator.co.uk](https://www.thesalarycalculator.co.uk/salary.php). Note that our pension contributions are now 9.8% pre-tax (sigh), so make sure to keep that into account.
 
 ### 7. Do you offer a start-up package?
 
@@ -56,7 +56,7 @@ Again, this is to be negotiated, but typically, yes, you can expect some "seed" 
 
 ### 8. How do you get promoted?
 
-We have a transparent (yearly) [process](https://www.ucl.ac.uk/human-resources/policies-advice/academic-careers-framework-and-promotions-processes/academic-promotions-guidance). I think the best way for you to have an idea of what it takes to get promoted is to look at what "level" people in your area and compare somewhat. Overall, IMHO our new process works pretty well.
+We have a transparent (yearly) [process](https://www.ucl.ac.uk/human-resources/policies-advice/academic-careers-framework-and-promotions-processes/academic-promotions-guidance). I think the best way to get an idea of what it takes to get promoted is to look at what "level" people in your area are and compare somewhat. Overall, IMHO our new process works pretty well.
 
 ### 9. Where can I find more information about UCL?
 
