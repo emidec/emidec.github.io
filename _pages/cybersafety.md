@@ -1,7 +1,7 @@
 ---
 permalink: /cybersafety/
 author_profile: true
-title: Prof. Emiliano De Cristofaro - Cybersafety
+title: Cybersafety
 ---
 
 {% include base_path %}

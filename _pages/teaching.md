@@ -1,7 +1,7 @@
 ---
 permalink: /teaching/
 author_profile: true
-title: Prof. Emiliano De Cristofaro - Teaching
+title: Teaching Activities
 ---
 
 {% include base_path %}

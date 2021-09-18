@@ -1,7 +1,7 @@
 ---
 permalink: /
 author_profile: true
-title: Prof. Emiliano De Cristofaro - Home Page
+title: Home Page
 ---
 
 I am (Full) Professor of Security and Privacy Enhancing Technologies at University College London ([UCL](http://www.ucl.ac.uk/)). I am affiliated with the [Computer Science Department](http://www.cs.ucl.ac.uk/) and currently serve as Head of the [Information Security Research Group](http://sec.cs.ucl.ac.uk/) and Director of the Academic Center of Excellence in Cyber Security Research ([ACE-CSR](http://sec.cs.ucl.ac.uk/ace_csr/)). 

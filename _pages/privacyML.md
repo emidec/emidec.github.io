@@ -1,7 +1,7 @@
 ---
 permalink: /privacyML/
 author_profile: true
-title: Prof. Emiliano De Cristofaro - Privacy in Machine Learning
+title: Privacy in Machine Learning
 ---
 
 {% include base_path %}

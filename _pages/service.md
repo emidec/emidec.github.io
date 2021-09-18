@@ -1,7 +1,7 @@
 ---
 permalink: /service/
 author_profile: true
-title: Prof. Emiliano De Cristofaro - Service
+title: Service
 ---
 
 {% include base_path %}

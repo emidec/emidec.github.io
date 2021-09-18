@@ -1,7 +1,7 @@
 ---
 permalink: /students/
 author_profile: true
-title: Prof. Emiliano De Cristofaro - Research Group
+title: Research Group
 ---
 
 {% include base_path %}

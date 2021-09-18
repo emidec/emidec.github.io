@@ -1,7 +1,7 @@
 ---
 permalink: /publications/
 author_profile: true
-title: Prof. Emiliano De Cristofaro - Publications
+title: Publications
 ---
 
 {% include base_path %}
