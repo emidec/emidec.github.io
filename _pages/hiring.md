@@ -6,6 +6,7 @@ author_profile: true
 {% include base_path %}
 
 ## We're hiring!
+
 We have [two faculty positions open](), with application deadline **14 November 2021**. We seek applicants with expertise that complements or builds on our current strengths, including but not limited to: human factors in security, systems/network security, cybercrime, embedded systems security, cryptography, software security.
 
 Note: we won't be asking applicants to submit or request reference letters at the time of applications. We will do so only for shortlisted candidates, who will be invited for one or more interviews via Zoom/MS Teams.
@@ -99,3 +100,4 @@ UCL as a _university_ is recognized as an Academic Centre of Excellence in Cyber
 
 Basically, the ACE-CSR is sort of a meta-lab that includes all academics doing security research at UCL, and facilitates activities, events, dedicated funding opportunities, etc.
 
+<img src="../images/hiring.jpg" style="width:750px;margin-top:80px">
