@@ -6,9 +6,9 @@ author_profile: true
 {% include base_path %}
 
 ## We're hiring!
-We have [two faculty positions open](), with application deadline of **14 November 2021**. We seek applicants with expertise that complements or builds on our current strengths, including but not limited to: human factors in security, systems/network security, cybercrime, embedded systems security, cryptography, software security.
+We have [two faculty positions open](), with application deadline **14 November 2021**. We seek applicants with expertise that complements or builds on our current strengths, including but not limited to: human factors in security, systems/network security, cybercrime, embedded systems security, cryptography, software security.
 
-Note: we won't be asking all applicants to submit or request reference letters at the time of applications. We will do so only for shortlisted candidates, who will be invited for one or more interviews via Zoom/MS Teams.
+Note: we won't be asking applicants to submit or request reference letters at the time of applications. We will do so only for shortlisted candidates, who will be invited for one or more interviews via Zoom/MS Teams.
 
 On this page, I am putting together some informal FAQs to provide more information about our "ecosystem." _Caveat Emptor_: these are not UCL/HR official guidelines but my personal opinions based on my own experience; you should treat them as such.
 
