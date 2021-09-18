@@ -34,6 +34,31 @@ Examples include: directing or doing the admissions for our MSc in Information S
 
 We are paid and have some work all year round. The teaching terms are Oct-Dec and Jan-Mar. Between late Apr and early Jun there is an exam session for classes of both terms (although some classes are homework/project only). Jun-Sep is dedicated to master's projects supervision, although you can do that remotely.
 
+### 5. Are faculty positions tenure-track?
+
+No. UCL doesn't have a tenure track. We have three "levels": Lecturer, Associate Professor, and (Full) Professor. All have the same "job description." You can think of Lecturer as the equivalent of Assistant Professor, although with no tenure review.
+
+Most posts, at all levels, have a 1 to 3 years "probation" period, which means faculty could be dismissed if they repeatedly fail to meet basic objectives with respect to, e.g., research and/or teaching expectations. Probation is not even remotely comparable to a tenure review process. E.g., there is no package to submit, or letters. Put simply, if we hire you, you should not be worried about it :)
+
+
+### 6. How much do you pay?
+
+UCL "pay scales" are [public](https://www.ucl.ac.uk/human-resources/sites/human_resources/files/21-22_ucl_non-clinical_grade_structure_with_spinal_points-202108.pdf). Associate Professor are appointed at Grade 9, Lecturers typically at Grade 8. Pay, spine points, etc. are to be negotiated with the Head of Department and HR. Full Professors are on a [banding structure](https://www.ucl.ac.uk/human-resources/pay-benefits/salary-scales/professorial-banding-structure-20212022).
+
+These salaries are pre-tax, you can estimate your take-home pay using websites like [thesalarycalculator.co.uk](https://www.thesalarycalculator.co.uk/salary.php). Note that our pension contributions are now 9.8% (sigh), so make sure to keep that into account.
+
+### 7. Do you offer a start-up package?
+
+Again, this is to be negotiated, but typically, yes, you can expect some "seed" funding for some equipment, travel, and student support.
+
+### 8. How do you get promoted?
+
+We have a transparent (yearly) [process](https://www.ucl.ac.uk/human-resources/policies-advice/academic-careers-framework-and-promotions-processes/academic-promotions-guidance). I think the best way for you to have an idea of what it takes to get promoted is to look at what "level" people in your area area and compare somewhat. Overall, IMHO our new process works pretty well.
+
+### 9. Where can I find more information about UCL?
+
+Besides [https://www.ucl.ac.uk/about/](https://www.ucl.ac.uk/about/), I think the UCL HR Pay & Benefits [page](https://www.ucl.ac.uk/human-resources/pay-and-staff-benefits) is a really good resource for applicants.
+
 ### 5. What is the Information Security Research (UCL ISec) group? Is it like a department? You are the Head of Group, will you be, like, my boss?
 
 UCL's CS Department is huge (more than 100 academic staff according to [this list](https://www.ucl.ac.uk/computer-science/people/computer-science-academic-staff), which I don't even think is up to date). So, we are organized in about a dozen [research groups](https://www.ucl.ac.uk/computer-science/research/research-groups), which roughly reflect shared research interests. This helps (or at least is supposed to) scale up logistics.
@@ -41,34 +66,9 @@ UCL's CS Department is huge (more than 100 academic staff according to [this lis
 As Head of Group, I am nobody's boss (although I usually am their "line manager", so I might need to occasionally sign some things) but I _represent_ the group in several meetings (including promotion and hiring committees), and help coordinate a few organizational and strategic things. You can think of me as an interface to the rest of the department and to "management" (Head of Department, Dean of the Faculty, etc.)
 
 
-### 6. Are faculty positions tenure-track?
-
-No. UCL doesn't have a tenure track. We have three "levels": Lecturer, Associate Professor, and (Full) Professor. All have the same "job description." You can think of Lecturer as the equivalent of Assistant Professor, although with no tenure review.
-
-Most posts, at all levels, have a 1 to 3 years "probation" period, which means faculty could be dismissed if they repeatedly fail to meet basic objectives with respect to, e.g., research and/or teaching expectations. Probation is not even remotely comparable to a tenure review process. E.g., there is no package to submit, or letters. Put simply, if we hire you, you should not be worried about it :)
-
-
-### 7. How much do you pay?
-
-UCL "pay scales" are [public](https://www.ucl.ac.uk/human-resources/sites/human_resources/files/21-22_ucl_non-clinical_grade_structure_with_spinal_points-202108.pdf). Associate Professor are appointed at Grade 9, Lecturers typically at Grade 8. Pay, spine points, etc. are to be negotiated with the Head of Department and HR. Full Professors are on a [banding structure](https://www.ucl.ac.uk/human-resources/pay-benefits/salary-scales/professorial-banding-structure-20212022).
-
-These salaries are pre-tax, you can estimate your take-home pay using websites like [thesalarycalculator.co.uk](https://www.thesalarycalculator.co.uk/salary.php). Note that our pension contributions are now 9.8% (sigh), so make sure to keep that into account.
-
-### 8. Do you offer a start-up package?
-
-Again, this is to be negotiated, but typically, yes, you can expect some "seed" funding for some equipment, travel, and student support.
-
-### 9. How do you get promoted?
-
-We have a transparent (yearly) [process](https://www.ucl.ac.uk/human-resources/policies-advice/academic-careers-framework-and-promotions-processes/academic-promotions-guidance). I think the best way for you to have an idea of what it takes to get promoted is to look at what "level" people in your area area and compare somewhat. Overall, IMHO our new process works pretty well.
-
-### 10. Where can I find more information about UCL?
-
-Besides [https://www.ucl.ac.uk/about/](https://www.ucl.ac.uk/about/), I think the UCL HR Pay & Benefits [page](https://www.ucl.ac.uk/human-resources/pay-and-staff-benefits) is a really good resource for applicants.
-
 ### 11. Who does security at UCL and how is security research "organized"?
 
-As mentioned, we have an Information Security Research Group ([web page](https://sec.cs.ucl.ac.uk)), which currently includes:
+The Information Security Research Group ([web page](https://sec.cs.ucl.ac.uk)), which currently includes:
 - [Marie Vasek](), 
 - [Philipp Jovanovic](),
 - [Lorenzo Cavallaro](),
