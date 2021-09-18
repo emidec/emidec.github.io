@@ -2,7 +2,7 @@
 permalink: /faculty-hiring/
 author: emidec
 author_profile: true
-title: UCL InfoSec is Hiring!
+title: UCL InfoSec is Hiring! Info and FAQs
 image: /images/hiring.jpg
 ---
 
