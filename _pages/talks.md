@@ -1,6 +1,7 @@
 ---
 permalink: /talks/
 author_profile: true
+title: Prof. Emiliano De Cristofaro - Talks
 ---
 
 {% include base_path %}

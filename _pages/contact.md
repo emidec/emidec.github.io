@@ -1,6 +1,7 @@
 ---
 permalink: /contact/
 author_profile: true
+title: Prof. Emiliano De Cristofaro - How to contact me
 ---
 
 {% include base_path %}
