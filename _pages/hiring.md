@@ -1,9 +1,12 @@
 ---
-permalink: /hiring/
+permalink: /faculty-hiring/
 author_profile: true
 ---
 
 {% include base_path %}
+
+## We're hiring!
+We have two faculty positions open, with application deadline of *14 November 2021*. Please see [here]()
 
 ## Open Positions Frequently Asked Questions (FAQs)
 
@@ -27,7 +30,7 @@ Examples include: directing or doing the admissions for our MSc in Information S
 
 We are paid and have some work all year round. The teaching terms are Oct-Dec and Jan-Mar. Between late Apr and early Jun there is an exam session for classes of both terms (although some classes are homework/project only). Jun-Sep is dedicated to master's projects supervision, although you can do that remotely.
 
-### 5. What is the Information Security (UCL ISec) group? Is it like a department? You are the Head of Group, will you be, like, my boss?
+### 5. What is the Information Security Research (UCL ISec) group? Is it like a department? You are the Head of Group, will you be, like, my boss?
 
 UCL's CS Department is huge (more than 100 academic staff according to [this list](https://www.ucl.ac.uk/computer-science/people/computer-science-academic-staff), which I don't even think is up to date). So, we are organized in about a dozen [research groups](https://www.ucl.ac.uk/computer-science/research/research-groups), which roughly reflect shared research interests. This helps (or at least is supposed to) scale up logistics.
 
@@ -38,7 +41,7 @@ As Head of Group, I am nobody's boss (although I usually am their "line manager"
 
 No. UCL doesn't have a tenure track. We have three "levels": Lecturer, Associate Professor, and (Full) Professor. All have the same "job description." You can think of Lecturer as the equivalent of Assistant Professor, although with no tenure review.
 
-Most posts, at all levels, have a three-year "probation" period, which means faculty could be dismissed if they repeatedly fail to meet basic objectives with respect to, e.g., research and/or teaching expectations. Probation is not even remotely comparable to a tenure review process. E.g., there is no package to submit, or letters. Put simply, if we hire you, you should not be worried about it :)
+Most posts, at all levels, have a 1 to 3 years "probation" period, which means faculty could be dismissed if they repeatedly fail to meet basic objectives with respect to, e.g., research and/or teaching expectations. Probation is not even remotely comparable to a tenure review process. E.g., there is no package to submit, or letters. Put simply, if we hire you, you should not be worried about it :)
 
 
 ### 7. How much do you pay?
@@ -53,9 +56,32 @@ Again, this is to be negotiated, but typically, yes, you can expect some "seed" 
 
 ### 9. How do you get promoted?
 
-We have a transparent (yearly) [process](https://www.ucl.ac.uk/human-resources/policies-advice/academic-careers-framework-and-promotions-processes/academic-promotions-guidance). I think it works pretty well.
+We have a transparent (yearly) [process](https://www.ucl.ac.uk/human-resources/policies-advice/academic-careers-framework-and-promotions-processes/academic-promotions-guidance). I think the best way for you to have an idea of what it takes to get promoted is to look at what "level" people in your area area and compare somewhat. Overall, IMHO our new process works pretty well.
 
 ### 10. Where can I find more information about UCL?
 
 Besides [https://www.ucl.ac.uk/about/](https://www.ucl.ac.uk/about/), I think the UCL HR Pay & Benefits [page](https://www.ucl.ac.uk/human-resources/pay-and-staff-benefits) is a really good resource for applicants.
 
+### 11. Who does security at UCL and how is security research "organized"?
+
+As mentioned, we have an Information Security Research Group ([web page](https://sec.cs.ucl.ac.uk)), which currently includes:
+- [Marie Vasek](), 
+- [Philipp Jovanovic](),
+- [Lorenzo Cavallaro](),
+- [Madeline Carr](),
+- [Steven Murdoch](),
+- [Emiliano De Cristofaro](),
+Currently part-time:
+- [George Danezis](),
+- [Sarah Meiklejohn](),
+- [Angela Sasse](),
+
+There are also a number of excellent people doing security research in other groups in CS, or even in other departments. In fact, UCL as a university is recognized as an Academic Centre of Excellence in Cybersecurity Research ([ACE-CSR]()) by the UK Government. Part of the goal in recognising the centres is "to encourage collaboration, enhancing the UK's knowledge base providing top-quality graduate training, supporting the National Cyber Security Centre (NCSC) and driving up the level of innovation." Please visit our [UCL ACE-CSR website](https://www.ucl.ac.uk/cybersecurity-centre-of-excellence/) for more information, as well as a list of academics that are part of this meta-lab.
+
+Security-related activities we are part of include:
+- Centre for Doctoral Training in Cybersecurity ([CDT InfoSec](https://www.ucl.ac.uk/cybersecurity-cdt/))
+- Security Science Doctoral Training Centre ([SECReT](https://www.ucl.ac.uk/secret/homepage))
+- MSc Degree in Information Security ([MSc InfoSec](https://www.ucl.ac.uk/computer-science/study/postgraduate-taught/information-security-msc))
+- Science of Cyber Security Research Institute ([RISCS](https://www.riscs.org.uk/))
+- National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online ([REPHRAIN](https://www.rephrain.ac.uk/))
+- The International Data-driven Research for Advanced Modeling and Analysis ([iDRAMA Lab](https://idrama.science/))
