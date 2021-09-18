@@ -8,7 +8,9 @@ author_profile: true
 ## We're hiring!
 We have two faculty positions open, with application deadline of *14 November 2021*. Please see [here]()
 
-## Open Positions Frequently Asked Questions (FAQs)
+Below I have put together some informal FAQs to provide more information about our ecosystem. _Caveat Emptor:_ these are not UCL/HR official guidelines but my personal opinions based on my own experience; you should consider them as such.
+
+## FAQs
 
 ### 1. What is the standard teaching load?
 
