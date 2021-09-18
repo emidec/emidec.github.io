@@ -6,9 +6,11 @@ author_profile: true
 {% include base_path %}
 
 ## We're hiring!
-We have two faculty positions open, with application deadline of *14 November 2021*. Please see [here]()
+We have [two faculty positions open](), with application deadline of **14 November 2021**.
 
-Below I have put together some informal FAQs to provide more information about our ecosystem. _Caveat Emptor:_ these are not UCL/HR official guidelines but my personal opinions based on my own experience; you should consider them as such.
+I have put together some _informal_ FAQs to provide more information about our ecosystem. _Caveat Emptor:_ these are not UCL/HR official guidelines but my personal opinions based on my own experience; you should consider them as such.
+
+Note: we won't be asking all applicants to submit or request reference letters at the time of applications. We will do so for shortlisted candidates, who will be invited for one or more interviews via Zoom/MS Teams.
 
 ## FAQs
 
