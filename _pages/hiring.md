@@ -94,6 +94,7 @@ Security-related activities we are part of include:
 - Science of Cyber Security Research Institute ([RISCS](https://www.riscs.org.uk/))
 - National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online ([REPHRAIN](https://www.rephrain.ac.uk/))
 - The International Data-driven Research for Advanced Modeling and Analysis ([iDRAMA Lab](https://idrama.science/))
+- Systems Security Research Lab ([S2Lab](https://s2lab.cs.ucl.ac.uk/))
 
 ### 12. Sorry what exactly is the Academic Centre of Excellence?
 UCL as a _university_ is recognized as an Academic Centre of Excellence in Cybersecurity Research ([ACE-CSR](https://www.ucl.ac.uk/cybersecurity-centre-of-excellence/)) by the UK Government. In their own words, part of the goal in recognising the centres is _"to encourage collaboration, enhancing the UK's knowledge base providing top-quality graduate training, supporting the National Cyber Security Centre (NCSC) and driving up the level of innovation."_
