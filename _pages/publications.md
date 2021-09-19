@@ -13,18 +13,18 @@ This is the list of all my peer-reviewed publications ordered by year. You can a
 ### 2022
 Yugeng Liu, Rui Wen, Xinlei He, Ahmed Salem, Zhikun Zhang, Michael Backes, Emiliano De Cristofaro, Mario Fritz, Yang Zhang  
 **ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models**  
-31st USENIX Security Symposium (Usenix Security 2021)  
+31st USENIX Security Symposium (Usenix Security 2022)  
 [pre-print](https://arxiv.org/abs/2102.02551){: .btn--danger}{:target="_blank"} 
 
 Max Aliapoulios<sup>\*</sup>, Antonis Papasavva<sup>\*</sup>, Cameron Ballard, Emiliano De Stringhini, Savvas Zannettou, and Jeremy Blackburn  
 **The Gospel According to Q: Understanding the QAnon Conspiracy from the Perspective of Canonical Information**  
-To appear at the 16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
+16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
 [pre-print](https://arxiv.org/abs/2101.08750){: .btn--danger}{:target="_blank"}  
 
 
 Kostantinos Papadamou, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, and Michael Sirivianos  
 **"It is just a flu": Assessing the Effect of Watch History on YouTube's Pseudoscientific Video Recommendations**  
-Conditionally accepted at the 16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
+16th International AAAI Conference on Web and Social Media (ICWSM 2022), _conditional accepted_  
 [pre-print](https://arxiv.org/abs/2010.11638){: .btn--danger}{:target="_blank"}  
 
 
@@ -32,7 +32,7 @@ Conditionally accepted at the 16th International AAAI Conference on Web and Soci
 
 Anaobi Ishaku, Igancio Castro, Aravindh Raman, Haris Bin Zia, Emiliano De Cristofaro, N. Sastry, Gareth Tyson  
 **Throwing the Baby out with the Bathwater: Exploring Moderation in the Decentralised Web**  
-Conditionally accepted at the 17th International Conference on emerging Networking EXperiments and Technologies (ACM CoNext 2021)  
+17th International Conference on emerging Networking EXperiments and Technologies (ACM CoNext 2021), _conditional accept_  
 [pre-print](https://arxiv.org/abs/2010.11638){: .btn--danger}{:target="_blank"}  
 
 Emiliano De Cristofaro  
@@ -56,13 +56,6 @@ Shiza Ali, Mohammad Hammas Saeed, Esraa Aldreabi, Jeremy Blackburn, Emiliano De 
 13th ACM Web Science Conference (ACM WebSci 2021)  
 [pdf](https://dl.acm.org/doi/pdf/10.1145/3447535.3462637){: .btn--danger}{:target="_blank"}  
 
-Antonis Papasavva, Jeremy Blackburn, Gianluca Stringhini, Savvas Zannettou, and Emiliano De Cristofaro  
-**"Is it a Qoincidence?": An Exploratory Study of QAnon on Voat**  
-30th The Web Conference (WWW 2021)  
-[pdf](https://arxiv.org/pdf/2009.04885.pdf){: .btn--danger}{:target="_blank"}  
-<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [Wired](https://www.wired.com/story/qanon-facebook-deplatforming/), [Echosec](https://www.echosec.net/blog/what-is-voat), [The Daily Beast](https://www.thedailybeast.com/another-blow-for-qanon-as-voat-announces-a-christmas-shutdown)  
-
-
 Manoel Horta Ribeiro, Shagun Jhaver, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, and Robert West  
 **Does Platform Migration Compromise Content Moderation? Evidence from r/The_Donald and r/Incels**  
 24th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2021)  
@@ -74,6 +67,12 @@ Chen Ling, Ihab AbuHilal, Jeremy Blackburn, Emiliano De Cristofaro, Savvas Zanne
 24th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2021)  
 [pre-print](https://arxiv.org/pdf/2101.06535.pdf){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [Input Mag](https://www.inputmag.com/culture/viral-meme-ai-study-bernie-sanders)
+
+Antonis Papasavva, Jeremy Blackburn, Gianluca Stringhini, Savvas Zannettou, and Emiliano De Cristofaro  
+**"Is it a Qoincidence?": An Exploratory Study of QAnon on Voat**  
+30th The Web Conference (WWW 2021)  
+[pdf](https://arxiv.org/pdf/2009.04885.pdf){: .btn--danger}{:target="_blank"}  
+<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [Wired](https://www.wired.com/story/qanon-facebook-deplatforming/), [Echosec](https://www.echosec.net/blog/what-is-voat), [The Daily Beast](https://www.thedailybeast.com/another-blow-for-qanon-as-voat-announces-a-christmas-shutdown)  
 
 Max Aliapoulios, Emmi Bevensee, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, and Savvas Zannettou  
 **A Large Open Dataset from the Parler Social Network**  

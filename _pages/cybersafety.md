@@ -10,11 +10,6 @@ title: Cybersafety
 
 This is a non-exxaustive list of my publications related to understanding and countering **cybersafety** and other socio-technical issues. Many of these papers are written in collaboration with the [iDRAMA Lab](https://idrama.science) crew and were in part funded by the EU through the [ENCASE](https://encase.socialcomputing.eu/) project.
 
-Anaobi Ishaku, Igancio Castro, Aravindh Raman, Haris Bin Zia, Emiliano De Cristofaro, N. Sastry, Gareth Tyson  
-**Throwing the Baby out with the Bathwater: Exploring Moderation in the Decentralised Web**  
-Conditionally accepted at the 17th International Conference on emerging Networking EXperiments and Technologies (ACM CoNext 2021)  
-[pre-print](https://arxiv.org/abs/2010.11638){: .btn--danger}{:target="_blank"}  
-
 
 Max Aliapoulios<sup>\*</sup>, Antonis Papasavva<sup>\*</sup>, Cameron Ballard, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou, and Jeremy Blackburn  
 **The Gospel According to Q: Understanding the QAnon Conspiracy from the Perspective of Canonical Information**  
@@ -24,7 +19,13 @@ Max Aliapoulios<sup>\*</sup>, Antonis Papasavva<sup>\*</sup>, Cameron Ballard, E
 
 Kostantinos Papadamou, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, and Michael Sirivianos  
 **"It is just a flu": Assessing the Effect of Watch History on YouTube's Pseudoscientific Video Recommendations**  
-Conditionally accepted at 16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
+16th International AAAI Conference on Web and Social Media (ICWSM 2022), _conditionally accept_  
+[pre-print](https://arxiv.org/abs/2010.11638){: .btn--danger}{:target="_blank"}  
+
+
+Anaobi Ishaku, Igancio Castro, Aravindh Raman, Haris Bin Zia, Emiliano De Cristofaro, N. Sastry, Gareth Tyson  
+**Throwing the Baby out with the Bathwater: Exploring Moderation in the Decentralised Web**  
+17th International Conference on emerging Networking EXperiments and Technologies (ACM CoNext 2021), _conditionally accept_  
 [pre-print](https://arxiv.org/abs/2010.11638){: .btn--danger}{:target="_blank"}  
 
 
