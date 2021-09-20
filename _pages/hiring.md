@@ -91,7 +91,7 @@ There are also a number of excellent people doing security research in other gro
 
 Security-related activities we are part of include:
 - Academic Centre of Excellence in Cybersecurity-Research ([ACE-CSR](https://www.ucl.ac.uk/cybersecurity-centre-of-excellence/))
-- Centre for Doctoral Training in Cybersecurity ([CDT InfoSec](https://www.ucl.ac.uk/cybersecurity-cdt/))
+- Centre for Doctoral Training in Cybersecurity ([CDT InfoSec](https://www.ucl.ac.uk/cybersecurity-cdt/)), which covers about 10 fully-funded studentships at year for PhD students to work on interdisciplinary aspects of security
 - Security Science Doctoral Training Centre ([SECReT](https://www.ucl.ac.uk/secret/homepage))
 - MSc Degree in Information Security ([MSc InfoSec](https://www.ucl.ac.uk/computer-science/study/postgraduate-taught/information-security-msc))
 - Science of Cyber Security Research Institute ([RISCS](https://www.riscs.org.uk/))
