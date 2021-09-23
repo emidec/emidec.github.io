@@ -14,9 +14,9 @@ We have **two** faculty positions open, with application deadline **14 November 
 
 Note: we won't be asking applicants to submit or request reference letters at the time of applications. We will do so only for shortlisted candidates, who will be invited for one or more interviews via Zoom/MS Teams.
 
-On this page, I am putting together some informal FAQs to provide more information about our "ecosystem." _Caveat Emptor_: these are not UCL/HR official guidelines but my personal opinions based on my own experience; you should treat them as such.
+On this page, I am putting together some unofficial/informal FAQs to provide more information about our "ecosystem." _Caveat Emptor_: these are not UCL/HR official guidelines but my personal opinions based on my own experience; you should treat them as such.
 
-**[Link to application page](https://atsv7.wcn.co.uk/saf/set_session.cgi?owner=5041178&ownertype=fair&season=0&vt_template=966&jcode=1878283&posting_code=224&language=203&url=/search_engine/jobs.cgi).**
+**[Here's the link to the application page](https://atsv7.wcn.co.uk/saf/set_session.cgi?owner=5041178&ownertype=fair&season=0&vt_template=966&jcode=1878283&posting_code=224&language=203&url=/search_engine/jobs.cgi).**
 
 ## FAQs
 
