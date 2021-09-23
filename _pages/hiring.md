@@ -75,7 +75,7 @@ UCL's CS Department is _huge_ &ndash; there are more than 100 academic staff acc
 As Head of Group, I am nobody's boss (although I usually am their "line manager," so I might need to occasionally sign some things) but I _represent_ the group in several meetings (including promotion and hiring committees), and help coordinate a few organizational and strategic things. You can think of me as an interface to the rest of the department and to "management" (Head of Department, Dean of the Faculty, etc.)
 
 
-### 12. Who does security at UCL and how is security research "organized"?
+### 11. Who does security at UCL and how is security research "organized"?
 
 The Information Security Research Group (see [home page](https://sec.cs.ucl.ac.uk)) includes the following faculty:
 - [Madeline Carr](https://www.ucl.ac.uk/computer-science/people/professor-madeline-carr) (international relations and security)
@@ -101,12 +101,12 @@ Security-related activities we are part of include:
 - The International Data-driven Research for Advanced Modeling and Analysis ([iDRAMA Lab](https://idrama.science/))
 - Systems Security Research Lab ([S2Lab](https://s2lab.cs.ucl.ac.uk/))
 
-### 13. Sorry what exactly is the Academic Centre of Excellence?
+### 12. Sorry what exactly is the Academic Centre of Excellence?
 UCL as a _university_ is recognized as an Academic Centre of Excellence in Cybersecurity Research ([ACE-CSR](https://www.ucl.ac.uk/cybersecurity-centre-of-excellence/)) by the UK Government. In their own words, part of the goal in recognising the centres is _"to encourage collaboration, enhancing the UK's knowledge base providing top-quality graduate training, supporting the National Cyber Security Centre (NCSC) and driving up the level of innovation."_
 
 Basically, the ACE-CSR is sort of a meta-lab that includes all academics doing security research at UCL, and facilitates activities, events, dedicated funding opportunities, etc.
 
 
-### 14. How do I apply?
+### 13. How do I apply?
 
 **[Here](https://atsv7.wcn.co.uk/saf/set_session.cgi?owner=5041178&ownertype=fair&season=0&vt_template=966&jcode=1878283&posting_code=224&language=203&url=/search_engine/jobs.cgi)**!
