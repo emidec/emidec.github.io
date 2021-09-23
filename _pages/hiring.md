@@ -10,12 +10,13 @@ image: /images/hiring.jpg
 
 ## We're hiring!
 
-We have [two faculty positions open](), with application deadline **14 November 2021**. We seek applicants with expertise that complements or builds on our current strengths, including but not limited to: human factors in security, systems/network security, cybercrime, embedded systems security, cryptography, software security.
+We have [**two** faculty positions open](https://atsv7.wcn.co.uk/saf/set_session.cgi?owner=5041178&ownertype=fair&season=0&vt_template=966&jcode=1878283&posting_code=224&language=203&url=/search_engine/jobs.cgi), with application deadline **14 November 2021**. We seek applicants with expertise that complements or builds on our current strengths, including but not limited to: human factors in security, systems/network security, cybercrime, embedded systems security, cryptography, software security.
 
 Note: we won't be asking applicants to submit or request reference letters at the time of applications. We will do so only for shortlisted candidates, who will be invited for one or more interviews via Zoom/MS Teams.
 
 On this page, I am putting together some informal FAQs to provide more information about our "ecosystem." _Caveat Emptor_: these are not UCL/HR official guidelines but my personal opinions based on my own experience; you should treat them as such.
 
+[Link](https://atsv7.wcn.co.uk/saf/set_session.cgi?owner=5041178&ownertype=fair&season=0&vt_template=966&jcode=1878283&posting_code=224&language=203&url=/search_engine/jobs.cgi) to application page.
 
 ## FAQs
 
@@ -104,4 +105,3 @@ UCL as a _university_ is recognized as an Academic Centre of Excellence in Cyber
 
 Basically, the ACE-CSR is sort of a meta-lab that includes all academics doing security research at UCL, and facilitates activities, events, dedicated funding opportunities, etc.
 
-<img src="../images/hiring.jpg" style="width:750px;margin-top:80px">
