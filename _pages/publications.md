@@ -59,7 +59,7 @@ Shiza Ali, Mohammad Hammas Saeed, Esraa Aldreabi, Jeremy Blackburn, Emiliano De 
 Manoel Horta Ribeiro, Shagun Jhaver, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, and Robert West  
 **Does Platform Migration Compromise Content Moderation? Evidence from r/The_Donald and r/Incels**  
 24th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2021)  
-[pre-print](https://arxiv.org/pdf/2010.10397.pdf){: .btn--danger}{:target="_blank"}  
+[honorable mention](){: .btn--success} [pre-print](https://arxiv.org/pdf/2010.10397.pdf){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [WaPo](https://www.washingtonpost.com/technology/2021/02/05/why-thedonald-moderator-left/), [El Pais](https://elpais.com/tecnologia/2021-01-08/la-victoria-de-los-trols-de-como-internet-se-ha-convertido-en-la-vida-real.html), [The Brink](https://www.bu.edu/articles/2021/trump-banned-from-twitter-facebook/), [Wired](https://www.wired.com/story/qanon-facebook-deplatforming/)  
 
 Chen Ling, Ihab AbuHilal, Jeremy Blackburn, Emiliano De Cristofaro, Savvas Zannettou, Gianluca Stringhini  
@@ -172,8 +172,7 @@ Vincent Primault, Vasileios Lampos, Ingemar Cox, and Emiliano De Cristofaro
 Savvas Zannettou, Tristan Caulfield, Emiliano De Cristofaro, Michael Sirivianos, Gianluca Stringhini, and Jeremy Blackburn  
 **Disinformation Warfare: Understanding State-Sponsored Trolls on Twitter & Their Influence on the Web**  
 4th WebConf Workshop on CyberSafety, Online Harassment, and Misinformation (CyberSafety 2019)  
-[best paper award](https://cybersafety2019.github.io/awards/){: .btn--success}{:target="_blank"}  
-[pdf](https://arxiv.org/pdf/1801.09288){: .btn--danger}{:target="_blank"}  
+[best paper award](https://cybersafety2019.github.io/awards/){: .btn--success}{:target="_blank"} [pdf](https://arxiv.org/pdf/1801.09288){: .btn--danger}{:target="_blank"}  
 
 
 
@@ -211,8 +210,7 @@ ACM SIGCOMM's Computer Communication Review (CCR), Vol. 48, No. 5, Oct. 2018
 Savvas Zannettou, Tristan Caulfield, Jeremy Blackburn, Emiliano De Cristofaro, Michael Sirivianos, Gianluca Stringhini, and Guillermo Suarez-Tangil  
 **On the Origins of Memes by Means of Fringe Web Communities**  
 18th ACM Internet Measurement Conference (IMC 2018)  
-[distinguished paper award](https://conferences.sigcomm.org/imc/2018/awards/){: .btn--success}{:target="_blank"}  
-[pdf](https://arxiv.org/pdf/1805.12512.pdf){: .btn--danger}{:target="_blank"} [code](https://github.com/memespaper/memes_pipeline){: .btn--danger}{:target="_blank"}  
+[distinguished paper award](https://conferences.sigcomm.org/imc/2018/awards/){: .btn--success}{:target="_blank"} [pdf](https://arxiv.org/pdf/1805.12512.pdf){: .btn--danger}{:target="_blank"} [code](https://github.com/memespaper/memes_pipeline){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [BBC Trending](https://www.bbc.co.uk/programmes/w3csws6t), [BBC News](https://www.bbc.com/news/blogs-trending-45888176), [MIT Technology Review](https://www.technologyreview.com/s/611332/this-is-where-internet-memes-come-from/), [CBS News](https://www.youtube.com/watch?v=oLUZnTN-zeo&feature=youtu.be), [The Independent](https://indy100.com/article/most-popular-memes-science-study-reddit-twitter-8386051), [VICE](https://motherboard.vice.com/en_us/article/zm884j/where-do-memes-come-from-researchers-studied-reddit-4chan), [Business Insider](https://www.businessinsider.com.au/origin-of-memes-study-2018-6), [The Daily Dot](https://www.dailydot.com/unclick/meme-studies), [Quartz](https://qz.com/1296094/most-popular-memes-finally-a-scientific-list-of-the-most-popular-memes-on-the-internet/), [El Pais](https://elpais.com/tecnologia/2019/03/26/actualidad/1553596590_520008.html), [MotherJones](https://www.motherjones.com/politics/2019/04/right-wing-groups-are-training-young-conservatives-to-win-the-next-meme-war/), [InfoWars](https://www.infowars.com/new-scientific-study-proves-the-left-cant-meme/), [Thinkprogress](https://thinkprogress.org/how-horrible-memes-thrive-on-the-internet-135bd2d2ea6b/), [Iflscience](http://www.iflscience.com/technology/scientists-discover-the-most-popular-memes-on-the-internet-finally/), [Hornet](https://hornet.com/stories/racist-memes-alt-right-memes/), [Bellingcat](https://bellingcat.com/news/americas/2018/10/31/magabomber-synagogue-shooter-likely-radicalized/)
 
 Gergely Acs, Luca Melis, Claude Castelluccia, Emiliano De Cristofaro (Extended Version)  
@@ -266,8 +264,7 @@ Savvas Zannettou, Barry Bradlyn, Emiliano De Cristofaro, Haewoon Kwak, Michael S
 Apostolos Pyrgelis, Carmela Troncoso, Emiliano De Cristofaro  
 **Knock Knock, Who's There? Membership Inference on Aggregate Location Data**  
 25th Network and Distributed System Security Symposium (NDSS 2018)  
-[distinguished paper award](https://www.ndss-symposium.org/ndss2018/){: .btn--success}{:target="_blank"} [INRIA-CNIL Privacy Protection Award Runner-up](https://www.cnil.fr/en/inria-and-cnil-award-2019-privacy-protection-prize-european-research-team){: .btn--success}{:target="_blank"}   
-[full version](https://arxiv.org/pdf/1708.06145.pdf){: .btn--danger}{:target="_blank"} [blog](https://www.benthamsgaze.org/2018/10/02/on-location-time-and-membership-studying-how-aggregate-location-data-can-harm-users-privacy/){: .btn--danger}{:target="_blank"} [video](https://www.youtube.com/watch?v=hwGAE5NqAP0){: .btn--danger}{:target="_blank"}  
+[distinguished paper award](https://www.ndss-symposium.org/ndss2018/){: .btn--success}{:target="_blank"} [INRIA-CNIL Privacy Protection Award Runner-up](https://www.cnil.fr/en/inria-and-cnil-award-2019-privacy-protection-prize-european-research-team){: .btn--success}{:target="_blank"} [full version](https://arxiv.org/pdf/1708.06145.pdf){: .btn--danger}{:target="_blank"} [blog](https://www.benthamsgaze.org/2018/10/02/on-location-time-and-membership-studying-how-aggregate-location-data-can-harm-users-privacy/){: .btn--danger}{:target="_blank"} [video](https://www.youtube.com/watch?v=hwGAE5NqAP0){: .btn--danger}{:target="_blank"}  
 
 ### 2017
 
@@ -303,8 +300,7 @@ Despoina Chatzakou, Nicolas Kourtellis, Jeremy Blackburn, Emiliano De Cristofaro
 Gabriel Hine, Jeremiah Onaolapo, Emiliano De Cristofaro, Nicolas Kourtellis, Ilias Leontiadis, Gianluca Stringhini, Jeremy Blackburn  
 **Kek, Cucks, and God Emperor Trump: A Measurement Study of 4chan's Politically Incorrect Forum and Its Effects on the Web**  
 11th International AAAI Conference on Web and Social Media (ICWSM 2017)  
-[best paper runner-up](https://www.icwsm.org/2017/){: .btn--success}{:target="_blank"}  
-[full version](https://arxiv.org/pdf/1610.03452){: .btn--danger}{:target="_blank"} [blog](https://www.benthamsgaze.org/2016/11/16/a-longitudinal-measurement-study-of-4chans-politically-incorrect-forum-and-its-effect-on-the-web/){: .btn--danger}{:target="_blank"}  
+[best paper runner-up](https://www.icwsm.org/2017/){: .btn--success}{:target="_blank"} [full version](https://arxiv.org/pdf/1610.03452){: .btn--danger}{:target="_blank"} [blog](https://www.benthamsgaze.org/2016/11/16/a-longitudinal-measurement-study-of-4chans-politically-incorrect-forum-and-its-effect-on-the-web/){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [Nature](http://www.nature.com/news/shining-a-light-on-the-dark-corners-of-the-web-1.22128), [Motherboard](https://motherboard.vice.com/en_us/article/how-4chans-structure-creates-a-survival-of-the-fittest-for-memes), [The Independent](http://www.independent.co.uk/life-style/gadgets-and-tech/4chan-raids-how-one-dark-corner-of-the-internet-is-spreading-its-shadows-a7416631.html), [The Conversation](https://theconversation.com/4chan-raids-how-one-dark-corner-of-the-internet-is-spreading-its-shadows-68394), [MIT Technology Review](https://www.technologyreview.com/s/602707/the-best-of-the-physics-arxiv-week-ending-october-22-2016/), [Vice](http://motherboard.vice.com/read/block-4chan-to-stop-the-alt-right-from-spreading-racist-memes-scientists-say?=dhdhd), [La Stampa (in Italian)](http://www.lastampa.it/2016/10/14/societa/rane-odio-e-protrump-cos-funziona-chan-la-pancia-di-internet-qSR7NV32eMNHYxYtWGh4tJ/pagina.html), [La Repubblica (in Italian)](http://www.repubblica.it/speciali/esteri/presidenziali-usa2016/2016/11/12/news/trump_internet_meme_virali_social_4chan-151826943/?ref=HREC1-1), [BoingBoing](http://boingboing.net/2016/10/14/academic-paper-about-4chans.html), [Pacific Standard](https://psmag.com/what-happens-when-4chan-attacks-8747e5958705#.1jk23u5d0)
 
 Despoina Chatzakou, Nicolas Kourtellis, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Athena Vakali  
@@ -335,8 +331,7 @@ Sina Sajadmanesh, Sina Jafarzadeh, Seyed Ali Ossia, Hamid R. Rabiee, Hamed Hadda
 Enrico Mariconti, Lucky Onwuzurike, Panagiotis Andriotis, Emiliano De Cristofaro, Gordon Ross, Gianluca Stringhini  
 **MaMaDroid: Detecting Android Malware by Building Markov Chains of Behavioral Models**  
 24th Network and Distributed System Security Symposium (NDSS 2017)  
-[CSAW Europe Applied Research Award](http://csaw-europe.com/), 2nd place (out of 128 papers){: .btn--success}{:target="_blank"}  
-[pdf](https://arxiv.org/pdf/1612.04433.pdf){: .btn--danger}{:target="_blank"} [blog](https://www.benthamsgaze.org/2017/03/28/mamadroid-detecting-android-malware-by-building-markov-chains-of-behavioral-models/){: .btn--danger}{:target="_blank"} [code](https://bitbucket.org/gianluca_students/mamadroid_code){: .btn--danger}{:target="_blank"}  
+[CSAW Europe Applied Research Award](http://csaw-europe.com/), 2nd place (out of 128 papers){: .btn--success}{:target="_blank"} [pdf](https://arxiv.org/pdf/1612.04433.pdf){: .btn--danger}{:target="_blank"} [blog](https://www.benthamsgaze.org/2017/03/28/mamadroid-detecting-android-malware-by-building-markov-chains-of-behavioral-models/){: .btn--danger}{:target="_blank"} [code](https://bitbucket.org/gianluca_students/mamadroid_code){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [The Morning Paper](https://blog.acolyer.org/2017/03/09/mamadroid-detecting-android-malware-by-building-markov-chains-of-behavorial-models/)  
 
 ### 2016
@@ -374,8 +369,7 @@ Hassan Jameel Asghar, Luca Melis, Cyril Soldani, Emiliano De Cristofaro, Dali Ka
 Luca Melis, George Danezis, Emiliano De Cristofaro  
 **Efficient Private Statistics with Succinct Sketches**  
 23rd Network and Distributed System Security Symposium (NDSS 2016)  
-[2017 Data Protection by Design Award](http://apdcat.gencat.cat/en/actualitat/premi/2017-/index.html){: .btn--success}{:target="_blank"} (Catalan Data Protection authority)  
-[pdf](http://arxiv.org/pdf/1508.06110.pdf){: .btn--danger}{:target="_blank"} [blog](https://www.benthamsgaze.org/2016/03/04/privately-gathering-statistics-and-training-simple-models/){: .btn--danger}{:target="_blank"}
+[2017 Data Protection by Design Award](http://apdcat.gencat.cat/en/actualitat/premi/2017-/index.html){: .btn--success}{:target="_blank"} (Catalan Data Protection authority) [pdf](http://arxiv.org/pdf/1508.06110.pdf){: .btn--danger}{:target="_blank"} [blog](https://www.benthamsgaze.org/2016/03/04/privately-gathering-statistics-and-training-simple-models/){: .btn--danger}{:target="_blank"}
 
 
 Lucky Onwuzurike and Emiliano De Cristofaro  
@@ -433,8 +427,7 @@ Kat Krol, Eleni Philippou, Emiliano De Cristofaro, M. Angela Sasse
 Abdelberi Chaabane, Terence Chen, Mathieu Cunche, Emiliano De Cristofaro, Arik Friedman, Dali Kaafar  
 **Censorship in the Wild: Analyzing Web Filtering in Syria**  
 14th ACM Internet Measurement Conference (IMC 2014)  
-[best paper runner-up](https://conferences.sigcomm.org/imc/2014/){: .btn--success}{:target="_blank"}  
-[full version](http://arxiv.org/pdf/1402.3401){: .btn--danger}{:target="_blank"}  
+[best paper runner-up](https://conferences.sigcomm.org/imc/2014/){: .btn--success}{:target="_blank"} [full version](http://arxiv.org/pdf/1402.3401){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [The Register](http://www.theregister.co.uk/2014/11/28/syria_regime_filtering_study/), [MIT Tech Review](http://www.technologyreview.com/view/525076/syrian-web-censorship-techniques-revealed/), [Boing Boing](http://boingboing.net/2014/02/18/detailed-analysis-of-syrias.html), [ACM Tech News](http://technews.acm.org/#708558), [Physics Central](http://physicsbuzz.physicscentral.com/2014/02/syrias-censorship-practices-exposed.html), [Motherboard](http://motherboard.vice.com/blog/hacked-data-reveals-the-syrian-governments-tactics-for-censoring-the-internet), [The Conversation](https://theconversation.com/lessons-on-censorship-from-syrias-internet-filter-machines-33951)  
 
 
