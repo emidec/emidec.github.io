@@ -6,9 +6,21 @@ title: Privacy in Machine Learning
 
 {% include base_path %}
 
-## Privacy in Machine Learning
+## Privacy in Machine Learning Publications
 
-This is the list of my publications roughly related to **privacy** in **machine learning**
+Georgi Ganev, Bristena Oprisanu, Emiliano De Cristofaro  
+**Robin Hood and Matthew Effects -- Differential Privacy Has Disparate Impact on Synthetic Data**  
+arXiv:2109.11429  
+[pre-print](https://arxiv.org/pdf/2109.11429.pdf){: .btn--danger}{:target="_blank"} 
+
+Bristena Oprisanu, Georgi Ganev, Emiliano De Cristofaro  
+**Measuring Utility and Privacy of Synthetic Genomic Data**  
+arXiv 2102.03314  
+[pre-print](https://arxiv.org/pdf/2102.03314){: .btn--danger}{:target="_blank"} 
+
+**Toward Robustness and Privacy in Federated Learning: Experimenting with Local and Central Differential Privacy**  
+arXiv 2102.03314  
+[pre-print](https://arxiv.org/pdf/2102.03314){: .btn--danger}{:target="_blank"} 
 
 Yugeng Liu, Rui Wen, Xinlei He, Ahmed Salem, Zhikun Zhang, Michael Backes, Emiliano De Cristofaro, Mario Fritz, Yang Zhang  
 **ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models**  
@@ -19,15 +31,6 @@ Emiliano De Cristofaro
 **A Critical Overview of Privacy in Machine Learning**  
 IEEE Security & Privacy Magazine, Volume 19, Issue 4, July-August 2021  
 [pdf](https://emilianodc.com/PAPERS/IEEESP2021.pdf){: .btn--danger}{:target="_blank"} 
-
-Bristena Oprisanu, Georgi Ganev, Emiliano De Cristofaro  
-**Measuring Utility and Privacy of Synthetic Genomic Data**  
-ArXiv 2102.03314  
-[pre-print](https://arxiv.org/pdf/2102.03314){: .btn--danger}{:target="_blank"} 
-
-**Toward Robustness and Privacy in Federated Learning: Experimenting with Local and Central Differential Privacy**  
-ArXiv 2102.03314  
-[pre-print](https://arxiv.org/pdf/2102.03314){: .btn--danger}{:target="_blank"} 
 
 Apostolos Pyrgelis, Carmela Troncoso, and Emiliano De Cristofaro  
 **Measuring Membership Privacy on Aggregate Location Time-Series**  
