@@ -70,7 +70,7 @@ IEEE Transactions on Knowledge and Data Engineering (TKDE 2018)
 Apostolos Pyrgelis, Carmela Troncoso, Emiliano De Cristofaro  
 **Knock Knock, Who's There? Membership Inference on Aggregate Location Data**  
 25th Network and Distributed System Security Symposium (NDSS 2018)  
-[distinguished paper award](https://www.ndss-symposium.org/ndss2018/){: .btn--success}{:target="_blank"} [INRIA-CNIL Privacy Protection Award Runner-up](https://www.cnil.fr/en/inria-and-cnil-award-2019-privacy-protection-prize-european-research-team){: .btn--success}{:target="_blank"}  
+[distinguished paper award](https://www.ndss-symposium.org/ndss2018/){: .btn--success}{:target="_blank"} [INRIA-CNIL privacy protection award runner-up](https://www.cnil.fr/en/inria-and-cnil-award-2019-privacy-protection-prize-european-research-team){: .btn--success}{:target="_blank"}  
 [full version](https://arxiv.org/pdf/1708.06145.pdf){: .btn--danger}{:target="_blank"} [blog](https://www.benthamsgaze.org/2018/10/02/on-location-time-and-membership-studying-how-aggregate-location-data-can-harm-users-privacy/){: .btn--danger}{:target="_blank"}  [video](https://www.youtube.com/watch?v=hwGAE5NqAP0){: .btn--danger}{:target="_blank"}   
 
 Gergely Acs, Luca Melis, Claude Castelluccia, Emiliano De Cristofaro  
@@ -88,7 +88,7 @@ Proceedings on Privacy Enhancing Technologies, Vol. 2017, Issue 4 (PoPETS 2017)
 Luca Melis, George Danezis, Emiliano De Cristofaro  
 **Efficient Private Statistics with Succinct Sketches**  
 23rd Network and Distributed System Security Symposium (NDSS 2016)  
-[2017 Data Protection by Design Award](http://apdcat.gencat.cat/en/actualitat/premi/2017-/index.html){: .btn--success}{:target="_blank"} (Catalan Data Protection authority)  
+[2017 data protection by design award](http://apdcat.gencat.cat/en/actualitat/premi/2017-/index.html){: .btn--success}{:target="_blank"} (from Catalan data protection authority)  
 [pdf](http://arxiv.org/pdf/1508.06110.pdf){: .btn--danger}{:target="_blank"} [blog](https://www.benthamsgaze.org/2016/03/04/privately-gathering-statistics-and-training-simple-models/){: .btn--danger}{:target="_blank"}
 
 
