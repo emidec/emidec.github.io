@@ -18,6 +18,7 @@ Bristena Oprisanu, Georgi Ganev, Emiliano De Cristofaro
 arXiv 2102.03314  
 [pre-print](https://arxiv.org/pdf/2102.03314){: .btn--danger}{:target="_blank"} 
 
+Mohammad Naseri, Jamie Hayes, Emiliano De Cristofaro  
 **Local and Central Differential Privacy for Robustness and Privacy in Federated Learning**  
 29th Network and Distributed System Security Symposium (NDSS 2021)  
 [pre-print](https://arxiv.org/pdf/2102.03314){: .btn--danger}{:target="_blank"} 
