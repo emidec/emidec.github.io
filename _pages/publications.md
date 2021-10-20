@@ -11,6 +11,10 @@ title: Publications
 This is the list of all my peer-reviewed publications ordered by year. You can also visit my [DBLP](http://dblp.uni-trier.de/pers/hd/c/Cristofaro:Emiliano_De){:target="_blank"} or my [Google Scholar](https://scholar.google.com/citations?hl=en&user=1wfzUuEAAAAJ&view_op=list_works&pagesize=100){:target="_blank"} page.
 
 ### 2022
+**Local and Central Differential Privacy for Robustness and Privacy in Federated Learning**  
+29th Network and Distributed System Security Symposium (NDSS 2021)  
+[pre-print](https://arxiv.org/pdf/2102.03314){: .btn--danger}{:target="_blank"} 
+
 Yugeng Liu, Rui Wen, Xinlei He, Ahmed Salem, Zhikun Zhang, Michael Backes, Emiliano De Cristofaro, Mario Fritz, Yang Zhang  
 **ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models**  
 31st USENIX Security Symposium (Usenix Security 2022)  

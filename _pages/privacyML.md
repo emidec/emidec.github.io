@@ -18,8 +18,8 @@ Bristena Oprisanu, Georgi Ganev, Emiliano De Cristofaro
 arXiv 2102.03314  
 [pre-print](https://arxiv.org/pdf/2102.03314){: .btn--danger}{:target="_blank"} 
 
-**Toward Robustness and Privacy in Federated Learning: Experimenting with Local and Central Differential Privacy**  
-arXiv 2102.03314  
+**Local and Central Differential Privacy for Robustness and Privacy in Federated Learning**  
+29th Network and Distributed System Security Symposium (NDSS 2021)  
 [pre-print](https://arxiv.org/pdf/2102.03314){: .btn--danger}{:target="_blank"} 
 
 Yugeng Liu, Rui Wen, Xinlei He, Ahmed Salem, Zhikun Zhang, Michael Backes, Emiliano De Cristofaro, Mario Fritz, Yang Zhang  
