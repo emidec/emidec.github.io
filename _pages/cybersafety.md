@@ -25,7 +25,7 @@ Kostantinos Papadamou, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofar
 
 Anaobi Ishaku, Igancio Castro, Aravindh Raman, Haris Bin Zia, Emiliano De Cristofaro, N. Sastry, Gareth Tyson  
 **Throwing the Baby out with the Bathwater: Exploring Moderation in the Decentralised Web**  
-17th International Conference on emerging Networking EXperiments and Technologies (ACM CoNext 2021), _conditionally accept_  
+17th International Conference on emerging Networking EXperiments and Technologies (ACM CoNext 2021)  
 [pre-print](https://arxiv.org/abs/2010.11638){: .btn--danger}{:target="_blank"}  
 
 
