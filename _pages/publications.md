@@ -26,7 +26,6 @@ Max Aliapoulios<sup>\*</sup>, Antonis Papasavva<sup>\*</sup>, Cameron Ballard, E
 16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
 [pre-print](https://arxiv.org/abs/2101.08750){: .btn--danger}{:target="_blank"}  
 
-
 Kostantinos Papadamou, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, and Michael Sirivianos  
 **"It is just a flu": Assessing the Effect of Watch History on YouTube's Pseudoscientific Video Recommendations**  
 16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
@@ -37,7 +36,7 @@ Kostantinos Papadamou, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofar
 
 Anaobi Ishaku, Igancio Castro, Aravindh Raman, Haris Bin Zia, Emiliano De Cristofaro, N. Sastry, Gareth Tyson  
 **Throwing the Baby out with the Bathwater: Exploring Moderation in the Decentralised Web**  
-17th International Conference on emerging Networking EXperiments and Technologies (ACM CoNext 2021), _conditional accept_  
+17th International Conference on emerging Networking EXperiments and Technologies (ACM CoNext 2021)  
 [pre-print](https://arxiv.org/abs/2010.11638){: .btn--danger}{:target="_blank"}  
 
 Emiliano De Cristofaro  
