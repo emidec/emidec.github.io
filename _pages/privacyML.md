@@ -21,7 +21,7 @@ arXiv 2102.03314
 Mohammad Naseri, Jamie Hayes, Emiliano De Cristofaro  
 **Local and Central Differential Privacy for Robustness and Privacy in Federated Learning**  
 29th Network and Distributed System Security Symposium (NDSS 2022)  
-[pre-print](https://arxiv.org/pdf/2102.03314){: .btn--danger}{:target="_blank"} 
+[pre-print](https://arxiv.org/pdf/2009.03561.pdf){: .btn--danger}{:target="_blank"} 
 
 Yugeng Liu, Rui Wen, Xinlei He, Ahmed Salem, Zhikun Zhang, Michael Backes, Emiliano De Cristofaro, Mario Fritz, Yang Zhang  
 **ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models**  
