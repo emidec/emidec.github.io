@@ -35,9 +35,9 @@ Kostantinos Papadamou, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofar
 ### 2021
 
 Anaobi Ishaku, Igancio Castro, Aravindh Raman, Haris Bin Zia, Emiliano De Cristofaro, N. Sastry, Gareth Tyson  
-**Throwing the Baby out with the Bathwater: Exploring Moderation in the Decentralised Web**  
+**Exploring Content Moderation in the Decentralised Web: The Pleroma Case**  
 17th International Conference on emerging Networking EXperiments and Technologies (ACM CoNext 2021)  
-[pre-print](https://arxiv.org/abs/2010.11638){: .btn--danger}{:target="_blank"}  
+[pre-print](https://arxiv.org/abs/2110.13500){: .btn--danger}{:target="_blank"}  
 
 Emiliano De Cristofaro  
 **A Critical Overview of Privacy in Machine Learning**  
