@@ -10,7 +10,7 @@ image: /images/hiring.jpg
 
 ## We're hiring!
 
-We have **two** faculty positions open, with application deadline **14 November 2021**. We seek applicants with expertise that complements or builds on our current strengths, including but not limited to: human factors in security, systems/network security, cybercrime, embedded systems security, cryptography, software security.
+We ([UCL InfoSec](https://sec.cs.ucl.ac.uk)) have **two** faculty positions open, with application deadline **14 November 2021**. We seek applicants with expertise that complements or builds on our current strengths, including but not limited to: human factors in security, systems/network security, cybercrime, embedded systems security, cryptography, software security.
 
 Note: we won't be asking applicants to submit or request reference letters at the time of applications. We will do so only for candidates that are shortlisted for one or more interviews via Zoom/MS Teams. However, please do enter the names/contact details of your reference in the application portal, so we can easily ask them to provide letters for shortlisted candidates.
 
