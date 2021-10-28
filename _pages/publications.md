@@ -39,6 +39,11 @@ Anaobi Ishaku, Igancio Castro, Aravindh Raman, Haris Bin Zia, Emiliano De Cristo
 17th International Conference on emerging Networking EXperiments and Technologies (ACM CoNext 2021)  
 [pre-print](https://arxiv.org/abs/2010.11638){: .btn--danger}{:target="_blank"}  
 
+Yuping Wang, Savvas Zannettou, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro, and Gianluca Stringhini  
+**A Multi-Platform Analysis of Political News Discussion and Sharing on Web Communities**  
+2021 IEEE International Conference on Big Data (IEEE BigData 2021)  
+[pre-print](https://arxiv.org/abs/2103.03631){: .btn--danger}{:target="_blank"}  
+
 Emiliano De Cristofaro  
 **A Critical Overview of Privacy in Machine Learning**  
 IEEE Security & Privacy Magazine, Volume 19, Issue 4, July-August 2021  

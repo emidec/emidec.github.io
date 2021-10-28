@@ -29,6 +29,12 @@ Anaobi Ishaku, Igancio Castro, Aravindh Raman, Haris Bin Zia, Emiliano De Cristo
 [pre-print](https://arxiv.org/abs/2010.11638){: .btn--danger}{:target="_blank"}  
 
 
+Yuping Wang, Savvas Zannettou, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro, and Gianluca Stringhini  
+**A Multi-Platform Analysis of Political News Discussion and Sharing on Web Communities**  
+2021 IEEE International Conference on Big Data (IEEE BigData 2021)  
+[pre-print](https://arxiv.org/abs/2103.03631){: .btn--danger}{:target="_blank"}  
+
+
 Periwinkle Doerfler, Andrea Forte, Emiliano De Cristofaro, Gianluca Stringhini, Jeremy Blackburn, and Damon McCoy  
 **"I'm a Professor, which isn't usually a dangerous job": Internet-Facilitated Harassment and its Impact on Researchers**  
 24th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2021)  
