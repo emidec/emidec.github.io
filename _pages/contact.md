@@ -1,7 +1,7 @@
 ---
 permalink: /contact/
 author_profile: true
-title: How to contact me
+title: Contact
 ---
 
 {% include base_path %}
@@ -12,10 +12,9 @@ Gower Street
 London WC1E 6BT
 
 ### Office
-169 Euston Road  
+169 Euston Road, 1st Floor  
 [Google Maps](https://goo.gl/maps/RBYG7ABmJU4XjzZ56)  
-1st Floor
 
 ### Phone
-- Office: +44 20 7679 0349 (email before calling), redirects to MS Teams
+- Office: available upon request
 - Signal: available upon request
