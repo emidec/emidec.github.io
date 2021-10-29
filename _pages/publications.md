@@ -53,25 +53,25 @@ IEEE Security & Privacy Magazine, Volume 19, Issue 4, July-August 2021
 Periwinkle Doerfler, Andrea Forte, Emiliano De Cristofaro, Gianluca Stringhini, Jeremy Blackburn, and Damon McCoy  
 **"I'm a Professor, which isn't usually a dangerous job": Internet-Facilitated Harassment and its Impact on Researchers**  
 24th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2021)  
-[impact recognition award](){: .btn--success}  
-[pre-print](https://arxiv.org/pdf/2104.11145.pdf){: .btn--danger}{:target="_blank"}  
+[impact recognition award](https://cscw.acm.org/2021/awards/){: .btn--success}  
+[pdf](https://arxiv.org/pdf/2104.11145.pdf){: .btn--danger}{:target="_blank"}  
 
 Manoel Horta Ribeiro, Shagun Jhaver, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, and Robert West  
-**Does Platform Migration Compromise Content Moderation? Evidence from r/The_Donald and r/Incels**  
+**Do Platform Migrations Compromise Content Moderation? Evidence from r/The_Donald and r/Incels**  
 24th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2021)  
-[honorable mention](){: .btn--success}  
-[pre-print](https://arxiv.org/pdf/2010.10397.pdf){: .btn--danger}{:target="_blank"}  
+[honorable mention](https://cscw.acm.org/2021/awards/){: .btn--success}  
+[pdf](https://arxiv.org/pdf/2010.10397.pdf){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [WaPo](https://www.washingtonpost.com/technology/2021/02/05/why-thedonald-moderator-left/), [El Pais](https://elpais.com/tecnologia/2021-01-08/la-victoria-de-los-trols-de-como-internet-se-ha-convertido-en-la-vida-real.html), [The Brink](https://www.bu.edu/articles/2021/trump-banned-from-twitter-facebook/), [Wired](https://www.wired.com/story/qanon-facebook-deplatforming/)  
 
 Kostantinos Papadamou, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, and Michael Sirivianos  
 **"How over is it?" Understanding the Incel Community on YouTube**  
 24th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2021)  
-[pre-print](https://arxiv.org/pdf/2001.08293){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2001.08293){: .btn--danger}{:target="_blank"}  
 
 Chen Ling, Ihab AbuHilal, Jeremy Blackburn, Emiliano De Cristofaro, Savvas Zannettou, Gianluca Stringhini  
 **Dissecting the Meme Magic: Understanding Indicators of Virality in Image Memes**  
 24th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2021)  
-[pre-print](https://arxiv.org/pdf/2101.06535.pdf){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2101.06535.pdf){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [Input Mag](https://www.inputmag.com/culture/viral-meme-ai-study-bernie-sanders)
 
 Shiza Ali, Mohammad Hammas Saeed, Esraa Aldreabi, Jeremy Blackburn, Emiliano De Cristofaro, Savvas Zannettou, and Gianluca Stringhini  
