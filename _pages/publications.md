@@ -83,7 +83,7 @@ Shiza Ali, Mohammad Hammas Saeed, Esraa Aldreabi, Jeremy Blackburn, Emiliano De 
 Antonis Papasavva, Jeremy Blackburn, Gianluca Stringhini, Savvas Zannettou, and Emiliano De Cristofaro  
 **"Is it a Qoincidence?": An Exploratory Study of QAnon on Voat**  
 30th The Web Conference (WWW 2021)  
-[pdf](https://arxiv.org/pdf/2009.04885.pdf){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2009.04885.pdf){: .btn--danger}{:target="_blank"} [video](https://www.youtube.com/watch?v=P3UyI8CSBWQ){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [Wired](https://www.wired.com/story/qanon-facebook-deplatforming/), [Echosec](https://www.echosec.net/blog/what-is-voat), [The Daily Beast](https://www.thedailybeast.com/another-blow-for-qanon-as-voat-announces-a-christmas-shutdown)  
 
 Max Aliapoulios, Emmi Bevensee, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, and Savvas Zannettou  
