@@ -41,22 +41,22 @@ Periwinkle Doerfler, Andrea Forte, Emiliano De Cristofaro, Gianluca Stringhini, 
 [impact recognition award](https://cscw.acm.org/2021/awards/){: .btn--success}  
 [pdf](https://arxiv.org/pdf/2104.11145.pdf){: .btn--danger}{:target="_blank"}  
 
-Kostantinos Papadamou, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, and Michael Sirivianos  
-**"How over is it?" Understanding the Incel Community on YouTube**  
-24th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2021)  
-[pdf](https://arxiv.org/pdf/2001.08293){: .btn--danger}{:target="_blank"}  
-
 Manoel Horta Ribeiro, Shagun Jhaver, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, and Robert West  
 **Do Platform Migrations Compromise Content Moderation? Evidence from r/The_Donald and r/Incels**  
 24th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2021)  
 [honorable mention](https://cscw.acm.org/2021/awards/){: .btn--success}  
-[pdf](https://arxiv.org/pdf/2010.10397.pdf){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2010.10397.pdf){: .btn--danger}{:target="_blank"} [video](https://youtu.be/74O0XgPIu3o){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [WaPo](https://www.washingtonpost.com/technology/2021/02/05/why-thedonald-moderator-left/), [El Pais](https://elpais.com/tecnologia/2021-01-08/la-victoria-de-los-trols-de-como-internet-se-ha-convertido-en-la-vida-real.html), [The Brink](https://www.bu.edu/articles/2021/trump-banned-from-twitter-facebook/), [Wired](https://www.wired.com/story/qanon-facebook-deplatforming/)  
+
+Kostantinos Papadamou, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, and Michael Sirivianos  
+**"How over is it?" Understanding the Incel Community on YouTube**  
+24th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2021)  
+[pdf](https://arxiv.org/pdf/2001.08293){: .btn--danger}{:target="_blank"} [video](https://www.youtube.com/watch?v=WBPNTmAcvco){: .btn--danger}{:target="_blank"}  
 
 Chen Ling, Ihab AbuHilal, Jeremy Blackburn, Emiliano De Cristofaro, Savvas Zannettou, and Gianluca Stringhini  
 **Dissecting the Meme Magic: Understanding Indicators of Virality in Image Memes**  
 24th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2021)  
-[pdf](https://arxiv.org/pdf/2101.06535.pdf){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2101.06535.pdf){: .btn--danger}{:target="_blank"} [video](https://www.youtube.com/watch?v=4E83nxRnFT0&t=12s){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [Input Magazine](https://www.inputmag.com/culture/viral-meme-ai-study-bernie-sanders)  
 
 Shiza Ali, Mohammad Hammas Saeed, Esraa Aldreabi, Jeremy Blackburn, Emiliano De Cristofaro, Savvas Zannettou, and Gianluca Stringhini  
@@ -67,7 +67,7 @@ Shiza Ali, Mohammad Hammas Saeed, Esraa Aldreabi, Jeremy Blackburn, Emiliano De 
 Antonis Papasavva, Jeremy Blackburn, Gianluca Stringhini, Savvas Zannettou, and Emiliano De Cristofaro  
 **"Is it a Qoincidence?": An Exploratory Study of QAnon on Voat**  
 30th The Web Conference (WWW 2021)  
-[pdf](https://arxiv.org/pdf/2009.04885.pdf){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2009.04885.pdf){: .btn--danger}{:target="_blank"} [video](https://www.youtube.com/watch?v=P3UyI8CSBWQ){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [Wired](https://www.wired.com/story/qanon-facebook-deplatforming/), [Echosec](https://www.echosec.net/blog/what-is-voat), [The Daily Beast](https://www.thedailybeast.com/another-blow-for-qanon-as-voat-announces-a-christmas-shutdown)  
 
 
@@ -86,8 +86,7 @@ Manoel Horta Ribeiro, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro Gi
 Yuping Wang, Fatemeh Tahmasbi, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro, David Magerman, Savvas Zannettou, and Gianluca Stringhini  
 **Understanding the Use of Fauxtography on Social Media**  
 15th International AAAI Conference on Web and Social Media (ICWSM 2021)  
-[pdf](https://arxiv.org/pdf/2009.11792.pdf){: .btn--danger}{:target="_blank"}  
-
+[pdf](https://arxiv.org/pdf/2009.11792.pdf){: .btn--danger}{:target="_blank"} [video](https://www.youtube.com/watch?v=MJr1ytLpJDM){: .btn--danger}{:target="_blank"}  
 
 Antonis Papasavva, Savvas Zannettou, Emiliano De Cristofaro, Gianluca Stringhini, Jeremy Blackburn  
 **Raiders of the Lost Kek: 3.5 Years of Augmented 4chan Posts from the Politically Incorrect Board**  

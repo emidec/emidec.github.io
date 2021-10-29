@@ -60,18 +60,18 @@ Manoel Horta Ribeiro, Shagun Jhaver, Savvas Zannettou, Jeremy Blackburn, Emilian
 **Do Platform Migrations Compromise Content Moderation? Evidence from r/The_Donald and r/Incels**  
 24th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2021)  
 [honorable mention](https://cscw.acm.org/2021/awards/){: .btn--success}  
-[pdf](https://arxiv.org/pdf/2010.10397.pdf){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2010.10397.pdf){: .btn--danger}{:target="_blank"} [video](https://youtu.be/74O0XgPIu3o){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [WaPo](https://www.washingtonpost.com/technology/2021/02/05/why-thedonald-moderator-left/), [El Pais](https://elpais.com/tecnologia/2021-01-08/la-victoria-de-los-trols-de-como-internet-se-ha-convertido-en-la-vida-real.html), [The Brink](https://www.bu.edu/articles/2021/trump-banned-from-twitter-facebook/), [Wired](https://www.wired.com/story/qanon-facebook-deplatforming/)  
 
 Kostantinos Papadamou, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, and Michael Sirivianos  
 **"How over is it?" Understanding the Incel Community on YouTube**  
 24th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2021)  
-[pdf](https://arxiv.org/pdf/2001.08293){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2001.08293){: .btn--danger}{:target="_blank"} [video](https://www.youtube.com/watch?v=WBPNTmAcvco){: .btn--danger}{:target="_blank"}  
 
 Chen Ling, Ihab AbuHilal, Jeremy Blackburn, Emiliano De Cristofaro, Savvas Zannettou, Gianluca Stringhini  
 **Dissecting the Meme Magic: Understanding Indicators of Virality in Image Memes**  
 24th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2021)  
-[pdf](https://arxiv.org/pdf/2101.06535.pdf){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2101.06535.pdf){: .btn--danger}{:target="_blank"} [video](https://www.youtube.com/watch?v=4E83nxRnFT0&t=12s){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [Input Mag](https://www.inputmag.com/culture/viral-meme-ai-study-bernie-sanders)
 
 Shiza Ali, Mohammad Hammas Saeed, Esraa Aldreabi, Jeremy Blackburn, Emiliano De Cristofaro, Savvas Zannettou, and Gianluca Stringhini  
@@ -102,7 +102,7 @@ Manoel Horta Ribeiro, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro Gi
 Yuping Wang, Fatemeh Tahmasbi, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro, David Magerman, Savvas Zannettou, and Gianluca Stringhini  
 **Understanding the Use of Fauxtography on Social Media**  
 15th International AAAI Conference on Web and Social Media (ICWSM 2021)  
-[pdf](https://arxiv.org/pdf/2009.11792.pdf){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2009.11792.pdf){: .btn--danger}{:target="_blank"} [video](https://www.youtube.com/watch?v=MJr1ytLpJDM){: .btn--danger}{:target="_blank"}  
 
 
 
