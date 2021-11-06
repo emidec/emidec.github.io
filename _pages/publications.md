@@ -11,6 +11,10 @@ title: Publications
 This is the list of all my peer-reviewed publications ordered by year. You can also visit my [DBLP](http://dblp.uni-trier.de/pers/hd/c/Cristofaro:Emiliano_De){:target="_blank"} or my [Google Scholar](https://scholar.google.com/citations?hl=en&user=1wfzUuEAAAAJ&view_op=list_works&pagesize=100){:target="_blank"} page.
 
 ### 2022
+Mohammad Hammas Saeed, Shiza Ali, Jeremy Blackburn, Emiliano De Cristofaro, Savvas Zannettou, and Gianluca Stringhini  
+**TROLLMAGNIFIER: Detecting State-Sponsored Troll Accounts on Reddit**  
+Conditionally accepted at 43th IEEE Symposium on Security & Privacy (S&P 2022)  
+
 Mohammad Naseri, Jamie Hayes, Emiliano De Cristofaro  
 **Local and Central Differential Privacy for Robustness and Privacy in Federated Learning**  
 29th Network and Distributed System Security Symposium (NDSS 2022)  

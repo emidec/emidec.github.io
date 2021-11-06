@@ -11,6 +11,11 @@ title: Cybersafety
 This is a non-exxaustive list of my publications related to understanding and countering **cybersafety** and other socio-technical issues. Many of these papers are written in collaboration with the [iDRAMA Lab](https://idrama.science) crew and were in part funded by the EU through the [ENCASE](https://encase.socialcomputing.eu/) project.
 
 
+
+Mohammad Hammas Saeed, Shiza Ali, Jeremy Blackburn, Emiliano De Cristofaro, Savvas Zannettou, and Gianluca Stringhini  
+**TROLLMAGNIFIER: Detecting State-Sponsored Troll Accounts on Reddit**  
+Conditionally accepted at 43th IEEE Symposium on Security & Privacy (S&P 2022)  
+
 Max Aliapoulios<sup>\*</sup>, Antonis Papasavva<sup>\*</sup>, Cameron Ballard, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou, and Jeremy Blackburn  
 **The Gospel According to Q: Understanding the QAnon Conspiracy from the Perspective of Canonical Information**  
 16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
