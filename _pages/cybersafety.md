@@ -14,7 +14,7 @@ This is a non-exxaustive list of my publications related to understanding and co
 
 Mohammad Hammas Saeed, Shiza Ali, Jeremy Blackburn, Emiliano De Cristofaro, Savvas Zannettou, and Gianluca Stringhini  
 **TROLLMAGNIFIER: Detecting State-Sponsored Troll Accounts on Reddit**  
-Conditionally accepted at 43th IEEE Symposium on Security & Privacy (S&P 2022)  
+43th IEEE Symposium on Security & Privacy (S&P 2022)  
 [pre-print](){: .btn--danger}{:target="_blank"} 
 
 Max Aliapoulios<sup>\*</sup>, Antonis Papasavva<sup>\*</sup>, Cameron Ballard, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou, and Jeremy Blackburn  
