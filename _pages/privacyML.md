@@ -14,9 +14,9 @@ arXiv:2109.11429
 [pre-print](https://arxiv.org/pdf/2109.11429.pdf){: .btn--danger}{:target="_blank"} 
 
 Bristena Oprisanu, Georgi Ganev, Emiliano De Cristofaro  
-**Measuring Utility and Privacy of Synthetic Genomic Data**  
-arXiv 2102.03314  
-[pre-print](https://arxiv.org/pdf/2102.03314){: .btn--danger}{:target="_blank"} 
+**On Utility and Privacy in Synthetic Genomic Data**  
+29th Network and Distributed System Security Symposium (NDSS 2022)  
+[pre-print](){: .btn--danger}{:target="_blank"} 
 
 Mohammad Naseri, Jamie Hayes, Emiliano De Cristofaro  
 **Local and Central Differential Privacy for Robustness and Privacy in Federated Learning**  

@@ -16,6 +16,11 @@ Mohammad Hammas Saeed, Shiza Ali, Jeremy Blackburn, Emiliano De Cristofaro, Savv
 43th IEEE Symposium on Security & Privacy (S&P 2022)  
 [pre-print](){: .btn--danger}{:target="_blank"} 
 
+Bristena Oprisanu, Georgi Ganev, Emiliano De Cristofaro  
+**On Utility and Privacy in Synthetic Genomic Data**  
+29th Network and Distributed System Security Symposium (NDSS 2022)  
+[pre-print](){: .btn--danger}{:target="_blank"} 
+
 Mohammad Naseri, Jamie Hayes, Emiliano De Cristofaro  
 **Local and Central Differential Privacy for Robustness and Privacy in Federated Learning**  
 29th Network and Distributed System Security Symposium (NDSS 2022)  
