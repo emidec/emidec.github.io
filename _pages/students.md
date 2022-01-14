@@ -7,17 +7,21 @@ title: Research Group
 {% include base_path %}
 
 ## Current PhD students
-- [Bristena Oprisanu](https://www.bristenaop.com/) (since September 2017)
--	[Antonis Papasavva](https://antonispapasavva.github.io/) (since September 2019)
--	[Mohammad Naseri](https://mohammadnaseri.github.io/) (since November 2019)
+- [Antonis Papasavva](https://antonispapasavva.github.io/) (since September 2019)
+- [Mohammad Naseri](https://mohammadnaseri.github.io/) (since November 2019)
 - [Alexandros Efstratiou](https://alefstrat.github.io/) (since September 2020)
 - [Georgi Ganev](https://ganevgv.github.io/) (since October 2020, part-time)
+
+## Current Post-Doctoral Researchers
+- [Kostantinos Papadamou](https://kostantinospapadamou.com) (since December 2021)
+
 
 ## Alumni
 -  [Luca Melis](https://lucamelis.github.io/) (Sep 2014--Aug 2018); now Research Scientist at Facebook
 -  [Lucky Onwuzurike](https://luckenzo.github.io/) (Sep 2014--Oct 2018); now Senior Security Consultant at Ernst & Young London
 -  [Apostolos Pyrgelis](https://mex2meou.github.io/webpage/) (May 2015--Nov 2018); now Post-Doctoral Researcher at EPFL
 -  [Alexandros Mittos](https://mittos.xyz) (Aug 2016--Oct 2020); now Data Scientist at PS AI Labs
+- [Bristena Oprisanu](https://www.bristenaop.com/) (September 2017-January 2021); now ML Privacy Engineer at Bitfount
 
 
 ## Past Post-Doctoral Researchers
