@@ -14,7 +14,7 @@ This is the list of all my peer-reviewed publications ordered by year. You can a
 Mohammad Hammas Saeed, Shiza Ali, Jeremy Blackburn, Emiliano De Cristofaro, Savvas Zannettou, and Gianluca Stringhini  
 **TROLLMAGNIFIER: Detecting State-Sponsored Troll Accounts on Reddit**  
 43th IEEE Symposium on Security & Privacy (S&P 2022)  
-[pre-print](){: .btn--danger}{:target="_blank"} 
+[pre-print](http://arxiv.org/abs/2112.00443){: .btn--danger}{:target="_blank"} 
 
 Bristena Oprisanu, Georgi Ganev, Emiliano De Cristofaro  
 **On Utility and Privacy in Synthetic Genomic Data**  
