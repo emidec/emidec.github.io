@@ -13,7 +13,7 @@ I am also on the Technology Advisory Panel at the UK Information Commissioner's 
 
 Overall, I do research in the broad information security area. Recently, I have been doing a lot of work at the intersection of [machine learning and privacy](https://emilianodc.com/privacyML), as well as on understanding and countering [cybersafety issues](https://emilianodc.com/cybersafety/) using measurement studies and data science.
 
-My research has been published at top-tier conferences such as IEEE S&P, NDSS, ACM CCS, WWW, ICWSM, ACM IMC. My co-authors and I have received best/distinguished paper awards from NDSS 2018, ACM IMC 2018, and CyberSafety 2019, as well as the Data Protection by Design Award from the Catalan Data Protection authority, and were runners-up for best paper at ACM IMC 2014, ICWSM 2017, the 2018 CSAW Europe Applied Research Award, and the 2019 INRIA-CNIL Privacy Protection Award.
+My research has been published at the four top-tier conferences in security (IEEE S&P, NDSS, ACM CCS, Usenix Security) as well top-tier conferences in other fields (e.g., WWW, ICWSM, ACM IMC, ACM SIGMETRICS, CSCW, ISMB). My co-authors and I have received best/distinguished paper awards from NDSS 2018, ACM IMC 2018, and CyberSafety 2019, as well as the Data Protection by Design Award from the Catalan Data Protection authority, and were runners-up for best paper at ACM IMC 2014, ICWSM 2017, the 2018 CSAW Europe Applied Research Award, and the 2019 INRIA-CNIL Privacy Protection Award.
 
 ### Education
 - *PhD in Networked Systems,* 2011   
