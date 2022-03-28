@@ -11,6 +11,11 @@ title: Publications
 This is the list of all my peer-reviewed publications ordered by year. You can also visit my [DBLP](http://dblp.uni-trier.de/pers/hd/c/Cristofaro:Emiliano_De){:target="_blank"} or my [Google Scholar](https://scholar.google.com/citations?hl=en&user=1wfzUuEAAAAJ&view_op=list_works&pagesize=100){:target="_blank"} page.
 
 ### 2022
+Haris Bin Zia, Aravindh Raman, Ignacio Castro, Ishaku Anaobi, Emiliano De Cristofaro, Nishanth Sastry, Gareth Tyson  
+**Toxicity in the Decentralized Web and the Potential for Model Sharing**  
+43th IEEE Symposium on Security & Privacy (S&P 2022)  
+ACM International Conference on Measurement and Modeling of Computer Systems (SIGMETRICS 2022)  
+
 Mohammad Hammas Saeed, Shiza Ali, Jeremy Blackburn, Emiliano De Cristofaro, Savvas Zannettou, and Gianluca Stringhini  
 **TROLLMAGNIFIER: Detecting State-Sponsored Troll Accounts on Reddit**  
 43th IEEE Symposium on Security & Privacy (S&P 2022)  
