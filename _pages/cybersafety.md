@@ -12,9 +12,8 @@ This is a non-exxaustive list of my publications related to understanding and co
 
 ***
 
-Haris Bin Zia, Aravindh Raman, Ignacio Castro, Ishaku Anaobi, Emiliano De Cristofaro, Nishanth Sastry, Gareth Tyson  
+Haris Bin Zia, A. Raman, I. Castro, I. Anaobi, Emiliano De Cristofaro, N. Sastry, Gareth Tyson  
 **Toxicity in the Decentralized Web and the Potential for Model Sharing**  
-43th IEEE Symposium on Security & Privacy (S&P 2022)  
 ACM International Conference on Measurement and Modeling of Computer Systems (SIGMETRICS 2022)  
 
 Mohammad Hammas Saeed, Shiza Ali, Jeremy Blackburn, Emiliano De Cristofaro, Savvas Zannettou, and Gianluca Stringhini  
