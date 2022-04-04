@@ -10,6 +10,8 @@ title: Research Group
 - [Mohammad Naseri](https://mohammadnaseri.github.io/) (since November 2019)
 - [Alexandros Efstratiou](https://alefstrat.github.io/) (since September 2020)
 - [Georgi Ganev](https://ganevgv.github.io/) (since October 2020, part-time)
+- [Antonis Papasavva](https://antonispapasavva.github.io/) (since September 2019)
+
 
 ## Current Post-Doctoral Researchers
 - [Kostantinos Papadamou](https://kostantinospapadamou.com) (since December 2021)
