@@ -35,7 +35,7 @@ Yugeng Liu, Rui Wen, Xinlei He, Ahmed Salem, Zhikun Zhang, Michael Backes, Emili
 31st USENIX Security Symposium (Usenix Security 2022)  
 [pre-print](https://arxiv.org/abs/2102.02551){: .btn--danger}{:target="_blank"} 
 
-Max Aliapoulios<sup>\*</sup>, Antonis Papasavva<sup>\*</sup>, Cameron Ballard, Emiliano De Stringhini, Savvas Zannettou, and Jeremy Blackburn  
+Antonis Papasavva, Max Aliapoulios, Cameron Ballard, Emiliano De Stringhini, Savvas Zannettou, and Jeremy Blackburn  
 **The Gospel According to Q: Understanding the QAnon Conspiracy from the Perspective of Canonical Information**  
 16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
 [pre-print](https://arxiv.org/abs/2101.08750){: .btn--danger}{:target="_blank"}  

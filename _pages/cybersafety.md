@@ -21,7 +21,7 @@ Mohammad Hammas Saeed, Shiza Ali, Jeremy Blackburn, Emiliano De Cristofaro, Savv
 43th IEEE Symposium on Security & Privacy (S&P 2022)  
 [pre-print](http://arxiv.org/abs/2112.00443){: .btn--danger}{:target="_blank"} 
 
-Max Aliapoulios<sup>\*</sup>, Antonis Papasavva<sup>\*</sup>, Cameron Ballard, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou, and Jeremy Blackburn  
+Antonis Papasavva, Max Aliapoulios, Cameron Ballard, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou, and Jeremy Blackburn  
 **The Gospel According to Q: Understanding the QAnon Conspiracy from the Perspective of Canonical Information**  
 16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
 [pre-print](https://arxiv.org/abs/2101.08750){: .btn--danger}{:target="_blank"}  
