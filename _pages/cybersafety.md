@@ -12,6 +12,7 @@ This is a non-exxaustive list of my publications related to understanding and co
 
 ***
 
+
 Haris Bin Zia, A. Raman, I. Castro, I. Anaobi, Emiliano De Cristofaro, N. Sastry, Gareth Tyson  
 **Toxicity in the Decentralized Web and the Potential for Model Sharing**  
 ACM International Conference on Measurement and Modeling of Computer Systems (SIGMETRICS 2022)  
@@ -20,6 +21,12 @@ Mohammad Hammas Saeed, Shiza Ali, Jeremy Blackburn, Emiliano De Cristofaro, Savv
 **TROLLMAGNIFIER: Detecting State-Sponsored Troll Accounts on Reddit**  
 43th IEEE Symposium on Security & Privacy (S&P 2022)  
 [pre-print](http://arxiv.org/abs/2112.00443){: .btn--danger}{:target="_blank"} 
+
+Chen Ling, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini  
+**Slapping Cats, Bopping Heads, and Oreo Shakes: Understanding Indicators of Virality in TikTok Short Videos**  
+14th ACM Web Science Conference (ACM WebSci 2022)  
+[pre-print](https://arxiv.org/abs/2111.02452){: .btn--danger}{:target="_blank"} 
+
 
 Antonis Papasavva, Max Aliapoulios, Cameron Ballard, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou, and Jeremy Blackburn  
 **The Gospel According to Q: Understanding the QAnon Conspiracy from the Perspective of Canonical Information**  

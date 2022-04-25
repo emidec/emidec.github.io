@@ -20,6 +20,12 @@ Mohammad Hammas Saeed, Shiza Ali, Jeremy Blackburn, Emiliano De Cristofaro, Savv
 43th IEEE Symposium on Security & Privacy (S&P 2022)  
 [pre-print](http://arxiv.org/abs/2112.00443){: .btn--danger}{:target="_blank"} 
 
+Chen Ling, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini  
+**Slapping Cats, Bopping Heads, and Oreo Shakes: Understanding Indicators of Virality in TikTok Short Videos**  
+14th ACM Web Science Conference (ACM WebSci 2022)  
+[pre-print](https://arxiv.org/abs/2111.02452){: .btn--danger}{:target="_blank"} 
+
+
 Bristena Oprisanu, Georgi Ganev, Emiliano De Cristofaro  
 **On Utility and Privacy in Synthetic Genomic Data**  
 29th Network and Distributed System Security Symposium (NDSS 2022)  
