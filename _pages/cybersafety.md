@@ -16,40 +16,41 @@ This is a non-exxaustive list of my publications related to understanding and co
 Haris Bin Zia, A. Raman, I. Castro, I. Anaobi, Emiliano De Cristofaro, N. Sastry, Gareth Tyson  
 **Toxicity in the Decentralized Web and the Potential for Model Sharing**  
 ACM International Conference on Measurement and Modeling of Computer Systems (SIGMETRICS 2022)  
+[PDF](https://emilianodc.com/PAPERS/sigmetrics22.pdf){: .btn--danger}{:target="_blank"}  
 
 Mohammad Hammas Saeed, Shiza Ali, Jeremy Blackburn, Emiliano De Cristofaro, Savvas Zannettou, and Gianluca Stringhini  
 **TROLLMAGNIFIER: Detecting State-Sponsored Troll Accounts on Reddit**  
 43th IEEE Symposium on Security & Privacy (S&P 2022)  
-[pre-print](http://arxiv.org/abs/2112.00443){: .btn--danger}{:target="_blank"} 
+[pre-print](https://arxiv.org/pdf/2112.00443){: .btn--danger}{:target="_blank"}  
 
 Chen Ling, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini  
 **Slapping Cats, Bopping Heads, and Oreo Shakes: Understanding Indicators of Virality in TikTok Short Videos**  
 14th ACM Web Science Conference (ACM WebSci 2022)  
-[pre-print](https://arxiv.org/abs/2111.02452){: .btn--danger}{:target="_blank"} 
+[pre-print](https://arxiv.org/pdf/2111.02452){: .btn--danger}{:target="_blank"}  
 
 
 Antonis Papasavva, Max Aliapoulios, Cameron Ballard, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou, and Jeremy Blackburn  
 **The Gospel According to Q: Understanding the QAnon Conspiracy from the Perspective of Canonical Information**  
 16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
-[pre-print](https://arxiv.org/abs/2101.08750){: .btn--danger}{:target="_blank"}  
+[pre-print](https://arxiv.org/pdf/2101.08750){: .btn--danger}{:target="_blank"}  
 
 
 Kostantinos Papadamou, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, and Michael Sirivianos  
 **"It is just a flu": Assessing the Effect of Watch History on YouTube's Pseudoscientific Video Recommendations**  
 16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
-[pre-print](https://arxiv.org/abs/2010.11638){: .btn--danger}{:target="_blank"}  
+[pre-print](https://arxiv.org/pdf/2010.11638){: .btn--danger}{:target="_blank"}  
 
 
 Anaobi Ishaku, Igancio Castro, Aravindh Raman, Haris Bin Zia, Emiliano De Cristofaro, N. Sastry, Gareth Tyson  
 **Exploring Content Moderation in the Decentralised Web: The Pleroma Case**  
 17th International Conference on emerging Networking EXperiments and Technologies (ACM CoNext 2021)  
-[pre-print](https://arxiv.org/abs/2110.13500){: .btn--danger}{:target="_blank"}  
+[pre-print](https://arxiv.org/pdf/2110.13500){: .btn--danger}{:target="_blank"}  
 
 
 Yuping Wang, Savvas Zannettou, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro, and Gianluca Stringhini  
 **A Multi-Platform Analysis of Political News Discussion and Sharing on Web Communities**  
 2021 IEEE International Conference on Big Data (IEEE BigData 2021)  
-[pre-print](https://arxiv.org/abs/2103.03631){: .btn--danger}{:target="_blank"}  
+[pre-print](https://arxiv.org/pdf/2103.03631){: .btn--danger}{:target="_blank"}  
 
 
 Periwinkle Doerfler, Andrea Forte, Emiliano De Cristofaro, Gianluca Stringhini, Jeremy Blackburn, and Damon McCoy  
@@ -220,7 +221,7 @@ Despoina Chatzakou, Nicolas Kourtellis, Jeremy Blackburn, Emiliano De Cristofaro
 Rishab Nithyanand, Sheharbano Khattak, Mobin Javed, Narseo Vallina-Rodriguez, Marjan Falahrastegar, Julia E. Powles, Emiliano De Cristofaro, Hamed Haddadi, Steven J. Murdoch  
 **Ad-Blocking and Counter Blocking: A Slice of the Arms Races**  
 6th USENIX Workshop on Free and Open Communications on the Internet (FOCI 2016)  
-[pdf](http://arxiv.org/pdf/1605.05077.pdf){: .btn--danger}{:target="_blank"}
+[pdf](https://arxiv.org/pdf/1605.05077.pdf){: .btn--danger}{:target="_blank"}
 
 
 
@@ -228,14 +229,14 @@ Abdelberi Chaabane, Terence Chen, Mathieu Cunche, Emiliano De Cristofaro, Arik F
 **Censorship in the Wild: Analyzing Web Filtering in Syria**  
 14th ACM Internet Measurement Conference (IMC 2014)  
 [best paper runner-up](https://conferences.sigcomm.org/imc/2014/){: .btn--success}{:target="_blank"}  
-[full version](http://arxiv.org/pdf/1402.3401){: .btn--danger}{:target="_blank"}  
+[full version](https://arxiv.org/pdf/1402.3401){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [The Register](http://www.theregister.co.uk/2014/11/28/syria_regime_filtering_study/), [MIT Tech Review](http://www.technologyreview.com/view/525076/syrian-web-censorship-techniques-revealed/), [Boing Boing](http://boingboing.net/2014/02/18/detailed-analysis-of-syrias.html), [ACM Tech News](http://technews.acm.org/#708558), [Physics Central](http://physicsbuzz.physicscentral.com/2014/02/syrias-censorship-practices-exposed.html), [Motherboard](http://motherboard.vice.com/blog/hacked-data-reveals-the-syrian-governments-tactics-for-censoring-the-internet), [The Conversation](https://theconversation.com/lessons-on-censorship-from-syrias-internet-filter-machines-33951)  
 
 
 Emiliano De Cristofaro, Arik Friedman, Guillaume Jourjon, Dali Kaafar, M. Zubair Shafiq  
 **Paying for Likes? Understanding Facebook Like Fraud Using Honeypots**  
 14th ACM Internet Measurement Conference (IMC 2014)  
-[pdf](http://arxiv.org/pdf/1409.2097){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/1409.2097){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [MIT Tech Review](http://www.technologyreview.com/view/530961/the-hidden-world-of-facebook-like-farms/), [Pacific Standard](http://www.psmag.com/navigation/nature-and-technology/hunt-fake-facebook-twitter-tumblr-fraud-likes-farms-social-media-friending-sharing-91154/), [The Telegraph](http://www.telegraph.co.uk/finance/newsbysector/mediatechnologyandtelecoms/11116543/The-real-story-behind-Facebook-likes.html), [ACM Tech News](http://technews.acm.org/#748178), [Yahoo Finance](http://finance.yahoo.com/news/pay-liked-facebook-inc-133021656.html), [Zero Hedge](http://www.zerohedge.com/news/2014-09-22/facebook-fraud-20-academic-study-exposes-farms), [Media Post](http://www.mediapost.com/publications/article/234791/facebook-likes-really-could-be-as-worthless-as-y.html), [The New Republic](http://www.newrepublic.com/article/121551/bot-bubble-click-farms-have-inflated-social-media-currency)  
 
 
