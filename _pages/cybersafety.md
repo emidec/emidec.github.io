@@ -16,7 +16,7 @@ This is a non-exxaustive list of my publications related to understanding and co
 Haris Bin Zia, A. Raman, I. Castro, I. Anaobi, Emiliano De Cristofaro, N. Sastry, Gareth Tyson  
 **Toxicity in the Decentralized Web and the Potential for Model Sharing**  
 ACM International Conference on Measurement and Modeling of Computer Systems (SIGMETRICS 2022)  
-[pdf](https://emilianodc.com/PAPERS/sigmetrics22.pdf){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2204.12709.pdf){: .btn--danger}{:target="_blank"}  
 
 Mohammad Hammas Saeed, Shiza Ali, Jeremy Blackburn, Emiliano De Cristofaro, Savvas Zannettou, and Gianluca Stringhini  
 **TROLLMAGNIFIER: Detecting State-Sponsored Troll Accounts on Reddit**  
