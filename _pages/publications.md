@@ -24,7 +24,17 @@ Yugeng Liu, Rui Wen, Xinlei He, Ahmed Salem, Zhikun Zhang, Michael Backes, Emili
 Mohammad Hammas Saeed, Shiza Ali, Jeremy Blackburn, Emiliano De Cristofaro, Savvas Zannettou, and Gianluca Stringhini  
 **TROLLMAGNIFIER: Detecting State-Sponsored Troll Accounts on Reddit**  
 43th IEEE Symposium on Security & Privacy (S&P 2022)  
-[pre-print](http://arxiv.org/abs/2112.00443){: .btn--danger}{:target="_blank"} 
+[pre-print](https://arxiv.org/pdf/2112.00443){: .btn--danger}{:target="_blank"}  
+
+Chen Ling, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini  
+**Slapping Cats, Bopping Heads, and Oreo Shakes: Understanding Indicators of Virality in TikTok Short Videos**  
+14th ACM Web Science Conference (ACM WebSci 2022)  
+[pre-print](https://arxiv.org/pdf/2111.02452){: .btn--danger}{:target="_blank"} 
+
+Haris Bin Zia, A. Raman, I. Castro, I. Anaobi, Emiliano De Cristofaro, N. Sastry, Gareth Tyson  
+**Toxicity in the Decentralized Web and the Potential for Model Sharing**  
+ACM International Conference on Measurement and Modeling of Computer Systems (SIGMETRICS 2022)  
+[pdf](https://arxiv.org/pdf/2204.12709.pdf){: .btn--danger}{:target="_blank"}  
 
 Bristena Oprisanu, Georgi Ganev, Emiliano De Cristofaro  
 **On Utility and Privacy in Synthetic Genomic Data**  
@@ -34,17 +44,17 @@ Bristena Oprisanu, Georgi Ganev, Emiliano De Cristofaro
 Mohammad Naseri, Jamie Hayes, Emiliano De Cristofaro  
 **Local and Central Differential Privacy for Robustness and Privacy in Federated Learning**  
 29th Network and Distributed System Security Symposium (NDSS 2022)  
-[pre-print](https://arxiv.org/abs/2009.03561){: .btn--danger}{:target="_blank"} 
+[pre-print](https://arxiv.org/pdf/2009.03561){: .btn--danger}{:target="_blank"}  
 
-Max Aliapoulios<sup>\*</sup>, Antonis Papasavva<sup>\*</sup>, Cameron Ballard, Emiliano De Stringhini, Savvas Zannettou, and Jeremy Blackburn  
+Antonis Papasavva, Max Aliapoulios, Cameron Ballard, Emiliano De Stringhini, Savvas Zannettou, and Jeremy Blackburn  
 **The Gospel According to Q: Understanding the QAnon Conspiracy from the Perspective of Canonical Information**  
 16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
-[pre-print](https://arxiv.org/abs/2101.08750){: .btn--danger}{:target="_blank"}  
+[pre-print](https://arxiv.org/pdf/2101.08750){: .btn--danger}{:target="_blank"}  
 
 Kostantinos Papadamou, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, and Michael Sirivianos  
 **"It is just a flu": Assessing the Effect of Watch History on YouTube's Pseudoscientific Video Recommendations**  
 16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
-[pre-print](https://arxiv.org/abs/2010.11638){: .btn--danger}{:target="_blank"}  
+[pre-print](https://arxiv.org/pdf/2010.11638){: .btn--danger}{:target="_blank"}  
 
 
 ### 2021
@@ -52,12 +62,12 @@ Kostantinos Papadamou, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofar
 Anaobi Ishaku, Igancio Castro, Aravindh Raman, Haris Bin Zia, Emiliano De Cristofaro, N. Sastry, Gareth Tyson  
 **Exploring Content Moderation in the Decentralised Web: The Pleroma Case**  
 17th International Conference on emerging Networking EXperiments and Technologies (ACM CoNext 2021)  
-[pre-print](https://arxiv.org/abs/2110.13500){: .btn--danger}{:target="_blank"}  
+[pre-print](https://arxiv.org/pdf/2110.13500){: .btn--danger}{:target="_blank"}  
 
 Yuping Wang, Savvas Zannettou, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro, and Gianluca Stringhini  
 **A Multi-Platform Analysis of Political News Discussion and Sharing on Web Communities**  
 2021 IEEE International Conference on Big Data (IEEE BigData 2021)  
-[pre-print](https://arxiv.org/abs/2103.03631){: .btn--danger}{:target="_blank"}  
+[pre-print](https://arxiv.org/pdf/2103.03631){: .btn--danger}{:target="_blank"}  
 
 Emiliano De Cristofaro  
 **A Critical Overview of Privacy in Machine Learning**  
@@ -389,26 +399,26 @@ Emiliano De Cristofaro, Kaitai Liang, Yuruo Zhang
 Rishab Nithyanand, Sheharbano Khattak, Mobin Javed, Narseo Vallina-Rodriguez, Marjan Falahrastegar, Julia E. Powles, Emiliano De Cristofaro, Hamed Haddadi, Steven J. Murdoch  
 **Ad-Blocking and Counter Blocking: A Slice of the Arms Races**  
 6th USENIX Workshop on Free and Open Communications on the Internet (FOCI 2016)  
-[pdf](http://arxiv.org/pdf/1605.05077.pdf){: .btn--danger}{:target="_blank"}
+[pdf](https://arxiv.org/pdf/1605.05077.pdf){: .btn--danger}{:target="_blank"}
 
 
 Hassan Jameel Asghar, Luca Melis, Cyril Soldani, Emiliano De Cristofaro, Dali Kaafar, Laurent Mathy  
 **SplitBox: Toward Efficient Private Network Function Virtualization**  
 3rd ACM SIGCOMM Workshop on Hot Topics in Middleboxes and Network Function Virtualization (HotMiddleBox 2016)  
-[full version](http://arxiv.org/pdf/1605.03772.pdf){: .btn--danger}{:target="_blank"}
+[full version](https://arxiv.org/pdf/1605.03772.pdf){: .btn--danger}{:target="_blank"}
 
 
 Luca Melis, George Danezis, Emiliano De Cristofaro  
 **Efficient Private Statistics with Succinct Sketches**  
 23rd Network and Distributed System Security Symposium (NDSS 2016)  
 [2017 data protection by design award](http://apdcat.gencat.cat/en/actualitat/premi/2017-/index.html){: .btn--success}{:target="_blank"} (from Catalan data protection authority)  
-[pdf](http://arxiv.org/pdf/1508.06110.pdf){: .btn--danger}{:target="_blank"} [blog](https://www.benthamsgaze.org/2016/03/04/privately-gathering-statistics-and-training-simple-models/){: .btn--danger}{:target="_blank"}
+[pdf](https://arxiv.org/pdf/1508.06110.pdf){: .btn--danger}{:target="_blank"} [blog](https://www.benthamsgaze.org/2016/03/04/privately-gathering-statistics-and-training-simple-models/){: .btn--danger}{:target="_blank"}
 
 
 Lucky Onwuzurike and Emiliano De Cristofaro  
 **Experimental Analysis of Popular Smartphone Apps Offering Anonymity, Ephemerality, and End-to-End Encryption**  
 1st NDSS Workshop on Understanding and Enhancing Online Privacy (UEOP 2016)  
-[full version](http://arxiv.org/pdf/1510.04083.pdf){: .btn--danger}{:target="_blank"}
+[full version](https://arxiv.org/pdf/1510.04083.pdf){: .btn--danger}{:target="_blank"}
 
 
 Kat Krol, Muhammad Sajidur Rahman, Simon Parkin, Emiliano De Cristofaro and Eugene Vasserman  
@@ -428,32 +438,32 @@ Luca Melis, Hassan Jameel Asghar, Emiliano De Cristofaro, Dali Kaafar
 Julien Freudiger, Emiliano De Cristofaro, Alex Brito  
 **Controlled Data Sharing for Collaborative Predictive Blacklisting**  
 12th Conference on Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA 2015)  
-[full version](http://arxiv.org/pdf/1502.05337){: .btn--danger}{:target="_blank"}
+[full version](https://arxiv.org/pdf/1502.05337){: .btn--danger}{:target="_blank"}
 
 
 Marcin Nagy, Thanh Bui, Emiliano De Cristofaro, N. Asokan, Joerg Ott, Ahmad-Reza Sadeghi  
 **How Far Removed Are You? Scalable Privacy-Preserving Estimation of Social Path Length with Social PaL**  
 8th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec 2015)  
-[full version](http://arxiv.org/pdf/1412.2433){: .btn--danger}{:target="_blank"}
+[full version](https://arxiv.org/pdf/1412.2433){: .btn--danger}{:target="_blank"}
 
 
 Lucky Onwuzurike and Emiliano De Cristofaro  
 **Danger is my middle name: Experimenting with SSL Vulnerabilities in Android Apps**  
 8th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec 2015)  
-[full version](http://arxiv.org/pdf/1505.00589){: .btn--danger}{:target="_blank"}
+[full version](https://arxiv.org/pdf/1505.00589){: .btn--danger}{:target="_blank"}
 
 
 Erman Ayday, Emiliano De Cristofaro, Jean-Pierre Hubaux, Gene Tsudik  
 **Whole Genome Sequencing: Revolutionary Medicine or Privacy Nightmare**  
 IEEE Computer Magazine, Vol. 48, No. 2, February 2015  
 Accepted in August 2013, also presented as a poster at Usenix Security 2013  
-[editor version](https://emilianodc.com/PAPERS/wgs-privacy.pdf){: .btn--danger}{:target="_blank"} [author version](http://arxiv.org/pdf/1306.1264.pdf){: .btn--danger}{:target="_blank"}
+[editor version](https://emilianodc.com/PAPERS/wgs-privacy.pdf){: .btn--danger}{:target="_blank"} [author version](https://arxiv.org/pdf/1306.1264.pdf){: .btn--danger}{:target="_blank"}
 
 
 Kat Krol, Eleni Philippou, Emiliano De Cristofaro, M. Angela Sasse  
 **"They brought in the horrible key ring thing" -- Analysing the Usability of Two-Factor Authentication in UK Online Banking**  
 9th NDSS Workshop on Usable Security (USEC 2015)  
-[pdf](http://arxiv.org/pdf/1501.04434v1.pdf){: .btn--danger}{:target="_blank"}
+[pdf](https://arxiv.org/pdf/1501.04434v1.pdf){: .btn--danger}{:target="_blank"}
 
 ### 2014
 
@@ -461,14 +471,14 @@ Abdelberi Chaabane, Terence Chen, Mathieu Cunche, Emiliano De Cristofaro, Arik F
 **Censorship in the Wild: Analyzing Web Filtering in Syria**  
 14th ACM Internet Measurement Conference (IMC 2014)  
 [best paper runner-up](https://conferences.sigcomm.org/imc/2014/){: .btn--success}{:target="_blank"}  
-[full version](http://arxiv.org/pdf/1402.3401){: .btn--danger}{:target="_blank"}  
+[full version](https://arxiv.org/pdf/1402.3401){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [The Register](http://www.theregister.co.uk/2014/11/28/syria_regime_filtering_study/), [MIT Tech Review](http://www.technologyreview.com/view/525076/syrian-web-censorship-techniques-revealed/), [Boing Boing](http://boingboing.net/2014/02/18/detailed-analysis-of-syrias.html), [ACM Tech News](http://technews.acm.org/#708558), [Physics Central](http://physicsbuzz.physicscentral.com/2014/02/syrias-censorship-practices-exposed.html), [Motherboard](http://motherboard.vice.com/blog/hacked-data-reveals-the-syrian-governments-tactics-for-censoring-the-internet), [The Conversation](https://theconversation.com/lessons-on-censorship-from-syrias-internet-filter-machines-33951)  
 
 
 Emiliano De Cristofaro, Arik Friedman, Guillaume Jourjon, Dali Kaafar, M. Zubair Shafiq  
 **Paying for Likes? Understanding Facebook Like Fraud Using Honeypots**  
 14th ACM Internet Measurement Conference (IMC 2014)  
-[pdf](http://arxiv.org/pdf/1409.2097){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/1409.2097){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [MIT Tech Review](http://www.technologyreview.com/view/530961/the-hidden-world-of-facebook-like-farms/), [Pacific Standard](http://www.psmag.com/navigation/nature-and-technology/hunt-fake-facebook-twitter-tumblr-fraud-likes-farms-social-media-friending-sharing-91154/), [The Telegraph](http://www.telegraph.co.uk/finance/newsbysector/mediatechnologyandtelecoms/11116543/The-real-story-behind-Facebook-likes.html), [ACM Tech News](http://technews.acm.org/#748178), [Yahoo Finance](http://finance.yahoo.com/news/pay-liked-facebook-inc-133021656.html), [Zero Hedge](http://www.zerohedge.com/news/2014-09-22/facebook-fraud-20-academic-study-exposes-farms), [Media Post](http://www.mediapost.com/publications/article/234791/facebook-likes-really-could-be-as-worthless-as-y.html), [The New Republic](http://www.newrepublic.com/article/121551/bot-bubble-click-farms-have-inflated-social-media-currency)  
 
 
@@ -482,7 +492,7 @@ George Danezis and Emiliano De Cristofaro
 Igor Bilogrevic, Emiliano De Cristofaro, Julien Freudiger, Ersin Uzun  
 **What's the Gist? Privacy-Preserving Aggregation of User Profiles**  
 19th European Symposium on Research in Computer Security (ESORICS 2014)  
-[pdf](http://arxiv.org/pdf/1405.1328){: .btn--danger}{:target="_blank"}
+[pdf](https://arxiv.org/pdf/1405.1328){: .btn--danger}{:target="_blank"}
 
 
 Filipe Beato, Emiliano De Cristofaro, Kasper Bonne Rasmussen  
@@ -501,19 +511,19 @@ IEEE Security & Privacy Magazine, Vol. 12, No. 2, March-April 2014
 Emiliano De Cristofaro  
 **An Exploratory Ethnographic Study of Issues and Concerns with Whole Genome Sequencing**  
 8th NDSS Workshop on Usable Security (USEC 2014)  
-[pdf](http://arxiv.org/pdf/1306.4962){: .btn--danger}{:target="_blank"}
+[pdf](https://arxiv.org/pdf/1306.4962){: .btn--danger}{:target="_blank"}
 
 
 Emiliano De Cristofaro, Honglu Du, Julien Freudiger, Greg Norcie  
 **Two-Factor or not Two-Factor? A Comparative Usability Study of Two-Factor Authentication **  
 8th NDSS Workshop on Usable Security (USEC 2014)  
-[pdf](http://arxiv.org/pdf/1309.5344.pdf){: .btn--danger}{:target="_blank"}
+[pdf](https://arxiv.org/pdf/1309.5344.pdf){: .btn--danger}{:target="_blank"}
 
 
 Carlo Blundo, Emiliano De Cristofaro, Paolo Gasti  
 **EsPRESSo: Efficient Privacy-Preserving Evaluation of Sample Set Similarity (Extended Version)**  
 Journal of Computer Security, Vol. 22, No. 3, 2014  
-[pdf](http://arxiv.org/pdf/1111.5062.pdf){: .btn--danger}{:target="_blank"}
+[pdf](https://arxiv.org/pdf/1111.5062.pdf){: .btn--danger}{:target="_blank"}
 
 ### 2013
 
@@ -526,7 +536,7 @@ Marcin Nagy, Emiliano De Cristofaro, Alexandra Dmitrienko, N. Asokan, Amhad-Reza
 Emiliano De Cristofaro, Claudio Soriente  
 **Extended Capabilities for a Privacy-Enhanced Participatory Sensing Infrastructure (PEPSI)**  
 IEEE Transactions on Information Forensics and Security (TIFS), Vol. 8, No. 12, 2013  
-[pdf](http://arxiv.org/pdf/1308.2921.pdf){: .btn--danger}{:target="_blank"}
+[pdf](https://arxiv.org/pdf/1308.2921.pdf){: .btn--danger}{:target="_blank"}
 
 
 Emiliano De Cristofaro, Sky Faber, Gene Tsudik  
@@ -539,13 +549,13 @@ Abdelberi Chaabane, Emiliano De Cristofaro, Dali Kaafar, Ersin Uzun
 **Privacy in Content-Oriented Networking: Threats and Countermeasures**  
 ACM SIGCOMM Computer Communication Review (CCR), Vol. 43, Issue 3, July 2013.  
 Also invited to be presented at SIGCOMM 2013 as one of the two "Best CCR Papers"  
-[full version](http://arxiv.org/pdf/1211.5183.pdf){: .btn--danger}{:target="_blank"}
+[full version](https://arxiv.org/pdf/1211.5183.pdf){: .btn--danger}{:target="_blank"}
 
 
 Gregory Norcie, Emiliano De Cristofaro, Victoria Bellotti  
 **Bootstrapping Trust in Online Dating: Social Verification of Online Dating Profiles**  
 7th Financial Cryptography and Data Security Workshop on Usable Security (USEC 2013)  
-[pdf](http://arxiv.org/pdf/1303.4155.pdf){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/1303.4155.pdf){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [MIT Tech Review](http://www.technologyreview.com/view/516556/xerox-parc-tackles-online-datings-biggest-conundrum/)  
 
 
@@ -633,13 +643,13 @@ PhD Dissertation, University of California, Irvine, 2011
 Pierre Baldi, Roberta Baronio, Emiliano De Cristofaro, Paolo Gasti, Gene Tsudik  
 **Countering GATTACA: Efficient and Secure Testing of Fully-Sequenced Human Genomes**  
 18th ACM Conference on Computer and Communications Security (CCS 2011)  
-[full version](http://arxiv.org/pdf/1110.2478.pdf){: .btn--danger}{:target="_blank"}  
+[full version](https://arxiv.org/pdf/1110.2478.pdf){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [MIT Technology Review](http://www.technologyreview.com/printer_friendly_blog.aspx?id=27252), [NewScientist](http://www.newscientist.com/article/mg21228346.500-keeping-a-lid-on-your-digital-dna.html), [Kurzweilai](http://www.kurzweilai.net/how-cryptography-will-guarantee-genomic-privacy)  
 
 Claude Castelluccia, Emiliano De Cristofaro, Aurelien Francillon, Dali Kaafar  
 **EphPub: Toward Robust Ephemeral Publishing**  
 19th IEEE Conference on Network Protocols (ICNP 2011)  
-[full version](http://arxiv.org/pdf/1003.5510.pdf){: .btn--danger}{:target="_blank"} [code](http://code.google.com/p/ephpub){: .btn--danger}{:target="_blank"}
+[full version](https://arxiv.org/pdf/1003.5510.pdf){: .btn--danger}{:target="_blank"} [code](http://code.google.com/p/ephpub){: .btn--danger}{:target="_blank"}
 
 
 Emiliano De Cristofaro, Yanbin Lu, Gene Tsudik  
@@ -688,7 +698,7 @@ IEEE Magazine on Security and Privacy, Vol. 8, No. 4, 2010
 Claude Castelluccia, Emiliano De Cristofaro, Daniele Perito  
 **Private Information Disclosure from Web Searches**  
 10th Privacy Enhancing Technology Symposium (PETS 2010)  
-[full version](http://arxiv.org/pdf/1003.3242.pdf){: .btn--danger}{:target="_blank"}  
+[full version](https://arxiv.org/pdf/1003.3242.pdf){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [MIT Tech](http://technologyreview.com/web/25159/), [Slashdot](http://rch.slashdot.org/story/10/04/25/1258222/Reconstructing-Users-Web-Histories-From-Personalized-Search-Results), [ACM News](http://technews.acm.org/archives.cfm?fo=2010-04-apr/apr-23-2010.html#460227), [The Register](http://www.theregister.co.uk/2010/04/29/google_personalized_suggestions_turned_off_after_researcher_attack/)
 
 Emiliano De Cristofaro and Gene Tsudik  
@@ -711,13 +721,13 @@ Emiliano De Cristofaro, Stanislaw Jarecki, Jihye Kim, Gene Tsudik
 Emiliano De Cristofaro, Jens-Mathias Bohli, Dirk Westhoff  
 **FAIR: Fuzzy-based Aggregation providing In-network Resilience for real-time Sensor Networks**  
 2nd ACM Symposium on Wireless Network Security (WiSec 2009)  
-[full version](http://arxiv.org/pdf/0901.1095.pdf){: .btn--danger}{:target="_blank"}
+[full version](https://arxiv.org/pdf/0901.1095.pdf){: .btn--danger}{:target="_blank"}
 
 
 Emiliano De Cristofaro, Xuhua Ding, Gene Tsudik  
 **Privacy-Preserving Querying in Sensor Networks**  
 18th IEEE Conference on Computer Communications and Networks (ICCCN 2009)  
-[full version](http://arxiv.org/pdf/0905.2158.pdf){: .btn--danger}{:target="_blank"}
+[full version](https://arxiv.org/pdf/0905.2158.pdf){: .btn--danger}{:target="_blank"}
 
 ### 2008
 
