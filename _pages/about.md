@@ -29,7 +29,7 @@ During my PhD, I also spent a few months on research internships at NEC in Heide
 ### Personal
 I was born in Avellino, a small town in South of Italy on the hills of [Irpinia](https://en.wikipedia.org/wiki/Irpinia). Irpinia is known for its green [landscapes](https://web.unisa.it/en/campus-life/surroundings/irpinia) and [medieval castles](http://www.irpinia24.it/wp/wp-content/uploads/2016/12/header.jpg), the [soccer team](https://en.wikipedia.org/wiki/U.S._Avellino_1912), the hazelnuts, and the [black truffles](https://www.ecoturismocampania.it/wp-content/uploads/2015/10/tartufo-nero-di-bagnoli-irpino.jpg), as well as some great wines like Taurasi, Fiano di Avellino, and Greco di Tufo (in fact, my smarter brother [Paolo](http://tipicamente.it/curatori/paolo-de-cristofaro/) became an amazing wine journalist).  
 
-I have spent a few great years in California &ndash; in Irvine and Palo Alto (turns out I'm definitely more of a SoCal than a NorCal person), before moving to London. I have also briefly lived in Roma, near Venezia, in Portsmouth (UK), Heidelberg, Singapore, Grenoble, Lausanne, Barcelona, and تهران.  
+I have spent a few great years in California &ndash; in Irvine and Palo Alto (and it turns out I'm definitely more of a SoCal than a NorCal person), before moving to London. I have also briefly lived in Rome and near Venice, in Portsmouth (UK), Heidelberg, Singapore, Grenoble, Lausanne, Barcelona, and تهران.  
 
 In my free time, I like acting as a coffee snob and a guerilla activist against pineapple on pizza, nostalgically remembering the times I used to surf in San Onofre State Beach, cooking (only pasta and pizza, obviously), and taking long walks with my better half Darya and little one Maya.  
 
