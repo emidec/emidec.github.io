@@ -11,6 +11,16 @@ title: Publications
 This is the list of all my peer-reviewed publications ordered by year. You can also visit my [DBLP](http://dblp.uni-trier.de/pers/hd/c/Cristofaro:Emiliano_De){:target="_blank"} or my [Google Scholar](https://scholar.google.com/citations?hl=en&user=1wfzUuEAAAAJ&view_op=list_works&pagesize=100){:target="_blank"} page.
 
 ### 2022
+Georgi Ganev, Bristena Oprisanu, Emiliano De Cristofaro  
+**Robin Hood and Matthew Effects -- Differential Privacy Has Disparate Impact on Synthetic Data**  
+39th International Conference on Machine Learning (ICML)  
+[pre-print](https://arxiv.org/pdf/2109.11429.pdf){: .btn--danger}{:target="_blank"} 
+
+Yugeng Liu, Rui Wen, Xinlei He, Ahmed Salem, Zhikun Zhang, Michael Backes, Emiliano De Cristofaro, Mario Fritz, Yang Zhang  
+**ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models**  
+31st USENIX Security Symposium (Usenix Security 2022)  
+[pre-print](https://arxiv.org/abs/2102.02551){: .btn--danger}{:target="_blank"} 
+
 Mohammad Hammas Saeed, Shiza Ali, Jeremy Blackburn, Emiliano De Cristofaro, Savvas Zannettou, and Gianluca Stringhini  
 **TROLLMAGNIFIER: Detecting State-Sponsored Troll Accounts on Reddit**  
 43th IEEE Symposium on Security & Privacy (S&P 2022)  
@@ -19,17 +29,12 @@ Mohammad Hammas Saeed, Shiza Ali, Jeremy Blackburn, Emiliano De Cristofaro, Savv
 Bristena Oprisanu, Georgi Ganev, Emiliano De Cristofaro  
 **On Utility and Privacy in Synthetic Genomic Data**  
 29th Network and Distributed System Security Symposium (NDSS 2022)  
-[pre-print](https://arxiv.org/abs/2102.03314){: .btn--danger}{:target="_blank"} 
+[PDF](https://arxiv.org/abs/2102.03314){: .btn--danger}{:target="_blank"} 
 
 Mohammad Naseri, Jamie Hayes, Emiliano De Cristofaro  
 **Local and Central Differential Privacy for Robustness and Privacy in Federated Learning**  
 29th Network and Distributed System Security Symposium (NDSS 2022)  
 [pre-print](https://arxiv.org/abs/2009.03561){: .btn--danger}{:target="_blank"} 
-
-Yugeng Liu, Rui Wen, Xinlei He, Ahmed Salem, Zhikun Zhang, Michael Backes, Emiliano De Cristofaro, Mario Fritz, Yang Zhang  
-**ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models**  
-31st USENIX Security Symposium (Usenix Security 2022)  
-[pre-print](https://arxiv.org/abs/2102.02551){: .btn--danger}{:target="_blank"} 
 
 Max Aliapoulios<sup>\*</sup>, Antonis Papasavva<sup>\*</sup>, Cameron Ballard, Emiliano De Stringhini, Savvas Zannettou, and Jeremy Blackburn  
 **The Gospel According to Q: Understanding the QAnon Conspiracy from the Perspective of Canonical Information**  

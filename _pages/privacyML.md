@@ -10,23 +10,23 @@ title: Privacy in Machine Learning
 
 Georgi Ganev, Bristena Oprisanu, Emiliano De Cristofaro  
 **Robin Hood and Matthew Effects -- Differential Privacy Has Disparate Impact on Synthetic Data**  
-arXiv:2109.11429  
+39th International Conference on Machine Learning (ICML)  
 [pre-print](https://arxiv.org/pdf/2109.11429.pdf){: .btn--danger}{:target="_blank"} 
-
-Bristena Oprisanu, Georgi Ganev, Emiliano De Cristofaro  
-**On Utility and Privacy in Synthetic Genomic Data**  
-29th Network and Distributed System Security Symposium (NDSS 2022)  
-[pre-print](https://arxiv.org/abs/2102.03314){: .btn--danger}{:target="_blank"} 
-
-Mohammad Naseri, Jamie Hayes, Emiliano De Cristofaro  
-**Local and Central Differential Privacy for Robustness and Privacy in Federated Learning**  
-29th Network and Distributed System Security Symposium (NDSS 2022)  
-[pre-print](https://arxiv.org/pdf/2009.03561.pdf){: .btn--danger}{:target="_blank"} 
 
 Yugeng Liu, Rui Wen, Xinlei He, Ahmed Salem, Zhikun Zhang, Michael Backes, Emiliano De Cristofaro, Mario Fritz, Yang Zhang  
 **ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models**  
 31st USENIX Security Symposium (Usenix Security 2022)  
 [pre-print](https://arxiv.org/abs/2102.02551){: .btn--danger}{:target="_blank"} 
+
+Bristena Oprisanu, Georgi Ganev, Emiliano De Cristofaro  
+**On Utility and Privacy in Synthetic Genomic Data**  
+29th Network and Distributed System Security Symposium (NDSS 2022)  
+[PDF](https://arxiv.org/abs/2102.03314){: .btn--danger}{:target="_blank"} 
+
+Mohammad Naseri, Jamie Hayes, Emiliano De Cristofaro  
+**Local and Central Differential Privacy for Robustness and Privacy in Federated Learning**  
+29th Network and Distributed System Security Symposium (NDSS 2022)  
+[PDF](https://arxiv.org/pdf/2009.03561.pdf){: .btn--danger}{:target="_blank"} 
 
 Emiliano De Cristofaro  
 **A Critical Overview of Privacy in Machine Learning**  
