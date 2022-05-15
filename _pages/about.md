@@ -33,5 +33,5 @@ I have spent six awesome years in California (4 in Irvine and 2 in Palo Alto), b
 
 In my free time, I like acting as a coffee snob and a guerilla activist against pineapple on pizza, remembering (not without melancholy) the times I used to surf in San Onofre, cooking (only pasta and pizza, obviously) and planning trips (sigh) with my better half Darya and little one Maya.  
 
-I love languages and I am kind of fluent in English, French, and Italian, and can utter enough words to get out of (or _in_) trouble in German, Spanish, and Farsi.
+I love languages and I am kind of fluent in English, French, and Italian, and can utter enough words to get out of (or _in_) trouble in German, Spanish, and Persian.
 
