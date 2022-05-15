@@ -34,7 +34,7 @@ Chen Ling, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini
 Haris Bin Zia, A. Raman, I. Castro, I. Anaobi, Emiliano De Cristofaro, N. Sastry, Gareth Tyson  
 **Toxicity in the Decentralized Web and the Potential for Model Sharing**  
 ACM International Conference on Measurement and Modeling of Computer Systems (SIGMETRICS 2022)  
-[pdf](https://arxiv.org/pdf/2204.12709.pdf){: .btn--danger}{:target="_blank"}  
+[pre-print](https://arxiv.org/pdf/2204.12709.pdf){: .btn--danger}{:target="_blank"}  
 
 Bristena Oprisanu, Georgi Ganev, Emiliano De Cristofaro  
 **On Utility and Privacy in Synthetic Genomic Data**  
@@ -44,17 +44,17 @@ Bristena Oprisanu, Georgi Ganev, Emiliano De Cristofaro
 Mohammad Naseri, Jamie Hayes, Emiliano De Cristofaro  
 **Local and Central Differential Privacy for Robustness and Privacy in Federated Learning**  
 29th Network and Distributed System Security Symposium (NDSS 2022)  
-[pre-print](https://arxiv.org/pdf/2009.03561){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2009.03561){: .btn--danger}{:target="_blank"}  
 
 Antonis Papasavva, Max Aliapoulios, Cameron Ballard, Emiliano De Stringhini, Savvas Zannettou, and Jeremy Blackburn  
 **The Gospel According to Q: Understanding the QAnon Conspiracy from the Perspective of Canonical Information**  
 16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
-[pre-print](https://arxiv.org/pdf/2101.08750){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2101.08750){: .btn--danger}{:target="_blank"}  
 
 Kostantinos Papadamou, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, and Michael Sirivianos  
 **"It is just a flu": Assessing the Effect of Watch History on YouTube's Pseudoscientific Video Recommendations**  
 16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
-[pre-print](https://arxiv.org/pdf/2010.11638){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2010.11638){: .btn--danger}{:target="_blank"}  
 
 
 ### 2021
