@@ -39,7 +39,7 @@ ACM International Conference on Measurement and Modeling of Computer Systems (SI
 Bristena Oprisanu, Georgi Ganev, Emiliano De Cristofaro  
 **On Utility and Privacy in Synthetic Genomic Data**  
 29th Network and Distributed System Security Symposium (NDSS 2022)  
-[PDF](https://arxiv.org/abs/2102.03314){: .btn--danger}{:target="_blank"} 
+[pdf](https://arxiv.org/abs/2102.03314){: .btn--danger}{:target="_blank"} 
 
 Mohammad Naseri, Jamie Hayes, Emiliano De Cristofaro  
 **Local and Central Differential Privacy for Robustness and Privacy in Federated Learning**  

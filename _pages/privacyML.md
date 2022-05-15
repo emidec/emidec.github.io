@@ -21,12 +21,12 @@ Yugeng Liu, Rui Wen, Xinlei He, Ahmed Salem, Zhikun Zhang, Michael Backes, Emili
 Bristena Oprisanu, Georgi Ganev, Emiliano De Cristofaro  
 **On Utility and Privacy in Synthetic Genomic Data**  
 29th Network and Distributed System Security Symposium (NDSS 2022)  
-[PDF](https://arxiv.org/abs/2102.03314){: .btn--danger}{:target="_blank"} 
+[pdf](https://arxiv.org/abs/2102.03314){: .btn--danger}{:target="_blank"} 
 
 Mohammad Naseri, Jamie Hayes, Emiliano De Cristofaro  
 **Local and Central Differential Privacy for Robustness and Privacy in Federated Learning**  
 29th Network and Distributed System Security Symposium (NDSS 2022)  
-[PDF](https://arxiv.org/pdf/2009.03561.pdf){: .btn--danger}{:target="_blank"} 
+[pdf](https://arxiv.org/pdf/2009.03561.pdf){: .btn--danger}{:target="_blank"} 
 
 Emiliano De Cristofaro  
 **A Critical Overview of Privacy in Machine Learning**  
