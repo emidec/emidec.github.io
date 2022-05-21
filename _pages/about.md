@@ -4,14 +4,12 @@ author_profile: true
 title: Home Page
 ---
 
-I am (Full) Professor of Security and Privacy Enhancing Technologies at University College London ([UCL](http://www.ucl.ac.uk/)). I am affiliated with the [Computer Science Department](http://www.cs.ucl.ac.uk/) and currently serve as the Director of UCL's Academic Center of Excellence in Cyber Security Research ([ACE-CSR](https://www.ucl.ac.uk/cybersecurity-centre-of-excellence/)). 
+I am (Full) Professor of Security and Privacy Enhancing Technologies at University College London ([UCL](http://www.ucl.ac.uk/)). I am affiliated with the [Computer Science Department](http://www.cs.ucl.ac.uk/) and currently serve as the Director of UCL's Academic Center of Excellence in Cyber Security Research ([ACE-CSR](https://www.ucl.ac.uk/cybersecurity-centre-of-excellence/)).
 Before joining UCL in 2013, I was a Research Scientist at [Xerox PARC](http://www.parc.com/).
-
-I serve on the Technology Advisory Panel at the UK Information Commissioner's Office ([ICO](https://ico.org.uk/)).
 
 ### Research
 
-I do academic research in the broad information security area. Recently, I have been mostly focusing on problems at the intersection of [machine learning and privacy](https://emilianodc.com/privacyML), as well as on understanding and countering [socio-technical issues on the Web](https://emilianodc.com/cybersafety/) using a data-driven approach.
+I do academic research in the broad information security area. Recently, I have been focusing on problems at the intersection of [machine learning and privacy](https://emilianodc.com/privacyML), as well as on understanding and countering [socio-technical issues on the Web](https://emilianodc.com/cybersafety/) using a data-driven approach.
 
 My research has been published at all four top-tier conferences in security (IEEE S&P, NDSS, ACM CCS, Usenix Security) as well top-tier conferences in other fields, such as ICML, WWW, ACM IMC, ACM SIGMETRICS, ICWSM, CSCW. My co-authors and I have received distinguished paper awards from NDSS, CSCW, ICWSM, and ACM IMC, the Data Protection by Design Award from the Catalan Data Protection authority, and were runners-up for the CSAW Applied Research Competition and the INRIA-CNIL Privacy Protection Award.
 
