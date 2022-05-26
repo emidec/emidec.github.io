@@ -21,36 +21,36 @@ ACM International Conference on Measurement and Modeling of Computer Systems (SI
 Mohammad Hammas Saeed, Shiza Ali, Jeremy Blackburn, Emiliano De Cristofaro, Savvas Zannettou, and Gianluca Stringhini  
 **TROLLMAGNIFIER: Detecting State-Sponsored Troll Accounts on Reddit**  
 43th IEEE Symposium on Security & Privacy (S&P 2022)  
-[pre-print](https://arxiv.org/pdf/2112.00443){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2112.00443){: .btn--danger}{:target="_blank"}  
 
 Chen Ling, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini  
 **Slapping Cats, Bopping Heads, and Oreo Shakes: Understanding Indicators of Virality in TikTok Short Videos**  
 14th ACM Web Science Conference (ACM WebSci 2022)  
-[pre-print](https://arxiv.org/pdf/2111.02452){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2111.02452){: .btn--danger}{:target="_blank"}  
 
 
 Antonis Papasavva, Max Aliapoulios, Cameron Ballard, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou, and Jeremy Blackburn  
 **The Gospel According to Q: Understanding the QAnon Conspiracy from the Perspective of Canonical Information**  
 16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
-[pre-print](https://arxiv.org/pdf/2101.08750){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2101.08750){: .btn--danger}{:target="_blank"}  
 
 
 Kostantinos Papadamou, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, and Michael Sirivianos  
 **"It is just a flu": Assessing the Effect of Watch History on YouTube's Pseudoscientific Video Recommendations**  
 16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
-[pre-print](https://arxiv.org/pdf/2010.11638){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2010.11638){: .btn--danger}{:target="_blank"}  
 
 
 Anaobi Ishaku, Igancio Castro, Aravindh Raman, Haris Bin Zia, Emiliano De Cristofaro, N. Sastry, Gareth Tyson  
 **Exploring Content Moderation in the Decentralised Web: The Pleroma Case**  
 17th International Conference on emerging Networking EXperiments and Technologies (ACM CoNext 2021)  
-[pre-print](https://arxiv.org/pdf/2110.13500){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2110.13500){: .btn--danger}{:target="_blank"}  
 
 
 Yuping Wang, Savvas Zannettou, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro, and Gianluca Stringhini  
 **A Multi-Platform Analysis of Political News Discussion and Sharing on Web Communities**  
 2021 IEEE International Conference on Big Data (IEEE BigData 2021)  
-[pre-print](https://arxiv.org/pdf/2103.03631){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2103.03631){: .btn--danger}{:target="_blank"}  
 
 
 Periwinkle Doerfler, Andrea Forte, Emiliano De Cristofaro, Gianluca Stringhini, Jeremy Blackburn, and Damon McCoy  

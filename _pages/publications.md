@@ -14,27 +14,27 @@ This is the list of all my peer-reviewed publications ordered by year. You can a
 Georgi Ganev, Bristena Oprisanu, Emiliano De Cristofaro  
 **Robin Hood and Matthew Effects -- Differential Privacy Has Disparate Impact on Synthetic Data**  
 39th International Conference on Machine Learning (ICML)  
-[pre-print](https://arxiv.org/pdf/2109.11429.pdf){: .btn--danger}{:target="_blank"} 
+[pdf](https://arxiv.org/pdf/2109.11429.pdf){: .btn--danger}{:target="_blank"} 
 
 Yugeng Liu, Rui Wen, Xinlei He, Ahmed Salem, Zhikun Zhang, Michael Backes, Emiliano De Cristofaro, Mario Fritz, Yang Zhang  
 **ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models**  
 31st USENIX Security Symposium (Usenix Security 2022)  
-[pre-print](https://arxiv.org/abs/2102.02551){: .btn--danger}{:target="_blank"} 
+[pdf](https://arxiv.org/abs/2102.02551){: .btn--danger}{:target="_blank"} 
 
 Mohammad Hammas Saeed, Shiza Ali, Jeremy Blackburn, Emiliano De Cristofaro, Savvas Zannettou, and Gianluca Stringhini  
 **TROLLMAGNIFIER: Detecting State-Sponsored Troll Accounts on Reddit**  
 43th IEEE Symposium on Security & Privacy (S&P 2022)  
-[pre-print](https://arxiv.org/pdf/2112.00443){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2112.00443){: .btn--danger}{:target="_blank"}  
 
 Chen Ling, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini  
 **Slapping Cats, Bopping Heads, and Oreo Shakes: Understanding Indicators of Virality in TikTok Short Videos**  
 14th ACM Web Science Conference (ACM WebSci 2022)  
-[pre-print](https://arxiv.org/pdf/2111.02452){: .btn--danger}{:target="_blank"} 
+[pdf](https://arxiv.org/pdf/2111.02452){: .btn--danger}{:target="_blank"} 
 
 Haris Bin Zia, A. Raman, I. Castro, I. Anaobi, Emiliano De Cristofaro, N. Sastry, Gareth Tyson  
 **Toxicity in the Decentralized Web and the Potential for Model Sharing**  
 ACM International Conference on Measurement and Modeling of Computer Systems (SIGMETRICS 2022)  
-[pre-print](https://arxiv.org/pdf/2204.12709.pdf){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2204.12709.pdf){: .btn--danger}{:target="_blank"}  
 
 Bristena Oprisanu, Georgi Ganev, Emiliano De Cristofaro  
 **On Utility and Privacy in Synthetic Genomic Data**  
@@ -62,12 +62,12 @@ Kostantinos Papadamou, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofar
 Anaobi Ishaku, Igancio Castro, Aravindh Raman, Haris Bin Zia, Emiliano De Cristofaro, N. Sastry, Gareth Tyson  
 **Exploring Content Moderation in the Decentralised Web: The Pleroma Case**  
 17th International Conference on emerging Networking EXperiments and Technologies (ACM CoNext 2021)  
-[pre-print](https://arxiv.org/pdf/2110.13500){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2110.13500){: .btn--danger}{:target="_blank"}  
 
 Yuping Wang, Savvas Zannettou, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro, and Gianluca Stringhini  
 **A Multi-Platform Analysis of Political News Discussion and Sharing on Web Communities**  
 2021 IEEE International Conference on Big Data (IEEE BigData 2021)  
-[pre-print](https://arxiv.org/pdf/2103.03631){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2103.03631){: .btn--danger}{:target="_blank"}  
 
 Emiliano De Cristofaro  
 **A Critical Overview of Privacy in Machine Learning**  
