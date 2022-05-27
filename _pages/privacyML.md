@@ -10,13 +10,13 @@ title: Privacy in Machine Learning
 
 Georgi Ganev, Bristena Oprisanu, Emiliano De Cristofaro  
 **Robin Hood and Matthew Effects -- Differential Privacy Has Disparate Impact on Synthetic Data**  
-39th International Conference on Machine Learning (ICML)  
+39th International Conference on Machine Learning (ICML 2022)  
 [pre-print](https://arxiv.org/pdf/2109.11429.pdf){: .btn--danger}{:target="_blank"} 
 
 Yugeng Liu, Rui Wen, Xinlei He, Ahmed Salem, Zhikun Zhang, Michael Backes, Emiliano De Cristofaro, Mario Fritz, Yang Zhang  
 **ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models**  
 31st USENIX Security Symposium (Usenix Security 2022)  
-[pre-print](https://arxiv.org/abs/2102.02551){: .btn--danger}{:target="_blank"} 
+[pdf](https://arxiv.org/abs/2102.02551){: .btn--danger}{:target="_blank"} 
 
 Bristena Oprisanu, Georgi Ganev, Emiliano De Cristofaro  
 **On Utility and Privacy in Synthetic Genomic Data**  

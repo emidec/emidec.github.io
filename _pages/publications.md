@@ -13,13 +13,13 @@ This is the list of all my peer-reviewed publications ordered by year. You can a
 ### 2022
 Georgi Ganev, Bristena Oprisanu, Emiliano De Cristofaro  
 **Robin Hood and Matthew Effects -- Differential Privacy Has Disparate Impact on Synthetic Data**  
-39th International Conference on Machine Learning (ICML)  
-[pdf](https://arxiv.org/pdf/2109.11429.pdf){: .btn--danger}{:target="_blank"} 
+39th International Conference on Machine Learning (ICML 2022)  
+[pre-print](https://arxiv.org/pdf/2109.11429.pdf){: .btn--danger}{:target="_blank"} 
 
 Yugeng Liu, Rui Wen, Xinlei He, Ahmed Salem, Zhikun Zhang, Michael Backes, Emiliano De Cristofaro, Mario Fritz, Yang Zhang  
 **ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models**  
 31st USENIX Security Symposium (Usenix Security 2022)  
-[pdf](https://arxiv.org/abs/2102.02551){: .btn--danger}{:target="_blank"} 
+[pdf](https://arxiv.org/pdf/2102.02551){: .btn--danger}{:target="_blank"} 
 
 Mohammad Hammas Saeed, Shiza Ali, Jeremy Blackburn, Emiliano De Cristofaro, Savvas Zannettou, and Gianluca Stringhini  
 **TROLLMAGNIFIER: Detecting State-Sponsored Troll Accounts on Reddit**  
@@ -39,7 +39,7 @@ ACM International Conference on Measurement and Modeling of Computer Systems (SI
 Bristena Oprisanu, Georgi Ganev, Emiliano De Cristofaro  
 **On Utility and Privacy in Synthetic Genomic Data**  
 29th Network and Distributed System Security Symposium (NDSS 2022)  
-[pdf](https://arxiv.org/abs/2102.03314){: .btn--danger}{:target="_blank"} 
+[pdf](https://arxiv.org/pdf/2102.03314){: .btn--danger}{:target="_blank"} 
 
 Mohammad Naseri, Jamie Hayes, Emiliano De Cristofaro  
 **Local and Central Differential Privacy for Robustness and Privacy in Federated Learning**  
