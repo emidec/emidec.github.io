@@ -12,6 +12,11 @@ This is a non-exxaustive list of my publications related to understanding and co
 
 ***
 
+Alexandros Efstratiou and Emiliano De Cristofaro  
+**Adherence to Misinformation on Social Media Through Socio-Cognitive and Group-Based Processes**  
+25th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2022)  
+[pre-print](){: .btn--danger}{:target="_blank"}  
+
 
 Haris Bin Zia, A. Raman, I. Castro, I. Anaobi, Emiliano De Cristofaro, N. Sastry, Gareth Tyson  
 **Toxicity in the Decentralized Web and the Potential for Model Sharing**  
