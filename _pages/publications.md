@@ -11,6 +11,15 @@ title: Publications
 This is the list of all my peer-reviewed publications ordered by year. You can also visit my [DBLP](http://dblp.uni-trier.de/pers/hd/c/Cristofaro:Emiliano_De){:target="_blank"} or my [Google Scholar](https://scholar.google.com/citations?hl=en&user=1wfzUuEAAAAJ&view_op=list_works&pagesize=100){:target="_blank"} page.
 
 ### 2022
+
+Blind  
+**Blind**  
+29th ACM Conference on Computer and Communications Security (CCS 2022, pending revision)  
+
+Blind  
+**Blind**  
+29th ACM Conference on Computer and Communications Security (CCS 2022, pending revision)  
+
 Alexandros Efstratiou and Emiliano De Cristofaro  
 **Adherence to Misinformation on Social Media Through Socio-Cognitive and Group-Based Processes**  
 25th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2022)  
