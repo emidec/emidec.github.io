@@ -12,12 +12,12 @@ This is the list of all my peer-reviewed publications ordered by year. You can a
 
 ### 2022
 
-Blind (one of my PhD students first-author)  
-**Blind (topic: Security/Privacy + ML)**  
+Authors TBA (with one of my PhD students as first author)  
+**Title TBA (topic: Security/Privacy + ML)**  
 29th ACM Conference on Computer and Communications Security (CCS 2022, pending revision)  
 
-Blind (iDrama collaboration)  
-**Blind (topic: toxicity)**  
+Authors TBA (iDramaLab collaboration)  
+**Title TBA (topic: toxicity)**  
 29th ACM Conference on Computer and Communications Security (CCS 2022, pending revision)  
 
 Alexandros Efstratiou and Emiliano De Cristofaro  
