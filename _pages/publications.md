@@ -29,7 +29,7 @@ Alexandros Efstratiou and Emiliano De Cristofaro
 Georgi Ganev, Bristena Oprisanu, Emiliano De Cristofaro  
 **Robin Hood and Matthew Effects -- Differential Privacy Has Disparate Impact on Synthetic Data**  
 39th International Conference on Machine Learning (ICML 2022)  
-[pre-print](https://arxiv.org/pdf/2109.11429.pdf){: .btn--danger}{:target="_blank"} 
+[PDF](https://arxiv.org/pdf/2109.11429.pdf){: .btn--danger}{:target="_blank"} 
 
 Yugeng Liu, Rui Wen, Xinlei He, Ahmed Salem, Zhikun Zhang, Michael Backes, Emiliano De Cristofaro, Mario Fritz, Yang Zhang  
 **ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models**  
