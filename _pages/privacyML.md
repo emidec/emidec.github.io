@@ -9,7 +9,7 @@ title: Privacy in Machine Learning
 ## Privacy in Machine Learning Publications
 
 Mohammad Naseri, Yufei Han, Enrico Mariconti, Yun Shen, Gianluca Stringhini, Emiliano De Cristofaro  
-**CERBERUS: Federated Prediction of Security Events**  
+**CERBERUS: Exploring Federated Prediction of Security Events**  
 29th ACM Conference on Computer and Communications Security (ACM CCS 2022)  
 
 Georgi Ganev, Bristena Oprisanu, Emiliano De Cristofaro  
