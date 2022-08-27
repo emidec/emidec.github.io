@@ -12,13 +12,13 @@ This is the list of all my peer-reviewed publications ordered by year. You can a
 
 ### 2022
 
-Authors TBA (with one of my PhD students as first author)  
-**Title TBA (topic: Security/Privacy + ML)**  
-29th ACM Conference on Computer and Communications Security (CCS 2022, pending revision)  
+Mohammad Naseri, Yufei Han, Enrico Mariconti, Yun Shen, Gianluca Stringhini, Emiliano De Cristofaro  
+**CERBERUS: Federated Prediction of Security Events**  
+29th ACM Conference on Computer and Communications Security  
 
-Authors TBA (iDramaLab collaboration)  
-**Title TBA (topic: toxicity)**  
-29th ACM Conference on Computer and Communications Security (CCS 2022, pending revision)  
+Wai Man Si, Michael Backes, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou, Yang Zhang    
+**Why So Toxic? Measuring and Triggering Toxic Behavior in Open-Domain Chatbots**  
+29th ACM Conference on Computer and Communications Security  
 
 Alexandros Efstratiou and Emiliano De Cristofaro  
 **Adherence to Misinformation on Social Media Through Socio-Cognitive and Group-Based Processes**  

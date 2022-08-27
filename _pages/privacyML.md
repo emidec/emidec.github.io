@@ -8,6 +8,10 @@ title: Privacy in Machine Learning
 
 ## Privacy in Machine Learning Publications
 
+Mohammad Naseri, Yufei Han, Enrico Mariconti, Yun Shen, Gianluca Stringhini, Emiliano De Cristofaro  
+**CERBERUS: Federated Prediction of Security Events**  
+29th ACM Conference on Computer and Communications Security  
+
 Georgi Ganev, Bristena Oprisanu, Emiliano De Cristofaro  
 **Robin Hood and Matthew Effects -- Differential Privacy Has Disparate Impact on Synthetic Data**  
 39th International Conference on Machine Learning (ICML 2022)  
