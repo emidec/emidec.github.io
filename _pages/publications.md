@@ -16,7 +16,7 @@ Mohammad Naseri, Yufei Han, Enrico Mariconti, Yun Shen, Gianluca Stringhini, Emi
 **CERBERUS: Exploring Federated Prediction of Security Events**  
 29th ACM Conference on Computer and Communications Security (ACM CCS 2022)  
 
-Wai Man Si, Michael Backes, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou, Yang Zhang    
+Wai Man Si, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou, Yang Zhang    
 **Why So Toxic? Measuring and Triggering Toxic Behavior in Open-Domain Chatbots**  
 29th ACM Conference on Computer and Communications Security (ACM CCS 2022)  
 
@@ -29,7 +29,7 @@ Alexandros Efstratiou and Emiliano De Cristofaro
 Georgi Ganev, Bristena Oprisanu, Emiliano De Cristofaro  
 **Robin Hood and Matthew Effects -- Differential Privacy Has Disparate Impact on Synthetic Data**  
 39th International Conference on Machine Learning (ICML 2022)  
-[PDF](https://arxiv.org/pdf/2109.11429.pdf){: .btn--danger}{:target="_blank"} 
+[pdf](https://arxiv.org/pdf/2109.11429.pdf){: .btn--danger}{:target="_blank"} 
 
 Yugeng Liu, Rui Wen, Xinlei He, Ahmed Salem, Zhikun Zhang, Michael Backes, Emiliano De Cristofaro, Mario Fritz, Yang Zhang  
 **ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models**  
