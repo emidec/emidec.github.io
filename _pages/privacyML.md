@@ -11,6 +11,7 @@ title: Privacy in Machine Learning
 Mohammad Naseri, Yufei Han, Enrico Mariconti, Yun Shen, Gianluca Stringhini, Emiliano De Cristofaro  
 **CERBERUS: Exploring Federated Prediction of Security Events**  
 29th ACM Conference on Computer and Communications Security (ACM CCS 2022)  
+[pdf](https://arxiv.org/pdf/2209.03050.pdf){: .btn--danger}{:target="_blank"} 
 
 Georgi Ganev, Bristena Oprisanu, Emiliano De Cristofaro  
 **Robin Hood and Matthew Effects -- Differential Privacy Has Disparate Impact on Synthetic Data**  

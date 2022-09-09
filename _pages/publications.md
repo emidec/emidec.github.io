@@ -15,15 +15,17 @@ This is the list of all my peer-reviewed publications ordered by year. You can a
 Mohammad Naseri, Yufei Han, Enrico Mariconti, Yun Shen, Gianluca Stringhini, Emiliano De Cristofaro  
 **CERBERUS: Exploring Federated Prediction of Security Events**  
 29th ACM Conference on Computer and Communications Security (ACM CCS 2022)  
+[pdf](https://arxiv.org/pdf/2209.03050.pdf){: .btn--danger}{:target="_blank"} 
 
 Wai Man Si, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou, Yang Zhang    
 **Why So Toxic? Measuring and Triggering Toxic Behavior in Open-Domain Chatbots**  
 29th ACM Conference on Computer and Communications Security (ACM CCS 2022)  
+[pdf](https://arxiv.org/pdf/2209.03463.pdf){: .btn--danger}{:target="_blank"}  
 
 Alexandros Efstratiou and Emiliano De Cristofaro  
 **Adherence to Misinformation on Social Media Through Socio-Cognitive and Group-Based Processes**  
 25th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2022)  
-[pre-print](){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2206.15237.pdf){: .btn--danger}{:target="_blank"}  
 
 
 Georgi Ganev, Bristena Oprisanu, Emiliano De Cristofaro  

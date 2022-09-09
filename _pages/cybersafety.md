@@ -15,11 +15,12 @@ This is a non-exxaustive list of my publications related to understanding and co
 Wai Man Si, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou, Yang Zhang    
 **Why So Toxic? Measuring and Triggering Toxic Behavior in Open-Domain Chatbots**  
 29th ACM Conference on Computer and Communications Security (ACM CCS 2022)  
+[pdf](https://arxiv.org/pdf/2209.03463.pdf){: .btn--danger}{:target="_blank"}  
 
 Alexandros Efstratiou and Emiliano De Cristofaro  
 **Adherence to Misinformation on Social Media Through Socio-Cognitive and Group-Based Processes**  
 25th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2022)  
-[pre-print](){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2206.15237.pdf){: .btn--danger}{:target="_blank"}  
 
 
 Haris Bin Zia, A. Raman, I. Castro, I. Anaobi, Emiliano De Cristofaro, N. Sastry, Gareth Tyson  
