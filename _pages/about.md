@@ -5,6 +5,7 @@ title: Home Page
 ---
 
 I am (Full) Professor of Security and Privacy Enhancing Technologies at University College London ([UCL](http://www.ucl.ac.uk/)). I am affiliated with the [Computer Science Department](http://www.cs.ucl.ac.uk/) and currently serve as the Director of UCL's Academic Center of Excellence in Cyber Security Research ([ACE-CSR](https://www.ucl.ac.uk/cybersecurity-centre-of-excellence/)).
+I have a PhD from [UC Irvine](https://www.cs.uci.edu), advised by the great [Gene Tsudik](https://www.ics.uci.edu/~gts/).
 Before joining UCL in 2013, I was a Research Scientist at [Xerox PARC](http://www.parc.com/).
 
 ### Research
