@@ -30,7 +30,7 @@ I was born in Avellino, a small town in South of Italy surrounded by the mountai
 
 I have spent a few great years in California &ndash; in Irvine and Palo Alto &ndash; before moving to London. I have also briefly lived in Rome and near Venice, in Portsmouth (UK), Heidelberg, Singapore, Grenoble, Lausanne, and Barcelona.  
 
-In my free time, I like acting as a coffee snob and a guerilla activist against pineapple on pizza, nostalgically remembering the times I used to surf in San Onofre State Beach, cooking (only pasta and pizza, obviously), and walking around leafy Hampstead with my better half, Darya, and little one, Maya.  
+In my free time, I like acting as a coffee snob and a guerilla activist against pineapple on pizza, nostalgically remembering the times I used to surf in San Onofre State Beach, cooking (only pasta and pizza, obviously), and walking around leafy Hampstead with my better half, Darya, and my little one, Maya.  
 
-I have alwyas loved languages and I'm kind of fluent in English, French, and Italian, and can utter enough words in German, Spanish, and Persian.
+I have alwyas loved languages and I'm (kinda) fluent in English, French, and Italian, and can utter enough words in German, Spanish, and Persian.
 
