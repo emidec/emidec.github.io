@@ -12,6 +12,11 @@ This is a non-exxaustive list of my publications related to understanding and co
 
 ***
 
+Pujan Paudel, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou  
+**Lambretta: Learning to Rank for Twitter Soft Moderation**  
+44th IEEE Symposium on Security & Privacy (S&P 2023, conditional accept)  
+
+
 Wai Man Si, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou, Yang Zhang    
 **Why So Toxic? Measuring and Triggering Toxic Behavior in Open-Domain Chatbots**  
 29th ACM Conference on Computer and Communications Security (ACM CCS 2022)  

@@ -12,6 +12,11 @@ This is the list of all my peer-reviewed publications ordered by year. You can a
 
 ### 2022
 
+
+Pujan Paudel, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou  
+**Lambretta: Learning to Rank for Twitter Soft Moderation**  
+44th IEEE Symposium on Security & Privacy (S&P 2023, conditional accept)  
+
 Mohammad Naseri, Yufei Han, Enrico Mariconti, Yun Shen, Gianluca Stringhini, Emiliano De Cristofaro  
 **CERBERUS: Exploring Federated Prediction of Security Events**  
 29th ACM Conference on Computer and Communications Security (ACM CCS 2022)  
