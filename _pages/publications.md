@@ -15,7 +15,11 @@ This is the list of all my peer-reviewed publications ordered by year. You can a
 
 Pujan Paudel, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou  
 **Lambretta: Learning to Rank for Twitter Soft Moderation**  
-44th IEEE Symposium on Security & Privacy (S&P 2023, conditional accept)  
+44th IEEE Symposium on Security & Privacy (S&P 2023, pending shepherding)  
+
+Alexandros Efstratiou, Jeremy Blackburn, Tristan Caulfield, Gianluca Stringhini, Savvas Zannettou, Emiliano De Cristofaro  
+**Non-Polar Opposites: Analyzing the Relationship Between Echo Chambers and Hostile Intergroup Interactions on Reddit**  
+17th International AAAI Conference on Web and Social Media (ICWSM 2023)  
 
 Mohammad Naseri, Yufei Han, Enrico Mariconti, Yun Shen, Gianluca Stringhini, Emiliano De Cristofaro  
 **CERBERUS: Exploring Federated Prediction of Security Events**  
