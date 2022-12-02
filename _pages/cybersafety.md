@@ -23,7 +23,7 @@ Alexandros Efstratiou, Jeremy Blackburn, Tristan Caulfield, Gianluca Stringhini,
 
 Wai Man Si, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou, Yang Zhang    
 **Why So Toxic? Measuring and Triggering Toxic Behavior in Open-Domain Chatbots**  
-29th ACM Conference on Computer and Communications Security (ACM CCS 2022)  
+29th ACM Conference on Computer and Communications Security (ACM CCS 2022), *honorable mention*  
 [pdf](https://arxiv.org/pdf/2209.03463.pdf){: .btn--danger}{:target="_blank"}  
 
 Alexandros Efstratiou and Emiliano De Cristofaro  
