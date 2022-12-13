@@ -15,6 +15,7 @@ This is a non-exxaustive list of my publications related to understanding and co
 Pujan Paudel, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou  
 **Lambretta: Learning to Rank for Twitter Soft Moderation**  
 44th IEEE Symposium on Security & Privacy (S&P 2023)  
+[pdf](https://arxiv.org/pdf/2212.05926.pdf){: .btn--danger}{:target="_blank"}  
 
 Alexandros Efstratiou, Jeremy Blackburn, Tristan Caulfield, Gianluca Stringhini, Savvas Zannettou, Emiliano De Cristofaro  
 **Non-Polar Opposites: Analyzing the Relationship Between Echo Chambers and Hostile Intergroup Interactions on Reddit**  
