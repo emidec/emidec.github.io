@@ -28,7 +28,8 @@ Mohammad Naseri, Yufei Han, Enrico Mariconti, Yun Shen, Gianluca Stringhini, Emi
 
 Wai Man Si, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou, Yang Zhang    
 **Why So Toxic? Measuring and Triggering Toxic Behavior in Open-Domain Chatbots**  
-29th ACM Conference on Computer and Communications Security (ACM CCS 2022), *honorable mention*   
+29th ACM Conference on Computer and Communications Security (ACM CCS 2022)  
+[honorable mention](https://www.sigsac.org/ccs/CCS2022/program/awards.html){: .btn--success}  
 [pdf](https://arxiv.org/pdf/2209.03463.pdf){: .btn--danger}{:target="_blank"}  
 
 Alexandros Efstratiou and Emiliano De Cristofaro  
