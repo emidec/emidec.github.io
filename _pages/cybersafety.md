@@ -27,6 +27,7 @@ Wai Man Si, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Savva
 29th ACM Conference on Computer and Communications Security (ACM CCS 2022)  
 [honorable mention](https://www.sigsac.org/ccs/CCS2022/program/awards.html){: .btn--success}  
 [pdf](https://arxiv.org/pdf/2209.03463.pdf){: .btn--danger}{:target="_blank"}  
+<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [FastCompany](https://www.fastcompany.com/90820090/the-internet-loves-chatgpt-but-theres-a-dark-side-to-the-tech)  
 
 Alexandros Efstratiou and Emiliano De Cristofaro  
 **Adherence to Misinformation on Social Media Through Socio-Cognitive and Group-Based Processes**  
