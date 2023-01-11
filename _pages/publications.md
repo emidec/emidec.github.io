@@ -10,7 +10,16 @@ title: Publications
 
 This is the list of all my peer-reviewed publications ordered by year. You can also visit my [DBLP](http://dblp.uni-trier.de/pers/hd/c/Cristofaro:Emiliano_De){:target="_blank"} or my [Google Scholar](https://scholar.google.com/citations?hl=en&user=1wfzUuEAAAAJ&view_op=list_works&pagesize=100){:target="_blank"} page.
 
-### 2022
+
+Pujan Paudel, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou  
+**Lambretta: Learning to Rank for Twitter Soft Moderation**  
+44th IEEE Symposium on Security & Privacy (S&P 2023)  
+[pdf](https://arxiv.org/pdf/2212.05926.pdf){: .btn--danger}{:target="_blank"}  
+
+Alexandros Efstratiou, Jeremy Blackburn, Tristan Caulfield, Gianluca Stringhini, Savvas Zannettou, Emiliano De Cristofaro  
+**Non-Polar Opposites: Analyzing the Relationship Between Echo Chambers and Hostile Intergroup Interactions on Reddit**  
+17th International AAAI Conference on Web and Social Media (ICWSM 2023)  
+[pdf](https://arxiv.org/pdf/2211.14388.pdf){: .btn--danger}{:target="_blank"}  
 
 Mohammad Naseri, Yufei Han, Enrico Mariconti, Yun Shen, Gianluca Stringhini, Emiliano De Cristofaro  
 **CERBERUS: Exploring Federated Prediction of Security Events**  
@@ -20,7 +29,9 @@ Mohammad Naseri, Yufei Han, Enrico Mariconti, Yun Shen, Gianluca Stringhini, Emi
 Wai Man Si, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou, Yang Zhang    
 **Why So Toxic? Measuring and Triggering Toxic Behavior in Open-Domain Chatbots**  
 29th ACM Conference on Computer and Communications Security (ACM CCS 2022)  
+[honorable mention](https://www.sigsac.org/ccs/CCS2022/program/awards.html){: .btn--success}  
 [pdf](https://arxiv.org/pdf/2209.03463.pdf){: .btn--danger}{:target="_blank"}  
+<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [FastCompany](https://www.fastcompany.com/90820090/the-internet-loves-chatgpt-but-theres-a-dark-side-to-the-tech)  
 
 Alexandros Efstratiou and Emiliano De Cristofaro  
 **Adherence to Misinformation on Social Media Through Socio-Cognitive and Group-Based Processes**  
@@ -42,6 +53,7 @@ Mohammad Hammas Saeed, Shiza Ali, Jeremy Blackburn, Emiliano De Cristofaro, Savv
 **TROLLMAGNIFIER: Detecting State-Sponsored Troll Accounts on Reddit**  
 43th IEEE Symposium on Security & Privacy (S&P 2022)  
 [pdf](https://arxiv.org/pdf/2112.00443){: .btn--danger}{:target="_blank"}  
+<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [Wired](https://www.wired.co.uk/article/researchers-reddit-state-trolls)  
 
 Chen Ling, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini  
 **Slapping Cats, Bopping Heads, and Oreo Shakes: Understanding Indicators of Virality in TikTok Short Videos**  
@@ -67,6 +79,8 @@ Antonis Papasavva, Max Aliapoulios, Cameron Ballard, Emiliano De Stringhini, Sav
 **The Gospel According to Q: Understanding the QAnon Conspiracy from the Perspective of Canonical Information**  
 16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
 [pdf](https://arxiv.org/pdf/2101.08750){: .btn--danger}{:target="_blank"}  
+<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [New Scientist](https://www.newscientist.com/article/2285563-qanon-posts-by-figurehead-q-may-be-written-by-more-than-one-person/)  
+
 
 Kostantinos Papadamou, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, and Michael Sirivianos  
 **"It is just a flu": Assessing the Effect of Watch History on YouTube's Pseudoscientific Video Recommendations**  
@@ -74,7 +88,6 @@ Kostantinos Papadamou, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofar
 [pdf](https://arxiv.org/pdf/2010.11638){: .btn--danger}{:target="_blank"}  
 
 
-### 2021
 
 Anaobi Ishaku, Igancio Castro, Aravindh Raman, Haris Bin Zia, Emiliano De Cristofaro, N. Sastry, Gareth Tyson  
 **Exploring Content Moderation in the Decentralised Web: The Pleroma Case**  
@@ -148,7 +161,6 @@ Yuping Wang, Fatemeh Tahmasbi, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cris
 
 
 
-### 2020
 
 Alexandros Mittos, Savvas Zannettou, Jeremy Blackburn, and Emiliano De Cristofaro  
 **Analyzing Genetic Testing Discourse on the Web Through the Lens of Twitter, Reddit, and 4chan**  
@@ -181,7 +193,7 @@ Alexandros Mittos, Savvas Zannettou, Jeremy Blackburn, and Emiliano De Cristofar
 [full version](https://arxiv.org/pdf/1901.09735.pdf){: .btn--danger}{:target="_blank"} [video](https://www.youtube.com/watch?v=qTLKspE36kY){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [The Times](https://www.thetimes.co.uk/article/genetic-tests-for-ancestry-being-hijacked-by-racists-ltwr72f6c), [StatNews](https://www.statnews.com/2019/08/02/he-studies-jerks-on-the-internet-his-latest-project-researching-how-they-talk-about-genetic-testing/)
 
-### 2019
+
 
 Enrico Mariconti, Guillermo Suarez-Tangil, Jeremy Blackburn, Emiliano De Cristofaro, Nicolas Kourtellis, Ilias Leontiadis, Jordi Luque Serrano, and Gianluca Stringhini  
 **"You Know What to Do": Proactive Detection of YouTube Videos Targeted by Coordinated Hate Attacks**  
@@ -249,7 +261,7 @@ Proceedings on Privacy Enhancing Technologies, Vol. 2019, Issue 1 (PoPETS 2019)
 
 
 
-### 2018
+
 Juan Echeverria, Emiliano De Cristofaro, Nicolas Kourtellis, Ilias Leontiadis, Gianluca Stringhini, Shi Zhou  
 **LOBO -- Evaluation of Generalization Deficiencies in Twitter Bot Classifiers**  
 34th Annual Computer Security Applications Conference (ACSAC 2018)  
@@ -323,7 +335,7 @@ Apostolos Pyrgelis, Carmela Troncoso, Emiliano De Cristofaro
 [distinguished paper award](https://www.ndss-symposium.org/ndss2018/){: .btn--success}{:target="_blank"} [INRIA-CNIL privacy protection award runner-up](https://www.cnil.fr/en/inria-and-cnil-award-2019-privacy-protection-prize-european-research-team){: .btn--success}{:target="_blank"}  
 [full version](https://arxiv.org/pdf/1708.06145.pdf){: .btn--danger}{:target="_blank"} [blog](https://www.benthamsgaze.org/2018/10/02/on-location-time-and-membership-studying-how-aggregate-location-data-can-harm-users-privacy/){: .btn--danger}{:target="_blank"} [video](https://www.youtube.com/watch?v=hwGAE5NqAP0){: .btn--danger}{:target="_blank"}  
 
-### 2017
+
 
 Gergely Acs, Luca Melis, Claude Castelluccia, Emiliano De Cristofaro  
 **Differentially Private Mixture of Generative Neural Networks**  
@@ -393,7 +405,7 @@ Enrico Mariconti, Lucky Onwuzurike, Panagiotis Andriotis, Emiliano De Cristofaro
 [pdf](https://arxiv.org/pdf/1612.04433.pdf){: .btn--danger}{:target="_blank"} [blog](https://www.benthamsgaze.org/2017/03/28/mamadroid-detecting-android-malware-by-building-markov-chains-of-behavioral-models/){: .btn--danger}{:target="_blank"} [code](https://bitbucket.org/gianluca_students/mamadroid_code){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [The Morning Paper](https://blog.acolyer.org/2017/03/09/mamadroid-detecting-android-malware-by-building-markov-chains-of-behavorial-models/)  
 
-### 2016
+
 
 Hamed Haddadi, Rishab Nithyanand, Sheharbano Khattak, Mobin Javed, Narseo Vallina-Rodriguez, Marjan Falahrastegar, Julia E. Powles, Emiliano De Cristofaro, Steven J. Murdoch  
 **The Adblocking Tug-of-War**  
@@ -450,7 +462,7 @@ Luca Melis, Hassan Jameel Asghar, Emiliano De Cristofaro, Dali Kaafar
 [full version](https://eprint.iacr.org/2015/949.pdf){: .btn--danger}{:target="_blank"}
 
 
-### 2015
+
 
 Julien Freudiger, Emiliano De Cristofaro, Alex Brito  
 **Controlled Data Sharing for Collaborative Predictive Blacklisting**  
@@ -482,7 +494,7 @@ Kat Krol, Eleni Philippou, Emiliano De Cristofaro, M. Angela Sasse
 9th NDSS Workshop on Usable Security (USEC 2015)  
 [pdf](https://arxiv.org/pdf/1501.04434v1.pdf){: .btn--danger}{:target="_blank"}
 
-### 2014
+
 
 Abdelberi Chaabane, Terence Chen, Mathieu Cunche, Emiliano De Cristofaro, Arik Friedman, Dali Kaafar  
 **Censorship in the Wild: Analyzing Web Filtering in Syria**  
@@ -542,7 +554,7 @@ Carlo Blundo, Emiliano De Cristofaro, Paolo Gasti
 Journal of Computer Security, Vol. 22, No. 3, 2014  
 [pdf](https://arxiv.org/pdf/1111.5062.pdf){: .btn--danger}{:target="_blank"}
 
-### 2013
+
 
 Marcin Nagy, Emiliano De Cristofaro, Alexandra Dmitrienko, N. Asokan, Amhad-Reza Sadeghi  
 **Do I Know You? - Efficient and Privacy-Preserving Common Friend-Finder Protocols and Applications**  
@@ -593,7 +605,7 @@ International Journal of Information Security (IJIS), Vol. 12, No. 1, 2013
 ACNS 2011 Selected Papers Special Issue  
 [pdf](https://emilianodc.com/PAPERS/DMP-IJIS13.pdf){: .btn--danger}{:target="_blank"}
 
-### 2012
+
 
 Emiliano De Cristofaro, Claudio Soriente, Gene Tsudik, Andrew Williams  
 **Tweeting with Hummingbird: Privacy in Large-Scale Micro-Blogging OSNs**  
@@ -649,7 +661,7 @@ International Journal of Network Security (IJSN), Vol. 14, No. 6, 2012
 [pdf](https://emilianodc.com/PAPERS/IJSN12.pdf){: .btn--danger}{:target="_blank"}
 
 
-### 2011
+
 
 Emiliano De Cristofaro  
 **Sharing Sensitive Information with Privacy**  
@@ -698,7 +710,7 @@ Giuseppe Ateniese, Emiliano De Cristofaro, Gene Tsudik
 14th IACR Conference on Practice and Theory of Public Key Cryptography (PKC 2011)  
 [full version](http://eprint.iacr.org/2010/220){: .btn--danger}{:target="_blank"}
 
-### 2010
+
 
 Emiliano De Cristofaro, Jihye Kim, Gene Tsudik  
 **Linear-Complexity Private Set Intersection Protocols Secure in Malicious Model**  
@@ -727,7 +739,7 @@ Vincenzo Auletta, Carlo Blundo, Angelo De Caro, Emiliano De Cristofaro, Giuseppe
 **Increasing Privacy Threats in the Cyberspace: the Case of Italian E-Passports**  
 1st International Workshop on Lightweight Cryptography for Resource-Constrained Devices (WLC 2010)
 
-### 2009
+
 
 Emiliano De Cristofaro, Stanislaw Jarecki, Jihye Kim, Gene Tsudik  
 **Privacy-preserving Policy-based Information Transfer**  
@@ -746,7 +758,7 @@ Emiliano De Cristofaro, Xuhua Ding, Gene Tsudik
 18th IEEE Conference on Computer Communications and Networks (ICCCN 2009)  
 [full version](https://arxiv.org/pdf/0905.2158.pdf){: .btn--danger}{:target="_blank"}
 
-### 2008
+
 
 Carlo Blundo, Emiliano De Cristofaro, Clemente Galdi, Giuseppe Persiano  
 **A Distributed Implementation of the Certified Information Access Service**  
@@ -758,7 +770,7 @@ Carlo Blundo, Emiliano De Cristofaro, Aniello Del Sorbo, Clemente Galdi, Giusepp
 **Validating Orchestration of Web Services with BPEL and Aggregate Signatures**  
 6th IEEE Conference on Web Services (ECOWS 2008)
 
-### 2007
+
 
 Emiliano De Cristofaro  
 **A Secure and Privacy-Protecting Aggregation Scheme for Sensor Networks**  

@@ -12,10 +12,22 @@ This is a non-exxaustive list of my publications related to understanding and co
 
 ***
 
+Pujan Paudel, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou  
+**Lambretta: Learning to Rank for Twitter Soft Moderation**  
+44th IEEE Symposium on Security & Privacy (S&P 2023)  
+[pdf](https://arxiv.org/pdf/2212.05926.pdf){: .btn--danger}{:target="_blank"}  
+
+Alexandros Efstratiou, Jeremy Blackburn, Tristan Caulfield, Gianluca Stringhini, Savvas Zannettou, Emiliano De Cristofaro  
+**Non-Polar Opposites: Analyzing the Relationship Between Echo Chambers and Hostile Intergroup Interactions on Reddit**  
+17th International AAAI Conference on Web and Social Media (ICWSM 2023)  
+[pdf](https://arxiv.org/pdf/2211.14388.pdf){: .btn--danger}{:target="_blank"}  
+
 Wai Man Si, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou, Yang Zhang    
 **Why So Toxic? Measuring and Triggering Toxic Behavior in Open-Domain Chatbots**  
 29th ACM Conference on Computer and Communications Security (ACM CCS 2022)  
+[honorable mention](https://www.sigsac.org/ccs/CCS2022/program/awards.html){: .btn--success}  
 [pdf](https://arxiv.org/pdf/2209.03463.pdf){: .btn--danger}{:target="_blank"}  
+<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [FastCompany](https://www.fastcompany.com/90820090/the-internet-loves-chatgpt-but-theres-a-dark-side-to-the-tech)  
 
 Alexandros Efstratiou and Emiliano De Cristofaro  
 **Adherence to Misinformation on Social Media Through Socio-Cognitive and Group-Based Processes**  
@@ -32,6 +44,7 @@ Mohammad Hammas Saeed, Shiza Ali, Jeremy Blackburn, Emiliano De Cristofaro, Savv
 **TROLLMAGNIFIER: Detecting State-Sponsored Troll Accounts on Reddit**  
 43th IEEE Symposium on Security & Privacy (S&P 2022)  
 [pdf](https://arxiv.org/pdf/2112.00443){: .btn--danger}{:target="_blank"}  
+<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [Wired](https://www.wired.co.uk/article/researchers-reddit-state-trolls)  
 
 Chen Ling, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini  
 **Slapping Cats, Bopping Heads, and Oreo Shakes: Understanding Indicators of Virality in TikTok Short Videos**  
@@ -43,6 +56,7 @@ Antonis Papasavva, Max Aliapoulios, Cameron Ballard, Emiliano De Cristofaro, Gia
 **The Gospel According to Q: Understanding the QAnon Conspiracy from the Perspective of Canonical Information**  
 16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
 [pdf](https://arxiv.org/pdf/2101.08750){: .btn--danger}{:target="_blank"}  
+<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [New Scientist](https://www.newscientist.com/article/2285563-qanon-posts-by-figurehead-q-may-be-written-by-more-than-one-person/)  
 
 
 Kostantinos Papadamou, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, and Michael Sirivianos  
