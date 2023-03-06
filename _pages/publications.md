@@ -21,6 +21,15 @@ Alexandros Efstratiou, Jeremy Blackburn, Tristan Caulfield, Gianluca Stringhini,
 17th International AAAI Conference on Web and Social Media (ICWSM 2023)  
 [pdf](https://arxiv.org/pdf/2211.14388.pdf){: .btn--danger}{:target="_blank"}  
 
+Satrio Baskoro Yudhoatmojo, Emiliano De Cristofaro, Jeremy Blackburn  
+**Understanding the Use of e-Prints on Reddit and 4chan's Politically Incorrect Board**  
+15th ACM Web Science Conference 2023 (WebSci 2023)  
+[pdf](https://arxiv.org/pdf/2111.02455.pdf){: .btn--danger}{:target="_blank"}  
+
+Utkucan Balci, Chen Ling, Emiliano De Cristofaro, Megan Squire, Gianluca Stringhini, Jeremy Blackburn  
+**Beyond Fish and Bicycles: Exploring the Varieties of Online Women's Ideological Spaces**  
+15th ACM Web Science Conference 2023 (WebSci 2023)
+
 Mohammad Naseri, Yufei Han, Enrico Mariconti, Yun Shen, Gianluca Stringhini, Emiliano De Cristofaro  
 **CERBERUS: Exploring Federated Prediction of Security Events**  
 29th ACM Conference on Computer and Communications Security (ACM CCS 2022)  
