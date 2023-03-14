@@ -28,12 +28,14 @@ Satrio Baskoro Yudhoatmojo, Emiliano De Cristofaro, Jeremy Blackburn
 
 Utkucan Balci, Chen Ling, Emiliano De Cristofaro, Megan Squire, Gianluca Stringhini, Jeremy Blackburn  
 **Beyond Fish and Bicycles: Exploring the Varieties of Online Women's Ideological Spaces**  
-15th ACM Web Science Conference 2023 (WebSci 2023)
+15th ACM Web Science Conference 2023 (WebSci 2023)  
+[pdf](https://arxiv.org/pdf/2303.07099.pdf){: .btn--danger}{:target="_blank"}  
+
 
 Mohammad Naseri, Yufei Han, Enrico Mariconti, Yun Shen, Gianluca Stringhini, Emiliano De Cristofaro  
 **CERBERUS: Exploring Federated Prediction of Security Events**  
 29th ACM Conference on Computer and Communications Security (ACM CCS 2022)  
-[pdf](https://arxiv.org/pdf/2209.03050.pdf){: .btn--danger}{:target="_blank"} 
+[pdf](https://arxiv.org/pdf/2209.03050.pdf){: .btn--danger}{:target="_blank"}  
 
 Wai Man Si, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou, Yang Zhang    
 **Why So Toxic? Measuring and Triggering Toxic Behavior in Open-Domain Chatbots**  
