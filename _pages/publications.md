@@ -24,7 +24,7 @@ Alexandros Efstratiou, Jeremy Blackburn, Tristan Caulfield, Gianluca Stringhini,
 Satrio Baskoro Yudhoatmojo, Emiliano De Cristofaro, Jeremy Blackburn  
 **Understanding the Use of e-Prints on Reddit and 4chan's Politically Incorrect Board**  
 15th ACM Web Science Conference 2023 (WebSci 2023)  
-[best paper award](https://websci23.webscience.org/best-paper-websci23-awarded/){: .btn--success}{:target="_blank"}  
+[best paper](https://websci23.webscience.org/best-paper-websci23-awarded/){: .btn--success}{:target="_blank"}  
 [pdf](https://arxiv.org/pdf/2111.02455.pdf){: .btn--danger}{:target="_blank"}  
 
 Utkucan Balci, Chen Ling, Emiliano De Cristofaro, Megan Squire, Gianluca Stringhini, Jeremy Blackburn  
