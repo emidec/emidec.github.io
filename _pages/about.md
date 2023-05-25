@@ -5,7 +5,7 @@ title: Home Page
 ---
 
 I am (Full) Professor of Security and Privacy Enhancing Technologies at University College London ([UCL](http://www.ucl.ac.uk/)). I am affiliated with the [Computer Science Department](http://www.cs.ucl.ac.uk/) and currently serve as the Director of UCL's Academic Center of Excellence in Cyber Security Research ([ACE-CSR](https://www.ucl.ac.uk/cybersecurity-centre-of-excellence/)).
-I have a PhD from [UC Irvine](https://www.cs.uci.edu), advised by the great [Gene Tsudik](https://www.ics.uci.edu/~gts/).
+I have a PhD from [UC Irvine](https://www.cs.uci.edu), advised by [Gene Tsudik](https://www.ics.uci.edu/~gts/).
 Before joining UCL in 2013, I was a Research Scientist at [Xerox PARC](http://www.parc.com/).
 
 ### Research
@@ -28,9 +28,9 @@ During my PhD, I also spent a few months on research internships at NEC in Heide
 ### Personal
 I was born in Avellino, a small town in South of Italy surrounded by the mountains of [Irpinia](https://en.wikipedia.org/wiki/Irpinia). Irpinia is known for its green [landscapes](https://web.unisa.it/en/campus-life/surroundings/irpinia) and [medieval castles](http://www.irpinia24.it/wp/wp-content/uploads/2016/12/header.jpg), the [soccer team](https://en.wikipedia.org/wiki/U.S._Avellino_1912), the hazelnuts, and the [black truffles](https://www.ecoturismocampania.it/wp-content/uploads/2015/10/tartufo-nero-di-bagnoli-irpino.jpg), as well as some great wines like Taurasi, Fiano di Avellino, and Greco di Tufo.  
 
-I have spent a few great years in California &ndash; in Irvine and Palo Alto &ndash; before moving to pre-Brexit London. I have also briefly lived in Rome and near Venice, in Portsmouth (UK), Heidelberg, Singapore, Grenoble, Lausanne, and Barcelona.  
+I have spent a few years in California &ndash; in Irvine and Palo Alto &ndash; before moving to pre-Brexit London. I have also briefly lived in Rome and near Venice, in Portsmouth (UK), Heidelberg, Singapore, Grenoble, Lausanne, and Barcelona.  
 
 In my free time, I like acting as a coffee snob and a guerilla activist against pineapple on pizza, nostalgically remembering the times I used to surf in San Onofre State Beach, and cooking (only pasta and pizza, obviously).  
 
-I have always loved languages and I'm (kinda) fluent in English, French, and Italian, and can utter enough words in German, Spanish, and Persian.
+I have always loved languages and I'm (kinda) fluent in English, French, and Italian, and can utter enough words in German, Spanish, and Persian to get in (or out of) trouble.
 

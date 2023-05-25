@@ -22,10 +22,26 @@ Alexandros Efstratiou, Jeremy Blackburn, Tristan Caulfield, Gianluca Stringhini,
 17th International AAAI Conference on Web and Social Media (ICWSM 2023)  
 [pdf](https://arxiv.org/pdf/2211.14388.pdf){: .btn--danger}{:target="_blank"}  
 
+Satrio Baskoro Yudhoatmojo, Emiliano De Cristofaro, Jeremy Blackburn  
+**Understanding the Use of e-Prints on Reddit and 4chan's Politically Incorrect Board**  
+15th ACM Web Science Conference 2023 (WebSci 2023)  
+[best paper](https://websci23.webscience.org/best-paper-websci23-awarded/){: .btn--success}{:target="_blank"}  
+
+[pdf](https://arxiv.org/pdf/2111.02455.pdf){: .btn--danger}{:target="_blank"}  
+
+Utkucan Balci, Chen Ling, Emiliano De Cristofaro, Megan Squire, Gianluca Stringhini, Jeremy Blackburn  
+**Beyond Fish and Bicycles: Exploring the Varieties of Online Women's Ideological Spaces**  
+15th ACM Web Science Conference 2023 (WebSci 2023)  
+[pdf](https://arxiv.org/pdf/2303.07099.pdf){: .btn--danger}{:target="_blank"}  
+
+
+
 Wai Man Si, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou, Yang Zhang    
 **Why So Toxic? Measuring and Triggering Toxic Behavior in Open-Domain Chatbots**  
-29th ACM Conference on Computer and Communications Security (ACM CCS 2022), *honorable mention*  
+29th ACM Conference on Computer and Communications Security (ACM CCS 2022)  
+[honorable mention](https://www.sigsac.org/ccs/CCS2022/program/awards.html){: .btn--success}  
 [pdf](https://arxiv.org/pdf/2209.03463.pdf){: .btn--danger}{:target="_blank"}  
+<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [FastCompany](https://www.fastcompany.com/90820090/the-internet-loves-chatgpt-but-theres-a-dark-side-to-the-tech)  
 
 Alexandros Efstratiou and Emiliano De Cristofaro  
 **Adherence to Misinformation on Social Media Through Socio-Cognitive and Group-Based Processes**  
@@ -42,6 +58,7 @@ Mohammad Hammas Saeed, Shiza Ali, Jeremy Blackburn, Emiliano De Cristofaro, Savv
 **TROLLMAGNIFIER: Detecting State-Sponsored Troll Accounts on Reddit**  
 43th IEEE Symposium on Security & Privacy (S&P 2022)  
 [pdf](https://arxiv.org/pdf/2112.00443){: .btn--danger}{:target="_blank"}  
+<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [Wired](https://www.wired.co.uk/article/researchers-reddit-state-trolls)  
 
 Chen Ling, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini  
 **Slapping Cats, Bopping Heads, and Oreo Shakes: Understanding Indicators of Virality in TikTok Short Videos**  
@@ -53,6 +70,7 @@ Antonis Papasavva, Max Aliapoulios, Cameron Ballard, Emiliano De Cristofaro, Gia
 **The Gospel According to Q: Understanding the QAnon Conspiracy from the Perspective of Canonical Information**  
 16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
 [pdf](https://arxiv.org/pdf/2101.08750){: .btn--danger}{:target="_blank"}  
+<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [New Scientist](https://www.newscientist.com/article/2285563-qanon-posts-by-figurehead-q-may-be-written-by-more-than-one-person/)  
 
 
 Kostantinos Papadamou, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, and Michael Sirivianos  
@@ -167,7 +185,7 @@ ACM Transactions on the Web (TWEB), Vol. 13, No. 3, 2019
 Savvas Zannettou, Tristan Caulfield, Emiliano De Cristofaro, Michael Sirivianos, Gianluca Stringhini, and Jeremy Blackburn  
 **Disinformation Warfare: Understanding State-Sponsored Trolls on Twitter & Their Influence on the Web**  
 4th WebConf Workshop on CyberSafety, Online Harassment, and Misinformation (CyberSafety 2019)  
-[best paper award](https://cybersafety2019.github.io/awards/){: .btn--success}{:target="_blank"}  
+[best paper](https://cybersafety2019.github.io/awards/){: .btn--success}{:target="_blank"}  
 [pdf](https://arxiv.org/pdf/1801.09288){: .btn--danger}{:target="_blank"}  
 
 
@@ -180,7 +198,7 @@ Juan Echeverria, Emiliano De Cristofaro, Nicolas Kourtellis, Ilias Leontiadis, G
 Savvas Zannettou, Tristan Caulfield, Jeremy Blackburn, Emiliano De Cristofaro, Michael Sirivianos, Gianluca Stringhini, and Guillermo Suarez-Tangil  
 **On the Origins of Memes by Means of Fringe Web Communities**  
 18th ACM Internet Measurement Conference (IMC 2018)  
-[distinguished paper award](https://conferences.sigcomm.org/imc/2018/awards/){: .btn--success}{:target="_blank"}  
+[distinguished paper](https://conferences.sigcomm.org/imc/2018/awards/){: .btn--success}{:target="_blank"}  
 [pdf](https://arxiv.org/pdf/1805.12512.pdf){: .btn--danger}{:target="_blank"} [code](https://github.com/memespaper/memes_pipeline){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [BBC Trending](https://www.bbc.co.uk/programmes/w3csws6t), [BBC News](https://www.bbc.com/news/blogs-trending-45888176), [MIT Technology Review](https://www.technologyreview.com/s/611332/this-is-where-internet-memes-come-from/), [CBS News](https://www.youtube.com/watch?v=oLUZnTN-zeo&feature=youtu.be), [The Independent](https://indy100.com/article/most-popular-memes-science-study-reddit-twitter-8386051), [VICE](https://motherboard.vice.com/en_us/article/zm884j/where-do-memes-come-from-researchers-studied-reddit-4chan), [Business Insider](https://www.businessinsider.com.au/origin-of-memes-study-2018-6), [The Daily Dot](https://www.dailydot.com/unclick/meme-studies), [Quartz](https://qz.com/1296094/most-popular-memes-finally-a-scientific-list-of-the-most-popular-memes-on-the-internet/), [El Pais](https://elpais.com/tecnologia/2019/03/26/actualidad/1553596590_520008.html), [MotherJones](https://www.motherjones.com/politics/2019/04/right-wing-groups-are-training-young-conservatives-to-win-the-next-meme-war/), [InfoWars](https://www.infowars.com/new-scientific-study-proves-the-left-cant-meme/), [Thinkprogress](https://thinkprogress.org/how-horrible-memes-thrive-on-the-internet-135bd2d2ea6b/), [Iflscience](http://www.iflscience.com/technology/scientists-discover-the-most-popular-memes-on-the-internet-finally/), [Hornet](https://hornet.com/stories/racist-memes-alt-right-memes/), [Bellingcat](https://bellingcat.com/news/americas/2018/10/31/magabomber-synagogue-shooter-likely-radicalized/)
 
