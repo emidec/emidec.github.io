@@ -15,11 +15,11 @@ I do academic research in the broad information security area. Recently, I have 
 My research has been published at all four top-tier conferences in security (IEEE S&P, NDSS, ACM CCS, Usenix Security) as well top-tier conferences in other fields, such as ICML, WWW, ACM IMC, ACM SIGMETRICS, ICWSM, CSCW. My co-authors and I have received best/distinguished paper awards from NDSS, CSCW, ICWSM, and ACM IMC, the Data Protection by Design Award from the Catalan Data Protection authority, and were runners-up for the CSAW Applied Research Competition and the INRIA-CNIL Privacy Protection Award. In 2022, I completed the "security grand slam," i.e., I had at least one paper in all four top-tier security conferences in the same calendar year.
 
 ### Education
-- *PhD in Networked Systems,* 2011   
+- *PhD in Networked Systems,* Sep 2011   
   University of California, Irvine  
   Advisor: Gene Tsudik  
   Dissertation: [Sharing Sensitive Information with Privacy](https://emilianodc.com/PAPERS/dissertation.pdf) 
-- *BSc in Computer Science,* 2005  
+- *BSc in Computer Science,* Jul 2005  
   University of Salerno, Italy  
   Summa cum Laude, top 1% in graduating class
  
