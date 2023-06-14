@@ -8,6 +8,8 @@ I am (Full) Professor of Security and Privacy Enhancing Technologies at Universi
 I have a PhD from [UC Irvine](https://www.cs.uci.edu), advised by [Gene Tsudik](https://www.ics.uci.edu/~gts/).
 Before joining UCL in 2013, I was a Research Scientist at [Xerox PARC](http://www.parc.com/).
 
+**This summer, I am moving to [University of California, Riverside](https://www1.cs.ucr.edu) as Full Professor.**
+
 ### Research
 
 I do academic research in the broad information security area. Recently, I have been focusing on problems at the intersection of [machine learning and privacy](https://emilianodc.com/privacyML), as well as on understanding and countering [socio-technical issues on the Web](https://emilianodc.com/cybersafety/) using a data-driven approach.
