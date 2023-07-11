@@ -10,6 +10,11 @@ title: Publications
 
 This is the list of all my peer-reviewed publications ordered by year. You can also visit my [DBLP](http://dblp.uni-trier.de/pers/hd/c/Cristofaro:Emiliano_De){:target="_blank"} or my [Google Scholar](https://scholar.google.com/citations?hl=en&user=1wfzUuEAAAAJ&view_op=list_works&pagesize=100){:target="_blank"} page.
 
+Mohammad Naseri, Yufei Han, Emiliano De Cristofaro  
+**BadVFL: Backdoor Attacks in Vertical Federated Learning**  
+Conditionally accepted at 45th IEEE Symposium on Security & Privacy (S&P 2024)  
+[pre-print](https://arxiv.org/pdf/2304.08847.pdf){: .btn--danger}{:target="_blank"}  
+
 
 Pujan Paudel, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou  
 **Lambretta: Learning to Rank for Twitter Soft Moderation**  

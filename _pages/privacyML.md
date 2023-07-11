@@ -8,6 +8,11 @@ title: Privacy in Machine Learning
 
 ## Privacy in Machine Learning Publications
 
+Mohammad Naseri, Yufei Han, Emiliano De Cristofaro  
+**BadVFL: Backdoor Attacks in Vertical Federated Learning**  
+Conditionally accepted at 45th IEEE Symposium on Security & Privacy (S&P 2024)  
+[pre-print](https://arxiv.org/pdf/2304.08847.pdf){: .btn--danger}{:target="_blank"}  
+
 Mohammad Naseri, Yufei Han, Enrico Mariconti, Yun Shen, Gianluca Stringhini, Emiliano De Cristofaro  
 **CERBERUS: Exploring Federated Prediction of Security Events**  
 29th ACM Conference on Computer and Communications Security (ACM CCS 2022)  
