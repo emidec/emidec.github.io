@@ -12,7 +12,7 @@ I have a PhD from [UC Irvine](https://www.cs.uci.edu), advised by [Gene Tsudik](
 
 ### Research
 
-I do academic research in the broad information security area. Recently, I have been focusing on problems at the intersection of [machine learning and privacy](https://emilianodc.com/privacyML), as well as on understanding and countering [socio-technical issues on the Web](https://emilianodc.com/cybersafety/) using a data-driven approach.
+I do academic research in the broad information security area. Over the past few years, I have been working on [trustworthy machine learning](https://emilianodc.com/privacyML) and on understanding and countering [socio-technical issues on the Web](https://emilianodc.com/cybersafety/).
 
 My research has been published at all four top-tier conferences in security (IEEE S&P, NDSS, ACM CCS, Usenix Security) as well top-tier conferences in other fields, such as ICML, WWW, ACM IMC, ACM SIGMETRICS, ICWSM, CSCW. My co-authors and I have received best/distinguished paper awards from NDSS, ACM CCS, CSCW, ICWSM, and ACM IMC, the Data Protection by Design Award from the Catalan Data Protection authority, and were runners-up for the CSAW Applied Research Competition and the INRIA-CNIL Privacy Protection Award. In 2022, I completed the "security grand slam," i.e., I had at least one paper in all four top-tier security conferences in the same calendar year.
 

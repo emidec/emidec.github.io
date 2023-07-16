@@ -1,7 +1,7 @@
 ---
 permalink: /privacyML/
 author_profile: true
-title: Privacy in Machine Learning
+title: Trustworthy Machine Learning
 ---
 
 {% include base_path %}
@@ -12,6 +12,13 @@ Mohammad Naseri, Yufei Han, Emiliano De Cristofaro
 **BadVFL: Backdoor Attacks in Vertical Federated Learning**  
 Conditionally accepted at 45th IEEE Symposium on Security & Privacy (S&P 2024)  
 [pre-print](https://arxiv.org/pdf/2304.08847.pdf){: .btn--danger}{:target="_blank"}  
+
+Wai Man Si, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou, Yang Zhang    
+**Why So Toxic? Measuring and Triggering Toxic Behavior in Open-Domain Chatbots**  
+29th ACM Conference on Computer and Communications Security (ACM CCS 2022)  
+[honorable mention](https://www.sigsac.org/ccs/CCS2022/program/awards.html){: .btn--success}  
+[pdf](https://arxiv.org/pdf/2209.03463.pdf){: .btn--danger}{:target="_blank"}  
+<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [FastCompany](https://www.fastcompany.com/90820090/the-internet-loves-chatgpt-but-theres-a-dark-side-to-the-tech)  
 
 Mohammad Naseri, Yufei Han, Enrico Mariconti, Yun Shen, Gianluca Stringhini, Emiliano De Cristofaro  
 **CERBERUS: Exploring Federated Prediction of Security Events**  

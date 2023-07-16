@@ -17,6 +17,9 @@ Pujan Paudel, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Sav
 44th IEEE Symposium on Security & Privacy (S&P 2023)  
 [pdf](https://arxiv.org/pdf/2212.05926.pdf){: .btn--danger}{:target="_blank"}  
 
+**TUBERAIDER: Attributing Coordinated Hate Attacks on YouTube Videos to their Source Communities**  
+To appear at the 18th International AAAI Conference on Web and Social Media (ICWSM 2024)  
+
 Alexandros Efstratiou, Jeremy Blackburn, Tristan Caulfield, Gianluca Stringhini, Savvas Zannettou, Emiliano De Cristofaro  
 **Non-Polar Opposites: Analyzing the Relationship Between Echo Chambers and Hostile Intergroup Interactions on Reddit**  
 17th International AAAI Conference on Web and Social Media (ICWSM 2023)  
@@ -33,7 +36,6 @@ Utkucan Balci, Chen Ling, Emiliano De Cristofaro, Megan Squire, Gianluca Stringh
 **Beyond Fish and Bicycles: Exploring the Varieties of Online Women's Ideological Spaces**  
 15th ACM Web Science Conference 2023 (WebSci 2023)  
 [pdf](https://arxiv.org/pdf/2303.07099.pdf){: .btn--danger}{:target="_blank"}  
-
 
 
 Wai Man Si, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou, Yang Zhang    

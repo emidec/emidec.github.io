@@ -12,9 +12,14 @@ This is the list of all my peer-reviewed publications ordered by year. You can a
 
 Mohammad Naseri, Yufei Han, Emiliano De Cristofaro  
 **BadVFL: Backdoor Attacks in Vertical Federated Learning**  
-Conditionally accepted at 45th IEEE Symposium on Security & Privacy (S&P 2024)  
+Conditionally accepted at the 45th IEEE Symposium on Security & Privacy (S&P 2024)  
 [pre-print](https://arxiv.org/pdf/2304.08847.pdf){: .btn--danger}{:target="_blank"}  
 
+
+
+
+**TUBERAIDER: Attributing Coordinated Hate Attacks on YouTube Videos to their Source Communities**  
+To appear at the 18th International AAAI Conference on Web and Social Media (ICWSM 2024)  
 
 Pujan Paudel, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou  
 **Lambretta: Learning to Rank for Twitter Soft Moderation**  
