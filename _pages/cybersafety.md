@@ -17,6 +17,7 @@ Pujan Paudel, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Sav
 44th IEEE Symposium on Security & Privacy (S&P 2023)  
 [pdf](https://arxiv.org/pdf/2212.05926.pdf){: .btn--danger}{:target="_blank"}  
 
+Mohammad Hammas Saeed, Kostantinos Papadamou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini  
 **TUBERAIDER: Attributing Coordinated Hate Attacks on YouTube Videos to their Source Communities**  
 To appear at the 18th International AAAI Conference on Web and Social Media (ICWSM 2024)  
 
