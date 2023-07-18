@@ -19,7 +19,7 @@ Pujan Paudel, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Sav
 
 Mohammad Hammas Saeed, Kostantinos Papadamou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini  
 **TUBERAIDER: Attributing Coordinated Hate Attacks on YouTube Videos to their Source Communities**  
-To appear at the 18th International AAAI Conference on Web and Social Media (ICWSM 2024)  
+18th International AAAI Conference on Web and Social Media (ICWSM 2024)  
 
 Alexandros Efstratiou, Jeremy Blackburn, Tristan Caulfield, Gianluca Stringhini, Savvas Zannettou, Emiliano De Cristofaro  
 **Non-Polar Opposites: Analyzing the Relationship Between Echo Chambers and Hostile Intergroup Interactions on Reddit**  
