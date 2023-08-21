@@ -27,13 +27,10 @@ My research has been published at all four top-tier conferences in security (IEE
  
 During my PhD, I also spent a few months on research internships at NEC in Heidelberg (2008), INRIA in Grenoble (2009), and Nokia in Lausanne (2010).
 
-<!--### Personal
+### Personal
 I was born in Avellino, a small town in South of Italy surrounded by the mountains of [Irpinia](https://en.wikipedia.org/wiki/Irpinia). Irpinia is known for its green [landscapes](https://web.unisa.it/en/campus-life/surroundings/irpinia) and [medieval castles](http://www.irpinia24.it/wp/wp-content/uploads/2016/12/header.jpg), the [soccer team](https://en.wikipedia.org/wiki/U.S._Avellino_1912), the hazelnuts, and the [black truffles](https://www.ecoturismocampania.it/wp-content/uploads/2015/10/tartufo-nero-di-bagnoli-irpino.jpg), as well as some great wines like Taurasi, Fiano di Avellino, and Greco di Tufo.  
 
-I have spent a few years in California &ndash; in Irvine and Palo Alto &ndash; before moving to pre-Brexit London. I have also briefly lived in Rome and near Venice, in Portsmouth (UK), Heidelberg, Singapore, Grenoble, Lausanne, and Barcelona.  
-
-In my free time, I like acting as a coffee snob and a guerilla activist against pineapple on pizza, nostalgically remembering the times I used to surf in San Onofre State Beach, and cooking (only pasta and pizza, obviously).  
+In my free time, I like acting as a coffee snob and a guerilla activist against pineapple on pizza, nostalgically remembering the times I used to surf, and cooking (only pasta and pizza, obviously).  
 
 
 I have always loved languages and I'm (kinda) fluent in English, French, and Italian, and can utter enough words in German and Spanish, and Persian to get in (or out of) trouble.
--->
