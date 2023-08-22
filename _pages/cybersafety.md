@@ -11,15 +11,15 @@ title: Cybersafety
 This is a non-exxaustive list of my publications related to understanding and countering **cybersafety** and other socio-technical issues. Many of these papers are written in collaboration with the [iDRAMA Lab](https://idrama.science) crew and were in part funded by the EU through the [ENCASE](https://encase.socialcomputing.eu/) project.
 
 ***
+Mohammad Hammas Saeed, Kostantinos Papadamou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini  
+**TUBERAIDER: Attributing Coordinated Hate Attacks on YouTube Videos to their Source Communities**  
+18th International AAAI Conference on Web and Social Media (ICWSM 2024)  
+[pdf](https://arxiv.org/pdf/2308.05247.pdf){: .btn--danger}{:target="_blank"}  
 
 Pujan Paudel, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou  
 **Lambretta: Learning to Rank for Twitter Soft Moderation**  
 44th IEEE Symposium on Security & Privacy (S&P 2023)  
 [pdf](https://arxiv.org/pdf/2212.05926.pdf){: .btn--danger}{:target="_blank"}  
-
-Mohammad Hammas Saeed, Kostantinos Papadamou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini  
-**TUBERAIDER: Attributing Coordinated Hate Attacks on YouTube Videos to their Source Communities**  
-18th International AAAI Conference on Web and Social Media (ICWSM 2024)  
 
 Alexandros Efstratiou, Jeremy Blackburn, Tristan Caulfield, Gianluca Stringhini, Savvas Zannettou, Emiliano De Cristofaro  
 **Non-Polar Opposites: Analyzing the Relationship Between Echo Chambers and Hostile Intergroup Interactions on Reddit**  

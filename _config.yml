@@ -80,7 +80,7 @@ author:
   name             : ""
   avatar           : "inaug.jpeg"
   bio              : ""
-  location         : "California, USA (soon)"
+  location         : "California, USA"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=1wfzUuEAAAAJ&hl=en"
   email            : "emilianodc@cs.ucr.edu"
@@ -109,6 +109,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  bluesky          : "@emiliano.prof"
 
 
 # Reading Files

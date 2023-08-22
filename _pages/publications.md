@@ -16,10 +16,10 @@ Conditionally accepted at the 45th IEEE Symposium on Security & Privacy (S&P 202
 [pre-print](https://arxiv.org/pdf/2304.08847.pdf){: .btn--danger}{:target="_blank"}  
 
 
-
 Mohammad Hammas Saeed, Kostantinos Papadamou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini  
 **TUBERAIDER: Attributing Coordinated Hate Attacks on YouTube Videos to their Source Communities**  
 18th International AAAI Conference on Web and Social Media (ICWSM 2024)  
+[pdf](https://arxiv.org/pdf/2308.05247.pdf){: .btn--danger}{:target="_blank"}  
 
 Pujan Paudel, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou  
 **Lambretta: Learning to Rank for Twitter Soft Moderation**  
