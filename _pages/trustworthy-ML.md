@@ -1,5 +1,5 @@
 ---
-permalink: /privacyML/
+permalink: /trustworthy-ML/
 author_profile: true
 title: Trustworthy Machine Learning
 ---
