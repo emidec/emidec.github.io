@@ -14,8 +14,6 @@ title: Research Group
 - [Meenatchi Sundaram Muthu Selva Annamalai (Sundar)](https://msundarmsa.github.io) (since September 2022)
 
 
-## Current Post-Doctoral Researchers
-- [Kostantinos Papadamou](https://kostantinospapadamou.com) (since December 2021)
 
 
 ## Alumni
@@ -27,6 +25,7 @@ title: Research Group
 
 
 ## Past Post-Doctoral Researchers
+- [Kostantinos Papadamou](https://kostantinospapadamou.com) (Dec 2021--May 2023)
 -   [Lukasz Olejnik](https://lukaszolejnik.com/) (Mar 2016--Mar 2017); now at EDPS
 -   [Vincent Primault](http://www.cs.ucl.ac.uk/people/V.Primault.html/) (Oct 2017--Dec 2018); now at Salesforce
 
