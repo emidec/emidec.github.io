@@ -33,4 +33,4 @@ I was born in Avellino, a small town in South of Italy surrounded by the mountai
 In my free time, I like acting as a coffee snob and a guerilla activist against pineapple on pizza, nostalgically remembering the times I used to surf, and cooking (only pasta and pizza, obviously).  
 
 
-I have always loved languages and I'm (kinda) fluent in English, French, and Italian, and can utter enough words in German and Spanish, and Persian to get in (or out of) trouble.
+I have always loved languages and I'm (kinda) fluent in English, French, and Italian, and can utter enough words in German, Spanish, and Persian to get into trouble.
