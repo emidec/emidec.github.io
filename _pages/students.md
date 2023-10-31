@@ -113,5 +113,5 @@ Dec 2017 -- Dec 2018
 
 
 
-### Co-Supervision
+## Co-Supervision
 I have also been lucky to co-supervise/collaborate with a number of other students, including [Enrico Mariconti](http://www0.cs.ucl.ac.uk/staff/E.Mariconti/), [Despoina Chatzakou](http://oswinds.csd.auth.gr/people/despoina-chatzakou), [Jamie Hayes](http://www.homepages.ucl.ac.uk/~ucabaye/), [Andrea Cerulli](https://andreacerulli.github.io/), and [Savvas Zannettou](http://zsavvas.github.io).
