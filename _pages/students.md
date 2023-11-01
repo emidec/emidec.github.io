@@ -61,7 +61,7 @@ Now Data Scientist at PS AI Labs
 Aug 2016 -- Oct 2020  
 <br>
 
-<img src="../images/profile.png" style="float:left;width:100px;height:100px" hspace="20">
+<img src="../images/apo.png" style="float:left;width:100px;height:100px" hspace="20">
 [**Apostolos Pyrgelis**](https://mex2meou.github.io)  
 PhD Alumnus  
 Now Senior Researcher at RISE Research Institutes of Sweden  
