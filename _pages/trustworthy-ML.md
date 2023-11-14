@@ -11,11 +11,13 @@ title: Trustworthy Machine Learning
 Meenatchi Sundaram Muthu Selva Annamalai  
 **TBC**  
 31st Network and Distributed System Security Symposium (NDSS 2024), to appear  
+[pdf](){: .btn--danger}{:target="_blank"}  
+
 
 Mohammad Naseri, Yufei Han, Emiliano De Cristofaro  
 **BadVFL: Backdoor Attacks in Vertical Federated Learning**  
 45th IEEE Symposium on Security & Privacy (S&P 2024)  
-[pre-print](https://arxiv.org/pdf/2304.08847.pdf){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2304.08847.pdf){: .btn--danger}{:target="_blank"}  
 
 Wai Man Si, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou, Yang Zhang    
 **Why So Toxic? Measuring and Triggering Toxic Behavior in Open-Domain Chatbots**  
