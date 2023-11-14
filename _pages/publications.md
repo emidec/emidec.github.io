@@ -10,6 +10,11 @@ title: Publications
 
 This is the list of all my peer-reviewed publications ordered by year. You can also visit my [DBLP](http://dblp.uni-trier.de/pers/hd/c/Cristofaro:Emiliano_De){:target="_blank"} or my [Google Scholar](https://scholar.google.com/citations?hl=en&user=1wfzUuEAAAAJ&view_op=list_works&pagesize=100){:target="_blank"} page.
 
+Meenatchi Sundaram Muthu Selva Annamalai. 
+**TBC**. 
+31st Network and Distributed System Security Symposium (NDSS 2024)  
+
+
 Mohammad Naseri, Yufei Han, Emiliano De Cristofaro  
 **BadVFL: Backdoor Attacks in Vertical Federated Learning**  
 45th IEEE Symposium on Security & Privacy (S&P 2024)  
