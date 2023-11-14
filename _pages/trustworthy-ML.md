@@ -8,11 +8,10 @@ title: Trustworthy Machine Learning
 
 ## Privacy in Machine Learning Publications
 
-Meenatchi Sundaram Muthu Selva Annamalai  
+Meenatchi Sundaram Muthu Selva Annamalai, Igor Bilogrevic, Emiliano De Cristofaro  
 **TBC**  
 31st Network and Distributed System Security Symposium (NDSS 2024), to appear  
 [pdf](){: .btn--danger}{:target="_blank"}  
-
 
 Mohammad Naseri, Yufei Han, Emiliano De Cristofaro  
 **BadVFL: Backdoor Attacks in Vertical Federated Learning**  
