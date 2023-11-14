@@ -8,9 +8,9 @@ title: Trustworthy Machine Learning
 
 ## Privacy in Machine Learning Publications
 
-Meenatchi Sundaram Muthu Selva Annamalai. 
-**TBC**. 
-31st Network and Distributed System Security Symposium (NDSS 2024)  
+Meenatchi Sundaram Muthu Selva Annamalai  
+**TBC**  
+31st Network and Distributed System Security Symposium (NDSS 2024), to appear  
 
 Mohammad Naseri, Yufei Han, Emiliano De Cristofaro  
 **BadVFL: Backdoor Attacks in Vertical Federated Learning**  
