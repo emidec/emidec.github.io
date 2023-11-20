@@ -146,7 +146,6 @@
   (twitter, $twitter-color),
   (google-plus, $google-plus-color),
   (linkedin, $linkedin-color);
-  (bsky, $bsky-color);
 
   @each $socialnetwork, $color in $social {
     &--#{$socialnetwork} {
