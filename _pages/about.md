@@ -5,7 +5,7 @@ title: Home Page
 ---
 
 I'm a (Full) Professor in the Department of [Computer Science and Engineering](https://www1.cs.ucr.edu) at the University of California, Riverside.
-Until June 2023, I was at University College London ([UCL](http://www.ucl.ac.uk/)), where I was affiliated with the [Computer Science Department](http://www.cs.ucl.ac.uk/) and served as the Director of UCL's Academic Center of Excellence in Cyber Security Research ([ACE-CSR](https://www.ucl.ac.uk/cybersecurity-centre-of-excellence/)).
+Until June 2023, I was with the University College London ([UCL](http://www.ucl.ac.uk/)), where I was affiliated with the [Computer Science Department](http://www.cs.ucl.ac.uk/) and served as the Director of UCL's Academic Center of Excellence in Cyber Security Research ([ACE-CSR](https://www.ucl.ac.uk/cybersecurity-centre-of-excellence/)).
 Before joining UCL in 2013, I was a Research Scientist at [Xerox PARC](http://www.parc.com/).
 I have a PhD from [UC Irvine](https://www.cs.uci.edu), advised by [Gene Tsudik](https://www.ics.uci.edu/~gts/).
 
