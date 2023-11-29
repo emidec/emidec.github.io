@@ -10,8 +10,8 @@ title: Trustworthy Machine Learning
 
 Meenatchi Sundaram Muthu Selva Annamalai, Igor Bilogrevic, Emiliano De Cristofaro  
 **FP-Fed: Privacy-Preserving Federated Detection of Browser Fingerprinting**  
-31st Network and Distributed System Security Symposium (NDSS 2024), to appear  
-[pdf](){: .btn--danger}{:target="_blank"}  
+31st Network and Distributed System Security Symposium (NDSS 2024)  
+[pdf](https://arxiv.org/pdf/2311.16940.pdf){: .btn--danger}{:target="_blank"}  
 
 Mohammad Naseri, Yufei Han, Emiliano De Cristofaro  
 **BadVFL: Backdoor Attacks in Vertical Federated Learning**  
