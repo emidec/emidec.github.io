@@ -10,7 +10,7 @@ Until June 2023, I was with the University College London ([UCL](http://www.ucl.
 Currently, I head the Security and Privacy Advanced research Laboratory ([SPA Lab](https://spalab.cs.ucr.edu)), a distributed research group with members at UCR and UCL.
 I have a PhD from [UC Irvine](https://www.cs.uci.edu), advised by [Gene Tsudik](https://www.ics.uci.edu/~gts/).
 During my PhD, I spent a few months on research internships at NEC in Heidelberg (2008), INRIA in Grenoble (2009), and Nokia in Lausanne (2010).
-After graduating from UCI, I also worked as a Research Scientist at [Xerox PARC](http://www.parc.com/) from 2011 to 2013.
+After graduating from UCI, I worked as a Research Scientist at [Xerox PARC](http://www.parc.com/) from 2011 to 2013.
 
 
 
