@@ -23,6 +23,10 @@ title: Service
 -   [GenoPri 2015](http://2015.genopri.org/)
 -   [HotPETs 2012](http://petsymposium.org/2012/hotpets.php)
 
+## Steering Committee Member
+-   [Privacy Enhancing Technologies Symposium](https://petsymposium.org)
+-   [ACM Cloud Computing Security Workshop](https://ccsw.io)
+
 
 ## Associate Editor (Journals)
 
@@ -32,6 +36,7 @@ title: Service
 
 ## Program Committee Member (Conferences), probably not updated
 
+-   [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/)
 -   [WWW 2023](https://www2023.thewebconf.org/)
 -   [IEEE S&P 2023](https://www.ieee-security.org/TC/SP2023/)
 -   [NDSS 2023](https://www.ndss-symposium.org/ndss2023/)
@@ -98,6 +103,7 @@ title: Service
 -   [Cybersafety in Modern Online Social Networks](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17372), Dagstuhl Seminar, Germany, September 10--13,2017
 
 ## PhD Committee
+-   Sina Sajadmanesh, EPFL, 2023
 -   César Sabater, INRIA, 2022
 -   Nikolaos Lykousas, University of Pireaus, 2022
 -   Raouf Kerkouche, INRIA, 2021
