@@ -13,8 +13,6 @@ During my PhD, I spent a few months on research internships at NEC in Heidelberg
 After graduating, I worked as a Research Scientist at [Xerox PARC](http://www.parc.com/) from 2011 to 2013.
 
 
-
-
 ### Research
 
 I do academic research in the broad information security area. Over the past few years, I have been working on [trustworthy machine learning](https://emilianodc.com/trustworthy-ML) and on understanding and countering [socio-technical issues on the Web](https://emilianodc.com/cybersafety/).
@@ -36,5 +34,6 @@ I was born in Avellino, a small town in South of Italy surrounded by the mountai
 
 In my free time, I like acting as a coffee snob and a guerilla activist against pineapple on pizza, nostalgically remembering the times I used to surf, and cooking (only pasta and pizza, obviously).  
 
-
 I have always loved languages and I'm (kinda) fluent in English, French, and Italian, and can utter enough words in German, Spanish, and Persian to get into trouble.
+
+Kind request: my name is 'Emiliano' (first name) + 'De Cristofaro' (last name). I.e., 'De' is not a middle name, so please please please don't call me Emiliano Cristofaro &ndash; it'd be like using 'Robert Niro' to refer to 'Robert De Niro' ((_you talking to me???_)[https://youtu.be/-QWL-FwX4t4?si=_w3MGvH0A16E6Sux&t=52]).
