@@ -36,4 +36,4 @@ In my free time, I like acting as a coffee snob and a guerilla activist against 
 
 I have always loved languages and I'm (kinda) fluent in English, French, and Italian, and can utter enough words in German, Spanish, and Persian to get into trouble.
 
-Kind request: my name is 'Emiliano' (first name) + 'De Cristofaro' (last name). I.e., 'De' is not a middle name, so please please please don't call me Emiliano Cristofaro &ndash; it'd be like using 'Robert Niro' to refer to 'Robert De Niro' ([_you talking to me???_](https://youtu.be/-QWL-FwX4t4?si=r5EPjYF8toF6rEdw&t=52])).
+Kind request: my name is 'Emiliano' (first name) + 'De Cristofaro' (last name). I.e., 'De' is not a middle name, so please please please don't call me Emiliano Cristofaro &ndash; it'd be like using 'Robert Niro' to refer to 'Robert De Niro' ([_you talking to me???_](https://youtu.be/-QWL-FwX4t4?si=r5EPjYF8toF6rEdw&t=52)).
