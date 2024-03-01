@@ -16,6 +16,7 @@ Other than that, I would say I "expect" you to:
 - come to recurring meetings prepared with updates and things to discuss (e.g., if for any reason there's no progress since the last meeting, please cancel it rather than wasting people's time)
 - meet commitments jointly agreed upon (e.g., working hard close to a deadline we agreed to target)
 - deliver on what we agreed on if funded by external grants
+- being keen on learning, hearing other people's feedback and working on improving. E.g., if your writing needs a lot of work, take a look at the git diffs and learn from that implicit feedback. If your presentations need work, attend/watch numerous talks, etc.
 - represent the values of our lab such as inclusivity, respect, ethical and legal principles, collegiality, etc. 
 
 Ultimately, I don't see students as my employees; i.e., you don't work for me but for yourself. Evidently, the amount of support, guidance, ideas, and advice you get from more experienced people working with you (including me) is inherently proportional to the effort and passion you put in.
