@@ -10,6 +10,13 @@ title: Publications
 
 This is the list of all my peer-reviewed publications ordered by year. You can also visit my [DBLP](http://dblp.uni-trier.de/pers/hd/c/Cristofaro:Emiliano_De){:target="_blank"} or my [Google Scholar](https://scholar.google.com/citations?hl=en&user=1wfzUuEAAAAJ&view_op=list_works&pagesize=100){:target="_blank"} page.
 
+
+Emiliano De Cristofaro  
+**Synthetic Data: Methods, Use Cases, and Risks**  
+IEEE Security and Privacy Magazine &ndash; Special Issue on Synthetic Realities, to appear 
+[pdf](https://arxiv.org/pdf/2303.01230.pdf){: .btn--danger}{:target="_blank"}  
+
+
 Meenatchi Sundaram Muthu Selva Annamalai, Igor Bilogrevic, Emiliano De Cristofaro  
 **FP-Fed: Privacy-Preserving Federated Detection of Browser Fingerprinting**  
 31st Network and Distributed System Security Symposium (NDSS 2024)  

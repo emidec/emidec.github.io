@@ -8,6 +8,12 @@ title: Trustworthy Machine Learning
 
 ## Privacy in Machine Learning Publications
 
+Emiliano De Cristofaro  
+**Synthetic Data: Methods, Use Cases, and Risks**  
+IEEE Security and Privacy Magazine &ndash; Special Issue on Synthetic Realities, to appear 
+[pdf](https://arxiv.org/pdf/2303.01230.pdf){: .btn--danger}{:target="_blank"}  
+
+
 Meenatchi Sundaram Muthu Selva Annamalai, Igor Bilogrevic, Emiliano De Cristofaro  
 **FP-Fed: Privacy-Preserving Federated Detection of Browser Fingerprinting**  
 31st Network and Distributed System Security Symposium (NDSS 2024)  
