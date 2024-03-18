@@ -10,7 +10,7 @@ title: Trustworthy Machine Learning
 
 Emiliano De Cristofaro  
 **Synthetic Data: Methods, Use Cases, and Risks**  
-IEEE Security and Privacy Magazine &ndash; Special Issue on Synthetic Realities, to appear 
+IEEE Security and Privacy Magazine (Special Issue on Synthetic Realities), 2024  
 [pdf](https://arxiv.org/pdf/2303.01230.pdf){: .btn--danger}{:target="_blank"}  
 
 
