@@ -34,7 +34,7 @@ Mohammad Hammas Saeed, Kostantinos Papadamou, Jeremy Blackburn, Emiliano De Cris
 [pdf](https://arxiv.org/pdf/2308.05247.pdf){: .btn--danger}{:target="_blank"}  
 
 Jay Patel, Pujan Paudel, Emiliano De Cristofaro, Gianluca Stringhini, Jeremy Blackburn  
-**iDRAMA-Scored-2024: A Dataset of the Scored Social Media Platform from 2020 to 2023**
+**iDRAMA-Scored-2024: A Dataset of the Scored Social Media Platform from 2020 to 2023**  
 18th International AAAI Conference on Web and Social Media, Dataset Paper (ICWSM 2024), Dataset Paper  
 [pdf](){: .btn--danger}{:target="_blank"}  
 
