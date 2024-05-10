@@ -6,9 +6,7 @@ title: Cybersafety
 
 {% include base_path %}
 
-## Papers
-
-This is a non-exxaustive list of my publications related to understanding and countering **cybersafety** and other socio-technical issues. Many of these papers are written in collaboration with the [iDRAMA Lab](https://idrama.science) crew and were in part funded by the EU through the [ENCASE](https://encase.socialcomputing.eu/) project.
+This page provides a non-exxaustive list of my publications related to understanding and countering **cybersafety** and other socio-technical issues. For each entry, a link to an open-access version of the paper is also provided.
 
 ***
 

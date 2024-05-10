@@ -6,7 +6,9 @@ title: Trustworthy Machine Learning
 
 {% include base_path %}
 
-## Privacy in Machine Learning Publications
+This page provides a non-exxaustive list of my publications related to security and privacy in/for machine learning. For each entry, a link to an open-access version of the paper is also provided.
+
+*** 
 
 Emiliano De Cristofaro  
 **Synthetic Data: Methods, Use Cases, and Risks**  
