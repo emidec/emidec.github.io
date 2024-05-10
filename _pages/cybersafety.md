@@ -6,7 +6,9 @@ title: Cybersafety
 
 {% include base_path %}
 
-This page provides a non-exxaustive list of my publications related to understanding and countering **cybersafety** and other socio-technical issues. For each entry, a link to an open-access version of the paper is also provided.
+***
+
+This page provides a non-exxaustive list of my publications related to understanding and countering **cybersafety**, online harms, other socio-technical issues. For each entry, a link to an open-access version of the paper is also provided.
 
 ***
 
