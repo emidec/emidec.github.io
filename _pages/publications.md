@@ -10,6 +10,13 @@ title: Publications
 
 This is the list of all my peer-reviewed publications ordered by year. You can also visit my [DBLP](http://dblp.uni-trier.de/pers/hd/c/Cristofaro:Emiliano_De){:target="_blank"} or my [Google Scholar](https://scholar.google.com/citations?hl=en&user=1wfzUuEAAAAJ&view_op=list_works&pagesize=100){:target="_blank"} page.
 
+*** 
+
+Alexandros Efstratiou, Marina Efstratiou, Satrio Yudhoatmojo, Jeremy Blackburn, Emiliano De Cristofaro  
+**"Here's Your Evidence": False Consensus in Public Twitter Discussions of COVID-19 Science**  
+Conditionally accepted at the 27th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2024)  
+[pdf](https://arxiv.org/pdf/2401.13248.pdf){: .btn--danger}{:target="_blank"}  
+
 
 Emiliano De Cristofaro  
 **Synthetic Data: Methods, Use Cases, and Risks**  
