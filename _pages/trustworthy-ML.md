@@ -6,9 +6,8 @@ title: Trustworthy Machine Learning
 
 {% include base_path %}
 
-***
 
-This page provides a non-exxaustive list of my publications related to **security** and **privacy** in/for **machine learning**. For each entry, a link to an open-access version of the paper is also provided.
+<br>This page provides a non-exhaustive list of my publications related to **security** and **privacy** in/for **machine learning**. For each entry, a link to an open-access version of the paper is also provided.
 
 *** 
 
