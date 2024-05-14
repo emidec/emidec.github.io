@@ -14,7 +14,6 @@ title: Trustworthy Machine Learning
 Meenatchi Sundaram Muthu Selva Annamalai, Georgi Ganev, Emiliano De Cristofaro  
 **"What do you want from theory alone?" Experimenting with Tight Auditing of Differentially Private Synthetic Data Generation**  
 33st USENIX Security Symposium (Usenix Security 2024, conditional accept)  
-[pdf]()  
 
 Emiliano De Cristofaro  
 **Synthetic Data: Methods, Use Cases, and Risks**  
