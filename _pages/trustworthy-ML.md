@@ -6,7 +6,10 @@ title: Trustworthy Machine Learning
 
 {% include base_path %}
 
-## Privacy in Machine Learning Publications
+
+<br>This page provides a non-exhaustive list of my publications related to **security** and **privacy** in/for **machine learning**. For each entry, a link to an open-access version of the paper is also provided.
+
+*** 
 
 Meenatchi Sundaram Muthu Selva Annamalai, Georgi Ganev, Emiliano De Cristofaro  
 **"What do you want from theory alone?" Experimenting with Tight Auditing of Differentially Private Synthetic Data Generation**  
