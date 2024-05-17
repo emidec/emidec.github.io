@@ -17,7 +17,7 @@ After graduating, I worked as a Research Scientist at [Xerox PARC](http://www.pa
 
 I do academic research in the broad information security area. Over the past few years, I have been working on [trustworthy machine learning](https://emilianodc.com/trustworthy-ML) and on understanding and countering [socio-technical issues on the Web](https://emilianodc.com/cybersafety/).
 
-My research has been published at all four top-tier conferences in security (IEEE S&P, NDSS, ACM CCS, Usenix Security) as well top-tier conferences in other fields, such as ICML, WWW, ACM IMC, ACM SIGMETRICS, ICWSM, CSCW. My co-authors and I have received best/distinguished paper awards from NDSS, ACM CCS, CSCW, ICWSM, and ACM IMC, the Data Protection by Design Award from the Catalan Data Protection authority, and were runners-up for the CSAW Applied Research Competition and the INRIA-CNIL Privacy Protection Award. In 2022, I completed the "security grand slam," i.e., I had at least one paper in all four top-tier security conferences in the same calendar year.
+My research has been published at top-tier conferences in security (IEEE S&P, NDSS, ACM CCS, Usenix Security) and other fields, e.g., ICML, WWW, ACM IMC, ACM SIGMETRICS, ICWSM, CSCW. My co-authors and I have received best/distinguished paper awards from NDSS, ACM CCS, CSCW, ICWSM, ACM WebSci, and ACM IMC, the Data Protection by Design Award from the Catalan Data Protection authority, and were runners-up for the CSAW Applied Research Competition and the INRIA-CNIL Privacy Protection Award. 
 
 ### Education
 - *PhD in Networked Systems,* Sep 2011   
@@ -34,6 +34,6 @@ I was born in Avellino, a small town in South of Italy surrounded by the mountai
 
 In my free time, I like acting as a coffee snob and a guerilla activist against pineapple on pizza, nostalgically remembering the times I used to surf, and cooking (only pasta and pizza, obviously).  
 
-I have always loved languages and I'm (kinda) fluent in English, French, and Italian, and can utter enough words in German, Spanish, and Persian to get into trouble.
+I have always loved languages and I'm (kinda) fluent in English, French, and Italian, and can utter enough words to get into trouble in German, Spanish, and Persian.
 
-Kind request: my name is 'Emiliano' (first name) + 'De Cristofaro' (last name). I.e., 'De' is not a middle name, so please please please don't call me Emiliano Cristofaro &ndash; it'd be like using 'Robert Niro' to refer to 'Robert De Niro' ([_you talking to me???_](https://youtu.be/-QWL-FwX4t4?si=r5EPjYF8toF6rEdw&t=52)).
+Kind request: my name is 'Emiliano' (first name) + 'De Cristofaro' (last name). 'De' is not a middle name, so please please please don't call me Emiliano Cristofaro &ndash; it'd be like using 'Robert Niro' to refer to 'Robert De Niro' ([_you talking to me???_](https://youtu.be/-QWL-FwX4t4?si=r5EPjYF8toF6rEdw&t=52)).
