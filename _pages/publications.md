@@ -14,7 +14,7 @@ title: Publications
 
 Meenatchi Sundaram Muthu Selva Annamalai, Georgi Ganev, Emiliano De Cristofaro  
 **"What do you want from theory alone?" Experimenting with Tight Auditing of Differentially Private Synthetic Data Generation**  
-33st USENIX Security Symposium (Usenix Security 2024, conditional accept)  
+To appear at 33st USENIX Security Symposium (Usenix Security 2024)  
 
 Alexandros Efstratiou, Marina Efstratiou, Satrio Yudhoatmojo, Jeremy Blackburn, Emiliano De Cristofaro  
 **"Here's Your Evidence": False Consensus in Public Twitter Discussions of COVID-19 Science**  
