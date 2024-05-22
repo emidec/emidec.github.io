@@ -14,6 +14,13 @@ title: Trustworthy Machine Learning
 Meenatchi Sundaram Muthu Selva Annamalai, Georgi Ganev, Emiliano De Cristofaro  
 **"What do you want from theory alone?" Experimenting with Tight Auditing of Differentially Private Synthetic Data Generation**  
 To appear at 33st USENIX Security Symposium (Usenix Security 2024)  
+[pdf](https://arxiv.org/pdf/2405.10994.pdf){: .btn--danger}{:target="_blank"}  
+
+Mohammad Naseri, Yufei Han, Emiliano De Cristofaro  
+**BadVFL: Backdoor Attacks in Vertical Federated Learning**  
+45th IEEE Symposium on Security & Privacy (S&P 2024)  
+[pdf](https://arxiv.org/pdf/2304.08847.pdf){: .btn--danger}{:target="_blank"}  
+
 
 Emiliano De Cristofaro  
 **Synthetic Data: Methods, Use Cases, and Risks**  
@@ -25,11 +32,6 @@ Meenatchi Sundaram Muthu Selva Annamalai, Igor Bilogrevic, Emiliano De Cristofar
 **FP-Fed: Privacy-Preserving Federated Detection of Browser Fingerprinting**  
 31st Network and Distributed System Security Symposium (NDSS 2024)  
 [pdf](https://arxiv.org/pdf/2311.16940.pdf){: .btn--danger}{:target="_blank"}  
-
-Mohammad Naseri, Yufei Han, Emiliano De Cristofaro  
-**BadVFL: Backdoor Attacks in Vertical Federated Learning**  
-45th IEEE Symposium on Security & Privacy (S&P 2024)  
-[pdf](https://arxiv.org/pdf/2304.08847.pdf){: .btn--danger}{:target="_blank"}  
 
 Wai Man Si, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou, Yang Zhang    
 **Why So Toxic? Measuring and Triggering Toxic Behavior in Open-Domain Chatbots**  
