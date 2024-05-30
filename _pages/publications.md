@@ -20,7 +20,7 @@ To appear at 33st USENIX Security Symposium (Usenix Security 2024)
 
 Alexandros Efstratiou, Marina Efstratiou, Satrio Yudhoatmojo, Jeremy Blackburn, Emiliano De Cristofaro  
 **"Here's Your Evidence": False Consensus in Public Twitter Discussions of COVID-19 Science**  
-27th ACM Conference on Computer Supported Cooperative Work and Social Computing (ACM CSCW 2024)  
+To appear at 27th ACM Conference on Computer Supported Cooperative Work and Social Computing (ACM CSCW 2024)  
 [pdf](https://arxiv.org/pdf/2401.13248.pdf){: .btn--danger}{:target="_blank"}  
 
 
