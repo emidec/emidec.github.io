@@ -22,7 +22,6 @@ My research has been published at top-tier conferences in security (IEEE S&P, ND
 ### Education
 - *PhD in Networked Systems,* Sep 2011   
   University of California, Irvine  
-  Advisor: Gene Tsudik  
   Dissertation: [Sharing Sensitive Information with Privacy](https://emilianodc.com/PAPERS/dissertation.pdf) 
 - *BSc in Computer Science,* Jul 2005  
   University of Salerno, Italy  
