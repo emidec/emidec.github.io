@@ -22,7 +22,6 @@ My research has been published at top-tier conferences in security (IEEE S&P, ND
 ### Education
 - *PhD in Networked Systems,* Sep 2011   
   University of California, Irvine  
-  Advisor: Gene Tsudik  
   Dissertation: [Sharing Sensitive Information with Privacy](https://emilianodc.com/PAPERS/dissertation.pdf) 
 - *BSc in Computer Science,* Jul 2005  
   University of Salerno, Italy  
@@ -36,4 +35,4 @@ In my free time, I like acting as a coffee snob and a guerilla activist against 
 
 I have always loved languages and I'm (kinda) fluent in English, French, and Italian, and can utter enough words to get into trouble in German, Spanish, and Persian.
 
-Kind request: my name is 'Emiliano' (first name) + 'De Cristofaro' (last name). 'De' is not a middle name, so please please please don't call me Emiliano Cristofaro &ndash; it'd be like using 'Robert Niro' to refer to 'Robert De Niro' ([_you talking to me???_](https://youtu.be/-QWL-FwX4t4?si=r5EPjYF8toF6rEdw&t=52)).
+Kind request: my name is 'Emiliano' (first name) + 'De Cristofaro' (last name). 'De' is not a middle name, so please please please don't call me Mr/Dr/Prof. Cristofaro &ndash; it'd be like using 'Robert Niro' to refer to 'Robert De Niro' ([_you talking to me???_](https://youtu.be/-QWL-FwX4t4?si=r5EPjYF8toF6rEdw&t=52)).
