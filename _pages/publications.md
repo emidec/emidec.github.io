@@ -14,13 +14,13 @@ title: Publications
 
 Meenatchi Sundaram Muthu Selva Annamalai, Georgi Ganev, Emiliano De Cristofaro  
 **"What do you want from theory alone?" Experimenting with Tight Auditing of Differentially Private Synthetic Data Generation**  
-To appear at 33st USENIX Security Symposium (Usenix Security 2024)  
+33st USENIX Security Symposium (Usenix Security 2024)  
 [pdf](https://arxiv.org/pdf/2405.10994.pdf){: .btn--danger}{:target="_blank"}  
 
 
 Alexandros Efstratiou, Marina Efstratiou, Satrio Yudhoatmojo, Jeremy Blackburn, Emiliano De Cristofaro  
 **"Here's Your Evidence": False Consensus in Public Twitter Discussions of COVID-19 Science**  
-To appear at 27th ACM Conference on Computer Supported Cooperative Work and Social Computing (ACM CSCW 2024)  
+27th ACM Conference on Computer Supported Cooperative Work and Social Computing (ACM CSCW 2024)  
 [pdf](https://arxiv.org/pdf/2401.13248.pdf){: .btn--danger}{:target="_blank"}  
 
 
