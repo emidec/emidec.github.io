@@ -17,7 +17,7 @@ After graduating, I worked as a Research Scientist at [Xerox PARC](http://www.pa
 
 I do academic research in the broad information security area. Over the past few years, I have been working on [trustworthy machine learning](https://emilianodc.com/trustworthy-ML) and on understanding and countering [socio-technical issues on the Web](https://emilianodc.com/cybersafety/).
 
-My research has been published at top-tier conferences in security (IEEE S&P, NDSS, ACM CCS, Usenix Security) and other fields, e.g., ICML, WWW, ACM IMC, ACM SIGMETRICS, ICWSM, CSCW. My co-authors and I have received best/distinguished paper awards from NDSS, ACM CCS, CSCW, ICWSM, ACM WebSci, and ACM IMC, the Data Protection by Design Award from the Catalan Data Protection authority, and were runners-up for the CSAW Applied Research Competition and the INRIA-CNIL Privacy Protection Award. 
+My research has been published at top-tier conferences in security (IEEE S&P, NDSS, ACM CCS, Usenix Security) and other fields, e.g., ICML, WWW, ACM IMC, ACM SIGMETRICS, ICWSM, CSCW. My co-authors and I have received best/distinguished paper awards from NDSS, ACM CCS, CSCW, ICWSM, ACM WebSci, and ACM IMC, the Data Protection by Design Award from the Catalan Data Protection authority, and were runners-up for the CSAW Applied Research Competition and the INRIA-CNIL Privacy Protection Award. As a final piece of useless information -- I achieved the top-4 security grand slam in 2022 and 2024.
 
 ### Education
 - *PhD in Networked Systems,* Sep 2011   

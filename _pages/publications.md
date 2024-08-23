@@ -11,6 +11,10 @@ title: Publications
 
 *** 
 
+Georgi Ganev, Kai Xu, Emiliano De Cristofaro  
+**TBD**  
+31st ACM Conference on Computer and Communications Security (ACM CCS 2024), to appear  
+
 
 Meenatchi Sundaram Muthu Selva Annamalai, Georgi Ganev, Emiliano De Cristofaro  
 **"What do you want from theory alone?" Experimenting with Tight Auditing of Differentially Private Synthetic Data Generation**  
