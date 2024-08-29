@@ -14,6 +14,7 @@ title: Publications
 Georgi Ganev, Kai Xu, Emiliano De Cristofaro  
 **Graphical vs. Deep Generative Models: Measuring the Impact of Differentially Private Mechanisms and Budgets on Utility**  
 31st ACM Conference on Computer and Communications Security (ACM CCS 2024), to appear  
+[full version](https://arxiv.org/pdf/2305.10994.pdf){: .btn--danger}{:target="_blank"}  
 
 
 Meenatchi Sundaram Muthu Selva Annamalai, Georgi Ganev, Emiliano De Cristofaro  
