@@ -10,6 +10,10 @@ title: Trustworthy Machine Learning
 <br>This page provides a non-exhaustive list of my publications related to **security** and **privacy** in/for **machine learning**. For each entry, a link to an open-access version of the paper is also provided.
 
 *** 
+Meenatchi Sundaram Muthu Selva Annamalai, Emiliano De Cristofaro  
+**Nearly Tight Black-Box Auditing of Differentially Private Machine Learning**  
+Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024), to appear  
+[pre-print](https://arxiv.org/pdf/2405.14106){: .btn--danger}{:target="_blank"}  
 
 Georgi Ganev, Kai Xu, Emiliano De Cristofaro  
 **Graphical vs. Deep Generative Models: Measuring the Impact of Differentially Private Mechanisms and Budgets on Utility**  
