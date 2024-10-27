@@ -1,22 +1,22 @@
 ---
 permalink: /
 author_profile: true
-title: Home Page
+title: About Me
 ---
 
-I'm a (Full) Professor in the Department of [Computer Science and Engineering](https://www1.cs.ucr.edu) at the University of California, Riverside.
-Until June 2023, I was with the University College London ([UCL](http://www.ucl.ac.uk/)), where I served as Director of the Academic Center of Excellence in Cyber Security Research ([ACE-CSR](https://www.ucl.ac.uk/cybersecurity-centre-of-excellence/)) and Head of the Information Security Research Group([ISRG](https://sec.cs.ucl.ac.uk)).
+I'm a Full Professor in the Department of [Computer Science and Engineering](https://www1.cs.ucr.edu) at the University of California, Riverside.
+Until June 2023, I was at University College London ([UCL](http://www.ucl.ac.uk/)), where I served as Director of the Academic Center of Excellence in Cyber Security Research ([ACE-CSR](https://www.ucl.ac.uk/cybersecurity-centre-of-excellence/)) and Head of the Information Security Research Group ([ISRG](https://sec.cs.ucl.ac.uk)).
 
-In January 2024, I founded the Security and Privacy Advanced research Lab ([SPALab](https://spalab.cs.ucr.edu)), a research group with members at UCR and UCL.
+In January 2024, I founded the Security and Privacy Advanced research Lab ([SPALab](https://spalab.cs.ucr.edu)), a research group with members from both UCR and UCL.
 I have a PhD from [UC Irvine](https://www.cs.uci.edu), advised by [Gene Tsudik](https://www.ics.uci.edu/~gts/).
 During my PhD, I spent a few months on research internships at NEC in Heidelberg (2008), INRIA Rhone-Alpes (2009), and Nokia in Lausanne (2010).
 After graduating, I worked as a Research Scientist at [Xerox PARC](http://www.parc.com/) from 2011 to 2013.
 
-**Please note that I am not looking to recruit any new students (interns, MS, PhD, etc.) until September 2026 at the earliest. Apologies in advance if I don't reply to inquries about open positions.**
+**Please note that I am not looking to recruit any new students (interns, MS, PhD, etc.) until September 2026 at the earliest. I apologize in advance if I do not reply to inquiries about open positions**
 
 ### Research
 
-I do research in the broad information security area. Over the past few years, I have been focusing on [trustworthy machine learning](https://emilianodc.com/trustworthy-ML) and [socio-technical issues on the Web](https://emilianodc.com/cybersafety/).
+My research focuses broadly on Information Security. Over the past few years, I have been doing a lot of work on [trustworthy machine learning](https://emilianodc.com/trustworthy-ML) and [socio-technical issues on the Web](https://emilianodc.com/cybersafety/).
 
 My research has been published at top-tier conferences in security (IEEE S&P, NDSS, ACM CCS, Usenix Security) and other fields, e.g., ICML, NeurIPS, WWW, ACM IMC, ACM SIGMETRICS, ICWSM, CSCW, etc. My co-authors and I have received best/distinguished paper awards from NDSS, ACM CCS, CSCW, ICWSM, ACM WebSci, and ACM IMC, the Data Protection by Design Award from the Catalan Data Protection authority, and were runners-up for the CSAW Applied Research Competition and the INRIA-CNIL Privacy Protection Award. As a final piece of useless information -- I achieved the top-4 security "grand slam" in 2022 and 2024.
 
