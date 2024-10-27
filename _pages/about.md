@@ -5,7 +5,7 @@ title: Home Page
 ---
 
 I'm a (Full) Professor in the Department of [Computer Science and Engineering](https://www1.cs.ucr.edu) at the University of California, Riverside.
-Until June 2023, I was with the University College London ([UCL](http://www.ucl.ac.uk/)), where I served as Director of the Academic Center of Excellence in Cyber Security Research ([ACE-CSR](https://www.ucl.ac.uk/cybersecurity-centre-of-excellence/)) and Head of the Information Security Research Group[(ISRG)]](https://sec.cs.ucl.ac.uk).
+Until June 2023, I was with the University College London ([UCL](http://www.ucl.ac.uk/)), where I served as Director of the Academic Center of Excellence in Cyber Security Research ([ACE-CSR](https://www.ucl.ac.uk/cybersecurity-centre-of-excellence/)) and Head of the Information Security Research Group([ISRG](https://sec.cs.ucl.ac.uk)).
 
 In January 2024, I founded the Security and Privacy Advanced research Lab ([SPALab](https://spalab.cs.ucr.edu)), a research group with members at UCR and UCL.
 I have a PhD from [UC Irvine](https://www.cs.uci.edu), advised by [Gene Tsudik](https://www.ics.uci.edu/~gts/).
