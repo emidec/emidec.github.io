@@ -30,7 +30,7 @@ My research has been published at top-tier conferences in security (IEEE S&P, ND
  
 
 ### Personal
-I was born in Avellino, a small town in South of Italy surrounded by the mountains of the [Irpinia](https://en.wikipedia.org/wiki/Irpinia) region. Irpinia is known for its green [landscapes](https://web.unisa.it/en/campus-life/surroundings/irpinia) and [medieval castles](http://www.irpinia24.it/wp/wp-content/uploads/2016/12/header.jpg), the once-glorious [soccer team](https://en.wikipedia.org/wiki/U.S._Avellino_1912), hazelnuts and [black truffles](https://www.ecoturismocampania.it/wp-content/uploads/2015/10/tartufo-nero-di-bagnoli-irpino.jpg), as well as some great wines like Taurasi, Fiano di Avellino, and Greco di Tufo.  
+I was born in Avellino, a small town in South of Italy surrounded by the mountains of the [Irpinia](https://en.wikipedia.org/wiki/Irpinia) region. Irpinia is known for its green [landscapes](https://web.unisa.it/en/campus-life/surroundings/irpinia) and <a href="http://www.irpinia24.it/wp/wp-content/uploads/2016/12/header.jpg" target="_blank">medieval castles</a>, the once-glorious [soccer team](https://en.wikipedia.org/wiki/U.S._Avellino_1912), hazelnuts and <a href="https://www.ecoturismocampania.it/wp-content/uploads/2015/10/tartufo-nero-di-bagnoli-irpino.jpg" target="_blank">black truffles</a>, as well as some great wines like Taurasi, Fiano di Avellino, and Greco di Tufo.  
 
 In my free time, I like acting as a coffee snob and a guerilla activist against pineapple on pizza, nostalgically reminiscing about surfing in San Onofre, and cooking (only pasta and pizza, obviously).  
 
