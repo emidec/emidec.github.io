@@ -7,7 +7,7 @@ title: About Me
 I'm a Full Professor in the Department of [Computer Science and Engineering](https://www1.cs.ucr.edu) at the University of California, Riverside.
 Until June 2023, I was at University College London ([UCL](http://www.ucl.ac.uk/)), where I served as Director of the Academic Center of Excellence in Cyber Security Research ([ACE-CSR](https://www.ucl.ac.uk/cybersecurity-centre-of-excellence/)) and Head of the Information Security Research Group ([ISRG](https://sec.cs.ucl.ac.uk)).
 
-In January 2024, I founded the Security and Privacy Advanced research Lab ([SPALab](https://spalab.cs.ucr.edu)), a research group with members from both UCR and UCL.
+In September 2023, I founded the Security and Privacy Advanced research Lab ([SPALab](https://spalab.cs.ucr.edu)), a research group with members from both UCR and UCL.
 I have a PhD from [UC Irvine](https://www.cs.uci.edu), advised by [Gene Tsudik](https://www.ics.uci.edu/~gts/).
 During my PhD, I spent a few months on research internships at NEC in Heidelberg (2008), INRIA Rhone-Alpes (2009), and Nokia in Lausanne (2010).
 After graduating, I worked as a Research Scientist at [Xerox PARC](http://www.parc.com/) from 2011 to 2013.
