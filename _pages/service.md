@@ -99,17 +99,21 @@ title: Service
 -   [Cybersafety in Modern Online Social Networks](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17372), Dagstuhl Seminar, Germany, September 10--13,2017
 
 ## PhD Committee
+-   Joonas Jälkö, Aalto University, 2023
 -   Sina Sajadmanesh, EPFL, 2023
+-   Federica Granese, Institut Polytechnique de Paris, 2023
 -   César Sabater, INRIA, 2022
 -   Nikolaos Lykousas, University of Pireaus, 2022
 -   Raouf Kerkouche, INRIA, 2021
 -   Ania Piotrowska, UCL, 2020
 -   Tejas Kulkarni, Warwick University, 2019
+-   Jaroslav Sedenka, Masaryk University, 2019
 -   Marc Roeschlin, Oxford University, 2018
 -   Ingolf Becker, UCL, 2018
 -   Marc Roeschlin, Oxford University, 2018
 -   Manu Drijvers, IBM/ETH, 2018
 -   Jean-Louis Raisaro, EPFL, 2018
+-   Saman Feghhi, Trinity College Dublin, 2017
 -   Sharad Kumar, University of Cambridge, 2016
 -   Iacovos Kirlappos, UCL, 2016
 -   Iraklis Leontidas, EURECOM, 2015
