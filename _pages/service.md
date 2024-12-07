@@ -95,8 +95,9 @@ title: Service
 
 
 ## Organization
+-   [PETs and AI: Privacy Washing and the Need for a PETs Evaluation Framework](https://www.dagstuhl.de/25112), Dagstuhl Seminar, March 9--14, 2025
 -   [IEEE EuroSP 2018](https://www.ieee-security.org/TC/EuroSP2018/), General (Co-)Chair, London, UK, April 24--26, 2018
--   [Cybersafety in Modern Online Social Networks](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17372), Dagstuhl Seminar, Germany, September 10--13,2017
+-   [Cybersafety in Modern Online Social Networks](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17372), Dagstuhl Seminar, September 10--13, 2017
 
 ## PhD Committee
 -   Joonas Jälkö, Aalto University, 2023
