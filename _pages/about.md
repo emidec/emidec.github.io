@@ -12,7 +12,7 @@ I have a PhD from [UC Irvine](https://www.cs.uci.edu), advised by [Gene Tsudik](
 During my PhD, I spent a few months on research internships at NEC in Heidelberg (2008), INRIA Rhone-Alpes (2009), and Nokia in Lausanne (2010).
 After graduating, I worked as a Research Scientist at [Xerox PARC](http://www.parc.com/) from 2011 to 2013.
 
-**Please note that I am not looking to recruit any new students (interns, MS, PhD, etc.) until September 2026 at the earliest. I apologize in advance if I do not reply to inquiries about open positions.**
+**Unfortnuately, I am not looking to recruit any new students (interns, MS, PhD, etc.) until September 2026. I apologize if I do not reply to inquiries about open positions.**
 
 ### Research
 
