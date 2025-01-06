@@ -13,7 +13,7 @@ title: Publications
 Meenatchi Sundaram Muthu Selva Annamalai, Emiliano De Cristofaro  
 **Nearly Tight Black-Box Auditing of Differentially Private Machine Learning**  
 38th Annual Conference on Neural Information Processing Systems (NeurIPS 2024)  
-[pre-print](https://arxiv.org/pdf/2405.14106){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2405.14106){: .btn--danger}{:target="_blank"}  
 
 Georgi Ganev, Kai Xu, Emiliano De Cristofaro  
 **Graphical vs. Deep Generative Models: Measuring the Impact of Differentially Private Mechanisms and Budgets on Utility**  
