@@ -10,6 +10,12 @@ title: Publications
 <br>This page lists all my peer-reviewed publications ordered by year, linking to open-access versions of each paper. You can also visit my [DBLP](http://dblp.uni-trier.de/pers/hd/c/Cristofaro:Emiliano_De){:target="_blank"} or my [Google Scholar](https://scholar.google.com/citations?hl=en&user=1wfzUuEAAAAJ&view_op=list_works&pagesize=100){:target="_blank"} pages to see them in different formats.
 
 *** 
+
+Meenatchi Sundaram Muthu Selva Annamalai, Igor Bilogrevic, Emiliano De Cristofaro  
+**Beyond the Crawl: Unmasking Browser Fingerprinting in Real User Interactions**  
+34th The Web Conference (WWW 2025), to appear  
+
+
 Meenatchi Sundaram Muthu Selva Annamalai, Emiliano De Cristofaro  
 **Nearly Tight Black-Box Auditing of Differentially Private Machine Learning**  
 38th Annual Conference on Neural Information Processing Systems (NeurIPS 2024)  
