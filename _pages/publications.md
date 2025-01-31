@@ -16,11 +16,15 @@ Meenatchi Sundaram Muthu Selva Annamalai, Igor Bilogrevic, Emiliano De Cristofar
 34th The Web Conference (WWW 2025), to appear  
 [pdf](){: .btn--danger}{:target="_blank"}  
 
+Georgi Ganev, Meenatchi Sundaram Muthu Selva Annamalai, Emiliano De Cristofaro  
+**The Elusive Pursuit of Replicating PATE-GAN: Benchmarking, Auditing, Debugging**  
+Transactions on Machine Learning Research (TMLR), to appear
+[pdf](https://arxiv.org/pdf/2406.13985.pdf){: .btn--danger}{:target="_blank"}  
 
 Meenatchi Sundaram Muthu Selva Annamalai, Emiliano De Cristofaro  
 **Nearly Tight Black-Box Auditing of Differentially Private Machine Learning**  
 38th Annual Conference on Neural Information Processing Systems (NeurIPS 2024)  
-[pdf](https://arxiv.org/pdf/2405.14106){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2405.14106.pdf){: .btn--danger}{:target="_blank"}  
 
 Georgi Ganev, Kai Xu, Emiliano De Cristofaro  
 **Graphical vs. Deep Generative Models: Measuring the Impact of Differentially Private Mechanisms and Budgets on Utility**  
