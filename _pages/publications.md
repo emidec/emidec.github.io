@@ -14,7 +14,7 @@ title: Publications
 Meenatchi Sundaram Muthu Selva Annamalai, Igor Bilogrevic, Emiliano De Cristofaro  
 **Beyond the Crawl: Unmasking Browser Fingerprinting in Real User Interactions**  
 34th The Web Conference (WWW 2025), to appear  
-[pdf](){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2502.01608.pdf){: .btn--danger}{:target="_blank"}  
 
 Georgi Ganev, Meenatchi Sundaram Muthu Selva Annamalai, Emiliano De Cristofaro  
 **The Elusive Pursuit of Replicating PATE-GAN: Benchmarking, Auditing, Debugging**  
