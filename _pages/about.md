@@ -4,6 +4,8 @@ author_profile: true
 title: About Me
 ---
 
+
+
 I'm a Full Professor in the Department of [Computer Science and Engineering](https://www1.cs.ucr.edu) at the University of California, Riverside.
 Until June 2023, I was at University College London ([UCL](http://www.ucl.ac.uk/)), where I served as Director of the Academic Center of Excellence in Cyber Security Research ([ACE-CSR](https://www.ucl.ac.uk/cybersecurity-centre-of-excellence/)) and Head of the Information Security Research Group ([ISRG](https://sec.cs.ucl.ac.uk)).
 
