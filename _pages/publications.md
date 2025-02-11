@@ -17,8 +17,8 @@ Meenatchi Sundaram Muthu Selva Annamalai, Igor Bilogrevic, Emiliano De Cristofar
 [pdf](https://arxiv.org/pdf/2502.01608.pdf){: .btn--danger}{:target="_blank"}  
 
 Georgi Ganev, Meenatchi Sundaram Muthu Selva Annamalai, Emiliano De Cristofaro  
-**The Elusive Pursuit of Replicating PATE-GAN: Benchmarking, Auditing, Debugging**  
-Transactions on Machine Learning Research (TMLR), to appear  
+**The Elusive Pursuit of Reproducing PATE-GAN: Benchmarking, Auditing, Debugging**  
+Transactions on Machine Learning Research (TMLR), Feb 2025  
 [pdf](https://arxiv.org/pdf/2406.13985.pdf){: .btn--danger}{:target="_blank"}  
 
 Meenatchi Sundaram Muthu Selva Annamalai, Emiliano De Cristofaro  

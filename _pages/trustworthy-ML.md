@@ -10,9 +10,14 @@ title: Trustworthy Machine Learning
 <br>This page provides a non-exhaustive list of my publications related to **security** and **privacy** in/for **machine learning**. For each entry, a link to an open-access version of the paper is also provided.
 
 *** 
+Meenatchi Sundaram Muthu Selva Annamalai, Igor Bilogrevic, Emiliano De Cristofaro  
+**Beyond the Crawl: Unmasking Browser Fingerprinting in Real User Interactions**  
+34th The Web Conference (WWW 2025), to appear  
+[pdf](https://arxiv.org/pdf/2502.01608.pdf){: .btn--danger}{:target="_blank"}  
+
 Georgi Ganev, Meenatchi Sundaram Muthu Selva Annamalai, Emiliano De Cristofaro  
-**The Elusive Pursuit of Replicating PATE-GAN: Benchmarking, Auditing, Debugging**  
-Transactions on Machine Learning Research (TMLR), to appear  
+**The Elusive Pursuit of Reproducing PATE-GAN: Benchmarking, Auditing, Debugging**  
+Transactions on Machine Learning Research (TMLR), February 2025  
 [pdf](https://arxiv.org/pdf/2406.13985.pdf){: .btn--danger}{:target="_blank"}  
 
 Meenatchi Sundaram Muthu Selva Annamalai, Emiliano De Cristofaro  
