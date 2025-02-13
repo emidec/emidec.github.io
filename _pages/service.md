@@ -100,6 +100,7 @@ title: Service
 -   [Cybersafety in Modern Online Social Networks](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17372), Dagstuhl Seminar, September 10--13, 2017
 
 ## PhD Committee
+-   Hélène Orsini, INRIA Rennes, 2025
 -   Joonas Jälkö, Aalto University, 2023
 -   Sina Sajadmanesh, EPFL, 2023
 -   Federica Granese, Institut Polytechnique de Paris, 2023
