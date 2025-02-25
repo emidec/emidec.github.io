@@ -5,16 +5,13 @@ title: About Me
 ---
 
 
+I'm a Professor at University of California, Riverside. I'm affiliated with the Department of [Computer Science and Engineering](https://www1.cs.ucr.edu) and the [RAISE](raise.ucr.edu/) Institute.
+From 2013 to 2023, I was at University College London ([UCL](http://www.ucl.ac.uk/)), where I served as Director of the Academic Center of Excellence in Cyber Security Research ([ACE-CSR](https://www.ucl.ac.uk/cybersecurity-centre-of-excellence/)) and Head of the Information Security Research Group ([ISRG](https://sec.cs.ucl.ac.uk)).
 
-I'm a Full Professor in the Department of [Computer Science and Engineering](https://www1.cs.ucr.edu) at the University of California, Riverside.
-Until June 2023, I was at University College London ([UCL](http://www.ucl.ac.uk/)), where I served as Director of the Academic Center of Excellence in Cyber Security Research ([ACE-CSR](https://www.ucl.ac.uk/cybersecurity-centre-of-excellence/)) and Head of the Information Security Research Group ([ISRG](https://sec.cs.ucl.ac.uk)).
-
-In September 2023, I founded the Security and Privacy Advanced research Lab ([SPALab](https://spalab.cs.ucr.edu)), a research group with members from both UCR and UCL.
-I have a PhD from [UC Irvine](https://www.cs.uci.edu), advised by [Gene Tsudik](https://www.ics.uci.edu/~gts/).
-During my PhD, I spent a few months on research internships at NEC in Heidelberg (2008), INRIA Rhone-Alpes (2009), and Nokia in Lausanne (2010).
+In September 2023, I started the Security and Privacy Advanced research Lab ([SPALab](https://spalab.cs.ucr.edu)).
+I got my PhD from [UC Irvine](https://www.cs.uci.edu), advised by [Gene Tsudik](https://www.ics.uci.edu/~gts/).
+While in grad school, I did internships at NEC in Heidelberg (2008), INRIA Rhone-Alpes (2009), and Nokia in Lausanne (2010).
 After graduating, I worked as a Research Scientist at [Xerox PARC](http://www.parc.com/) from 2011 to 2013.
-
-**Please note that I am not recruiting any new students (interns, masters, PhD, etc.) until September 2026. I apologize if I do not reply to inquiries about open positions.**
 
 ### Research
 
@@ -22,7 +19,8 @@ I am generally interested in impactful research in the broad Information Securit
 
 My research has been published at top-tier conferences in security (IEEE S&P, NDSS, CCS, Usenix Security) and other fields, e.g., ICML, NeurIPS, WWW, IMC, SIGMETRICS, ICWSM, CSCW, etc. My co-authors and I have received best paper awards from NDSS, CCS, IMC, CSCW, ICWSM, and WebSci, the Data Protection by Design Award from the Catalan Data Protection authority, and were runners-up for the CSAW Applied Research Competition and the INRIA-CNIL Privacy Protection Award. 
 
-As a final piece of useless information -- I achieved the top-4 security "grand slam" in 2022 and 2024. In 2025, I was named Distinguished Member of the ACM.
+In 2022 and 2024, I achieved the top-4 security "grand slam." 
+In 2025, I was named Distinguished Member of the ACM.
 
 
 ### Education
