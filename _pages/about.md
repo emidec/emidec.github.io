@@ -20,7 +20,9 @@ After graduating, I worked as a Research Scientist at [Xerox PARC](http://www.pa
 
 I am generally interested in impactful research in the broad Information Security field. Over the past few years, I have been focusing on [trustworthy machine learning](https://emilianodc.com/trustworthy-ML) and [socio-technical issues on the Web](https://emilianodc.com/cybersafety/).
 
-My research has been published at top-tier conferences in security (IEEE S&P, NDSS, ACM CCS, Usenix Security) and other fields, e.g., ICML, NeurIPS, WWW, ACM IMC, ACM SIGMETRICS, ICWSM, CSCW, etc. My co-authors and I have received best/distinguished paper awards from NDSS, ACM CCS, CSCW, ICWSM, ACM WebSci, and ACM IMC, the Data Protection by Design Award from the Catalan Data Protection authority, and were runners-up for the CSAW Applied Research Competition and the INRIA-CNIL Privacy Protection Award. As a final piece of useless information -- I achieved the top-4 security "grand slam" in 2022 and 2024. In 2025, I was named Distinguished Member of the ACM for contributions to privacy-enhancing technologies and Internet measurement.
+My research has been published at top-tier conferences in security (IEEE S&P, NDSS, CCS, Usenix Security) and other fields, e.g., ICML, NeurIPS, WWW, IMC, SIGMETRICS, ICWSM, CSCW, etc. My co-authors and I have received best paper awards from NDSS, CCS, IMC, CSCW, ICWSM, and WebSci, the Data Protection by Design Award from the Catalan Data Protection authority, and were runners-up for the CSAW Applied Research Competition and the INRIA-CNIL Privacy Protection Award. 
+
+As a final piece of useless information -- I achieved the top-4 security "grand slam" in 2022 and 2024. In 2025, I was named Distinguished Member of the ACM.
 
 
 ### Education
@@ -33,9 +35,9 @@ My research has been published at top-tier conferences in security (IEEE S&P, ND
  
 
 ### Personal
-I was born in Avellino, a small town in South of Italy surrounded by the mountains of the [Irpinia](https://en.wikipedia.org/wiki/Irpinia) region. Irpinia is known for its green [landscapes](https://web.unisa.it/en/campus-life/surroundings/irpinia) and <a href="http://www.irpinia24.it/wp/wp-content/uploads/2016/12/header.jpg" target="_blank">medieval castles</a>, the once-glorious [soccer team](https://en.wikipedia.org/wiki/U.S._Avellino_1912), hazelnuts and <a href="https://www.ecoturismocampania.it/wp-content/uploads/2015/10/tartufo-nero-di-bagnoli-irpino.jpg" target="_blank">black truffles</a>, as well as some great wines like Taurasi, Fiano di Avellino, and Greco di Tufo.  
+I was born in Avellino, a small town in South of Italy surrounded by the mountains of the [Irpinia](https://en.wikipedia.org/wiki/Irpinia) region. Irpinia is known for its green [landscapes](https://web.unisa.it/en/campus-life/surroundings/irpinia) and <a href="images/castles.jpg" target="_blank">medieval castles</a>, the once-glorious [soccer team](https://en.wikipedia.org/wiki/U.S._Avellino_1912), hazelnuts, and <a href="images/truffle.jpg" target="_blank">black truffles</a>, as well as some great wines like Taurasi, Fiano di Avellino, and Greco di Tufo.  
 
-In my free time, I like acting as a coffee snob and a guerilla activist against pineapple on pizza, nostalgically reminiscing about surfing in San Onofre, and cooking (only pasta and pizza, obviously).  
+In my free time, I like acting as a coffee snob and a guerilla activist against pineapple on pizza and cooking (only pasta and pizza, obviously).  
 
 I have always loved languages and I'm (kinda) fluent in English, French, and Italian, and can utter enough words to get into trouble in German, Spanish, and Persian.
 
