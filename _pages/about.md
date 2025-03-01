@@ -5,7 +5,7 @@ title: About Me
 ---
 
 
-I'm a Professor at University of California, Riverside. I'm affiliated with the Department of [Computer Science and Engineering](https://www1.cs.ucr.edu) and the [RAISE](raise.ucr.edu/) Institute.
+I'm a Professor at University of California, Riverside. I'm affiliated with the Department of [Computer Science and Engineering](https://www1.cs.ucr.edu) and the [RAISE](https://raise.ucr.edu/) Institute.
 From 2013 to 2023, I was at University College London ([UCL](http://www.ucl.ac.uk/)), where I served as Director of the Academic Center of Excellence in Cyber Security Research ([ACE-CSR](https://www.ucl.ac.uk/cybersecurity-centre-of-excellence/)) and Head of the Information Security Research Group ([ISRG](https://sec.cs.ucl.ac.uk)).
 
 In September 2023, I started the Security and Privacy Advanced research Lab ([SPALab](https://spalab.cs.ucr.edu)).
@@ -37,4 +37,10 @@ I was born in Avellino, a small town in South of Italy surrounded by the mountai
 In my free time, I like acting as a coffee snob and a guerilla activist against pineapple on pizza and cooking (only pasta and pizza, obviously). 
 I have always loved languages and I'm (kinda) fluent in English, French, and Italian, and can utter enough words to get into trouble in German, Spanish, and Persian.
 
-Kind request: my name is 'Emiliano' (first name) + 'De Cristofaro' (last name). 'De' is not a middle name, so please-please-please don't call me Mr/Dr/Prof. Cristofaro &ndash; it'd be like calling Robert De Niro 'Robert Niro' ([_you talking to me???_](https://youtu.be/-QWL-FwX4t4?si=r5EPjYF8toF6rEdw&t=52)).
+Kind request: my name is 'Emiliano' (first name) + 'De Cristofaro' (last name). 'De' is not a middle name, so please-please-please don't call me Mr/Dr/Prof. Cristofaro &ndash; it'd be like calling Robert De Niro 'Robert Niro' (
+<a href="https://www.youtube.com/watch?v=-QWL-FwX4t4&t=52s" target="_blank"><i>you talking to me???</i></a>).
+
+
+
+
+[_you talking to me???_](https://youtu.be/-QWL-FwX4t4?si=r5EPjYF8toF6rEdw&t=52)).
