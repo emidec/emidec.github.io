@@ -19,8 +19,8 @@ I am generally interested in impactful research in the broad Information Securit
 
 My research has been published at top-tier conferences in security (IEEE S&P, NDSS, CCS, Usenix Security) and other fields, e.g., ICML, NeurIPS, WWW, IMC, SIGMETRICS, ICWSM, CSCW, etc. My co-authors and I have received best paper awards from NDSS, CCS, IMC, CSCW, ICWSM, and WebSci, the Data Protection by Design Award from the Catalan Data Protection authority, and were runners-up for the CSAW Applied Research Competition and the INRIA-CNIL Privacy Protection Award. 
 
-In 2022 and 2024, I achieved the top-4 security "grand slam." 
-In 2025, I was named Distinguished Member of the ACM.
+In 2022 and 2024, I achieved the top-4 security "grand slam" (ikr? :)).
+In 2025, I was named Distinguished Member of the Association for Computing Machinery (ACM).
 
 
 ### Education
@@ -37,4 +37,4 @@ I was born in Avellino, a small town in South of Italy surrounded by the mountai
 In my free time, I like acting as a coffee snob and a guerilla activist against pineapple on pizza and cooking (only pasta and pizza, obviously). 
 I have always loved languages and I'm (kinda) fluent in English, French, and Italian, and can utter enough words to get into trouble in German, Spanish, and Persian.
 
-Kind request: my name is 'Emiliano' (first name) + 'De Cristofaro' (last name). 'De' is not a middle name, so please-please-please don't call me Mr/Dr/Prof. Cristofaro &ndash; it'd be like calling Robert De Niro 'Robert Niro' (<a href="https://www.youtube.com/watch?v=-QWL-FwX4t4&t=52s" target="_blank"><i>you talking to me???</i></a>).
+My name is 'Emiliano' (first name) + 'De Cristofaro' (last name). 'De' is not a middle name, so please-please-please don't call me Mr/Dr/Prof. Cristofaro &ndash; it'd be like calling Robert De Niro 'Robert Niro' (<a href="https://www.youtube.com/watch?v=-QWL-FwX4t4&t=52s" target="_blank"><i>you talking to me???</i></a>).
