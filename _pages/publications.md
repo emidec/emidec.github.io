@@ -19,7 +19,7 @@ Meenatchi Sundaram Muthu Selva Annamalai, Igor Bilogrevic, Emiliano De Cristofar
 
 Georgi Ganev, Meenatchi Sundaram Muthu Selva Annamalai, Sofiane Mahiou, Emiliano De Cristofaro  
 **Understanding the Impact of Data Domain Extraction on Synthetic Data Privacy**  
-ICLR Workshop "Will Synthetic Data Finally Solve the Data Access Problem?" Workshop, to appear  
+ICLR "Will Synthetic Data Finally Solve the Data Access Problem?" Workshop, to appear  
 [pdf](){: .btn--danger}{:target="_blank"}  
 
 Georgi Ganev, Meenatchi Sundaram Muthu Selva Annamalai, Emiliano De Cristofaro  
@@ -35,7 +35,7 @@ Meenatchi Sundaram Muthu Selva Annamalai, Emiliano De Cristofaro
 Georgi Ganev, Kai Xu, Emiliano De Cristofaro  
 **Graphical vs. Deep Generative Models: Measuring the Impact of Differentially Private Mechanisms and Budgets on Utility**  
 31st ACM Conference on Computer and Communications Security (ACM CCS 2024)  
-[full version](https://arxiv.org/pdf/2305.10994.pdf){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2305.10994.pdf){: .btn--danger}{:target="_blank"}  
 
 
 Meenatchi Sundaram Muthu Selva Annamalai, Georgi Ganev, Emiliano De Cristofaro  
