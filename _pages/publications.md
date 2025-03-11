@@ -10,7 +10,7 @@ title: Publications
 <br>This page lists all my peer-reviewed publications ordered by year, linking to open-access versions of each paper. You can also visit my [DBLP](http://dblp.uni-trier.de/pers/hd/c/Cristofaro:Emiliano_De){:target="_blank"} or my [Google Scholar](https://scholar.google.com/citations?hl=en&user=1wfzUuEAAAAJ&view_op=list_works&pagesize=100){:target="_blank"} pages to see them in different formats.
 
 *** 
-Georgi Ganev and Emiliano De Cristofaro
+Georgi Ganev and Emiliano De Cristofaro  
 **The Inadequacy of Similarity-based Privacy Metrics: Privacy Attacks against ``Truly Anonymous'' Synthetic Datasets**  
 46th IEEE Symposium on Security & Privacy (S&P 2025), to appear  
 [pdf](https://arxiv.org/pdf/2312.05114){: .btn--danger}{:target="_blank"}  
