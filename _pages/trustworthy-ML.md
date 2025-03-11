@@ -10,6 +10,13 @@ title: Trustworthy Machine Learning
 <br>This page provides a non-exhaustive list of my publications related to **security** and **privacy** in/for **machine learning**. For each entry, a link to an open-access version of the paper is also provided.
 
 *** 
+
+Georgi Ganev and Emiliano De Cristofaro
+**The Inadequacy of Similarity-based Privacy Metrics: Privacy Attacks against ``Truly Anonymous'' Synthetic Datasets**  
+46th IEEE Symposium on Security & Privacy (S&P 2025), to appear  
+[pdf](https://arxiv.org/pdf/2312.05114){: .btn--danger}{:target="_blank"}  
+
+
 Meenatchi Sundaram Muthu Selva Annamalai, Igor Bilogrevic, Emiliano De Cristofaro  
 **Beyond the Crawl: Unmasking Browser Fingerprinting in Real User Interactions**  
 34th The Web Conference (WWW 2025), to appear  
