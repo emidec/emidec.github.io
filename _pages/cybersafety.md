@@ -12,7 +12,7 @@ title: Cybersafety
 
 Ben Treves, Emiliano De Cristofaro, Michalis Faloutsos, Yue Dong  
 **VIKI: Systematic Cross-Platform Profile Inference of Tech Users**  
-17th ACM Web Science Conference 2023 (WebSci 2025), to appear    
+17th ACM Web Science Conference (WebSci 2025), to appear    
 [pdf](){: .btn--danger}{:target="_blank"}  
 
 
