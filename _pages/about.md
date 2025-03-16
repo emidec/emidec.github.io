@@ -20,7 +20,7 @@ My research has been published at top-tier conferences in security (IEEE S&P, ND
 
 My co-authors and I have received best paper awards from NDSS, CCS, IMC, CSCW, ICWSM, and WebSci, the Data Protection by Design Award from the Catalan Data Protection authority, and were runners-up for CSAW Applied Research Competitions and the INRIA-CNIL Privacy Protection Award. 
 In 2025, I was named Distinguished Member of the Association for Computing Machinery (ACM).
-In 2022 and 2024, I achieved the top-4 security "grand slam" (<a href="images/eye_roll.jpg" target=_blank>wut?</a>).
+In 2022 and 2024, I achieved the top-4 security "grand slam" (<a href="images/eye_roll.jpg" target=_blank>uh?</a>).
 
 
 ### Education
