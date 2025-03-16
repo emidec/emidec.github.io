@@ -19,7 +19,7 @@ I am generally interested in impactful research in the broad Information Securit
 
 My research has been published at top-tier conferences in security (IEEE S&P, NDSS, CCS, Usenix Security) and other fields, e.g., ICML, NeurIPS, WWW, IMC, SIGMETRICS, ICWSM, CSCW, etc. My co-authors and I have received best paper awards from NDSS, CCS, IMC, CSCW, ICWSM, and WebSci, the Data Protection by Design Award from the Catalan Data Protection authority, and were runners-up for the CSAW Applied Research Competition and the INRIA-CNIL Privacy Protection Award. 
 
-In 2022 and 2024, I achieved the top-4 security "grand slam" (<a href="https://i.kym-cdn.com/entries/icons/original/000/020/549/RDJ_Eye_Roll_Banner.jpg" target=_blank>wut?</a>]).
+In 2022 and 2024, I achieved the top-4 security "grand slam" (<a href="images/eye_roll.jpg" target=_blank>wut?</a>).
 In 2025, I was named Distinguished Member of the Association for Computing Machinery (ACM).
 
 
