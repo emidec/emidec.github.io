@@ -29,7 +29,7 @@ Ben Treves, Emiliano De Cristofaro, Michalis Faloutsos, Yue Dong
 
 Georgi Ganev, Meenatchi Sundaram Muthu Selva Annamalai, Sofiane Mahiou, Emiliano De Cristofaro  
 **Understanding the Impact of Data Domain Extraction on Synthetic Data Privacy**  
-ICLR "Will Synthetic Data Finally Solve the Data Access Problem?" Workshop, to appear  
+Will Synthetic Data Finally Solve the Data Access Problem? (ICLR 2025 Workshop), to appear  
 [pdf](){: .btn--danger}{:target="_blank"}  
 
 Georgi Ganev, Meenatchi Sundaram Muthu Selva Annamalai, Emiliano De Cristofaro  
