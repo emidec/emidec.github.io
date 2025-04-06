@@ -1,7 +1,7 @@
 ---
 permalink: /
 author_profile: true
-title: About Me
+title: About
 ---
 
 
