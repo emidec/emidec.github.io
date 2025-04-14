@@ -13,20 +13,20 @@ title: Trustworthy Machine Learning
 
 Georgi Ganev and Emiliano De Cristofaro  
 **The Inadequacy of Similarity-based Privacy Metrics: Privacy Attacks against "Truly Anonymous" Synthetic Datasets**  
-46th IEEE Symposium on Security & Privacy (S&P 2025), to appear  
+46th IEEE Symposium on Security & Privacy (S&P 2025)  
 [pdf](https://arxiv.org/pdf/2312.05114){: .btn--danger}{:target="_blank"}  
 
 
 Meenatchi Sundaram Muthu Selva Annamalai, Igor Bilogrevic, Emiliano De Cristofaro  
 **Beyond the Crawl: Unmasking Browser Fingerprinting in Real User Interactions**  
-34th The Web Conference (WWW 2025), to appear  
+34th The Web Conference (WWW 2025)  
 [pdf](https://arxiv.org/pdf/2502.01608.pdf){: .btn--danger}{:target="_blank"}  
 
 
 Georgi Ganev, Meenatchi Sundaram Muthu Selva Annamalai, Sofiane Mahiou, Emiliano De Cristofaro  
 **Understanding the Impact of Data Domain Extraction on Synthetic Data Privacy**  
-Will Synthetic Data Finally Solve the Data Access Problem? (ICLR 2025 Workshop), to appear  
-[pdf](){: .btn--danger}{:target="_blank"}  
+Will Synthetic Data Finally Solve the Data Access Problem? (ICLR 2025 Workshop)  
+[pdf](https://arxiv.org/pdf/2504.08254){: .btn--danger}{:target="_blank"}  
 
 
 Georgi Ganev, Meenatchi Sundaram Muthu Selva Annamalai, Emiliano De Cristofaro  
