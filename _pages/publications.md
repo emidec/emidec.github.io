@@ -13,6 +13,7 @@ title: Publications
 Georgi Ganev and Emiliano De Cristofaro  
 **The Inadequacy of Similarity-based Privacy Metrics: Privacy Attacks against "Truly Anonymous" Synthetic Datasets**  
 46th IEEE Symposium on Security & Privacy (S&P 2025)  
+[Distinguished Paper](){: .btn--success}{:target="_blank"}  
 [pdf](https://arxiv.org/pdf/2312.05114){: .btn--danger}{:target="_blank"}  
 
 Meenatchi Sundaram Muthu Selva Annamalai, Igor Bilogrevic, Emiliano De Cristofaro  
