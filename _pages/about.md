@@ -33,8 +33,7 @@ In 2022 and 2024, I achieved the top-4 security "grand slam" (<a href="images/ey
  
 
 ### Personal
-I was born in Avellino, a small town 40 miles east of Napoli surrounded by the mountains of the [Irpinia](https://en.wikipedia.org/wiki/Irpinia) region. Irpinia is known for its green [landscapes](https://web.unisa.it/en/campus-life/surroundings/irpinia) and <a href="images/castles.jpg" target="_blank">medieval castles</a>, the once-glorious [soccer team](https://en.wikipedia.org/wiki/U.S._Avellino_1912), hazelnuts, and <a href="images/truffle.jpg" target="_blank">black truffles</a>, as well as some great wines like Taurasi, Fiano di Avellino, and Greco di Tufo. 
-In my free time, I enjoy acting like a coffee snob and a guerilla activist against pineapple on pizza. 
+I was born in Avellino, a small-ish town 40 miles east of Napoli surrounded by the mountains of the [Irpinia](https://en.wikipedia.org/wiki/Irpinia) region. Irpinia is known for its lush, [green scenery](https://web.unisa.it/en/campus-life/surroundings/irpinia) and <a href="images/castles.jpg" target="_blank">medieval castles</a>, the glorious [soccer team](https://en.wikipedia.org/wiki/U.S._Avellino_1912), hazelnuts, and <a href="images/truffle.jpg" target="_blank">black truffles</a>, as well as some amazing wines like Taurasi, Fiano di Avellino, and Greco di Tufo. 
+In my free time, I enjoy acting like a coffee snob and a guerilla activist against pineapple and chicken on pizza. 
 I have always loved traveling and foreign languages, and I'm (kinda) fluent in English, French, and Italian, and can utter enough words to get into trouble in German, Spanish, and Persian.
-
 My name is 'Emiliano' (first name) + 'De Cristofaro' (last name). 'De' is not a middle name, so _please_ don't call me Mr/Dr/Prof. Cristofaro &ndash; it'd be like calling Robert De Niro 'Robert Niro' ("<a href="https://www.youtube.com/watch?v=-QWL-FwX4t4&t=52s" target="_blank">you talking to me???</a>").
