@@ -14,6 +14,7 @@ title: Trustworthy Machine Learning
 Sara Chennoufi, Yufei Han, Gregory Blanc, Emiliano De Cristofaro, and Christophe Kiennert
 **PROTEAN: Federated Intrusion Detection in Non-IID Environments through Prototype-Based Knowledge Sharing**  
 30th European Symposium on Research in Computer Security (ESORICS 2025)  
+[pdf]()  
 
 
 Georgi Ganev and Emiliano De Cristofaro  
