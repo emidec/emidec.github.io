@@ -11,11 +11,16 @@ title: Publications
 
 *** 
 
+Georgi Ganev, Meenatchi Sundaram Muthu Selva Annamalai, Sofiane Mahiou, Emiliano De Cristofaro  
+**The Importance of Being Discrete: Measuring the Impact of Discretization in End-to-End Differentially Private Synthetic Data**  
+Conditionally Accepted, 32nd ACM Conference on Computer and Communications Security (ACM CCS 2025)  
+[pre-print](https://arxiv.org/pdf/2504.06923)  
+
+
 Sara Chennoufi, Yufei Han, Gregory Blanc, Emiliano De Cristofaro, and Christophe Kiennert
 **PROTEAN: Federated Intrusion Detection in Non-IID Environments through Prototype-Based Knowledge Sharing**  
 30th European Symposium on Research in Computer Security (ESORICS 2025)  
 [pdf]()  
-
 
 Georgi Ganev and Emiliano De Cristofaro  
 **The Inadequacy of Similarity-based Privacy Metrics: Privacy Attacks against "Truly Anonymous" Synthetic Datasets**  
