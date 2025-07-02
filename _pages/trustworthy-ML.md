@@ -17,7 +17,7 @@ Conditionally Accepted, 32nd ACM Conference on Computer and Communications Secur
 [pre-print](https://arxiv.org/pdf/2504.06923){: .btn--danger}{:target="_blank"}  
 
 
-Sara Chennoufi, Yufei Han, Gregory Blanc, Emiliano De Cristofaro, and Christophe Kiennert
+Sara Chennoufi, Yufei Han, Gregory Blanc, Emiliano De Cristofaro, and Christophe Kiennert  
 **PROTEAN: Federated Intrusion Detection in Non-IID Environments through Prototype-Based Knowledge Sharing**  
 30th European Symposium on Research in Computer Security (ESORICS 2025)  
 [pdf](){: .btn--danger}{:target="_blank"}  
