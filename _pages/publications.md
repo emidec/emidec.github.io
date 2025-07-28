@@ -11,6 +11,11 @@ title: Publications
 
 *** 
 
+Alessandro Galeazzi, Pujan Paudel, Mauro Conti, Emiliano De Cristofaro, Gianluca Stringhini  
+**Revealing The Secret Power: How Algorithms Can Influence Content Visibility on Twitter/X**
+31st Network and Distributed System Security Symposium (NDSS 2026)
+
+
 Georgi Ganev, Meenatchi Sundaram Muthu Selva Annamalai, Sofiane Mahiou, Emiliano De Cristofaro  
 **The Importance of Being Discrete: Measuring the Impact of Discretization in End-to-End Differentially Private Synthetic Data**  
 32nd ACM Conference on Computer and Communications Security (ACM CCS 2025)  

@@ -9,6 +9,10 @@ title: Cybersafety
 <br>This page provides a non-exhaustive list of my publications related to understanding and countering **cybersafety**, online harms, other socio-technical issues. For each entry, a link to an open-access version of the paper is also provided.
 
 ***
+Alessandro Galeazzi, Pujan Paudel, Mauro Conti, Emiliano De Cristofaro, Gianluca Stringhini  
+**Revealing The Secret Power: How Algorithms Can Influence Content Visibility on Twitter/X**
+31st Network and Distributed System Security Symposium (NDSS 2026)
+
 
 Ben Treves, Emiliano De Cristofaro, Michalis Faloutsos, Yue Dong  
 **VIKI: Systematic Cross-Platform Profile Inference of Tech Users**  
