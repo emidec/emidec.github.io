@@ -11,9 +11,14 @@ title: Publications
 
 *** 
 
+Alessandro Galeazzi, Pujan Paudel, Mauro Conti, Emiliano De Cristofaro, Gianluca Stringhini  
+**Revealing The Secret Power: How Algorithms Can Influence Content Visibility on Twitter/X**  
+33rd Network and Distributed System Security Symposium (NDSS 2026)  
+[pdf](https://arxiv.org/pdf/2410.17390){: .btn--danger}{:target="_blank"}  
+
 Georgi Ganev, Meenatchi Sundaram Muthu Selva Annamalai, Sofiane Mahiou, Emiliano De Cristofaro  
 **The Importance of Being Discrete: Measuring the Impact of Discretization in End-to-End Differentially Private Synthetic Data**  
-Conditionally Accepted, 32nd ACM Conference on Computer and Communications Security (ACM CCS 2025)  
+32nd ACM Conference on Computer and Communications Security (ACM CCS 2025)  
 [pdf](https://arxiv.org/pdf/2504.06923){: .btn--danger}{:target="_blank"}  
 
 
@@ -25,7 +30,7 @@ Sara Chennoufi, Yufei Han, Gregory Blanc, Emiliano De Cristofaro, and Christophe
 Georgi Ganev and Emiliano De Cristofaro  
 **The Inadequacy of Similarity-based Privacy Metrics: Privacy Attacks against "Truly Anonymous" Synthetic Datasets**  
 46th IEEE Symposium on Security & Privacy (S&P 2025)  
-[Distinguished Paper](){: .btn--success}{:target="_blank"}  
+[Distinguished Paper](https://sp2025.ieee-security.org/awards.html){: .btn--success}{:target="_blank"}  
 [pdf](https://arxiv.org/pdf/2312.05114){: .btn--danger}{:target="_blank"}  
 
 Meenatchi Sundaram Muthu Selva Annamalai, Igor Bilogrevic, Emiliano De Cristofaro  
