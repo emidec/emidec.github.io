@@ -1,0 +1,1072 @@
+0Ä	*ÜHÜ˜†Ä0Ä10	`ÜHe0Ä	*ÜHÜ˜†Ä$ÄÇË<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>payloadVersion</key>
+	<integer>1</integer>
+	<key>payloadRemovalDisallowed</key>
+	<false/>
+	<key>payloadDisplayName</key>
+	<string>AdGuard DoH</string>
+	<key>payloadDescription</key>
+	<string>Adds AdGuard DNS to Big Sur and iOS 14 or newer systems</string>
+	<key>payloadIdentifier</key>
+	<string>91baa442-d2c6-4db2-942a-529661878c5b</string>
+	<key>payloadType</key>
+	<string>Configuration</string>
+	<key>payloadUUID</key>
+	<string>e97d3d06-6faa-4313-9409-61fbb6527888</string>
+	<key>payloadContent</key>
+	<array>
+		<dict>
+			<key>payloadVersion</key>
+			<integer>1</integer>
+			<key>payloadDisplayName</key>
+			<string>AdGuard DoH</string>
+			<key>payloadDescription</key>
+			<string>Configures device to use AdGuard DNS</string>
+			<key>payloadIdentifier</key>
+			<string>com.apple.dnsSettings.managed.d39f347e-142d-44ea-80ÇË68-60b018a65f41</string>
+			<key>payloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>payloadUUID</key>
+			<string>28da403c-b566-49cd-ae94-fe983a42e6f8</string>
+			<key>dnssettings</key>
+			<dict>
+				<key>dnsprotocol</key>
+				<string>HTTPS</string>
+				<key>serverURL</key>
+				<string>https://d.adguard-dns.com/dns-query/c5b88b2b</string>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerURL</key>
+				<string>https://d.adguard-dns.com/dns-query/c5b88b2b</string>
+			</dict>
+			<key>onDemandRules</key>
+			<array>
+				<dict>
+					<key>actionParameters</key>
+					<array>
+						<dict>
+							<key>domainAction</key>
+							<string>NeverConnect</string>
+							<key>domains</key>
+							<array>
+								<string>*.local</string>
+								<string>*.lan</string>
+								<string>epdg.epc.aptg.com.tw</string>
+								<string>epdg.epc.att.net</string>
+								<string>epdg.mobileone.net.sg</string>
+								<string>primgw.vowifina.spcsdns.net</string>
+								<ÇËstring>swu-loopback-epdg.qualcomm.com</string>
+								<string>vowifi.jio.com</string>
+								<string>weconnect.globe.com.ph</string>
+								<string>wlan.three.com.hk</string>
+								<string>wo.vzwwo.com</string>
+								<string>epdg.epc.*.pub.3gppnetwork.org</string>
+								<string>ss.epdg.epc.*.pub.3gppnetwork.org</string>
+								<string>dengon.docomo.ne.jp</string>
+								<string>dlinkap</string>
+								<string>dlinkrouter</string>
+								<string>edimax.setup</string>
+								<string>fritz.box</string>
+								<string>gateway.2wire.net</string>
+								<string>miwifi.com</string>
+								<string>my.firewall</string>
+								<string>my.keenetic.net</string>
+								<string>netis.cc</string>
+								<string>pocket.wifi</string>
+								<string>router.asus.com</string>
+								<string>repeater.asus.com</string>
+								<string>routerlogin.com</string>
+								<string>routerlogin.net</string>
+								<string>tendawifi.com</string>
+								<string>tendawifi.net</string>
+								<ÇËstring>tplinklogin.net</string>
+								<string>tplinkwifi.net</string>
+								<string>tplinkrepeater.net</string>
+								<string>oppowifi.com</string>
+								<string>e7.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e6.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e4.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e3.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e2.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e1.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e5.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.t-mobile.com</string>
+								<string>*.msg.t-mobile.com</string>
+								<string>*.mstore.msg.t-mobile.com</string>
+								<string>*.vvm.mstore.msg.t-mobile.com</string>
+							</array>
+							<key>DomainAction</key>
+							<string>NeverConnect</string>
+							<key>Domains</key>
+							<array>
+								<string>*.local</string>
+								<string>*.lan</string>
+						ÇË		<string>epdg.epc.aptg.com.tw</string>
+								<string>epdg.epc.att.net</string>
+								<string>epdg.mobileone.net.sg</string>
+								<string>primgw.vowifina.spcsdns.net</string>
+								<string>swu-loopback-epdg.qualcomm.com</string>
+								<string>vowifi.jio.com</string>
+								<string>weconnect.globe.com.ph</string>
+								<string>wlan.three.com.hk</string>
+								<string>wo.vzwwo.com</string>
+								<string>epdg.epc.*.pub.3gppnetwork.org</string>
+								<string>ss.epdg.epc.*.pub.3gppnetwork.org</string>
+								<string>dengon.docomo.ne.jp</string>
+								<string>dlinkap</string>
+								<string>dlinkrouter</string>
+								<string>edimax.setup</string>
+								<string>fritz.box</string>
+								<string>gateway.2wire.net</string>
+								<string>miwifi.com</string>
+								<string>my.firewall</string>
+								<string>my.keenetic.net</string>
+								<string>netis.cc</string>
+								<string>pocket.wifi</string>
+								<string>router.asus.com</string>
+								<string>repeaÇËter.asus.com</string>
+								<string>routerlogin.com</string>
+								<string>routerlogin.net</string>
+								<string>tendawifi.com</string>
+								<string>tendawifi.net</string>
+								<string>tplinklogin.net</string>
+								<string>tplinkwifi.net</string>
+								<string>tplinkrepeater.net</string>
+								<string>oppowifi.com</string>
+								<string>e7.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e6.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e4.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e3.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e2.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e1.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e5.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.t-mobile.com</string>
+								<string>*.msg.t-mobile.com</string>
+								<string>*.mstore.msg.t-mobile.com</string>
+								<string>*.vvm.mstore.msg.t-mobile.com</string>
+				ÇË			</array>
+						</dict>
+					</array>
+					<key>action</key>
+					<string>EvaluateConnection</string>
+					<key>Action</key>
+					<string>EvaluateConnection</string>
+					<key>ActionParameters</key>
+					<array>
+						<dict>
+							<key>domainAction</key>
+							<string>NeverConnect</string>
+							<key>domains</key>
+							<array>
+								<string>*.local</string>
+								<string>*.lan</string>
+								<string>epdg.epc.aptg.com.tw</string>
+								<string>epdg.epc.att.net</string>
+								<string>epdg.mobileone.net.sg</string>
+								<string>primgw.vowifina.spcsdns.net</string>
+								<string>swu-loopback-epdg.qualcomm.com</string>
+								<string>vowifi.jio.com</string>
+								<string>weconnect.globe.com.ph</string>
+								<string>wlan.three.com.hk</string>
+								<string>wo.vzwwo.com</string>
+								<string>epdg.epc.*.pub.3gppnetwork.org</string>
+								<string>ss.epdg.epc.*.pub.3gppnetwork.org</string>
+								<string>dengon.docomo.ne.jp</string>
+								<string>dlinkap</stÇËring>
+								<string>dlinkrouter</string>
+								<string>edimax.setup</string>
+								<string>fritz.box</string>
+								<string>gateway.2wire.net</string>
+								<string>miwifi.com</string>
+								<string>my.firewall</string>
+								<string>my.keenetic.net</string>
+								<string>netis.cc</string>
+								<string>pocket.wifi</string>
+								<string>router.asus.com</string>
+								<string>repeater.asus.com</string>
+								<string>routerlogin.com</string>
+								<string>routerlogin.net</string>
+								<string>tendawifi.com</string>
+								<string>tendawifi.net</string>
+								<string>tplinklogin.net</string>
+								<string>tplinkwifi.net</string>
+								<string>tplinkrepeater.net</string>
+								<string>oppowifi.com</string>
+								<string>e7.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e6.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e4.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e3.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.eÇË2.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e1.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e5.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.t-mobile.com</string>
+								<string>*.msg.t-mobile.com</string>
+								<string>*.mstore.msg.t-mobile.com</string>
+								<string>*.vvm.mstore.msg.t-mobile.com</string>
+							</array>
+							<key>DomainAction</key>
+							<string>NeverConnect</string>
+							<key>Domains</key>
+							<array>
+								<string>*.local</string>
+								<string>*.lan</string>
+								<string>epdg.epc.aptg.com.tw</string>
+								<string>epdg.epc.att.net</string>
+								<string>epdg.mobileone.net.sg</string>
+								<string>primgw.vowifina.spcsdns.net</string>
+								<string>swu-loopback-epdg.qualcomm.com</string>
+								<string>vowifi.jio.com</string>
+								<string>weconnect.globe.com.ph</string>
+								<string>wlan.three.com.hk</string>
+								<string>wo.vzwwo.com</striÇËng>
+								<string>epdg.epc.*.pub.3gppnetwork.org</string>
+								<string>ss.epdg.epc.*.pub.3gppnetwork.org</string>
+								<string>dengon.docomo.ne.jp</string>
+								<string>dlinkap</string>
+								<string>dlinkrouter</string>
+								<string>edimax.setup</string>
+								<string>fritz.box</string>
+								<string>gateway.2wire.net</string>
+								<string>miwifi.com</string>
+								<string>my.firewall</string>
+								<string>my.keenetic.net</string>
+								<string>netis.cc</string>
+								<string>pocket.wifi</string>
+								<string>router.asus.com</string>
+								<string>repeater.asus.com</string>
+								<string>routerlogin.com</string>
+								<string>routerlogin.net</string>
+								<string>tendawifi.com</string>
+								<string>tendawifi.net</string>
+								<string>tplinklogin.net</string>
+								<string>tplinkwifi.net</string>
+								<string>tplinkrepeater.net</string>
+								<string>oppowifi.com</string>
+								<string>e7.vvm.mstore.msg.t-mobile.com</string>
+		ÇË						<string>*.e6.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e4.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e3.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e2.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e1.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e5.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.t-mobile.com</string>
+								<string>*.msg.t-mobile.com</string>
+								<string>*.mstore.msg.t-mobile.com</string>
+								<string>*.vvm.mstore.msg.t-mobile.com</string>
+							</array>
+						</dict>
+					</array>
+				</dict>
+			</array>
+			<key>DNSSettings</key>
+			<dict>
+				<key>dnsprotocol</key>
+				<string>HTTPS</string>
+				<key>serverURL</key>
+				<string>https://d.adguard-dns.com/dns-query/c5b88b2b</string>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerURL</key>
+				<string>https://d.adguard-dns.com/dns-query/c5b88b2b</string>
+			</dict>
+		ÇË	<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.dnsSettings.managed.d39f347e-142d-44ea-8068-60b018a65f41</string>
+			<key>PayloadUUID</key>
+			<string>28da403c-b566-49cd-ae94-fe983a42e6f8</string>
+			<key>PayloadDisplayName</key>
+			<string>AdGuard DoH</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadDescription</key>
+			<string>Configures device to use AdGuard DNS</string>
+			<key>OnDemandRules</key>
+			<array>
+				<dict>
+					<key>actionParameters</key>
+					<array>
+						<dict>
+							<key>domainAction</key>
+							<string>NeverConnect</string>
+							<key>domains</key>
+							<array>
+								<string>*.local</string>
+								<string>*.lan</string>
+								<string>epdg.epc.aptg.com.tw</string>
+								<string>epdg.epc.att.net</string>
+								<string>epdg.mobileone.net.sg</string>
+								<string>primgw.vowifina.spcsdns.net</string>
+								<string>swu-loopback-epdg.qualcomm.comÇË</string>
+								<string>vowifi.jio.com</string>
+								<string>weconnect.globe.com.ph</string>
+								<string>wlan.three.com.hk</string>
+								<string>wo.vzwwo.com</string>
+								<string>epdg.epc.*.pub.3gppnetwork.org</string>
+								<string>ss.epdg.epc.*.pub.3gppnetwork.org</string>
+								<string>dengon.docomo.ne.jp</string>
+								<string>dlinkap</string>
+								<string>dlinkrouter</string>
+								<string>edimax.setup</string>
+								<string>fritz.box</string>
+								<string>gateway.2wire.net</string>
+								<string>miwifi.com</string>
+								<string>my.firewall</string>
+								<string>my.keenetic.net</string>
+								<string>netis.cc</string>
+								<string>pocket.wifi</string>
+								<string>router.asus.com</string>
+								<string>repeater.asus.com</string>
+								<string>routerlogin.com</string>
+								<string>routerlogin.net</string>
+								<string>tendawifi.com</string>
+								<string>tendawifi.net</string>
+								<string>tplinklogin.net</string>
+					ÇË			<string>tplinkwifi.net</string>
+								<string>tplinkrepeater.net</string>
+								<string>oppowifi.com</string>
+								<string>e7.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e6.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e4.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e3.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e2.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e1.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e5.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.t-mobile.com</string>
+								<string>*.msg.t-mobile.com</string>
+								<string>*.mstore.msg.t-mobile.com</string>
+								<string>*.vvm.mstore.msg.t-mobile.com</string>
+							</array>
+							<key>DomainAction</key>
+							<string>NeverConnect</string>
+							<key>Domains</key>
+							<array>
+								<string>*.local</string>
+								<string>*.lan</string>
+								<string>epdg.epc.aptg.com.tw</strinÇËg>
+								<string>epdg.epc.att.net</string>
+								<string>epdg.mobileone.net.sg</string>
+								<string>primgw.vowifina.spcsdns.net</string>
+								<string>swu-loopback-epdg.qualcomm.com</string>
+								<string>vowifi.jio.com</string>
+								<string>weconnect.globe.com.ph</string>
+								<string>wlan.three.com.hk</string>
+								<string>wo.vzwwo.com</string>
+								<string>epdg.epc.*.pub.3gppnetwork.org</string>
+								<string>ss.epdg.epc.*.pub.3gppnetwork.org</string>
+								<string>dengon.docomo.ne.jp</string>
+								<string>dlinkap</string>
+								<string>dlinkrouter</string>
+								<string>edimax.setup</string>
+								<string>fritz.box</string>
+								<string>gateway.2wire.net</string>
+								<string>miwifi.com</string>
+								<string>my.firewall</string>
+								<string>my.keenetic.net</string>
+								<string>netis.cc</string>
+								<string>pocket.wifi</string>
+								<string>router.asus.com</string>
+								<string>repeater.asus.com</string>
+								<stringÇË>routerlogin.com</string>
+								<string>routerlogin.net</string>
+								<string>tendawifi.com</string>
+								<string>tendawifi.net</string>
+								<string>tplinklogin.net</string>
+								<string>tplinkwifi.net</string>
+								<string>tplinkrepeater.net</string>
+								<string>oppowifi.com</string>
+								<string>e7.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e6.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e4.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e3.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e2.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e1.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e5.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.t-mobile.com</string>
+								<string>*.msg.t-mobile.com</string>
+								<string>*.mstore.msg.t-mobile.com</string>
+								<string>*.vvm.mstore.msg.t-mobile.com</string>
+							</array>
+						</dict>
+					</arraÇËy>
+					<key>action</key>
+					<string>EvaluateConnection</string>
+					<key>Action</key>
+					<string>EvaluateConnection</string>
+					<key>ActionParameters</key>
+					<array>
+						<dict>
+							<key>domainAction</key>
+							<string>NeverConnect</string>
+							<key>domains</key>
+							<array>
+								<string>*.local</string>
+								<string>*.lan</string>
+								<string>epdg.epc.aptg.com.tw</string>
+								<string>epdg.epc.att.net</string>
+								<string>epdg.mobileone.net.sg</string>
+								<string>primgw.vowifina.spcsdns.net</string>
+								<string>swu-loopback-epdg.qualcomm.com</string>
+								<string>vowifi.jio.com</string>
+								<string>weconnect.globe.com.ph</string>
+								<string>wlan.three.com.hk</string>
+								<string>wo.vzwwo.com</string>
+								<string>epdg.epc.*.pub.3gppnetwork.org</string>
+								<string>ss.epdg.epc.*.pub.3gppnetwork.org</string>
+								<string>dengon.docomo.ne.jp</string>
+								<string>dlinkap</string>
+								<string>dlinkrouter</stÇËring>
+								<string>edimax.setup</string>
+								<string>fritz.box</string>
+								<string>gateway.2wire.net</string>
+								<string>miwifi.com</string>
+								<string>my.firewall</string>
+								<string>my.keenetic.net</string>
+								<string>netis.cc</string>
+								<string>pocket.wifi</string>
+								<string>router.asus.com</string>
+								<string>repeater.asus.com</string>
+								<string>routerlogin.com</string>
+								<string>routerlogin.net</string>
+								<string>tendawifi.com</string>
+								<string>tendawifi.net</string>
+								<string>tplinklogin.net</string>
+								<string>tplinkwifi.net</string>
+								<string>tplinkrepeater.net</string>
+								<string>oppowifi.com</string>
+								<string>e7.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e6.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e4.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e3.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e2.vvm.mstore.msg.t-mobile.com</stringÇË>
+								<string>*.e1.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e5.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.t-mobile.com</string>
+								<string>*.msg.t-mobile.com</string>
+								<string>*.mstore.msg.t-mobile.com</string>
+								<string>*.vvm.mstore.msg.t-mobile.com</string>
+							</array>
+							<key>DomainAction</key>
+							<string>NeverConnect</string>
+							<key>Domains</key>
+							<array>
+								<string>*.local</string>
+								<string>*.lan</string>
+								<string>epdg.epc.aptg.com.tw</string>
+								<string>epdg.epc.att.net</string>
+								<string>epdg.mobileone.net.sg</string>
+								<string>primgw.vowifina.spcsdns.net</string>
+								<string>swu-loopback-epdg.qualcomm.com</string>
+								<string>vowifi.jio.com</string>
+								<string>weconnect.globe.com.ph</string>
+								<string>wlan.three.com.hk</string>
+								<string>wo.vzwwo.com</string>
+								<string>epdg.epc.*.pub.3gÇËppnetwork.org</string>
+								<string>ss.epdg.epc.*.pub.3gppnetwork.org</string>
+								<string>dengon.docomo.ne.jp</string>
+								<string>dlinkap</string>
+								<string>dlinkrouter</string>
+								<string>edimax.setup</string>
+								<string>fritz.box</string>
+								<string>gateway.2wire.net</string>
+								<string>miwifi.com</string>
+								<string>my.firewall</string>
+								<string>my.keenetic.net</string>
+								<string>netis.cc</string>
+								<string>pocket.wifi</string>
+								<string>router.asus.com</string>
+								<string>repeater.asus.com</string>
+								<string>routerlogin.com</string>
+								<string>routerlogin.net</string>
+								<string>tendawifi.com</string>
+								<string>tendawifi.net</string>
+								<string>tplinklogin.net</string>
+								<string>tplinkwifi.net</string>
+								<string>tplinkrepeater.net</string>
+								<string>oppowifi.com</string>
+								<string>e7.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e6.vvm.mstore.msg.t-mÇËobile.com</string>
+								<string>*.e4.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e3.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e2.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e1.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e5.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.t-mobile.com</string>
+								<string>*.msg.t-mobile.com</string>
+								<string>*.mstore.msg.t-mobile.com</string>
+								<string>*.vvm.mstore.msg.t-mobile.com</string>
+							</array>
+						</dict>
+					</array>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>AdGuard DoH</string>
+	<key>PayloadDescription</key>
+	<string>Adds AdGuard DNS to Big Sur and iOS 14 or newer systems</string>
+	<key>PayloadIdentifier</key>
+	<string>91baa442-d2c6-4db2-942a-529661878c5b</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>e97d3d06-6faa-43ÇË13-9409-61fbb6527888</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>payloadVersion</key>
+			<integer>1</integer>
+			<key>payloadDisplayName</key>
+			<string>AdGuard DoH</string>
+			<key>payloadDescription</key>
+			<string>Configures device to use AdGuard DNS</string>
+			<key>payloadIdentifier</key>
+			<string>com.apple.dnsSettings.managed.d39f347e-142d-44ea-8068-60b018a65f41</string>
+			<key>payloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>payloadUUID</key>
+			<string>28da403c-b566-49cd-ae94-fe983a42e6f8</string>
+			<key>dnssettings</key>
+			<dict>
+				<key>dnsprotocol</key>
+				<string>HTTPS</string>
+				<key>serverURL</key>
+				<string>https://d.adguard-dns.com/dns-query/c5b88b2b</string>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerURL</key>
+				<string>https://d.adguard-dns.com/dns-query/c5b88b2b</string>
+			</dict>
+			<key>onDemandRules</key>
+			<array>
+				<dict>
+			ÇË		<key>actionParameters</key>
+					<array>
+						<dict>
+							<key>domainAction</key>
+							<string>NeverConnect</string>
+							<key>domains</key>
+							<array>
+								<string>*.local</string>
+								<string>*.lan</string>
+								<string>epdg.epc.aptg.com.tw</string>
+								<string>epdg.epc.att.net</string>
+								<string>epdg.mobileone.net.sg</string>
+								<string>primgw.vowifina.spcsdns.net</string>
+								<string>swu-loopback-epdg.qualcomm.com</string>
+								<string>vowifi.jio.com</string>
+								<string>weconnect.globe.com.ph</string>
+								<string>wlan.three.com.hk</string>
+								<string>wo.vzwwo.com</string>
+								<string>epdg.epc.*.pub.3gppnetwork.org</string>
+								<string>ss.epdg.epc.*.pub.3gppnetwork.org</string>
+								<string>dengon.docomo.ne.jp</string>
+								<string>dlinkap</string>
+								<string>dlinkrouter</string>
+								<string>edimax.setup</string>
+								<string>fritz.box</string>
+								<string>gateway.2wire.net</string>
+								<strÇËing>miwifi.com</string>
+								<string>my.firewall</string>
+								<string>my.keenetic.net</string>
+								<string>netis.cc</string>
+								<string>pocket.wifi</string>
+								<string>router.asus.com</string>
+								<string>repeater.asus.com</string>
+								<string>routerlogin.com</string>
+								<string>routerlogin.net</string>
+								<string>tendawifi.com</string>
+								<string>tendawifi.net</string>
+								<string>tplinklogin.net</string>
+								<string>tplinkwifi.net</string>
+								<string>tplinkrepeater.net</string>
+								<string>oppowifi.com</string>
+								<string>e7.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e6.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e4.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e3.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e2.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e1.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e.vvm.mstore.msg.t-mobile.com</string>
+								<string>*ÇË.e5.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.t-mobile.com</string>
+								<string>*.msg.t-mobile.com</string>
+								<string>*.mstore.msg.t-mobile.com</string>
+								<string>*.vvm.mstore.msg.t-mobile.com</string>
+							</array>
+							<key>DomainAction</key>
+							<string>NeverConnect</string>
+							<key>Domains</key>
+							<array>
+								<string>*.local</string>
+								<string>*.lan</string>
+								<string>epdg.epc.aptg.com.tw</string>
+								<string>epdg.epc.att.net</string>
+								<string>epdg.mobileone.net.sg</string>
+								<string>primgw.vowifina.spcsdns.net</string>
+								<string>swu-loopback-epdg.qualcomm.com</string>
+								<string>vowifi.jio.com</string>
+								<string>weconnect.globe.com.ph</string>
+								<string>wlan.three.com.hk</string>
+								<string>wo.vzwwo.com</string>
+								<string>epdg.epc.*.pub.3gppnetwork.org</string>
+								<string>ss.epdg.epc.*.pub.3gppnetwork.org</string>
+								<string>dengon.docomo.ne.jp</string>
+							ÇË	<string>dlinkap</string>
+								<string>dlinkrouter</string>
+								<string>edimax.setup</string>
+								<string>fritz.box</string>
+								<string>gateway.2wire.net</string>
+								<string>miwifi.com</string>
+								<string>my.firewall</string>
+								<string>my.keenetic.net</string>
+								<string>netis.cc</string>
+								<string>pocket.wifi</string>
+								<string>router.asus.com</string>
+								<string>repeater.asus.com</string>
+								<string>routerlogin.com</string>
+								<string>routerlogin.net</string>
+								<string>tendawifi.com</string>
+								<string>tendawifi.net</string>
+								<string>tplinklogin.net</string>
+								<string>tplinkwifi.net</string>
+								<string>tplinkrepeater.net</string>
+								<string>oppowifi.com</string>
+								<string>e7.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e6.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e4.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e3.vvm.mstore.msg.t-mobile.com</string>ÇË
+								<string>*.e2.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e1.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e5.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.t-mobile.com</string>
+								<string>*.msg.t-mobile.com</string>
+								<string>*.mstore.msg.t-mobile.com</string>
+								<string>*.vvm.mstore.msg.t-mobile.com</string>
+							</array>
+						</dict>
+					</array>
+					<key>action</key>
+					<string>EvaluateConnection</string>
+					<key>Action</key>
+					<string>EvaluateConnection</string>
+					<key>ActionParameters</key>
+					<array>
+						<dict>
+							<key>domainAction</key>
+							<string>NeverConnect</string>
+							<key>domains</key>
+							<array>
+								<string>*.local</string>
+								<string>*.lan</string>
+								<string>epdg.epc.aptg.com.tw</string>
+								<string>epdg.epc.att.net</string>
+								<string>epdg.mobileone.net.sg</string>
+								<string>primgw.vowifina.spcsdnsÇË.net</string>
+								<string>swu-loopback-epdg.qualcomm.com</string>
+								<string>vowifi.jio.com</string>
+								<string>weconnect.globe.com.ph</string>
+								<string>wlan.three.com.hk</string>
+								<string>wo.vzwwo.com</string>
+								<string>epdg.epc.*.pub.3gppnetwork.org</string>
+								<string>ss.epdg.epc.*.pub.3gppnetwork.org</string>
+								<string>dengon.docomo.ne.jp</string>
+								<string>dlinkap</string>
+								<string>dlinkrouter</string>
+								<string>edimax.setup</string>
+								<string>fritz.box</string>
+								<string>gateway.2wire.net</string>
+								<string>miwifi.com</string>
+								<string>my.firewall</string>
+								<string>my.keenetic.net</string>
+								<string>netis.cc</string>
+								<string>pocket.wifi</string>
+								<string>router.asus.com</string>
+								<string>repeater.asus.com</string>
+								<string>routerlogin.com</string>
+								<string>routerlogin.net</string>
+								<string>tendawifi.com</string>
+								<string>tendawifiÇË.net</string>
+								<string>tplinklogin.net</string>
+								<string>tplinkwifi.net</string>
+								<string>tplinkrepeater.net</string>
+								<string>oppowifi.com</string>
+								<string>e7.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e6.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e4.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e3.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e2.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e1.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e5.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.t-mobile.com</string>
+								<string>*.msg.t-mobile.com</string>
+								<string>*.mstore.msg.t-mobile.com</string>
+								<string>*.vvm.mstore.msg.t-mobile.com</string>
+							</array>
+							<key>DomainAction</key>
+							<string>NeverConnect</string>
+							<key>Domains</key>
+							<array>
+								<string>*.local</string>
+								<strinÇËg>*.lan</string>
+								<string>epdg.epc.aptg.com.tw</string>
+								<string>epdg.epc.att.net</string>
+								<string>epdg.mobileone.net.sg</string>
+								<string>primgw.vowifina.spcsdns.net</string>
+								<string>swu-loopback-epdg.qualcomm.com</string>
+								<string>vowifi.jio.com</string>
+								<string>weconnect.globe.com.ph</string>
+								<string>wlan.three.com.hk</string>
+								<string>wo.vzwwo.com</string>
+								<string>epdg.epc.*.pub.3gppnetwork.org</string>
+								<string>ss.epdg.epc.*.pub.3gppnetwork.org</string>
+								<string>dengon.docomo.ne.jp</string>
+								<string>dlinkap</string>
+								<string>dlinkrouter</string>
+								<string>edimax.setup</string>
+								<string>fritz.box</string>
+								<string>gateway.2wire.net</string>
+								<string>miwifi.com</string>
+								<string>my.firewall</string>
+								<string>my.keenetic.net</string>
+								<string>netis.cc</string>
+								<string>pocket.wifi</string>
+								<string>router.asus.com</stringÇË>
+								<string>repeater.asus.com</string>
+								<string>routerlogin.com</string>
+								<string>routerlogin.net</string>
+								<string>tendawifi.com</string>
+								<string>tendawifi.net</string>
+								<string>tplinklogin.net</string>
+								<string>tplinkwifi.net</string>
+								<string>tplinkrepeater.net</string>
+								<string>oppowifi.com</string>
+								<string>e7.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e6.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e4.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e3.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e2.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e1.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e5.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.t-mobile.com</string>
+								<string>*.msg.t-mobile.com</string>
+								<string>*.mstore.msg.t-mobile.com</string>
+								<string>*.vvm.mstore.msg.t-mÇËobile.com</string>
+							</array>
+						</dict>
+					</array>
+				</dict>
+			</array>
+			<key>DNSSettings</key>
+			<dict>
+				<key>dnsprotocol</key>
+				<string>HTTPS</string>
+				<key>serverURL</key>
+				<string>https://d.adguard-dns.com/dns-query/c5b88b2b</string>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerURL</key>
+				<string>https://d.adguard-dns.com/dns-query/c5b88b2b</string>
+			</dict>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.dnsSettings.managed.d39f347e-142d-44ea-8068-60b018a65f41</string>
+			<key>PayloadUUID</key>
+			<string>28da403c-b566-49cd-ae94-fe983a42e6f8</string>
+			<key>PayloadDisplayName</key>
+			<string>AdGuard DoH</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadDescription</key>
+			<string>Configures device to use AdGuard DNS</string>
+			<key>OnDemandRules</key>
+			<array>
+				<dict>
+					<key>actionParameters</key>
+					<aÇËrray>
+						<dict>
+							<key>domainAction</key>
+							<string>NeverConnect</string>
+							<key>domains</key>
+							<array>
+								<string>*.local</string>
+								<string>*.lan</string>
+								<string>epdg.epc.aptg.com.tw</string>
+								<string>epdg.epc.att.net</string>
+								<string>epdg.mobileone.net.sg</string>
+								<string>primgw.vowifina.spcsdns.net</string>
+								<string>swu-loopback-epdg.qualcomm.com</string>
+								<string>vowifi.jio.com</string>
+								<string>weconnect.globe.com.ph</string>
+								<string>wlan.three.com.hk</string>
+								<string>wo.vzwwo.com</string>
+								<string>epdg.epc.*.pub.3gppnetwork.org</string>
+								<string>ss.epdg.epc.*.pub.3gppnetwork.org</string>
+								<string>dengon.docomo.ne.jp</string>
+								<string>dlinkap</string>
+								<string>dlinkrouter</string>
+								<string>edimax.setup</string>
+								<string>fritz.box</string>
+								<string>gateway.2wire.net</string>
+								<string>miwifi.com</string>
+								<striÇËng>my.firewall</string>
+								<string>my.keenetic.net</string>
+								<string>netis.cc</string>
+								<string>pocket.wifi</string>
+								<string>router.asus.com</string>
+								<string>repeater.asus.com</string>
+								<string>routerlogin.com</string>
+								<string>routerlogin.net</string>
+								<string>tendawifi.com</string>
+								<string>tendawifi.net</string>
+								<string>tplinklogin.net</string>
+								<string>tplinkwifi.net</string>
+								<string>tplinkrepeater.net</string>
+								<string>oppowifi.com</string>
+								<string>e7.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e6.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e4.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e3.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e2.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e1.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e5.vvm.mstore.msg.t-mobile.com</striÇËng>
+								<string>*.t-mobile.com</string>
+								<string>*.msg.t-mobile.com</string>
+								<string>*.mstore.msg.t-mobile.com</string>
+								<string>*.vvm.mstore.msg.t-mobile.com</string>
+							</array>
+							<key>DomainAction</key>
+							<string>NeverConnect</string>
+							<key>Domains</key>
+							<array>
+								<string>*.local</string>
+								<string>*.lan</string>
+								<string>epdg.epc.aptg.com.tw</string>
+								<string>epdg.epc.att.net</string>
+								<string>epdg.mobileone.net.sg</string>
+								<string>primgw.vowifina.spcsdns.net</string>
+								<string>swu-loopback-epdg.qualcomm.com</string>
+								<string>vowifi.jio.com</string>
+								<string>weconnect.globe.com.ph</string>
+								<string>wlan.three.com.hk</string>
+								<string>wo.vzwwo.com</string>
+								<string>epdg.epc.*.pub.3gppnetwork.org</string>
+								<string>ss.epdg.epc.*.pub.3gppnetwork.org</string>
+								<string>dengon.docomo.ne.jp</string>
+								<string>dlinkap</string>
+								<stÇËring>dlinkrouter</string>
+								<string>edimax.setup</string>
+								<string>fritz.box</string>
+								<string>gateway.2wire.net</string>
+								<string>miwifi.com</string>
+								<string>my.firewall</string>
+								<string>my.keenetic.net</string>
+								<string>netis.cc</string>
+								<string>pocket.wifi</string>
+								<string>router.asus.com</string>
+								<string>repeater.asus.com</string>
+								<string>routerlogin.com</string>
+								<string>routerlogin.net</string>
+								<string>tendawifi.com</string>
+								<string>tendawifi.net</string>
+								<string>tplinklogin.net</string>
+								<string>tplinkwifi.net</string>
+								<string>tplinkrepeater.net</string>
+								<string>oppowifi.com</string>
+								<string>e7.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e6.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e4.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e3.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e2.vvm.mstore.msg.ÇËt-mobile.com</string>
+								<string>*.e1.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e5.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.t-mobile.com</string>
+								<string>*.msg.t-mobile.com</string>
+								<string>*.mstore.msg.t-mobile.com</string>
+								<string>*.vvm.mstore.msg.t-mobile.com</string>
+							</array>
+						</dict>
+					</array>
+					<key>action</key>
+					<string>EvaluateConnection</string>
+					<key>Action</key>
+					<string>EvaluateConnection</string>
+					<key>ActionParameters</key>
+					<array>
+						<dict>
+							<key>domainAction</key>
+							<string>NeverConnect</string>
+							<key>domains</key>
+							<array>
+								<string>*.local</string>
+								<string>*.lan</string>
+								<string>epdg.epc.aptg.com.tw</string>
+								<string>epdg.epc.att.net</string>
+								<string>epdg.mobileone.net.sg</string>
+								<string>primgw.vowifina.spcsdns.net</string>
+								<string>swu-looÇËpback-epdg.qualcomm.com</string>
+								<string>vowifi.jio.com</string>
+								<string>weconnect.globe.com.ph</string>
+								<string>wlan.three.com.hk</string>
+								<string>wo.vzwwo.com</string>
+								<string>epdg.epc.*.pub.3gppnetwork.org</string>
+								<string>ss.epdg.epc.*.pub.3gppnetwork.org</string>
+								<string>dengon.docomo.ne.jp</string>
+								<string>dlinkap</string>
+								<string>dlinkrouter</string>
+								<string>edimax.setup</string>
+								<string>fritz.box</string>
+								<string>gateway.2wire.net</string>
+								<string>miwifi.com</string>
+								<string>my.firewall</string>
+								<string>my.keenetic.net</string>
+								<string>netis.cc</string>
+								<string>pocket.wifi</string>
+								<string>router.asus.com</string>
+								<string>repeater.asus.com</string>
+								<string>routerlogin.com</string>
+								<string>routerlogin.net</string>
+								<string>tendawifi.com</string>
+								<string>tendawifi.net</string>
+								<string>tplinklÇËogin.net</string>
+								<string>tplinkwifi.net</string>
+								<string>tplinkrepeater.net</string>
+								<string>oppowifi.com</string>
+								<string>e7.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e6.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e4.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e3.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e2.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e1.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e5.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.t-mobile.com</string>
+								<string>*.msg.t-mobile.com</string>
+								<string>*.mstore.msg.t-mobile.com</string>
+								<string>*.vvm.mstore.msg.t-mobile.com</string>
+							</array>
+							<key>DomainAction</key>
+							<string>NeverConnect</string>
+							<key>Domains</key>
+							<array>
+								<string>*.local</string>
+								<string>*.lan</string>
+								<string>epdgÇË.epc.aptg.com.tw</string>
+								<string>epdg.epc.att.net</string>
+								<string>epdg.mobileone.net.sg</string>
+								<string>primgw.vowifina.spcsdns.net</string>
+								<string>swu-loopback-epdg.qualcomm.com</string>
+								<string>vowifi.jio.com</string>
+								<string>weconnect.globe.com.ph</string>
+								<string>wlan.three.com.hk</string>
+								<string>wo.vzwwo.com</string>
+								<string>epdg.epc.*.pub.3gppnetwork.org</string>
+								<string>ss.epdg.epc.*.pub.3gppnetwork.org</string>
+								<string>dengon.docomo.ne.jp</string>
+								<string>dlinkap</string>
+								<string>dlinkrouter</string>
+								<string>edimax.setup</string>
+								<string>fritz.box</string>
+								<string>gateway.2wire.net</string>
+								<string>miwifi.com</string>
+								<string>my.firewall</string>
+								<string>my.keenetic.net</string>
+								<string>netis.cc</string>
+								<string>pocket.wifi</string>
+								<string>router.asus.com</string>
+								<string>repeater.asus.com</ÇËstring>
+								<string>routerlogin.com</string>
+								<string>routerlogin.net</string>
+								<string>tendawifi.com</string>
+								<string>tendawifi.net</string>
+								<string>tplinklogin.net</string>
+								<string>tplinkwifi.net</string>
+								<string>tplinkrepeater.net</string>
+								<string>oppowifi.com</string>
+								<string>e7.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e6.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e4.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e3.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e2.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e1.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.e5.vvm.mstore.msg.t-mobile.com</string>
+								<string>*.t-mobile.com</string>
+								<string>*.msg.t-mobile.com</string>
+								<string>*.mstore.msg.t-mobile.com</string>
+								<string>*.vvm.mstore.msg.t-mobile.com</string>
+							</array>
+		ÅÖ				</dict>
+					</array>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+</dict>
+</plist>      †Ä0Çè0Ç†^émRœêœ‰@ºü0
+*ÜHŒ=0K10	UAT10U
+ZeroSSL1*0(U!ZeroSSL ECC Domain Secure Site CA0250421000000Z260421235959Z010U*.adguard-dns.com0Y0*ÜHŒ=*ÜHŒ=B Ky} _fU¯çä‚”ù°=äZ∞Zó÷ÉH¢Î”FÉtU¢WGñﬂN$cπL,î)8Ó˜|†U8;_œôª£Ç	0Ç0U#0ÄkÊKŒ9GÆˆ~êy0ëí»_£0Uô6¯ªR˙„kt2ßvl>OH0UˇÄ0Uˇ0 0U%0++0IU B0@04+≤1N0%0#+https://sectigo.com/CPS0gÅ0Åà+|0z0K+0Ü?http://zerossl.crt.sectigo.com/ZeroSSLECCDomainSecureSiteCA.crt0++0Ühttp://zerossl.ocsp.sectigo.com0-U&0$Ç*.adguard-dns.comÇadguard-dns.com0Ç
++÷yÇoÇki v ñódøUXó≠˜Cáh7BwÈ:’ˆ§Û6nF§? ©∆  ñW«gM   G0E ˜›X
+Ÿà\¿ËôQìÓŸœ®[˝åç®!eÕZ_û! ˜Ûlc!;Ω˚ÆÌu≤P ‹˚‰ˆG¬ú0∞*l)R<˛S v Ü‘«(™o˛∫ox*Më™Œ-r1ÆŒ]pA-%L«‘  ñW«g-   G0E s∂Ëñ·
+'¶ÿ‹©≠‚I&÷ªr*F-â¸K©Ÿ$Ç! ≈¢ªüu`/◊GD0ÉÜI
+î;k6kÖ$$DûkeZ’ w WîºÛÆ©>3,ô≥˜êﬂõ¬=q2%›!©%¨a≈N!  ñW«g.   H0F! °%Ãß+é•.kéP!W√Ä˘æ!b;rΩ±É¨\Üâ~! Ùhê. ˙c=ŸË]ZuêÉ3Ï´Ë‡º¬Ôê5e∫Û´0
+*ÜHŒ=g 0d06WíYöKg⁄Q'w~“ﬂÕáÛ1ÜâJ¸Ï∞/Ω^sº›G;Á v√@_g ı⁄¬	¸0o¿0JºÙ†k>WØˇô%–yW+e◊ùsAaá.Å^8u∑ß˘∑µ	ÑC˝÷ò&7Ï¬0ÇÖ0Ç†#∑m„¡ª+QñÍ∑dË0
+*ÜHŒ=0Åà10	UUS10U
+New Jersey10UJersey City10U
+The USERTRUST Network1.0,U%USERTrust ECC Certification Authority0200130000000Z300129235959Z0K10	UAT10U
+ZeroSSL1*0(U!ZeroSSL ECC Domain Secure Site CA0v0*ÜHŒ=+Å "b 6Aa+S%Ì™ î‰÷⁄HWÔP∫ÑdÇ◊ª÷$ˆ•3ùåÁÒUhcÇ0_çeÏ™®Øó µÜŒ0âtﬁ„N^nÓ&{ÃS˙#§˜D>M_f¶≠ÖˆÚ„ºé	òÄ$é £Çu0Çq0U#0Ä:·	Ü‘œ¬ñvtIv‹‡5∆ccö0UkÊKŒ9GÆˆ~êy0ëí»_£0UˇÜ0Uˇ0ˇ 0U%0++0"U 00+≤1N0gÅ0PUI0G0E†C†AÜ?http://crl.usertrust.com/USERTrustECCCertificationAuthority.crl0v+j0h0?+0Ü3http://crt.usertrust.com/USERTrustECCAddTrustCA.crt0%+0Ühttp://ocsp.usertrust.com0
+*ÜHŒ=g 0d0$pT…@›»TŸmT » òCtÿ?Ù◊©_mÚaπp
+&c0®ã1úøwÏg∞•à0%≠´§∞ÓçR‡›|ùﬂ}Æ‚\dút¯~cÂ¡N`Ü∞ß^nÏ∆ëÿ˚°•ï´  1Ç,0Ç(0_0K10	UAT10U
+ZeroSSL1*0(U!ZeroSSL ECC Domain Secure Site CA^émRœêœ‰@ºü0	`ÜHe†Åì0	*ÜHÜ˜	1	*ÜHÜ˜0	*ÜHÜ˜	1251002124041Z0(	*ÜHÜ˜	4100	`ÜHe°
+*ÜHŒ=0/	*ÜHÜ˜	1" ª∏>z‹ØÍ4øz◊Öä(¯Î`üöLhîa€[0
+*ÜHŒ=G0E dLÇ€x!˙”≤<Dra*€éBA Õ°›U…Ò˘ñÃë! œ’Â2•ûMkg0ﬂ¨òÚ˙üÄ(≈‰8Ïã:´N *¥°Ç»0Çƒ*ÜHÜ˜	1Ç≥0ÇØ	*ÜHÜ˜†Ç†0Çú10	+ 0s*ÜHÜ˜	†db0`*010	`ÜHe  ?tµÃ˝”lü†¡5ﬁVp*¨RKM'ú‹Ö÷‰bÀÊrx≠"[20251002124041Z0˝ãΩF†Ç–0Ç0ÇÍ†*¢?–0	*ÜHÜ˜ 0|100.U'Apple Timestamp Certification Authority1&0$UApple Certification Authority10U
+
+Apple Inc.10	UUS0250915174020Z251027174019Z0A10UTimestamp Signer MA110U
+
+Apple Inc.10	UUS0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç œ‰D≈Js5Èç€—‰<m0¢’-Œ˜Ä‹@áñœHt¬DfØ‰^»˝™˜˜øi=ŸBœr-∞¨])w{†_Ì ëGı÷á÷©ë8´\˛b≈ƒ~pª–tw{√uŒN‘-±ı ƒ1—Ï¯°è»W≠!;<Bπ+FÓUkÅÇ£'Jó)÷ºP„˙“äŒE™˜ﬂ∂|Íz–s–ßºÛB:M`_ÊµˇÑM}Ω˘ï˜ÓÛ∏.≈πˇ
+≠^ΩÀ∂=1Ò˙–_ßíóJÏ%#XsÜ'’˝Ñï˚á”U©TIjeòC8ı+≥•”¸"J∂ßÕ†7∆G £Ç¡0ÇΩ0Uˇ0 0U#0Ä4Õ%NÕﬁ7Ö8°X&¯˘‚)ﬁÚì0ÇU Ç0Ç0Å˛	*ÜHÜ˜cd0Å0(+http://www.apple.com/appleca0Å√+0Å∂Å≥Reliance on this certificate by any party assumes acceptance of the then applicable standard terms and conditions of use, certificate policy and certification practice statements.0U%ˇ0
++03U,0*0(†&†$Ü"http://crl.apple.com/timestamp.crl0UÓÒKm˘cÂ≤‘ˇ…6tµ+;∆áN0UˇÄ0	*ÜHÜ˜ Ç ö'MÌÆoRŸ”ÈRœM€ÈreÂ´ï™-{OÒ•¥0˘ñ êD⁄P∆\äÁªÆ©’Y∏∫œm6¸÷èÁûË¿m>\'ÓúqyÆ¨†7ÓÕ	ﬂy«Óç¸T∫ìÈaõÏ =_§4˘ÈÆhèºìg~`om(e‹t,$©)yD πÓVQù˙!≤ElZ9ƒ2}é…Ù=õ¯ﬁTa!∑€˚<è SZHÚ„F¸;ØUM'¿i¬™Îç°sÂçÅ¸πG˜øÇñ>ı+Éñü√ß Ø¸oÄ6ÈiR˚±j†ò˚ıTäûïYû≥˝G>:ÉL-æ≈OÏg5°‡˝æe¸˜0Ç0ÇÔ†}LWcüÛ∑0	*ÜHÜ˜ 0b10	UUS10U
+
+Apple Inc.1&0$UApple Certification Authority10UApple Root CA0120405120244Z270405120244Z0|100.U'Apple Timestamp Certification Authority1&0$UApple Certification Authority10U
+
+Apple Inc.10	UUS0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ”w°˜ôg\“.û∏è#g>¸B‚	}
+ä∏¸s@/ΩƒÿP≈'»˛∏4p†<ΩNöìo97⁄ûeı¥cÙê»Im] ”9˝	∫Ù:ÛŒJidôF‡⁄5ƒe∆£a¥.ıâå‹=ˆœoÜ%L	¬»xàç¡"∏∫!õ Óäû›{[ˇ£È—£Å~˛ˇÊåI‰;
+˘¶r3ª,ƒJZr
+9Pt›(ny_~ß®œV≥Vl•ÈƒÆ˘Í é«(t‚Mâ&By^ˆ`„EX°˚QI^íJMπÔ‘sµ⁄{„RüÀ£]¨kòlû‚Ït-D>‡a>E~4u&ò@õuû»0ÌKøwè £Å¶0Å£0U4Õ%NÕﬁ7Ö8°X&¯˘‚)ﬁÚì0Uˇ0ˇ0U#0Ä+–iGîv	˛Ùkç.@¶˜GM^0.U'0%0#†!†Ühttp://crl.apple.com/root.crl0UˇÜ0
+*ÜHÜ˜cd	 0	*ÜHÜ˜ Ç 6“ıﬁqS…#ÿxõeºÛ’[È∏#«¢œ¥©(È¯›pà!9Û€3ú√rC÷=BQó∫≠éí“uã√]úıÀå‹jj:›ÎT}ÌkÛ÷>ì»mzT_ÚCé–v\õ N <Õ˙Ê˜¬>r∑∏ﬁË4™†Æ\g®¨õe≥„0B4ÈÆ””ß›Bsu|QCÖö`‹Æ'“kg…3Eo…ò†öMì·iˇÏKEÛN "W◊"Â"¥áÈú”EÀn?Âé∏¸F’\…∞´:m7(£®FeoU°hàÍR>…Ù‘Ê˙?§‰&Äµ:k÷√Â˘2Å»2¢H·é£‰≥À;Kﬂ‡Ã≤Øò—É0Çª0Ç£†0	*ÜHÜ˜ 0b10	UUS10U
+
+Apple Inc.1&0$UApple Certification Authority10UApple Root CA0060425214036Z350209214036Z0b10	UUS10U
+
+Apple Inc.1&0$UApple Certification Authority10UApple Root CA0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ‰ë©	ë€GPÎÌ^yÑ-Î6¢WLUÏãâﬁ˘Klı´"0Ë>¯P	”A®ò˘— fú$k–£ª‰*√ïûz§Gã[‘73ÀƒMŒi—…rı]’_õÚ%∫UèM]Òd5#KY≥î˜ˆúûœP∫¡XPgè¥ ˜À¨, op∂?0å∑Cœù=Û+I(»˛ŒµπŸ^÷À=µ:≠Ù í±!.t’<€b´£qíGSU¡Ø/A≥¯˚„pÕÊ£LE~LkPñAâƒtbÉAá3äÅ±0XÏZ2åh≥èﬁesˇg^eºIÿvü3e°wî…- £Çz0Çv0Uˇ0Uˇ0ˇ0U+–iGîv	˛Ùkç.@¶˜GM^0U#0Ä+–iGîv	˛Ùkç.@¶˜GM^0ÇU Ç0Ç0Ç 	*ÜHÜ˜cd0ÅÚ0*+https://www.apple.com/appleca/0Å√+0Å∂Å≥Reliance on this certificate by any party assumes acceptance of the then applicable standard terms and conditions of use, certificate policy and certification practice statements.0	*ÜHÜ˜ Ç \6ôL-x∑Ìåõ‹ÛwõÚv“w0O¡ÖÉÖô=G7Ú©õ@é,‘±êÿæÙsõÓ“dÀyO4ÿ¢>˘xˇk»Ï}9ÉãS ”8ƒ±øöO
+kˇ+¸Yß	|@Vt”∑ã#;G£’o$‚Î—∑pﬂE·' ÒmxÌÁµ®‹~"5 %’Ÿ÷k‘¢$#˜°¨èsÅ`∆[	/í≤¯DH`8ûı=&g ä3j˜ÇœﬁÎ£/˘Sj[d¿c3w˜:,VÎ⁄!⁄∫sOµŸ6¡áUŸßôπ2B˚ÿ’qû~°R∑ΩìB$*«∂Mú^c»KÄP™ä’⁄‰¸–	7∞uu!1Ç?0Ç;0Åà0|100.U'Apple Timestamp Certification Authority1&0$UApple Certification Authority10U
+
+Apple Inc.10	UUS*¢?–0	+ †Åå0	*ÜHÜ˜	1*ÜHÜ˜	0	*ÜHÜ˜	1251002124041Z0#	*ÜHÜ˜	1<'<±AÑ
+}âTïf˘∏˛ÚêNH0+*ÜHÜ˜	1000`‰|28bVJ+€é’8°7‰≠â•0	*ÜHÜ˜ Ç öWö2Põ¢ï“LÒí—Ÿ´k ÔdnªΩ«Õy”Y≈Êû?‚ß¡™ç#∏Í,Ω◊a}˜nú√^Q
+ì] ⁄øÌ·HÔÔ˝∞é˙Â"G¢⁄y…£≠YB˜)˚j1˜∏hÎÜ‰‚WMêÇWÈÈà3A«-»ÕÏ∏ı„Ò=]®1ˇ˚†.|ÛumG32
+2õ`©ì?“…KæòÃ	ZºÃÙˇ)~∂Dƒ_QïC[1
+Ÿó∑—Ä!„J!ﬁ\%u∆7«ØÀJ„zÏkèÔÓx˚|ﬂf'¬p¿∏‚£AˆŸ˙„OÊÍLobù∏Õ1≈∂ncπ±∆sˇ3A.Í      
