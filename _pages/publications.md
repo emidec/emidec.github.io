@@ -10,11 +10,16 @@ title: Publications
 <br>This page lists all my peer-reviewed publications ordered by year, linking to open-access versions of each paper. You can also visit my [DBLP](http://dblp.uni-trier.de/pers/hd/c/Cristofaro:Emiliano_De){:target="_blank"} or my [Google Scholar](https://scholar.google.com/citations?hl=en&user=1wfzUuEAAAAJ&view_op=list_works&pagesize=100){:target="_blank"} pages to see them in different formats.
 
 *** 
+Meenatchi Sundaram Muthu Selva Annamalai, Borja Balle, Jamie Hayes, Emiliano De Cristofaro  
+**To Shuffle or not to Shuffle: Auditing DP-SGD with Shuffling**  
+33rd Network and Distributed System Security Symposium (NDSS 2026), to appear  
+[pre-print](https://arxiv.org/pdf/2411.10614){: .btn--danger}{:target="_blank"}  
+
 
 Alessandro Galeazzi, Pujan Paudel, Mauro Conti, Emiliano De Cristofaro, Gianluca Stringhini  
 **Revealing The Secret Power: How Algorithms Can Influence Content Visibility on Twitter/X**  
-33rd Network and Distributed System Security Symposium (NDSS 2026)  
-[pdf](https://arxiv.org/pdf/2410.17390){: .btn--danger}{:target="_blank"}  
+33rd Network and Distributed System Security Symposium (NDSS 2026), to appear  
+[pre-print](https://arxiv.org/pdf/2410.17390){: .btn--danger}{:target="_blank"}  
 
 Georgi Ganev, Meenatchi Sundaram Muthu Selva Annamalai, Sofiane Mahiou, Emiliano De Cristofaro  
 **The Importance of Being Discrete: Measuring the Impact of Discretization in End-to-End Differentially Private Synthetic Data**  

@@ -10,11 +10,16 @@ title: Trustworthy Machine Learning
 <br>This page provides a non-exhaustive list of my publications related to **security** and **privacy** in/for **machine learning**. For each entry, a link to an open-access version of the paper is also provided.
 
 *** 
+Meenatchi Sundaram Muthu Selva Annamalai, Borja Balle, Jamie Hayes, Emiliano De Cristofaro  
+**To Shuffle or not to Shuffle: Auditing DP-SGD with Shuffling**  
+33rd Network and Distributed System Security Symposium (NDSS 2026), to appear  
+[pre-print](https://arxiv.org/pdf/2411.10614){: .btn--danger}{:target="_blank"}  
+
 
 Georgi Ganev, Meenatchi Sundaram Muthu Selva Annamalai, Sofiane Mahiou, Emiliano De Cristofaro  
 **The Importance of Being Discrete: Measuring the Impact of Discretization in End-to-End Differentially Private Synthetic Data**  
 32nd ACM Conference on Computer and Communications Security (ACM CCS 2025)  
-[pdf](https://arxiv.org/pdf/2504.06923){: .btn--danger}{:target="_blank"}  
+[pre-print](https://arxiv.org/pdf/2504.06923){: .btn--danger}{:target="_blank"}  
 
 
 Sara Chennoufi, Yufei Han, Gregory Blanc, Emiliano De Cristofaro, and Christophe Kiennert  
