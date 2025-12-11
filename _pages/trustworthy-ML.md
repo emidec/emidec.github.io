@@ -10,6 +10,11 @@ title: Trustworthy Machine Learning
 <br>This page provides a non-exhaustive list of my publications related to **security** and **privacy** in/for **machine learning**. For each entry, a link to an open-access version of the paper is also provided.
 
 *** 
+Meenatchi Sundaram Muthu Selva Annamalai, Borja Balle, Jamie Hayes, Georgios Kaissis, Emiliano De Cristofaro  
+**SoK: The Hitchhiker’s Guide to Efficient, End-to-End, and Tight DP Auditing**  
+4th IEEE Secure and Trustworthy Machine Learning Conference (IEEE SaTML 2026)
+[pre-print](https://arxiv.org/pdf/2506.16666){: .btn--danger}{:target="_blank"}  
+
 Meenatchi Sundaram Muthu Selva Annamalai, Borja Balle, Jamie Hayes, Emiliano De Cristofaro  
 **To Shuffle or not to Shuffle: Auditing DP-SGD with Shuffling**  
 33rd Network and Distributed System Security Symposium (NDSS 2026), to appear  

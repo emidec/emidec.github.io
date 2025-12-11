@@ -10,6 +10,11 @@ title: Publications
 <br>This page lists all my peer-reviewed publications ordered by year, linking to open-access versions of each paper. You can also visit my [DBLP](http://dblp.uni-trier.de/pers/hd/c/Cristofaro:Emiliano_De){:target="_blank"} or my [Google Scholar](https://scholar.google.com/citations?hl=en&user=1wfzUuEAAAAJ&view_op=list_works&pagesize=100){:target="_blank"} pages to see them in different formats.
 
 *** 
+Meenatchi Sundaram Muthu Selva Annamalai, Borja Balle, Jamie Hayes, Georgios Kaissis, Emiliano De Cristofaro  
+**SoK: The Hitchhiker’s Guide to Efficient, End-to-End, and Tight DP Auditing**  
+4th IEEE Secure and Trustworthy Machine Learning Conference (IEEE SaTML 2026)
+[pre-print](https://arxiv.org/pdf/2506.16666){: .btn--danger}{:target="_blank"}  
+
 Meenatchi Sundaram Muthu Selva Annamalai, Borja Balle, Jamie Hayes, Emiliano De Cristofaro  
 **To Shuffle or not to Shuffle: Auditing DP-SGD with Shuffling**  
 33rd Network and Distributed System Security Symposium (NDSS 2026), to appear  
