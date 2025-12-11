@@ -12,7 +12,7 @@ title: Publications
 *** 
 Meenatchi Sundaram Muthu Selva Annamalai, Borja Balle, Jamie Hayes, Georgios Kaissis, Emiliano De Cristofaro  
 **SoK: The Hitchhiker’s Guide to Efficient, End-to-End, and Tight DP Auditing**  
-4th IEEE Secure and Trustworthy Machine Learning Conference (IEEE SaTML 2026)
+4th IEEE Secure and Trustworthy Machine Learning Conference (IEEE SaTML 2026)  
 [pre-print](https://arxiv.org/pdf/2506.16666){: .btn--danger}{:target="_blank"}  
 
 Meenatchi Sundaram Muthu Selva Annamalai, Borja Balle, Jamie Hayes, Emiliano De Cristofaro  
