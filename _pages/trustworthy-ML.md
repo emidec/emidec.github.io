@@ -10,7 +10,7 @@ title: Trustworthy Machine Learning
 <br>This page provides a non-exhaustive list of my publications related to **security** and **privacy** in/for **machine learning**. For each entry, a link to an open-access version of the paper is also provided.
 
 *** 
-Georgi Ganev, MohammadReza Nazari, Rees Davison, Amirhassan Fallah Dizche, XINMIN WU, Ralph Abbey, Jorge G Silva, Emiliano De Cristofaro  
+Georgi Ganev, MohammadReza Nazari, Rees Davison, Amirhassan Fallah Dizche, Xinmin Wu, Ralph Abbey, Jorge G Silva, Emiliano De Cristofaro  
 **SMOTE and Mirrors: Exposing Privacy Leakage from Synthetic Minority Oversampling**  
 14th International Conference on Learning Representations (ICLR 2026)  
 [pre-print](https://arxiv.org/abs/2510.15083){: .btn--danger}{:target="_blank"}  

@@ -10,7 +10,7 @@ title: Publications
 <br>This page lists all my peer-reviewed publications ordered by year, linking to open-access versions of each paper. You can also visit my [DBLP](http://dblp.uni-trier.de/pers/hd/c/Cristofaro:Emiliano_De){:target="_blank"} or my [Google Scholar](https://scholar.google.com/citations?hl=en&user=1wfzUuEAAAAJ&view_op=list_works&pagesize=100){:target="_blank"} pages to see them in different formats.
 
 *** 
-Georgi Ganev, MohammadReza Nazari, Rees Davison, Amirhassan Fallah Dizche, XINMIN WU, Ralph Abbey, Jorge G Silva, Emiliano De Cristofaro  
+Georgi Ganev, MohammadReza Nazari, Rees Davison, Amirhassan Fallah Dizche, Xinmin Wu, Ralph Abbey, Jorge G Silva, Emiliano De Cristofaro  
 **SMOTE and Mirrors: Exposing Privacy Leakage from Synthetic Minority Oversampling**  
 14th International Conference on Learning Representations (ICLR 2026)  
 [pre-print](https://arxiv.org/abs/2510.15083){: .btn--danger}{:target="_blank"}  
