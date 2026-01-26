@@ -23,13 +23,13 @@ Meenatchi Sundaram Muthu Selva Annamalai, Borja Balle, Jamie Hayes, Georgios Kai
 
 Meenatchi Sundaram Muthu Selva Annamalai, Borja Balle, Jamie Hayes, Emiliano De Cristofaro  
 **To Shuffle or not to Shuffle: Auditing DP-SGD with Shuffling**  
-33rd Network and Distributed System Security Symposium (NDSS 2026), to appear  
+33rd Network and Distributed System Security Symposium (NDSS 2026)  
 [pdf](https://arxiv.org/pdf/2411.10614){: .btn--danger}{:target="_blank"}  
 
 
 Alessandro Galeazzi, Pujan Paudel, Mauro Conti, Emiliano De Cristofaro, Gianluca Stringhini  
 **Revealing The Secret Power: How Algorithms Can Influence Content Visibility on Twitter/X**  
-33rd Network and Distributed System Security Symposium (NDSS 2026), to appear  
+33rd Network and Distributed System Security Symposium (NDSS 2026)  
 [pdf](https://arxiv.org/pdf/2410.17390){: .btn--danger}{:target="_blank"}  
 
 Georgi Ganev, Meenatchi Sundaram Muthu Selva Annamalai, Sofiane Mahiou, Emiliano De Cristofaro  
