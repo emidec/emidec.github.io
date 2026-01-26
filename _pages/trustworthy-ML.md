@@ -10,16 +10,27 @@ title: Trustworthy Machine Learning
 <br>This page provides a non-exhaustive list of my publications related to **security** and **privacy** in/for **machine learning**. For each entry, a link to an open-access version of the paper is also provided.
 
 *** 
+Georgi Ganev, MohammadReza Nazari, Rees Davison, Amirhassan Fallah Dizche, Xinmin Wu, Ralph Abbey, Jorge G Silva, Emiliano De Cristofaro  
+**SMOTE and Mirrors: Exposing Privacy Leakage from Synthetic Minority Oversampling**  
+14th International Conference on Learning Representations (ICLR 2026)  
+[pre-print](https://arxiv.org/abs/2510.15083){: .btn--danger}{:target="_blank"}  
+
+
+Meenatchi Sundaram Muthu Selva Annamalai, Borja Balle, Jamie Hayes, Georgios Kaissis, Emiliano De Cristofaro  
+**SoK: The Hitchhiker’s Guide to Efficient, End-to-End, and Tight DP Auditing**  
+4th IEEE Secure and Trustworthy Machine Learning Conference (IEEE SaTML 2026)  
+[pre-print](https://arxiv.org/pdf/2506.16666){: .btn--danger}{:target="_blank"}  
+
 Meenatchi Sundaram Muthu Selva Annamalai, Borja Balle, Jamie Hayes, Emiliano De Cristofaro  
 **To Shuffle or not to Shuffle: Auditing DP-SGD with Shuffling**  
-33rd Network and Distributed System Security Symposium (NDSS 2026), to appear  
-[pre-print](https://arxiv.org/pdf/2411.10614){: .btn--danger}{:target="_blank"}  
+33rd Network and Distributed System Security Symposium (NDSS 2026)  
+[pdf](https://arxiv.org/pdf/2411.10614){: .btn--danger}{:target="_blank"}  
 
 
 Georgi Ganev, Meenatchi Sundaram Muthu Selva Annamalai, Sofiane Mahiou, Emiliano De Cristofaro  
 **The Importance of Being Discrete: Measuring the Impact of Discretization in End-to-End Differentially Private Synthetic Data**  
 32nd ACM Conference on Computer and Communications Security (ACM CCS 2025)  
-[pre-print](https://arxiv.org/pdf/2504.06923){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2504.06923){: .btn--danger}{:target="_blank"}  
 
 
 Sara Chennoufi, Yufei Han, Gregory Blanc, Emiliano De Cristofaro, and Christophe Kiennert  
