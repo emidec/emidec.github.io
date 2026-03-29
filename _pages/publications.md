@@ -10,18 +10,18 @@ title: Publications
 <br>This page lists all my peer-reviewed publications ordered by year, linking to open-access versions of each paper. You can also visit my [DBLP](http://dblp.uni-trier.de/pers/hd/c/Cristofaro:Emiliano_De){:target="_blank"} or my [Google Scholar](https://scholar.google.com/citations?hl=en&user=1wfzUuEAAAAJ&view_op=list_works&pagesize=100){:target="_blank"} pages to see them in different formats.
 
 *** 
-G. Ganev, M. Nazari, R. Davison, A. Fallah Dizche, X. Wu, R. Abbey, J. G Silva, E. De Cristofaro  
+G. Ganev, M. Nazari, R. Davison, A. Fallah Dizche, X. Wu, R. Abbey, J.G Silva, E. De Cristofaro  
 **SMOTE and Mirrors: Exposing Privacy Leakage from Synthetic Minority Oversampling**  
 14th International Conference on Learning Representations (ICLR 2026)  
 [pdf](https://arxiv.org/abs/2510.15083){: .btn--danger}{:target="_blank"}  
 
 
-M. Sundaram Muthu Selva Annamalai, B. Balle, J. Hayes, G. Kaissis, E. De Cristofaro  
+M.S.M.S. Annamalai, B. Balle, J. Hayes, G. Kaissis, E. De Cristofaro  
 **SoK: The Hitchhiker’s Guide to Efficient, End-to-End, and Tight DP Auditing**  
 4th IEEE Secure and Trustworthy Machine Learning Conference (IEEE SaTML 2026)  
 [pdf](https://arxiv.org/pdf/2506.16666){: .btn--danger}{:target="_blank"}  
 
-M. Sundaram Muthu Selva Annamalai, B. Balle, J. Hayes, E. De Cristofaro  
+M.S.M.S. Annamalai, B. Balle, J. Hayes, E. De Cristofaro  
 **To Shuffle or not to Shuffle: Auditing DP-SGD with Shuffling**  
 33rd Network and Distributed System Security Symposium (NDSS 2026)  
 [pdf](https://arxiv.org/pdf/2411.10614){: .btn--danger}{:target="_blank"}  
@@ -32,7 +32,7 @@ A. Galeazzi, P. Paudel, M. Conti, E. De Cristofaro, G. Stringhini
 33rd Network and Distributed System Security Symposium (NDSS 2026)  
 [pdf](https://arxiv.org/pdf/2410.17390){: .btn--danger}{:target="_blank"}  
 
-G. Ganev, M. Sundaram Muthu Selva Annamalai, S. Mahiou, E. De Cristofaro  
+G. Ganev, M.S.M.S. Annamalai, S. Mahiou, E. De Cristofaro  
 **The Importance of Being Discrete: Measuring the Impact of Discretization in End-to-End Differentially Private Synthetic Data**  
 32nd ACM Conference on Computer and Communications Security (ACM CCS 2025)  
 [pdf](https://arxiv.org/pdf/2504.06923){: .btn--danger}{:target="_blank"}  
@@ -49,7 +49,7 @@ G. Ganev and E. De Cristofaro
 [distinguished paper](https://sp2025.ieee-security.org/awards.html){: .btn--success}{:target="_blank"}  
 [pdf](https://arxiv.org/pdf/2312.05114){: .btn--danger}{:target="_blank"}  
 
-M. Sundaram Muthu Selva Annamalai, I. Bilogrevic, E. De Cristofaro  
+M.S.M.S. Annamalai, I. Bilogrevic, E. De Cristofaro  
 **Beyond the Crawl: Unmasking Browser Fingerprinting in Real User Interactions**  
 34th The Web Conference (WWW 2025)  
 [pdf](https://arxiv.org/pdf/2502.01608.pdf){: .btn--danger}{:target="_blank"}  
@@ -61,17 +61,17 @@ B. Treves, E. De Cristofaro, M. Faloutsos, Y. Dong
 [pdf](https://arxiv.org/pdf/2503.14772){: .btn--danger}{:target="_blank"}  
 
 
-G. Ganev, M. Sundaram Muthu Selva Annamalai, S. Mahiou, E. De Cristofaro  
+G. Ganev, M.S.M.S. Annamalai, S. Mahiou, E. De Cristofaro  
 **Understanding the Impact of Data Domain Extraction on Synthetic Data Privacy**  
 Will Synthetic Data Finally Solve the Data Access Problem? (ICLR 2025 Workshop)  
 [pdf](https://arxiv.org/pdf/2504.08254){: .btn--danger}{:target="_blank"}  
 
-G. Ganev, M. Sundaram Muthu Selva Annamalai, E. De Cristofaro  
+G. Ganev, M.S.M.S. Annamalai, E. De Cristofaro  
 **The Elusive Pursuit of Reproducing PATE-GAN: Benchmarking, Auditing, Debugging**  
 Transactions on Machine Learning Research (TMLR), Feb 2025  
 [pdf](https://arxiv.org/pdf/2406.13985.pdf){: .btn--danger}{:target="_blank"}  
 
-M. Sundaram Muthu Selva Annamalai, E. De Cristofaro  
+M.S.M.S. Annamalai, E. De Cristofaro  
 **Nearly Tight Black-Box Auditing of Differentially Private Machine Learning**  
 38th Annual Conference on Neural Information Processing Systems (NeurIPS 2024)  
 [pdf](https://arxiv.org/pdf/2405.14106.pdf){: .btn--danger}{:target="_blank"}  
@@ -82,7 +82,7 @@ G. Ganev, K. Xu, E. De Cristofaro
 [pdf](https://arxiv.org/pdf/2305.10994.pdf){: .btn--danger}{:target="_blank"}  
 
 
-M. Sundaram Muthu Selva Annamalai, G. Ganev, E. De Cristofaro  
+M.S.M.S. Annamalai, G. Ganev, E. De Cristofaro  
 **"What do you want from theory alone?" Experimenting with Tight Auditing of Differentially Private Synthetic Data Generation**  
 33rd USENIX Security Symposium (Usenix Security 2024)  
 [pdf](https://arxiv.org/pdf/2405.10994.pdf){: .btn--danger}{:target="_blank"}  
@@ -105,7 +105,7 @@ IEEE Security and Privacy Magazine (Special Issue on Synthetic Realities), 2024
 [pdf](https://arxiv.org/pdf/2303.01230.pdf){: .btn--danger}{:target="_blank"}  
 
 
-M. Sundaram Muthu Selva Annamalai, I. Bilogrevic, E. De Cristofaro  
+M.S.M.S. Annamalai, I. Bilogrevic, E. De Cristofaro  
 **FP-Fed: Privacy-Preserving Federated Detection of Browser Fingerprinting**  
 31st Network and Distributed System Security Symposium (NDSS 2024)  
 [pdf](https://arxiv.org/pdf/2311.16940.pdf){: .btn--danger}{:target="_blank"}  
@@ -514,7 +514,7 @@ D. Chatzakou, N. Kourtellis, J. Blackburn, E. De Cristofaro, G. Stringhini, A. V
 [pdf](https://arxiv.org/pdf/1702.07784.pdf){: .btn--danger}{:target="_blank"}
 
 
-S. Sajadmanesh, S. Jafarzadeh, S. Ali Ossia, H. R. Rabiee, H. Haddadi, Y. Mejova, M. Musolesi, E. De Cristofaro, G. Stringhini  
+S. Sajadmanesh, S. Jafarzadeh, S. Ali Ossia, H.R. Rabiee, H. Haddadi, Y. Mejova, M. Musolesi, E. De Cristofaro, G. Stringhini  
 **Kissing Cuisines: Exploring Worldwide Culinary Habits on the Web**  
 26th International World Wide Web Conference Web Science Track (WWW 2017)  
 [pdf](https://arxiv.org/pdf/1610.08469.pdf){: .btn--danger}{:target="_blank"}  
@@ -530,13 +530,13 @@ E. Mariconti, L. Onwuzurike, P. Andriotis, E. De Cristofaro, G. Ross, G. Stringh
 
 
 
-H. Haddadi, R. Nithyanand, S. Khattak, M. Javed, N. Vallina-Rodriguez, M. Falahrastegar, J. E. Powles, E. De Cristofaro, S. J. Murdoch  
+H. Haddadi, R. Nithyanand, S. Khattak, M. Javed, N. Vallina-Rodriguez, M. Falahrastegar, J.E. Powles, E. De Cristofaro, S.J. Murdoch  
 **The Adblocking Tug-of-War**  
 USENIX ;login: Magazine, Winter 2016, Vol. 41, No. 4 (;login: 2016)  
 [pdf](https://emilianodc.com/PAPERS/login.pdf){: .btn--danger}{:target="_blank"}
 
 
-A. Pyrgelis, E. De Cristofaro, G. J. Ross  
+A. Pyrgelis, E. De Cristofaro, G.J. Ross  
 **Privacy-Friendly Mobility Analytics using Aggregate Location Data**  
 24th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2016)  
 [pdf](https://arxiv.org/pdf/1609.06582.pdf){: .btn--danger}{:target="_blank"}
@@ -548,7 +548,7 @@ E. De Cristofaro, K. Liang, Y. Zhang
 [pdf](https://arxiv.org/pdf/1611.03006.pdf){: .btn--danger}{:target="_blank"}
 
 
-R. Nithyanand, S. Khattak, M. Javed, N. Vallina-Rodriguez, M. Falahrastegar, J. E. Powles, E. De Cristofaro, H. Haddadi, S. J. Murdoch  
+R. Nithyanand, S. Khattak, M. Javed, N. Vallina-Rodriguez, M. Falahrastegar, J.E. Powles, E. De Cristofaro, H. Haddadi, S.J. Murdoch  
 **Ad-Blocking and Counter Blocking: A Slice of the Arms Races**  
 6th USENIX Workshop on Free and Open Communications on the Internet (FOCI 2016)  
 [pdf](https://arxiv.org/pdf/1605.05077.pdf){: .btn--danger}{:target="_blank"}
@@ -717,7 +717,7 @@ IEEE Network. Vol. 27, No. 1, Jan 2013
 [pdf](https://emilianodc.com/PAPERS/Network13.pdf){: .btn--danger}{:target="_blank"}
 
 
-A. A. Cardenas, R. Chow, E. De Cristofaro  
+A.A. Cardenas, R. Chow, E. De Cristofaro  
 **Data Handling in the Smart Grid: Do We Know Enough?**  
 Annual IFIP Working Group 11.10 International Conference on Critical Infrastructure Protection (CIP 2013)
 

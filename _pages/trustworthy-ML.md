@@ -10,24 +10,24 @@ title: Trustworthy Machine Learning
 <br>This page provides a non-exhaustive list of my publications related to **security** and **privacy** in/for **machine learning**. For each entry, a link to an open-access version of the paper is also provided.
 
 *** 
-G. Ganev, M. Nazari, R. Davison, A. Fallah Dizche, X. Wu, R. Abbey, J. G Silva, E. De Cristofaro  
+G. Ganev, M. Nazari, R. Davison, A. Fallah Dizche, X. Wu, R. Abbey, J.G Silva, E. De Cristofaro  
 **SMOTE and Mirrors: Exposing Privacy Leakage from Synthetic Minority Oversampling**  
 14th International Conference on Learning Representations (ICLR 2026)  
 [pdf](https://arxiv.org/abs/2510.15083){: .btn--danger}{:target="_blank"}  
 
 
-M. Sundaram Muthu Selva Annamalai, B. Balle, J. Hayes, G. Kaissis, E. De Cristofaro  
+M.S.M.S. Annamalai, B. Balle, J. Hayes, G. Kaissis, E. De Cristofaro  
 **SoK: The Hitchhiker’s Guide to Efficient, End-to-End, and Tight DP Auditing**  
 4th IEEE Secure and Trustworthy Machine Learning Conference (IEEE SaTML 2026)  
 [pdf](https://arxiv.org/pdf/2506.16666){: .btn--danger}{:target="_blank"}  
 
-M. Sundaram Muthu Selva Annamalai, B. Balle, J. Hayes, E. De Cristofaro  
+M.S.M.S. Annamalai, B. Balle, J. Hayes, E. De Cristofaro  
 **To Shuffle or not to Shuffle: Auditing DP-SGD with Shuffling**  
 33rd Network and Distributed System Security Symposium (NDSS 2026)  
 [pdf](https://arxiv.org/pdf/2411.10614){: .btn--danger}{:target="_blank"}  
 
 
-G. Ganev, M. Sundaram Muthu Selva Annamalai, S. Mahiou, E. De Cristofaro  
+G. Ganev, M.S.M.S. Annamalai, S. Mahiou, E. De Cristofaro  
 **The Importance of Being Discrete: Measuring the Impact of Discretization in End-to-End Differentially Private Synthetic Data**  
 32nd ACM Conference on Computer and Communications Security (ACM CCS 2025)  
 [pdf](https://arxiv.org/pdf/2504.06923){: .btn--danger}{:target="_blank"}  
@@ -45,24 +45,24 @@ G. Ganev and E. De Cristofaro
 [pdf](https://arxiv.org/pdf/2312.05114){: .btn--danger}{:target="_blank"}  
 
 
-M. Sundaram Muthu Selva Annamalai, I. Bilogrevic, E. De Cristofaro  
+M.S.M.S. Annamalai, I. Bilogrevic, E. De Cristofaro  
 **Beyond the Crawl: Unmasking Browser Fingerprinting in Real User Interactions**  
 34th The Web Conference (WWW 2025)  
 [pdf](https://arxiv.org/pdf/2502.01608.pdf){: .btn--danger}{:target="_blank"}  
 
 
-G. Ganev, M. Sundaram Muthu Selva Annamalai, S. Mahiou, E. De Cristofaro  
+G. Ganev, M.S.M.S. Annamalai, S. Mahiou, E. De Cristofaro  
 **Understanding the Impact of Data Domain Extraction on Synthetic Data Privacy**  
 Will Synthetic Data Finally Solve the Data Access Problem? (ICLR 2025 Workshop)  
 [pdf](https://arxiv.org/pdf/2504.08254){: .btn--danger}{:target="_blank"}  
 
 
-G. Ganev, M. Sundaram Muthu Selva Annamalai, E. De Cristofaro  
+G. Ganev, M.S.M.S. Annamalai, E. De Cristofaro  
 **The Elusive Pursuit of Reproducing PATE-GAN: Benchmarking, Auditing, Debugging**  
 Transactions on Machine Learning Research (TMLR), February 2025  
 [pdf](https://arxiv.org/pdf/2406.13985.pdf){: .btn--danger}{:target="_blank"}  
 
-M. Sundaram Muthu Selva Annamalai, E. De Cristofaro  
+M.S.M.S. Annamalai, E. De Cristofaro  
 **Nearly Tight Black-Box Auditing of Differentially Private Machine Learning**  
 38th Annual Conference on Neural Information Processing Systems (NeurIPS 2024)  
 [pdf](https://arxiv.org/pdf/2405.14106){: .btn--danger}{:target="_blank"}  
@@ -73,7 +73,7 @@ G. Ganev, K. Xu, E. De Cristofaro
 [pdf](https://arxiv.org/pdf/2305.10994.pdf){: .btn--danger}{:target="_blank"}  
 
 
-M. Sundaram Muthu Selva Annamalai, G. Ganev, E. De Cristofaro  
+M.S.M.S. Annamalai, G. Ganev, E. De Cristofaro  
 **"What do you want from theory alone?" Experimenting with Tight Auditing of Differentially Private Synthetic Data Generation**  
 33st USENIX Security Symposium (Usenix Security 2024)  
 [pdf](https://arxiv.org/pdf/2405.10994.pdf){: .btn--danger}{:target="_blank"}  
@@ -90,7 +90,7 @@ IEEE Security and Privacy Magazine (Special Issue on Synthetic Realities), 2024
 [pdf](https://arxiv.org/pdf/2303.01230.pdf){: .btn--danger}{:target="_blank"}  
 
 
-M. Sundaram Muthu Selva Annamalai, I. Bilogrevic, E. De Cristofaro  
+M.S.M.S. Annamalai, I. Bilogrevic, E. De Cristofaro  
 **FP-Fed: Privacy-Preserving Federated Detection of Browser Fingerprinting**  
 31st Network and Distributed System Security Symposium (NDSS 2024)  
 [pdf](https://arxiv.org/pdf/2311.16940.pdf){: .btn--danger}{:target="_blank"}  

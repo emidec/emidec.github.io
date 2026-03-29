@@ -278,7 +278,7 @@ D. Chatzakou, N. Kourtellis, J. Blackburn, E. De Cristofaro, G. Stringhini, A. V
 
 
 
-R. Nithyanand, S. Khattak, M. Javed, N. Vallina-Rodriguez, M. Falahrastegar, J. E. Powles, E. De Cristofaro, H. Haddadi, S. J. Murdoch  
+R. Nithyanand, S. Khattak, M. Javed, N. Vallina-Rodriguez, M. Falahrastegar, J.E. Powles, E. De Cristofaro, H. Haddadi, S.J. Murdoch  
 **Ad-Blocking and Counter Blocking: A Slice of the Arms Races**  
 6th USENIX Workshop on Free and Open Communications on the Internet (FOCI 2016)  
 [pdf](https://arxiv.org/pdf/1605.05077.pdf){: .btn--danger}{:target="_blank"}
