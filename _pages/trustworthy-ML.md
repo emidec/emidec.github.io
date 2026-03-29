@@ -13,13 +13,13 @@ title: Trustworthy Machine Learning
 Georgi Ganev, MohammadReza Nazari, Rees Davison, Amirhassan Fallah Dizche, Xinmin Wu, Ralph Abbey, Jorge G Silva, Emiliano De Cristofaro  
 **SMOTE and Mirrors: Exposing Privacy Leakage from Synthetic Minority Oversampling**  
 14th International Conference on Learning Representations (ICLR 2026)  
-[pre-print](https://arxiv.org/abs/2510.15083){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/abs/2510.15083){: .btn--danger}{:target="_blank"}  
 
 
 Meenatchi Sundaram Muthu Selva Annamalai, Borja Balle, Jamie Hayes, Georgios Kaissis, Emiliano De Cristofaro  
 **SoK: The Hitchhiker’s Guide to Efficient, End-to-End, and Tight DP Auditing**  
 4th IEEE Secure and Trustworthy Machine Learning Conference (IEEE SaTML 2026)  
-[pre-print](https://arxiv.org/pdf/2506.16666){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2506.16666){: .btn--danger}{:target="_blank"}  
 
 Meenatchi Sundaram Muthu Selva Annamalai, Borja Balle, Jamie Hayes, Emiliano De Cristofaro  
 **To Shuffle or not to Shuffle: Auditing DP-SGD with Shuffling**  
@@ -41,7 +41,7 @@ Sara Chennoufi, Yufei Han, Gregory Blanc, Emiliano De Cristofaro, and Christophe
 Georgi Ganev and Emiliano De Cristofaro  
 **The Inadequacy of Similarity-based Privacy Metrics: Privacy Attacks against "Truly Anonymous" Synthetic Datasets**  
 46th IEEE Symposium on Security & Privacy (S&P 2025)  
-[Distinguished Paper](https://sp2025.ieee-security.org/awards.html){: .btn--success}{:target="_blank"}  
+[distinguished paper](https://sp2025.ieee-security.org/awards.html){: .btn--success}{:target="_blank"}  
 [pdf](https://arxiv.org/pdf/2312.05114){: .btn--danger}{:target="_blank"}  
 
 
@@ -100,7 +100,7 @@ Wai Man Si, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Savva
 29th ACM Conference on Computer and Communications Security (ACM CCS 2022)  
 [honorable mention](https://www.sigsac.org/ccs/CCS2022/program/awards.html){: .btn--success}  
 [pdf](https://arxiv.org/pdf/2209.03463.pdf){: .btn--danger}{:target="_blank"}  
-<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [FastCompany](https://www.fastcompany.com/90820090/the-internet-loves-chatgpt-but-theres-a-dark-side-to-the-tech)  
+<span style="color:white;background-color:#1a6b2a;padding: 2px 8px;text-align: center;border-radius: 20px">media coverage:</span>{: .btn--media} [FastCompany](https://www.fastcompany.com/90820090/the-internet-loves-chatgpt-but-theres-a-dark-side-to-the-tech)  
 
 Mohammad Naseri, Yufei Han, Enrico Mariconti, Yun Shen, Gianluca Stringhini, Emiliano De Cristofaro  
 **CERBERUS: Exploring Federated Prediction of Security Events**  

@@ -13,13 +13,13 @@ title: Publications
 Georgi Ganev, MohammadReza Nazari, Rees Davison, Amirhassan Fallah Dizche, Xinmin Wu, Ralph Abbey, Jorge G Silva, Emiliano De Cristofaro  
 **SMOTE and Mirrors: Exposing Privacy Leakage from Synthetic Minority Oversampling**  
 14th International Conference on Learning Representations (ICLR 2026)  
-[pre-print](https://arxiv.org/abs/2510.15083){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/abs/2510.15083){: .btn--danger}{:target="_blank"}  
 
 
 Meenatchi Sundaram Muthu Selva Annamalai, Borja Balle, Jamie Hayes, Georgios Kaissis, Emiliano De Cristofaro  
 **SoK: The Hitchhiker’s Guide to Efficient, End-to-End, and Tight DP Auditing**  
 4th IEEE Secure and Trustworthy Machine Learning Conference (IEEE SaTML 2026)  
-[pre-print](https://arxiv.org/pdf/2506.16666){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/pdf/2506.16666){: .btn--danger}{:target="_blank"}  
 
 Meenatchi Sundaram Muthu Selva Annamalai, Borja Balle, Jamie Hayes, Emiliano De Cristofaro  
 **To Shuffle or not to Shuffle: Auditing DP-SGD with Shuffling**  
@@ -46,7 +46,7 @@ Sara Chennoufi, Yufei Han, Gregory Blanc, Emiliano De Cristofaro, and Christophe
 Georgi Ganev and Emiliano De Cristofaro  
 **The Inadequacy of Similarity-based Privacy Metrics: Privacy Attacks against "Truly Anonymous" Synthetic Datasets**  
 46th IEEE Symposium on Security & Privacy (S&P 2025)  
-[Distinguished Paper](https://sp2025.ieee-security.org/awards.html){: .btn--success}{:target="_blank"}  
+[distinguished paper](https://sp2025.ieee-security.org/awards.html){: .btn--success}{:target="_blank"}  
 [pdf](https://arxiv.org/pdf/2312.05114){: .btn--danger}{:target="_blank"}  
 
 Meenatchi Sundaram Muthu Selva Annamalai, Igor Bilogrevic, Emiliano De Cristofaro  
@@ -154,7 +154,7 @@ Wai Man Si, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Savva
 29th ACM Conference on Computer and Communications Security (ACM CCS 2022)  
 [honorable mention](https://www.sigsac.org/ccs/CCS2022/program/awards.html){: .btn--success}  
 [pdf](https://arxiv.org/pdf/2209.03463.pdf){: .btn--danger}{:target="_blank"}  
-<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [FastCompany](https://www.fastcompany.com/90820090/the-internet-loves-chatgpt-but-theres-a-dark-side-to-the-tech)  
+<span style="color:white;background-color:#1a6b2a;padding: 2px 8px;text-align: center;border-radius: 20px">media coverage:</span>{: .btn--media} [FastCompany](https://www.fastcompany.com/90820090/the-internet-loves-chatgpt-but-theres-a-dark-side-to-the-tech)  
 
 Alexandros Efstratiou and Emiliano De Cristofaro  
 **Adherence to Misinformation on Social Media Through Socio-Cognitive and Group-Based Processes**  
@@ -176,7 +176,7 @@ Mohammad Hammas Saeed, Shiza Ali, Jeremy Blackburn, Emiliano De Cristofaro, Savv
 **TROLLMAGNIFIER: Detecting State-Sponsored Troll Accounts on Reddit**  
 43rd IEEE Symposium on Security & Privacy (S&P 2022)  
 [pdf](https://arxiv.org/pdf/2112.00443){: .btn--danger}{:target="_blank"}  
-<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [Wired](https://www.wired.co.uk/article/researchers-reddit-state-trolls)  
+<span style="color:white;background-color:#1a6b2a;padding: 2px 8px;text-align: center;border-radius: 20px">media coverage:</span>{: .btn--media} [Wired](https://www.wired.co.uk/article/researchers-reddit-state-trolls)  
 
 Chen Ling, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini  
 **Slapping Cats, Bopping Heads, and Oreo Shakes: Understanding Indicators of Virality in TikTok Short Videos**  
@@ -202,7 +202,7 @@ Antonis Papasavva, Max Aliapoulios, Cameron Ballard, Emiliano De Cristofaro, Sav
 **The Gospel According to Q: Understanding the QAnon Conspiracy from the Perspective of Canonical Information**  
 16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
 [pdf](https://arxiv.org/pdf/2101.08750){: .btn--danger}{:target="_blank"}  
-<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [New Scientist](https://www.newscientist.com/article/2285563-qanon-posts-by-figurehead-q-may-be-written-by-more-than-one-person/)  
+<span style="color:white;background-color:#1a6b2a;padding: 2px 8px;text-align: center;border-radius: 20px">media coverage:</span>{: .btn--media} [New Scientist](https://www.newscientist.com/article/2285563-qanon-posts-by-figurehead-q-may-be-written-by-more-than-one-person/)  
 
 
 Kostantinos Papadamou, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, and Michael Sirivianos  
@@ -239,7 +239,7 @@ Manoel Horta Ribeiro, Shagun Jhaver, Savvas Zannettou, Jeremy Blackburn, Emilian
 24th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2021)  
 [honorable mention](https://cscw.acm.org/2021/awards/){: .btn--success}  
 [pdf](https://arxiv.org/pdf/2010.10397.pdf){: .btn--danger}{:target="_blank"} [video](https://youtu.be/74O0XgPIu3o){: .btn--danger}{:target="_blank"}  
-<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [WaPo](https://www.washingtonpost.com/technology/2021/02/05/why-thedonald-moderator-left/), [El Pais](https://elpais.com/tecnologia/2021-01-08/la-victoria-de-los-trols-de-como-internet-se-ha-convertido-en-la-vida-real.html), [The Brink](https://www.bu.edu/articles/2021/trump-banned-from-twitter-facebook/), [Wired](https://www.wired.com/story/qanon-facebook-deplatforming/)  
+<span style="color:white;background-color:#1a6b2a;padding: 2px 8px;text-align: center;border-radius: 20px">media coverage:</span>{: .btn--media} [WaPo](https://www.washingtonpost.com/technology/2021/02/05/why-thedonald-moderator-left/), [El Pais](https://elpais.com/tecnologia/2021-01-08/la-victoria-de-los-trols-de-como-internet-se-ha-convertido-en-la-vida-real.html), [The Brink](https://www.bu.edu/articles/2021/trump-banned-from-twitter-facebook/), [Wired](https://www.wired.com/story/qanon-facebook-deplatforming/)  
 
 Kostantinos Papadamou, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, and Michael Sirivianos  
 **"How over is it?" Understanding the Incel Community on YouTube**  
@@ -250,7 +250,7 @@ Chen Ling, Ihab AbuHilal, Jeremy Blackburn, Emiliano De Cristofaro, Savvas Zanne
 **Dissecting the Meme Magic: Understanding Indicators of Virality in Image Memes**  
 24th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2021)  
 [pdf](https://arxiv.org/pdf/2101.06535.pdf){: .btn--danger}{:target="_blank"} [video](https://www.youtube.com/watch?v=4E83nxRnFT0&t=12s){: .btn--danger}{:target="_blank"}  
-<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [Input Mag](https://www.inputmag.com/culture/viral-meme-ai-study-bernie-sanders)
+<span style="color:white;background-color:#1a6b2a;padding: 2px 8px;text-align: center;border-radius: 20px">media coverage:</span>{: .btn--media} [Input Mag](https://www.inputmag.com/culture/viral-meme-ai-study-bernie-sanders)
 
 Shiza Ali, Mohammad Hammas Saeed, Esraa Aldreabi, Jeremy Blackburn, Emiliano De Cristofaro, Savvas Zannettou, and Gianluca Stringhini  
 **Understanding the Effect of Deplatforming on Social Networks**  
@@ -262,19 +262,19 @@ Antonis Papasavva, Jeremy Blackburn, Gianluca Stringhini, Savvas Zannettou, and 
 **"Is it a Qoincidence?": An Exploratory Study of QAnon on Voat**  
 30th The Web Conference (WWW 2021)  
 [pdf](https://arxiv.org/pdf/2009.04885.pdf){: .btn--danger}{:target="_blank"} [video](https://www.youtube.com/watch?v=P3UyI8CSBWQ){: .btn--danger}{:target="_blank"}  
-<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [Wired](https://www.wired.com/story/qanon-facebook-deplatforming/), [Echosec](https://www.echosec.net/blog/what-is-voat), [The Daily Beast](https://www.thedailybeast.com/another-blow-for-qanon-as-voat-announces-a-christmas-shutdown)  
+<span style="color:white;background-color:#1a6b2a;padding: 2px 8px;text-align: center;border-radius: 20px">media coverage:</span>{: .btn--media} [Wired](https://www.wired.com/story/qanon-facebook-deplatforming/), [Echosec](https://www.echosec.net/blog/what-is-voat), [The Daily Beast](https://www.thedailybeast.com/another-blow-for-qanon-as-voat-announces-a-christmas-shutdown)  
 
 Max Aliapoulios, Emmi Bevensee, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, and Savvas Zannettou  
 **A Large Open Dataset from the Parler Social Network**  
 15th International AAAI Conference on Web and Social Media (ICWSM 2021)  
 [pdf](https://arxiv.org/pdf/2101.03820.pdf){: .btn--danger}{:target="_blank"}  
-<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [USA Today](https://eu.usatoday.com/in-depth/news/2021/02/01/civil-war-during-trumps-pre-riot-speech-parler-talk-grew-darker/4297165001/), [The Conversation](https://theconversation.com/does-deplatforming-work-to-curb-hate-speech-and-calls-for-violence-3-experts-in-online-communications-weigh-in-153177), [Business Insider-1](https://www.businessinsider.com/parler-shutdown-by-amazon-might-not-be-fatal-to-the-social-network-2021-1), [Business Insider-2](https://www.businessinsider.com/parler-app-hotbed-radicalization-extremism-2021-1)
+<span style="color:white;background-color:#1a6b2a;padding: 2px 8px;text-align: center;border-radius: 20px">media coverage:</span>{: .btn--media} [USA Today](https://eu.usatoday.com/in-depth/news/2021/02/01/civil-war-during-trumps-pre-riot-speech-parler-talk-grew-darker/4297165001/), [The Conversation](https://theconversation.com/does-deplatforming-work-to-curb-hate-speech-and-calls-for-violence-3-experts-in-online-communications-weigh-in-153177), [Business Insider-1](https://www.businessinsider.com/parler-shutdown-by-amazon-might-not-be-fatal-to-the-social-network-2021-1), [Business Insider-2](https://www.businessinsider.com/parler-app-hotbed-radicalization-extremism-2021-1)
 
 Manoel Horta Ribeiro, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro, Gianluca Stringhini, Summer Long, Stephanie Greenberg, and Savvas Zannettou  
 **The Evolution of the Manosphere Across the Web**  
 15th International AAAI Conference on Web and Social Media (ICWSM 2021)  
 [pdf](https://arxiv.org/pdf/2001.07600.pdf){: .btn--danger}{:target="_blank"}  
-<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [Newsweek](https://www.newsweek.com/manosphere-incel-communities-online-more-toxic-data-research-shows-1486943), [MIT Tech](https://www.technologyreview.com/s/615155/the-manosphere-is-getting-more-toxic-as-angry-men-join-the-incels/), [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-7997085/Men-internet-extreme-toxic-abusive-according-study.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+<span style="color:white;background-color:#1a6b2a;padding: 2px 8px;text-align: center;border-radius: 20px">media coverage:</span>{: .btn--media} [Newsweek](https://www.newsweek.com/manosphere-incel-communities-online-more-toxic-data-research-shows-1486943), [MIT Tech](https://www.technologyreview.com/s/615155/the-manosphere-is-getting-more-toxic-as-angry-men-join-the-incels/), [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-7997085/Men-internet-extreme-toxic-abusive-according-study.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
 
 
 Yuping Wang, Fatemeh Tahmasbi, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro, David Magerman, Savvas Zannettou, and Gianluca Stringhini  
@@ -314,7 +314,7 @@ Alexandros Mittos, Savvas Zannettou, Jeremy Blackburn, and Emiliano De Cristofar
 **"And We Will Fight For Our Race! A Measurement Study of Genetic Testing Conversations on Reddit and 4chan**  
 14th International AAAI Conference on Web and Social Media (ICWSM 2020)  
 [full version](https://arxiv.org/pdf/1901.09735.pdf){: .btn--danger}{:target="_blank"} [video](https://www.youtube.com/watch?v=qTLKspE36kY){: .btn--danger}{:target="_blank"}  
-<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [The Times](https://www.thetimes.co.uk/article/genetic-tests-for-ancestry-being-hijacked-by-racists-ltwr72f6c), [StatNews](https://www.statnews.com/2019/08/02/he-studies-jerks-on-the-internet-his-latest-project-researching-how-they-talk-about-genetic-testing/)
+<span style="color:white;background-color:#1a6b2a;padding: 2px 8px;text-align: center;border-radius: 20px">media coverage:</span> [The Times](https://www.thetimes.co.uk/article/genetic-tests-for-ancestry-being-hijacked-by-racists-ltwr72f6c), [StatNews](https://www.statnews.com/2019/08/02/he-studies-jerks-on-the-internet-his-latest-project-researching-how-they-talk-about-genetic-testing/)
 
 
 
@@ -344,7 +344,7 @@ Despoina Chatzakou, Ilias Leontiadis, Jeremy Blackburn, Emiliano De Cristofaro, 
 **Detecting Cyberbullying and Cyberaggression in Social Media**  
 ACM Transactions on the Web (TWEB), Vol. 13, No. 3, 2019  
 [pdf](https://arxiv.org/pdf/1907.08873.pdf){: .btn--danger}{:target="_blank"}  
-<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [The Register](https://www.theregister.co.uk/AMP/2019/09/17/twitter_bullying_classifier/?__twitter_impression=true), [BBC](https://www.bbc.com/news/technology-49740135), [NewsBusters](https://www.newsbusters.org/blogs/techwatch/corinne-weaver/2019/09/18/twitter-study-targets-maga-cyberbullying-pro-choice-normal), [SkyNews](https://news.sky.com/story/new-algorithm-spots-twitter-bullies-with-90-accuracy-11812012)
+<span style="color:white;background-color:#1a6b2a;padding: 2px 8px;text-align: center;border-radius: 20px">media coverage:</span> [The Register](https://www.theregister.co.uk/AMP/2019/09/17/twitter_bullying_classifier/?__twitter_impression=true), [BBC](https://www.bbc.com/news/technology-49740135), [NewsBusters](https://www.newsbusters.org/blogs/techwatch/corinne-weaver/2019/09/18/twitter-study-targets-maga-cyberbullying-pro-choice-normal), [SkyNews](https://news.sky.com/story/new-algorithm-spots-twitter-bullies-with-90-accuracy-11812012)
 
 Luca Melis, Congzheng Song, Emiliano De Cristofaro, and Vitaly Shmatikov  
 **Exploiting Unintended Feature Leakage in Collaborative Learning**  
@@ -402,7 +402,7 @@ Savvas Zannettou, Tristan Caulfield, Jeremy Blackburn, Emiliano De Cristofaro, M
 18th ACM Internet Measurement Conference (IMC 2018)  
 [distinguished paper](https://conferences.sigcomm.org/imc/2018/awards/){: .btn--success}{:target="_blank"}  
 [pdf](https://arxiv.org/pdf/1805.12512.pdf){: .btn--danger}{:target="_blank"} [code](https://github.com/memespaper/memes_pipeline){: .btn--danger}{:target="_blank"}  
-<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [BBC Trending](https://www.bbc.co.uk/programmes/w3csws6t), [BBC News](https://www.bbc.com/news/blogs-trending-45888176), [MIT Technology Review](https://www.technologyreview.com/s/611332/this-is-where-internet-memes-come-from/), [CBS News](https://www.youtube.com/watch?v=oLUZnTN-zeo&feature=youtu.be), [The Independent](https://indy100.com/article/most-popular-memes-science-study-reddit-twitter-8386051), [VICE](https://motherboard.vice.com/en_us/article/zm884j/where-do-memes-come-from-researchers-studied-reddit-4chan), [Business Insider](https://www.businessinsider.com.au/origin-of-memes-study-2018-6), [The Daily Dot](https://www.dailydot.com/unclick/meme-studies), [Quartz](https://qz.com/1296094/most-popular-memes-finally-a-scientific-list-of-the-most-popular-memes-on-the-internet/), [El Pais](https://elpais.com/tecnologia/2019/03/26/actualidad/1553596590_520008.html), [MotherJones](https://www.motherjones.com/politics/2019/04/right-wing-groups-are-training-young-conservatives-to-win-the-next-meme-war/), [InfoWars](https://www.infowars.com/new-scientific-study-proves-the-left-cant-meme/), [Thinkprogress](https://thinkprogress.org/how-horrible-memes-thrive-on-the-internet-135bd2d2ea6b/), [Iflscience](http://www.iflscience.com/technology/scientists-discover-the-most-popular-memes-on-the-internet-finally/), [Hornet](https://hornet.com/stories/racist-memes-alt-right-memes/), [Bellingcat](https://bellingcat.com/news/americas/2018/10/31/magabomber-synagogue-shooter-likely-radicalized/)
+<span style="color:white;background-color:#1a6b2a;padding: 2px 8px;text-align: center;border-radius: 20px">media coverage:</span> [BBC Trending](https://www.bbc.co.uk/programmes/w3csws6t), [BBC News](https://www.bbc.com/news/blogs-trending-45888176), [MIT Technology Review](https://www.technologyreview.com/s/611332/this-is-where-internet-memes-come-from/), [CBS News](https://www.youtube.com/watch?v=oLUZnTN-zeo&feature=youtu.be), [The Independent](https://indy100.com/article/most-popular-memes-science-study-reddit-twitter-8386051), [VICE](https://motherboard.vice.com/en_us/article/zm884j/where-do-memes-come-from-researchers-studied-reddit-4chan), [Business Insider](https://www.businessinsider.com.au/origin-of-memes-study-2018-6), [The Daily Dot](https://www.dailydot.com/unclick/meme-studies), [Quartz](https://qz.com/1296094/most-popular-memes-finally-a-scientific-list-of-the-most-popular-memes-on-the-internet/), [El Pais](https://elpais.com/tecnologia/2019/03/26/actualidad/1553596590_520008.html), [MotherJones](https://www.motherjones.com/politics/2019/04/right-wing-groups-are-training-young-conservatives-to-win-the-next-meme-war/), [InfoWars](https://www.infowars.com/new-scientific-study-proves-the-left-cant-meme/), [Thinkprogress](https://thinkprogress.org/how-horrible-memes-thrive-on-the-internet-135bd2d2ea6b/), [Iflscience](http://www.iflscience.com/technology/scientists-discover-the-most-popular-memes-on-the-internet-finally/), [Hornet](https://hornet.com/stories/racist-memes-alt-right-memes/), [Bellingcat](https://bellingcat.com/news/americas/2018/10/31/magabomber-synagogue-shooter-likely-radicalized/)
 
 Gergely Acs, Luca Melis, Claude Castelluccia, Emiliano De Cristofaro (Extended Version)  
 **Differentially Private Mixture of Generative Neural Networks**  
@@ -470,7 +470,7 @@ Savvas Zannettou, Tristan Caulfield, Emiliano De Cristofaro, N. Kourtellis, I. L
 **The Web Centipede: Understanding How Web Communities Influence Each Other Through the Lens of Mainstream and Alternative News Sources**  
 17th ACM Internet Measurement Conference (IMC 2017)  
 [pdf](https://arxiv.org/pdf/1705.06947.pdf){: .btn--danger}{:target="_blank"} [blog](https://www.benthamsgaze.org/2017/10/04/how-4chan-and-the_donald-influence-the-fake-news-ecosystem/){: .btn--danger}{:target="_blank"}  
-<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [Nature](http://www.nature.com/news/shining-a-light-on-the-dark-corners-of-the-web-1.22128), [The Atlantic](https://www.theatlantic.com/politics/archive/2017/11/how-much-attention-should-extremists-get/546152/), [La Repubblica (in Italian)](http://www.repubblica.it/tecnologia/social-network/2017/06/13/news/odio_insulti_e_fake_news_la_prima_mappa_del_lato_oscuro_del_web-167988521/), [Ansa (in Italian)](http://www.ansa.it/sito/notizie/tecnologia/internet_social/2017/06/12/mappa-odio-online-dalle-fonti-ai-social_253eca7b-4d3f-457b-a1ab-6e857d964925.html), [Sky News](http://news.sky.com/story/research-examines-fake-news-hate-speech-and-4chan-10910915), [Hacker News](https://news.ycombinator.com/item?id=14435502), [BoingBoing](https://boingboing.net/2017/06/23/weird-raids.html), [Phys.org](https://phys.org/news/2017-11-fringe-reddit-4chan-high-alternative.html), [Naked Security](https://nakedsecurity.sophos.com/2017/11/10/how-twitter-outrage-hatches-in-tiny-fringe-groups-on-4chan-and-reddit)  
+<span style="color:white;background-color:#1a6b2a;padding: 2px 8px;text-align: center;border-radius: 20px">media coverage:</span> [Nature](http://www.nature.com/news/shining-a-light-on-the-dark-corners-of-the-web-1.22128), [The Atlantic](https://www.theatlantic.com/politics/archive/2017/11/how-much-attention-should-extremists-get/546152/), [La Repubblica (in Italian)](http://www.repubblica.it/tecnologia/social-network/2017/06/13/news/odio_insulti_e_fake_news_la_prima_mappa_del_lato_oscuro_del_web-167988521/), [Ansa (in Italian)](http://www.ansa.it/sito/notizie/tecnologia/internet_social/2017/06/12/mappa-odio-online-dalle-fonti-ai-social_253eca7b-4d3f-457b-a1ab-6e857d964925.html), [Sky News](http://news.sky.com/story/research-examines-fake-news-hate-speech-and-4chan-10910915), [Hacker News](https://news.ycombinator.com/item?id=14435502), [BoingBoing](https://boingboing.net/2017/06/23/weird-raids.html), [Phys.org](https://phys.org/news/2017-11-fringe-reddit-4chan-high-alternative.html), [Naked Security](https://nakedsecurity.sophos.com/2017/11/10/how-twitter-outrage-hatches-in-tiny-fringe-groups-on-4chan-and-reddit)  
 
 Muhammad Ikram, Lucky Onwuzurike, Shehroze Farooqi, Emiliano De Cristofaro, Arik Friedman, Guillaume Jourjon, Dali Kaafar, M. Zubair Shafiq  
 **Measuring, Characterizing, and Detecting Facebook Like Farms**  
@@ -494,7 +494,7 @@ Gabriel Hine, Jeremiah Onaolapo, Emiliano De Cristofaro, Nicolas Kourtellis, Ili
 11th International AAAI Conference on Web and Social Media (ICWSM 2017)  
 [best paper runner-up](https://www.icwsm.org/2017/){: .btn--success}{:target="_blank"}  
 [full version](https://arxiv.org/pdf/1610.03452){: .btn--danger}{:target="_blank"} [blog](https://www.benthamsgaze.org/2016/11/16/a-longitudinal-measurement-study-of-4chans-politically-incorrect-forum-and-its-effect-on-the-web/){: .btn--danger}{:target="_blank"}  
-<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [Nature](http://www.nature.com/news/shining-a-light-on-the-dark-corners-of-the-web-1.22128), [Motherboard](https://motherboard.vice.com/en_us/article/how-4chans-structure-creates-a-survival-of-the-fittest-for-memes), [The Independent](http://www.independent.co.uk/life-style/gadgets-and-tech/4chan-raids-how-one-dark-corner-of-the-internet-is-spreading-its-shadows-a7416631.html), [The Conversation](https://theconversation.com/4chan-raids-how-one-dark-corner-of-the-internet-is-spreading-its-shadows-68394), [MIT Technology Review](https://www.technologyreview.com/s/602707/the-best-of-the-physics-arxiv-week-ending-october-22-2016/), [Vice](http://motherboard.vice.com/read/block-4chan-to-stop-the-alt-right-from-spreading-racist-memes-scientists-say?=dhdhd), [La Stampa (in Italian)](http://www.lastampa.it/2016/10/14/societa/rane-odio-e-protrump-cos-funziona-chan-la-pancia-di-internet-qSR7NV32eMNHYxYtWGh4tJ/pagina.html), [La Repubblica (in Italian)](http://www.repubblica.it/speciali/esteri/presidenziali-usa2016/2016/11/12/news/trump_internet_meme_virali_social_4chan-151826943/?ref=HREC1-1), [BoingBoing](http://boingboing.net/2016/10/14/academic-paper-about-4chans.html), [Pacific Standard](https://psmag.com/what-happens-when-4chan-attacks-8747e5958705#.1jk23u5d0)
+<span style="color:white;background-color:#1a6b2a;padding: 2px 8px;text-align: center;border-radius: 20px">media coverage:</span> [Nature](http://www.nature.com/news/shining-a-light-on-the-dark-corners-of-the-web-1.22128), [Motherboard](https://motherboard.vice.com/en_us/article/how-4chans-structure-creates-a-survival-of-the-fittest-for-memes), [The Independent](http://www.independent.co.uk/life-style/gadgets-and-tech/4chan-raids-how-one-dark-corner-of-the-internet-is-spreading-its-shadows-a7416631.html), [The Conversation](https://theconversation.com/4chan-raids-how-one-dark-corner-of-the-internet-is-spreading-its-shadows-68394), [MIT Technology Review](https://www.technologyreview.com/s/602707/the-best-of-the-physics-arxiv-week-ending-october-22-2016/), [Vice](http://motherboard.vice.com/read/block-4chan-to-stop-the-alt-right-from-spreading-racist-memes-scientists-say?=dhdhd), [La Stampa (in Italian)](http://www.lastampa.it/2016/10/14/societa/rane-odio-e-protrump-cos-funziona-chan-la-pancia-di-internet-qSR7NV32eMNHYxYtWGh4tJ/pagina.html), [La Repubblica (in Italian)](http://www.repubblica.it/speciali/esteri/presidenziali-usa2016/2016/11/12/news/trump_internet_meme_virali_social_4chan-151826943/?ref=HREC1-1), [BoingBoing](http://boingboing.net/2016/10/14/academic-paper-about-4chans.html), [Pacific Standard](https://psmag.com/what-happens-when-4chan-attacks-8747e5958705#.1jk23u5d0)
 
 Despoina Chatzakou, Nicolas Kourtellis, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Athena Vakali  
 **Hate is not binary: Studying abusive behavior of #GamerGate on Twitter**  
@@ -518,7 +518,7 @@ Sina Sajadmanesh, Sina Jafarzadeh, Seyed Ali Ossia, Hamid R. Rabiee, Hamed Hadda
 **Kissing Cuisines: Exploring Worldwide Culinary Habits on the Web**  
 26th International World Wide Web Conference Web Science Track (WWW 2017)  
 [pdf](https://arxiv.org/pdf/1610.08469.pdf){: .btn--danger}{:target="_blank"}  
-<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [MIT Tech Review](https://www.technologyreview.com/s/602790/how-data-mining-reveals-the-worlds-healthiest-cuisines/), [The Independent](https://www.indy100.com/article/healthy-diverse-top-healthiest-countries-cuisine-food-in-the-world-list-7412171), [ReachMD](https://reachmd.com/news/if-you-are-what-you-eat-regional-cuisines-have-a-major-impact-on-health/1306703/), [France 24 (in French)](http://mashable.france24.com/styles/20161115-algorithme-cuisines-recherche-nutrition-ingredients), [Sciences et Avenir (in French)](http://www.sciencesetavenir.fr/high-tech/data/diversite-nutrition-les-cuisines-du-monde-analysees-par-les-big-data_108012), [NEXO (in Portoguese)](https://www.nexojornal.com.br/expresso/2016/11/08/Qual-o-grau-de-diversidade-da-culin%C3%A1ria-dos-pa%C3%ADses)
+<span style="color:white;background-color:#1a6b2a;padding: 2px 8px;text-align: center;border-radius: 20px">media coverage:</span> [MIT Tech Review](https://www.technologyreview.com/s/602790/how-data-mining-reveals-the-worlds-healthiest-cuisines/), [The Independent](https://www.indy100.com/article/healthy-diverse-top-healthiest-countries-cuisine-food-in-the-world-list-7412171), [ReachMD](https://reachmd.com/news/if-you-are-what-you-eat-regional-cuisines-have-a-major-impact-on-health/1306703/), [France 24 (in French)](http://mashable.france24.com/styles/20161115-algorithme-cuisines-recherche-nutrition-ingredients), [Sciences et Avenir (in French)](http://www.sciencesetavenir.fr/high-tech/data/diversite-nutrition-les-cuisines-du-monde-analysees-par-les-big-data_108012), [NEXO (in Portoguese)](https://www.nexojornal.com.br/expresso/2016/11/08/Qual-o-grau-de-diversidade-da-culin%C3%A1ria-dos-pa%C3%ADses)
 
 
 Enrico Mariconti, Lucky Onwuzurike, Panagiotis Andriotis, Emiliano De Cristofaro, Gordon Ross, Gianluca Stringhini  
@@ -526,7 +526,7 @@ Enrico Mariconti, Lucky Onwuzurike, Panagiotis Andriotis, Emiliano De Cristofaro
 24th Network and Distributed System Security Symposium (NDSS 2017)  
 [CSAW Europe Applied Research Award](http://csaw-europe.com/){: .btn--success}{:target="_blank"}, 2nd place (out of 128 papers)  
 [pdf](https://arxiv.org/pdf/1612.04433.pdf){: .btn--danger}{:target="_blank"} [blog](https://www.benthamsgaze.org/2017/03/28/mamadroid-detecting-android-malware-by-building-markov-chains-of-behavioral-models/){: .btn--danger}{:target="_blank"} [code](https://bitbucket.org/gianluca_students/mamadroid_code){: .btn--danger}{:target="_blank"}  
-<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [The Morning Paper](https://blog.acolyer.org/2017/03/09/mamadroid-detecting-android-malware-by-building-markov-chains-of-behavorial-models/)  
+<span style="color:white;background-color:#1a6b2a;padding: 2px 8px;text-align: center;border-radius: 20px">media coverage:</span> [The Morning Paper](https://blog.acolyer.org/2017/03/09/mamadroid-detecting-android-malware-by-building-markov-chains-of-behavorial-models/)  
 
 
 
@@ -624,14 +624,14 @@ Abdelberi Chaabane, Terence Chen, Mathieu Cunche, Emiliano De Cristofaro, Arik F
 14th ACM Internet Measurement Conference (IMC 2014)  
 [best paper runner-up](https://conferences.sigcomm.org/imc/2014/){: .btn--success}{:target="_blank"}  
 [full version](https://arxiv.org/pdf/1402.3401){: .btn--danger}{:target="_blank"}  
-<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [The Register](http://www.theregister.co.uk/2014/11/28/syria_regime_filtering_study/), [MIT Tech Review](http://www.technologyreview.com/view/525076/syrian-web-censorship-techniques-revealed/), [Boing Boing](http://boingboing.net/2014/02/18/detailed-analysis-of-syrias.html), [ACM Tech News](http://technews.acm.org/#708558), [Physics Central](http://physicsbuzz.physicscentral.com/2014/02/syrias-censorship-practices-exposed.html), [Motherboard](http://motherboard.vice.com/blog/hacked-data-reveals-the-syrian-governments-tactics-for-censoring-the-internet), [The Conversation](https://theconversation.com/lessons-on-censorship-from-syrias-internet-filter-machines-33951)  
+<span style="color:white;background-color:#1a6b2a;padding: 2px 8px;text-align: center;border-radius: 20px">media coverage:</span> [The Register](http://www.theregister.co.uk/2014/11/28/syria_regime_filtering_study/), [MIT Tech Review](http://www.technologyreview.com/view/525076/syrian-web-censorship-techniques-revealed/), [Boing Boing](http://boingboing.net/2014/02/18/detailed-analysis-of-syrias.html), [ACM Tech News](http://technews.acm.org/#708558), [Physics Central](http://physicsbuzz.physicscentral.com/2014/02/syrias-censorship-practices-exposed.html), [Motherboard](http://motherboard.vice.com/blog/hacked-data-reveals-the-syrian-governments-tactics-for-censoring-the-internet), [The Conversation](https://theconversation.com/lessons-on-censorship-from-syrias-internet-filter-machines-33951)  
 
 
 Emiliano De Cristofaro, Arik Friedman, Guillaume Jourjon, Dali Kaafar, M. Zubair Shafiq  
 **Paying for Likes? Understanding Facebook Like Fraud Using Honeypots**  
 14th ACM Internet Measurement Conference (IMC 2014)  
 [pdf](https://arxiv.org/pdf/1409.2097){: .btn--danger}{:target="_blank"}  
-<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [MIT Tech Review](http://www.technologyreview.com/view/530961/the-hidden-world-of-facebook-like-farms/), [Pacific Standard](http://www.psmag.com/navigation/nature-and-technology/hunt-fake-facebook-twitter-tumblr-fraud-likes-farms-social-media-friending-sharing-91154/), [The Telegraph](http://www.telegraph.co.uk/finance/newsbysector/mediatechnologyandtelecoms/11116543/The-real-story-behind-Facebook-likes.html), [ACM Tech News](http://technews.acm.org/#748178), [Yahoo Finance](http://finance.yahoo.com/news/pay-liked-facebook-inc-133021656.html), [Zero Hedge](http://www.zerohedge.com/news/2014-09-22/facebook-fraud-20-academic-study-exposes-farms), [Media Post](http://www.mediapost.com/publications/article/234791/facebook-likes-really-could-be-as-worthless-as-y.html), [The New Republic](http://www.newrepublic.com/article/121551/bot-bubble-click-farms-have-inflated-social-media-currency)  
+<span style="color:white;background-color:#1a6b2a;padding: 2px 8px;text-align: center;border-radius: 20px">media coverage:</span> [MIT Tech Review](http://www.technologyreview.com/view/530961/the-hidden-world-of-facebook-like-farms/), [Pacific Standard](http://www.psmag.com/navigation/nature-and-technology/hunt-fake-facebook-twitter-tumblr-fraud-likes-farms-social-media-friending-sharing-91154/), [The Telegraph](http://www.telegraph.co.uk/finance/newsbysector/mediatechnologyandtelecoms/11116543/The-real-story-behind-Facebook-likes.html), [ACM Tech News](http://technews.acm.org/#748178), [Yahoo Finance](http://finance.yahoo.com/news/pay-liked-facebook-inc-133021656.html), [Zero Hedge](http://www.zerohedge.com/news/2014-09-22/facebook-fraud-20-academic-study-exposes-farms), [Media Post](http://www.mediapost.com/publications/article/234791/facebook-likes-really-could-be-as-worthless-as-y.html), [The New Republic](http://www.newrepublic.com/article/121551/bot-bubble-click-farms-have-inflated-social-media-currency)  
 
 
 George Danezis and Emiliano De Cristofaro  
@@ -657,7 +657,7 @@ Emiliano De Cristofaro
 **Genomic Privacy and the Rise of a New Research Community**  
 IEEE Security & Privacy Magazine, Vol. 12, No. 2, March-April 2014  
 [pdf](https://emilianodc.com/PAPERS/column14.pdf){: .btn--danger}{:target="_blank"}  
-<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [DNA Digest](http://dnadigest.org/genomic-privacy-rise/)  
+<span style="color:white;background-color:#1a6b2a;padding: 2px 8px;text-align: center;border-radius: 20px">media coverage:</span> [DNA Digest](http://dnadigest.org/genomic-privacy-rise/)  
 
 
 Emiliano De Cristofaro  
@@ -708,7 +708,7 @@ Gregory Norcie, Emiliano De Cristofaro, Victoria Bellotti
 **Bootstrapping Trust in Online Dating: Social Verification of Online Dating Profiles**  
 7th Financial Cryptography and Data Security Workshop on Usable Security (USEC 2013)  
 [pdf](https://arxiv.org/pdf/1303.4155.pdf){: .btn--danger}{:target="_blank"}  
-<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [MIT Tech Review](http://www.technologyreview.com/view/516556/xerox-parc-tackles-online-datings-biggest-conundrum/)  
+<span style="color:white;background-color:#1a6b2a;padding: 2px 8px;text-align: center;border-radius: 20px">media coverage:</span> [MIT Tech Review](http://www.technologyreview.com/view/516556/xerox-parc-tackles-online-datings-biggest-conundrum/)  
 
 
 Emiliano De Cristofaro and Claudio Soriente  
@@ -747,7 +747,7 @@ Emiliano De Cristofaro, Sky Faber, Paolo Gasti, Gene Tsudik
 **GenoDroid: Are Privacy-Preserving Genomic Tests Ready for Prime Time?**  
 11th ACM CCS Workshop on Privacy in the Electronic Society (WPES 2012)  
 [pdf](https://emilianodc.com/PAPERS/WPES12.pdf){: .btn--danger}{:target="_blank"} [code](https://emilianodc.com/code/genodroid.tar.gz){: .btn--danger}{:target="_blank"}  
-<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [NewScientist](http://www.newscientist.com/article/mg21628896.300-want-to-keep-your-genome-safe-theres-an-app-for-that.html), [MIT Tech Review](http://www.technologyreview.com/view/510746/dna-data-security-and-you/), [Fierce Mobile Healthcare](http://www.fiercemobilehealthcare.com/story/smartphone-app-enables-secure-storage-testing-dna-data/2013-01-28), [PBS SoCal](http://video.pbssocal.org/video/2328787709), [Privacy Surgeon](http://www.privacysurgeon.org/blog/incision/gene-genie-your-genome-may-soon-be-on-a-smartphone-app/), [OC Register](http://www.ocregister.com/articles/dna-383823-genome-tsudik.html), [eWeek](http://www.eweek.com/mobile/android-paternity-test-app-developed-by-uc-irvine-computer-scientists), [IEEE Computer Society](http://www.computer.org/portal/web/news/home/-/blogs/smartphone-application-secures-dna-data), [About.com](http://biotech.about.com/b/2013/01/26/safely-access-your-genetic-profile-on-your-smart-phone.htm)  
+<span style="color:white;background-color:#1a6b2a;padding: 2px 8px;text-align: center;border-radius: 20px">media coverage:</span> [NewScientist](http://www.newscientist.com/article/mg21628896.300-want-to-keep-your-genome-safe-theres-an-app-for-that.html), [MIT Tech Review](http://www.technologyreview.com/view/510746/dna-data-security-and-you/), [Fierce Mobile Healthcare](http://www.fiercemobilehealthcare.com/story/smartphone-app-enables-secure-storage-testing-dna-data/2013-01-28), [PBS SoCal](http://video.pbssocal.org/video/2328787709), [Privacy Surgeon](http://www.privacysurgeon.org/blog/incision/gene-genie-your-genome-may-soon-be-on-a-smartphone-app/), [OC Register](http://www.ocregister.com/articles/dna-383823-genome-tsudik.html), [eWeek](http://www.eweek.com/mobile/android-paternity-test-app-developed-by-uc-irvine-computer-scientists), [IEEE Computer Society](http://www.computer.org/portal/web/news/home/-/blogs/smartphone-application-secures-dna-data), [About.com](http://biotech.about.com/b/2013/01/26/safely-access-your-genetic-profile-on-your-smart-phone.htm)  
 
 Carlo Blundo, Emiliano De Cristofaro, Paolo Gasti  
 **EsPRESSo: Efficient Privacy-Preserving Evaluation of Sample Set Similarity**  
@@ -796,7 +796,7 @@ Pierre Baldi, Roberta Baronio, Emiliano De Cristofaro, Paolo Gasti, Gene Tsudik
 **Countering GATTACA: Efficient and Secure Testing of Fully-Sequenced Human Genomes**  
 18th ACM Conference on Computer and Communications Security (CCS 2011)  
 [full version](https://arxiv.org/pdf/1110.2478.pdf){: .btn--danger}{:target="_blank"}  
-<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [MIT Technology Review](http://www.technologyreview.com/printer_friendly_blog.aspx?id=27252), [NewScientist](http://www.newscientist.com/article/mg21228346.500-keeping-a-lid-on-your-digital-dna.html), [Kurzweilai](http://www.kurzweilai.net/how-cryptography-will-guarantee-genomic-privacy)  
+<span style="color:white;background-color:#1a6b2a;padding: 2px 8px;text-align: center;border-radius: 20px">media coverage:</span> [MIT Technology Review](http://www.technologyreview.com/printer_friendly_blog.aspx?id=27252), [NewScientist](http://www.newscientist.com/article/mg21228346.500-keeping-a-lid-on-your-digital-dna.html), [Kurzweilai](http://www.kurzweilai.net/how-cryptography-will-guarantee-genomic-privacy)  
 
 Claude Castelluccia, Emiliano De Cristofaro, Aurelien Francillon, Dali Kaafar  
 **EphPub: Toward Robust Ephemeral Publishing**  
@@ -851,7 +851,7 @@ Claude Castelluccia, Emiliano De Cristofaro, Daniele Perito
 **Private Information Disclosure from Web Searches**  
 10th Privacy Enhancing Technology Symposium (PETS 2010)  
 [full version](https://arxiv.org/pdf/1003.3242.pdf){: .btn--danger}{:target="_blank"}  
-<span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span> [MIT Tech](http://technologyreview.com/web/25159/), [Slashdot](http://rch.slashdot.org/story/10/04/25/1258222/Reconstructing-Users-Web-Histories-From-Personalized-Search-Results), [ACM News](http://technews.acm.org/archives.cfm?fo=2010-04-apr/apr-23-2010.html#460227), [The Register](http://www.theregister.co.uk/2010/04/29/google_personalized_suggestions_turned_off_after_researcher_attack/)
+<span style="color:white;background-color:#1a6b2a;padding: 2px 8px;text-align: center;border-radius: 20px">media coverage:</span> [MIT Tech](http://technologyreview.com/web/25159/), [Slashdot](http://rch.slashdot.org/story/10/04/25/1258222/Reconstructing-Users-Web-Histories-From-Personalized-Search-Results), [ACM News](http://technews.acm.org/archives.cfm?fo=2010-04-apr/apr-23-2010.html#460227), [The Register](http://www.theregister.co.uk/2010/04/29/google_personalized_suggestions_turned_off_after_researcher_attack/)
 
 Emiliano De Cristofaro and Gene Tsudik  
 **Practical Private Set Intersection Protocols with Linear Complexity**  

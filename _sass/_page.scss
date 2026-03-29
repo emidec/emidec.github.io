@@ -20,7 +20,7 @@
   @include breakpoint($large) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+    @include suffix(1 of 12);
   }
 
   .page__inner-wrap {
@@ -51,20 +51,36 @@
 .page__content {
 
   h2 {
-    padding-bottom: 0.5em;
-    border-bottom: 2px solid $lighter-gray;
-    color: $darker-gray;
-    margin-top: 1.5em;
+    font-size: 1.3em;
+    font-weight: 700;
+    color: #1e2d40;
+    margin-top: 1.8em;
+    padding-bottom: 0.4em;
+    border-bottom: 2px solid #1e2d40;
+    letter-spacing: -0.02em;
   }
 
   h3 {
-    color: $dark-gray;
-    margin-top: 1.2em;
+    color: $darker-gray;
+    margin-top: 1.3em;
+    font-size: 1.05em;
+    font-weight: 600;
+    letter-spacing: -0.01em;
   }
 
   p, li, dl {
     font-size: 0.9em;
-    line-height: 1.7;
+    line-height: 1.6;
+  }
+
+  /* Publication entry cards */
+  p:has(> strong:first-child) {
+    padding: 0.75em 1em 0.75em 1em;
+    border-left: 3px solid $info-color;
+    background: #f7fafd;
+    border-radius: 0 4px 4px 0;
+    margin-bottom: 0.75em;
+    line-height: 1.25;
   }
 
   /* paragraph indents */
