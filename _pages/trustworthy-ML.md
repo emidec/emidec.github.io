@@ -10,190 +10,190 @@ title: Trustworthy Machine Learning
 <br>This page provides a non-exhaustive list of my publications related to **security** and **privacy** in/for **machine learning**. For each entry, a link to an open-access version of the paper is also provided.
 
 *** 
-G. Ganev, M. Nazari, R. Davison, A. Fallah Dizche, X. Wu, R. Abbey, J.G Silva, E. De Cristofaro  
-**SMOTE and Mirrors: Exposing Privacy Leakage from Synthetic Minority Oversampling**  
+G. Ganev, M. Nazari, R. Davison, A. Fallah Dizche, X. Wu, R. Abbey, J.G Silva, E. De Cristofaro.
+**SMOTE and Mirrors: Exposing Privacy Leakage from Synthetic Minority Oversampling.**
 14th International Conference on Learning Representations (ICLR 2026)  
 [pdf](https://arxiv.org/abs/2510.15083){: .btn--danger}{:target="_blank"}  
 
 
-M.S.M.S. Annamalai, B. Balle, J. Hayes, G. Kaissis, E. De Cristofaro  
-**SoK: The Hitchhiker’s Guide to Efficient, End-to-End, and Tight DP Auditing**  
+M.S.M.S. Annamalai, B. Balle, J. Hayes, G. Kaissis, E. De Cristofaro.
+**SoK: The Hitchhiker’s Guide to Efficient, End-to-End, and Tight DP Auditing.**
 4th IEEE Secure and Trustworthy Machine Learning Conference (IEEE SaTML 2026)  
 [pdf](https://arxiv.org/pdf/2506.16666){: .btn--danger}{:target="_blank"}  
 
-M.S.M.S. Annamalai, B. Balle, J. Hayes, E. De Cristofaro  
-**To Shuffle or not to Shuffle: Auditing DP-SGD with Shuffling**  
+M.S.M.S. Annamalai, B. Balle, J. Hayes, E. De Cristofaro.
+**To Shuffle or not to Shuffle: Auditing DP-SGD with Shuffling.**
 33rd Network and Distributed System Security Symposium (NDSS 2026)  
 [pdf](https://arxiv.org/pdf/2411.10614){: .btn--danger}{:target="_blank"}  
 
 
-G. Ganev, M.S.M.S. Annamalai, S. Mahiou, E. De Cristofaro  
-**The Importance of Being Discrete: Measuring the Impact of Discretization in End-to-End Differentially Private Synthetic Data**  
+G. Ganev, M.S.M.S. Annamalai, S. Mahiou, E. De Cristofaro.
+**The Importance of Being Discrete: Measuring the Impact of Discretization in End-to-End Differentially Private Synthetic Data.**
 32nd ACM Conference on Computer and Communications Security (ACM CCS 2025)  
 [pdf](https://arxiv.org/pdf/2504.06923){: .btn--danger}{:target="_blank"}  
 
 
-S. Chennoufi, Y. Han, G. Blanc, E. De Cristofaro, and C. Kiennert  
-**PROTEAN: Federated Intrusion Detection in Non-IID Environments through Prototype-Based Knowledge Sharing**  
+S. Chennoufi, Y. Han, G. Blanc, E. De Cristofaro, and C. Kiennert.
+**PROTEAN: Federated Intrusion Detection in Non-IID Environments through Prototype-Based Knowledge Sharing.**
 30th European Symposium on Research in Computer Security (ESORICS 2025)  
 [pdf](https://arxiv.org/pdf/2507.05524){: .btn--danger}{:target="_blank"}  
 
-G. Ganev and E. De Cristofaro  
-**The Inadequacy of Similarity-based Privacy Metrics: Privacy Attacks against "Truly Anonymous" Synthetic Datasets**  
+G. Ganev and E. De Cristofaro.
+**The Inadequacy of Similarity-based Privacy Metrics: Privacy Attacks against "Truly Anonymous" Synthetic Datasets.**
 46th IEEE Symposium on Security & Privacy (S&P 2025)  
 [distinguished paper](https://sp2025.ieee-security.org/awards.html){: .btn--success}{:target="_blank"}  
 [pdf](https://arxiv.org/pdf/2312.05114){: .btn--danger}{:target="_blank"}  
 
 
-M.S.M.S. Annamalai, I. Bilogrevic, E. De Cristofaro  
-**Beyond the Crawl: Unmasking Browser Fingerprinting in Real User Interactions**  
+M.S.M.S. Annamalai, I. Bilogrevic, E. De Cristofaro.
+**Beyond the Crawl: Unmasking Browser Fingerprinting in Real User Interactions.**
 34th The Web Conference (WWW 2025)  
 [pdf](https://arxiv.org/pdf/2502.01608.pdf){: .btn--danger}{:target="_blank"}  
 
 
-G. Ganev, M.S.M.S. Annamalai, S. Mahiou, E. De Cristofaro  
-**Understanding the Impact of Data Domain Extraction on Synthetic Data Privacy**  
+G. Ganev, M.S.M.S. Annamalai, S. Mahiou, E. De Cristofaro.
+**Understanding the Impact of Data Domain Extraction on Synthetic Data Privacy.**
 Will Synthetic Data Finally Solve the Data Access Problem? (ICLR 2025 Workshop)  
 [pdf](https://arxiv.org/pdf/2504.08254){: .btn--danger}{:target="_blank"}  
 
 
-G. Ganev, M.S.M.S. Annamalai, E. De Cristofaro  
-**The Elusive Pursuit of Reproducing PATE-GAN: Benchmarking, Auditing, Debugging**  
+G. Ganev, M.S.M.S. Annamalai, E. De Cristofaro.
+**The Elusive Pursuit of Reproducing PATE-GAN: Benchmarking, Auditing, Debugging.**
 Transactions on Machine Learning Research (TMLR), February 2025  
 [pdf](https://arxiv.org/pdf/2406.13985.pdf){: .btn--danger}{:target="_blank"}  
 
-M.S.M.S. Annamalai, E. De Cristofaro  
-**Nearly Tight Black-Box Auditing of Differentially Private Machine Learning**  
+M.S.M.S. Annamalai, E. De Cristofaro.
+**Nearly Tight Black-Box Auditing of Differentially Private Machine Learning.**
 38th Annual Conference on Neural Information Processing Systems (NeurIPS 2024)  
 [pdf](https://arxiv.org/pdf/2405.14106){: .btn--danger}{:target="_blank"}  
 
-G. Ganev, K. Xu, E. De Cristofaro  
-**Graphical vs. Deep Generative Models: Measuring the Impact of Differentially Private Mechanisms and Budgets on Utility**  
+G. Ganev, K. Xu, E. De Cristofaro.
+**Graphical vs. Deep Generative Models: Measuring the Impact of Differentially Private Mechanisms and Budgets on Utility.**
 31st ACM Conference on Computer and Communications Security (ACM CCS 2024)  
 [pdf](https://arxiv.org/pdf/2305.10994.pdf){: .btn--danger}{:target="_blank"}  
 
 
-M.S.M.S. Annamalai, G. Ganev, E. De Cristofaro  
-**"What do you want from theory alone?" Experimenting with Tight Auditing of Differentially Private Synthetic Data Generation**  
+M.S.M.S. Annamalai, G. Ganev, E. De Cristofaro.
+**"What do you want from theory alone?" Experimenting with Tight Auditing of Differentially Private Synthetic Data Generation.**
 33st USENIX Security Symposium (Usenix Security 2024)  
 [pdf](https://arxiv.org/pdf/2405.10994.pdf){: .btn--danger}{:target="_blank"}  
 
-M. Naseri, Y. Han, E. De Cristofaro  
-**BadVFL: Backdoor Attacks in Vertical Federated Learning**  
+M. Naseri, Y. Han, E. De Cristofaro.
+**BadVFL: Backdoor Attacks in Vertical Federated Learning.**
 45th IEEE Symposium on Security & Privacy (S&P 2024)  
 [pdf](https://arxiv.org/pdf/2304.08847.pdf){: .btn--danger}{:target="_blank"}  
 
 
-E. De Cristofaro  
-**Synthetic Data: Methods, Use Cases, and Risks**  
+E. De Cristofaro.
+**Synthetic Data: Methods, Use Cases, and Risks.**
 IEEE Security and Privacy Magazine (Special Issue on Synthetic Realities), 2024  
 [pdf](https://arxiv.org/pdf/2303.01230.pdf){: .btn--danger}{:target="_blank"}  
 
 
-M.S.M.S. Annamalai, I. Bilogrevic, E. De Cristofaro  
-**FP-Fed: Privacy-Preserving Federated Detection of Browser Fingerprinting**  
+M.S.M.S. Annamalai, I. Bilogrevic, E. De Cristofaro.
+**FP-Fed: Privacy-Preserving Federated Detection of Browser Fingerprinting.**
 31st Network and Distributed System Security Symposium (NDSS 2024)  
 [pdf](https://arxiv.org/pdf/2311.16940.pdf){: .btn--danger}{:target="_blank"}  
 
-W. Man Si, J. Blackburn, E. De Cristofaro, G. Stringhini, S. Zannettou, Y. Zhang  
-**Why So Toxic? Measuring and Triggering Toxic Behavior in Open-Domain Chatbots**  
+W. Man Si, J. Blackburn, E. De Cristofaro, G. Stringhini, S. Zannettou, Y. Zhang.
+**Why So Toxic? Measuring and Triggering Toxic Behavior in Open-Domain Chatbots.**
 29th ACM Conference on Computer and Communications Security (ACM CCS 2022)  
 [honorable mention](https://www.sigsac.org/ccs/CCS2022/program/awards.html){: .btn--success}  
 [pdf](https://arxiv.org/pdf/2209.03463.pdf){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:#1a6b2a;padding: 2px 8px;text-align: center;border-radius: 20px">media coverage:</span>{: .btn--media} [FastCompany](https://www.fastcompany.com/90820090/the-internet-loves-chatgpt-but-theres-a-dark-side-to-the-tech)  
 
-M. Naseri, Y. Han, E. Mariconti, Y. Shen, G. Stringhini, E. De Cristofaro  
-**CERBERUS: Exploring Federated Prediction of Security Events**  
+M. Naseri, Y. Han, E. Mariconti, Y. Shen, G. Stringhini, E. De Cristofaro.
+**CERBERUS: Exploring Federated Prediction of Security Events.**
 29th ACM Conference on Computer and Communications Security (ACM CCS 2022)  
 [pdf](https://arxiv.org/pdf/2209.03050.pdf){: .btn--danger}{:target="_blank"} 
 
-G. Ganev, B. Oprisanu, E. De Cristofaro  
-**Robin Hood and Matthew Effects -- Differential Privacy Has Disparate Impact on Synthetic Data**  
+G. Ganev, B. Oprisanu, E. De Cristofaro.
+**Robin Hood and Matthew Effects -- Differential Privacy Has Disparate Impact on Synthetic Data.**
 39th International Conference on Machine Learning (ICML 2022)  
 [pdf](https://arxiv.org/pdf/2109.11429.pdf){: .btn--danger}{:target="_blank"} 
 
-Y. Liu, R. Wen, X. He, A. Salem, Z. Zhang, M. Backes, E. De Cristofaro, M. Fritz, Y. Zhang  
-**ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models**  
+Y. Liu, R. Wen, X. He, A. Salem, Z. Zhang, M. Backes, E. De Cristofaro, M. Fritz, Y. Zhang.
+**ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models.**
 31st USENIX Security Symposium (Usenix Security 2022)  
 [pdf](https://arxiv.org/abs/2102.02551){: .btn--danger}{:target="_blank"} 
 
-B. Oprisanu, G. Ganev, E. De Cristofaro  
-**On Utility and Privacy in Synthetic Genomic Data**  
+B. Oprisanu, G. Ganev, E. De Cristofaro.
+**On Utility and Privacy in Synthetic Genomic Data.**
 29th Network and Distributed System Security Symposium (NDSS 2022)  
 [pdf](https://arxiv.org/abs/2102.03314){: .btn--danger}{:target="_blank"} 
 
-M. Naseri, J. Hayes, E. De Cristofaro  
-**Local and Central Differential Privacy for Robustness and Privacy in Federated Learning**  
+M. Naseri, J. Hayes, E. De Cristofaro.
+**Local and Central Differential Privacy for Robustness and Privacy in Federated Learning.**
 29th Network and Distributed System Security Symposium (NDSS 2022)  
 [pdf](https://arxiv.org/pdf/2009.03561.pdf){: .btn--danger}{:target="_blank"} 
 
-E. De Cristofaro  
-**A Critical Overview of Privacy in Machine Learning**  
+E. De Cristofaro.
+**A Critical Overview of Privacy in Machine Learning.**
 IEEE Security & Privacy Magazine, Volume 19, Issue 4, July-August 2021  
 [pdf](https://emilianodc.com/PAPERS/IEEESP2021.pdf){: .btn--danger}{:target="_blank"} 
 
-A. Pyrgelis, C. Troncoso, and E. De Cristofaro  
-**Measuring Membership Privacy on Aggregate Location Time-Series**  
+A. Pyrgelis, C. Troncoso, and E. De Cristofaro.
+**Measuring Membership Privacy on Aggregate Location Time-Series.**
 ACM International Conference on Measurement and Modeling of Computer Systems (SIGMETRICS 2020)  
 [pdf](https://arxiv.org/pdf/1902.07456.pdf){: .btn--danger}{:target="_blank"} [video](https://www.youtube.com/watch?v=8dFU9Ug-Hsg){: .btn--danger}{:target="_blank"}  
 
-L. Melis, C. Song, E. De Cristofaro, and V. Shmatikov  
-**Exploiting Unintended Feature Leakage in Collaborative Learning**  
+L. Melis, C. Song, E. De Cristofaro, and V. Shmatikov.
+**Exploiting Unintended Feature Leakage in Collaborative Learning.**
 40th IEEE Symposium on Security & Privacy (S&P 2019)  
 [pdf](https://arxiv.org/pdf/1805.04049.pdf){: .btn--danger}{:target="_blank"} [video](https://www.youtube.com/watch?v=yBz1RnlaTko){: .btn--danger}{:target="_blank"}  
 
 
-V. Primault, V. Lampos, I. Cox, and E. De Cristofaro  
-**Privacy-Preserving Crowd-Sourcing of Web Searches with Private Data Donor**  
+V. Primault, V. Lampos, I. Cox, and E. De Cristofaro.
+**Privacy-Preserving Crowd-Sourcing of Web Searches with Private Data Donor.**
 28th The Web Conference (WWW 2019)  
 [pdf](https://emilianodc.com/PAPERS/pdd-www19.pdf){: .btn--danger}{:target="_blank"}
 
 
-J. Hayes, L. Melis, G. Danezis, E. De Cristofaro  
-**LOGAN: Membership Inference Attacks Against Generative Models**  
+J. Hayes, L. Melis, G. Danezis, E. De Cristofaro.
+**LOGAN: Membership Inference Attacks Against Generative Models.**
 Proceedings on Privacy Enhancing Technologies, Vol. 2019, Issue 1 (PoPETS 2019)  
 [pdf](https://arxiv.org/pdf/1705.07663.pdf){: .btn--danger}{:target="_blank"}
 
 
-L. Melis, A. Pyrgelis, E. De Cristofaro  
-**On Collaborative Predictive Blacklisting**  
+L. Melis, A. Pyrgelis, E. De Cristofaro.
+**On Collaborative Predictive Blacklisting.**
 ACM SIGCOMM's Computer Communication Review (CCR), Vol. 48, No. 5, Oct. 2018  
 [pdf](https://arxiv.org/pdf/1810.02649.pdf){: .btn--danger}{:target="_blank"}
 
 
-G. Acs, L. Melis, C. Castelluccia, E. De Cristofaro (Extended Version)  
-**Differentially Private Mixture of Generative Neural Networks**  
+G. Acs, L. Melis, C. Castelluccia, E. De Cristofaro (Extended Version).
+**Differentially Private Mixture of Generative Neural Networks.**
 IEEE Transactions on Knowledge and Data Engineering (TKDE 2018)  
 [pdf](https://arxiv.org/pdf/1709.04514.pdf){: .btn--danger}{:target="_blank"}
 
 
-A. Pyrgelis, C. Troncoso, E. De Cristofaro  
-**Knock Knock, Who's There? Membership Inference on Aggregate Location Data**  
+A. Pyrgelis, C. Troncoso, E. De Cristofaro.
+**Knock Knock, Who's There? Membership Inference on Aggregate Location Data.**
 25th Network and Distributed System Security Symposium (NDSS 2018)  
 [distinguished paper](https://www.ndss-symposium.org/ndss2018/){: .btn--success}{:target="_blank"} [INRIA-CNIL privacy protection award runner-up](https://www.cnil.fr/en/inria-and-cnil-award-2019-privacy-protection-prize-european-research-team){: .btn--success}{:target="_blank"}  
 [pdf](https://arxiv.org/pdf/1708.06145.pdf){: .btn--danger}{:target="_blank"} [blog](https://www.benthamsgaze.org/2018/10/02/on-location-time-and-membership-studying-how-aggregate-location-data-can-harm-users-privacy/){: .btn--danger}{:target="_blank"}  [video](https://www.youtube.com/watch?v=hwGAE5NqAP0){: .btn--danger}{:target="_blank"}   
 
-G. Acs, L. Melis, C. Castelluccia, E. De Cristofaro  
-**Differentially Private Mixture of Generative Neural Networks**  
+G. Acs, L. Melis, C. Castelluccia, E. De Cristofaro.
+**Differentially Private Mixture of Generative Neural Networks.**
 17th IEEE International Conference on Data Mining (ICDM 2017)  
 [pdf](https://arxiv.org/pdf/1709.04514.pdf){: .btn--danger}{:target="_blank"}
 
 
-A. Pyrgelis, C. Troncoso, E. De Cristofaro  
-**What Does The Crowd Say About You? Evaluating Aggregation-based Location Privacy**  
+A. Pyrgelis, C. Troncoso, E. De Cristofaro.
+**What Does The Crowd Say About You? Evaluating Aggregation-based Location Privacy.**
 Proceedings on Privacy Enhancing Technologies, Vol. 2017, Issue 4 (PoPETS 2017)  
 [pdf](https://arxiv.org/pdf/1703.00366.pdf){: .btn--danger}{:target="_blank"}
 
 
-L. Melis, G. Danezis, E. De Cristofaro  
-**Efficient Private Statistics with Succinct Sketches**  
+L. Melis, G. Danezis, E. De Cristofaro.
+**Efficient Private Statistics with Succinct Sketches.**
 23rd Network and Distributed System Security Symposium (NDSS 2016)  
 [2017 data protection by design award](http://apdcat.gencat.cat/en/actualitat/premi/2017-/index.html){: .btn--success}{:target="_blank"} (from Catalan data protection authority)  
 [pdf](http://arxiv.org/pdf/1508.06110.pdf){: .btn--danger}{:target="_blank"} [blog](https://www.benthamsgaze.org/2016/03/04/privately-gathering-statistics-and-training-simple-models/){: .btn--danger}{:target="_blank"}
 
 
-J. Freudiger, E. De Cristofaro, A. Brito  
-**Controlled Data Sharing for Collaborative Predictive Blacklisting**  
+J. Freudiger, E. De Cristofaro, A. Brito.
+**Controlled Data Sharing for Collaborative Predictive Blacklisting.**
 12th Conference on Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA 2015)  
 [pdf](http://arxiv.org/pdf/1502.05337){: .btn--danger}{:target="_blank"}
 
