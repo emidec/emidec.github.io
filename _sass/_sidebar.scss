@@ -217,6 +217,18 @@
 
   li {
     white-space: nowrap;
+
+    .fa, .ai {
+      font-size: 1.2em;
+    }
+
+    .icon-bsky {
+      width: 1.2em;
+      height: 1.2em;
+      vertical-align: -0.2em;
+      fill: currentColor;
+      margin-right: 0.25em;
+    }
   }
 
   a {
