@@ -84,7 +84,7 @@ Georgi Ganev, Kai Xu, Emiliano De Cristofaro
 
 Meenatchi Sundaram Muthu Selva Annamalai, Georgi Ganev, Emiliano De Cristofaro  
 **"What do you want from theory alone?" Experimenting with Tight Auditing of Differentially Private Synthetic Data Generation**  
-33st USENIX Security Symposium (Usenix Security 2024)  
+33rd USENIX Security Symposium (Usenix Security 2024)  
 [pdf](https://arxiv.org/pdf/2405.10994.pdf){: .btn--danger}{:target="_blank"}  
 
 
@@ -174,7 +174,7 @@ Yugeng Liu, Rui Wen, Xinlei He, Ahmed Salem, Zhikun Zhang, Michael Backes, Emili
 
 Mohammad Hammas Saeed, Shiza Ali, Jeremy Blackburn, Emiliano De Cristofaro, Savvas Zannettou, and Gianluca Stringhini  
 **TROLLMAGNIFIER: Detecting State-Sponsored Troll Accounts on Reddit**  
-43th IEEE Symposium on Security & Privacy (S&P 2022)  
+43rd IEEE Symposium on Security & Privacy (S&P 2022)  
 [pdf](https://arxiv.org/pdf/2112.00443){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [Wired](https://www.wired.co.uk/article/researchers-reddit-state-trolls)  
 
@@ -198,7 +198,7 @@ Mohammad Naseri, Jamie Hayes, Emiliano De Cristofaro
 29th Network and Distributed System Security Symposium (NDSS 2022)  
 [pdf](https://arxiv.org/pdf/2009.03561){: .btn--danger}{:target="_blank"}  
 
-Antonis Papasavva, Max Aliapoulios, Cameron Ballard, Emiliano De Stringhini, Savvas Zannettou, and Jeremy Blackburn  
+Antonis Papasavva, Max Aliapoulios, Cameron Ballard, Emiliano De Cristofaro, Savvas Zannettou, and Jeremy Blackburn  
 **The Gospel According to Q: Understanding the QAnon Conspiracy from the Perspective of Canonical Information**  
 16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
 [pdf](https://arxiv.org/pdf/2101.08750){: .btn--danger}{:target="_blank"}  
@@ -270,7 +270,7 @@ Max Aliapoulios, Emmi Bevensee, Jeremy Blackburn, Emiliano De Cristofaro, Gianlu
 [pdf](https://arxiv.org/pdf/2101.03820.pdf){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:navy;padding: 1px 3px;text-align: center;border-radius: 4px">media coverage</span>{: .btn--media} [USA Today](https://eu.usatoday.com/in-depth/news/2021/02/01/civil-war-during-trumps-pre-riot-speech-parler-talk-grew-darker/4297165001/), [The Conversation](https://theconversation.com/does-deplatforming-work-to-curb-hate-speech-and-calls-for-violence-3-experts-in-online-communications-weigh-in-153177), [Business Insider-1](https://www.businessinsider.com/parler-shutdown-by-amazon-might-not-be-fatal-to-the-social-network-2021-1), [Business Insider-2](https://www.businessinsider.com/parler-app-hotbed-radicalization-extremism-2021-1)
 
-Manoel Horta Ribeiro, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro Gianluca Stringhini, Summer Long, Stephanie Greenberg, and Savvas Zannettou  
+Manoel Horta Ribeiro, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro, Gianluca Stringhini, Summer Long, Stephanie Greenberg, and Savvas Zannettou  
 **The Evolution of the Manosphere Across the Web**  
 15th International AAAI Conference on Web and Social Media (ICWSM 2021)  
 [pdf](https://arxiv.org/pdf/2001.07600.pdf){: .btn--danger}{:target="_blank"}  
@@ -430,7 +430,7 @@ Andrea Cerulli, Emiliano De Cristofaro, Claudio Soriente
 
 Angelo Massimo Perillo and Emiliano De Cristofaro  
 **PAPEETE: Private, Authorized, and Fast Personal Genomic Testing**  
-15th Internatial Conference on Security and Cryptography (SECRYPT 2018)  
+15th International Conference on Security and Cryptography (SECRYPT 2018)  
 [full version](https://eprint.iacr.org/2017/770.pdf){: .btn--danger}{:target="_blank"}
 
 
@@ -440,7 +440,7 @@ Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Michael Sirivianos, 
 [full version](https://arxiv.org/pdf/1801.10396.pdf){: .btn--danger}{:target="_blank"}
 
 
-Bristena Oprisanu and Emilliano De Cristofaro  
+Bristena Oprisanu and Emiliano De Cristofaro  
 **AnoniMME: Bringing Anonymity to the Matchmaker Exchange Platform for Rare Disease Gene Discovery**  
 26th ISCB Conference on Intelligent Systems for Molecular Biology (ISMB 2018)  
 [full version](https://www.biorxiv.org/content/10.1101/262295v4){: .btn--danger}{:target="_blank"}
@@ -902,7 +902,7 @@ Emiliano De Cristofaro
 
 Carlo Blundo and Emiliano De Cristofaro  
 **A Bluetooth-based JXME infrastructure**  
-Itnernational Symposium on Distributed Objects, Middleware, and Applications (DOA 2007)
+International Symposium on Distributed Objects, Middleware, and Applications (DOA 2007)
 
 
 Vincenzo Auletta, Carlo Blundo, Emiliano De Cristofaro  
