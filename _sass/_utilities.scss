@@ -264,9 +264,16 @@ body:hover .visually-hidden button {
   }
 
   .fa-bsky,
-  .fa-bsky-square {
+  .fa-bsky-square,
+  .icon-bsky {
     color: $bsky-color;
   }
+
+  .ai-google-scholar,
+  .ai-google-scholar-square {
+    color: #4285f4;
+  }
+
 
 
   .fa-vimeo,

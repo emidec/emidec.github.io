@@ -253,7 +253,10 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-gems:
+readme_index:
+  enabled: false
+
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
