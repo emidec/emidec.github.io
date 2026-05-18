@@ -1,0 +1,726 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Robot Console</title>
+<style>
+  :root {
+    --bg: #0e1014;
+    --panel: #161a22;
+    --panel-2: #0a0c10;
+    --line: #232a36;
+    --ink: #d7dee8;
+    --muted: #7b8595;
+    --accent: #7cf2c8;
+    --accent-dim: #2c5b4d;
+    --warn: #ff6b6b;
+    --grid: #1d2330;
+  }
+
+  * { box-sizing: border-box; }
+
+  html, body {
+    margin: 0;
+    height: 100%;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+    font-size: 14px;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .app {
+    display: grid;
+    grid-template-rows: 1fr 160px;
+    height: 100vh;
+    gap: 0;
+  }
+
+  /* ============ TOP: arena ============ */
+  .stage {
+    position: relative;
+    background:
+      radial-gradient(1200px 600px at 50% 20%, rgba(124,242,200,0.06), transparent 60%),
+      var(--bg);
+    border-bottom: 1px solid var(--line);
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 24px 20px;
+    min-height: 0;
+  }
+
+  .stage-header {
+    position: absolute;
+    top: 16px;
+    left: 20px;
+    right: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--muted);
+    pointer-events: none;
+  }
+  .stage-header .dot {
+    width: 7px; height: 7px; border-radius: 50%;
+    background: var(--accent);
+    box-shadow: 0 0 10px var(--accent);
+    display: inline-block; vertical-align: middle;
+    margin-right: 8px;
+  }
+  .pos {
+    font-variant-numeric: tabular-nums;
+    color: var(--ink);
+  }
+
+  .arena-frame {
+    --cell: 64px;
+    --cols: 8;
+    --rows: 8;
+    --gutter: 22px;
+    display: grid;
+    grid-template-columns: var(--gutter) auto;
+    grid-template-rows: var(--gutter) auto;
+    flex: 0 0 auto;
+  }
+  .axis {
+    display: flex;
+    font-size: 10px;
+    letter-spacing: 0.12em;
+    color: var(--muted);
+    font-variant-numeric: tabular-nums;
+    user-select: none;
+  }
+  .axis-x {
+    grid-column: 2; grid-row: 1;
+    flex-direction: row;
+    align-items: flex-end;
+    padding-bottom: 4px;
+  }
+  .axis-y {
+    grid-column: 1; grid-row: 2;
+    flex-direction: column;
+    align-items: flex-end;
+    padding-right: 6px;
+  }
+  .axis-x span {
+    width: var(--cell);
+    text-align: center;
+  }
+  .axis-y span {
+    height: var(--cell);
+    display: flex;
+    align-items: center;
+  }
+
+  .arena {
+    --cell: inherit;
+    --cols: inherit;
+    --rows: inherit;
+    grid-column: 2; grid-row: 2;
+    width: calc(var(--cell) * var(--cols));
+    height: calc(var(--cell) * var(--rows));
+    flex: 0 0 auto;
+    position: relative;
+    background:
+      linear-gradient(var(--grid) 1px, transparent 1px) 0 0 / var(--cell) var(--cell),
+      linear-gradient(90deg, var(--grid) 1px, transparent 1px) 0 0 / var(--cell) var(--cell),
+      var(--panel-2);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    box-shadow:
+      inset 0 0 0 1px rgba(255,255,255,0.02),
+      0 30px 60px -30px rgba(0,0,0,0.9);
+  }
+
+  /* corner ticks */
+  .arena::before, .arena::after {
+    content: "";
+    position: absolute;
+    inset: -1px;
+    pointer-events: none;
+    background:
+      linear-gradient(to right, var(--accent) 0 14px, transparent 14px) 0 0 / 100% 1px no-repeat,
+      linear-gradient(to left,  var(--accent) 0 14px, transparent 14px) 100% 0 / 100% 1px no-repeat,
+      linear-gradient(to right, var(--accent) 0 14px, transparent 14px) 0 100% / 100% 1px no-repeat,
+      linear-gradient(to left,  var(--accent) 0 14px, transparent 14px) 100% 100% / 100% 1px no-repeat,
+      linear-gradient(to bottom, var(--accent) 0 14px, transparent 14px) 0 0 / 1px 100% no-repeat,
+      linear-gradient(to top,    var(--accent) 0 14px, transparent 14px) 0 100% / 1px 100% no-repeat,
+      linear-gradient(to bottom, var(--accent) 0 14px, transparent 14px) 100% 0 / 1px 100% no-repeat,
+      linear-gradient(to top,    var(--accent) 0 14px, transparent 14px) 100% 100% / 1px 100% no-repeat;
+  }
+
+  .robot {
+    position: absolute;
+    width: var(--cell);
+    height: var(--cell);
+    left: 0;
+    top: 0;
+    transform: translate(0, 0) rotate(0deg);
+    transition: transform 260ms cubic-bezier(.4,.0,.2,1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 2;
+  }
+
+  .trail-dot {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: var(--accent);
+    box-shadow: 0 0 8px var(--accent);
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+    z-index: 1;
+    animation: dot-in 220ms ease-out;
+  }
+
+  .target {
+    position: absolute;
+    width: var(--cell);
+    height: var(--cell);
+    left: 0; top: 0;
+    pointer-events: none;
+    display: none;
+    z-index: 1;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(var(--cell) * 0.65);
+    line-height: 1;
+    filter: drop-shadow(0 0 6px rgba(124,242,200,0.5));
+    animation: cake-bob 1.8s ease-in-out infinite;
+  }
+  .target.on { display: flex; }
+  @keyframes cake-bob {
+    0%, 100% { transform: translate(var(--tx,0), var(--ty,0)) scale(1); }
+    50%      { transform: translate(var(--tx,0), var(--ty,0)) scale(1.08); }
+  }
+
+  .trail-svg {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 1;
+    overflow: visible;
+  }
+  .trail-svg polyline {
+    fill: none;
+    stroke: var(--accent);
+    stroke-width: 2.5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    opacity: 0.6;
+    filter: drop-shadow(0 0 4px var(--accent));
+  }
+  @keyframes dot-in {
+    from { opacity: 0; transform: translate(-50%, -50%) scale(0.4); }
+    to   { opacity: 0.85; transform: translate(-50%, -50%) scale(1); }
+  }
+
+  .trace-indicator {
+    position: absolute;
+    top: 16px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 10px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--accent);
+    padding: 4px 10px;
+    border: 1px solid var(--accent-dim);
+    border-radius: 999px;
+    background: rgba(124,242,200,0.08);
+    pointer-events: none;
+    display: none;
+  }
+  .trace-indicator.on { display: block; }
+  .trace-indicator::before {
+    content: "";
+    display: inline-block;
+    width: 6px; height: 6px;
+    border-radius: 50%;
+    background: var(--accent);
+    box-shadow: 0 0 8px var(--accent);
+    margin-right: 6px;
+    vertical-align: middle;
+    animation: blink 1.4s ease-in-out infinite;
+  }
+  @keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.3; }
+  }
+
+  .robot svg {
+    width: 70%;
+    height: 70%;
+    filter: drop-shadow(0 4px 10px rgba(124,242,200,0.25));
+  }
+
+  .robot .body {
+    fill: #e8edf5;
+    stroke: #1b212c;
+    stroke-width: 2;
+  }
+  .robot .visor {
+    fill: #0e1014;
+  }
+  .robot .eye {
+    fill: var(--accent);
+  }
+  .robot .antenna {
+    stroke: #1b212c;
+    stroke-width: 2;
+    stroke-linecap: round;
+  }
+  .robot .antenna-tip {
+    fill: var(--accent);
+  }
+
+  /* ============ BOTTOM: console ============ */
+  .console {
+    background: var(--panel);
+    border-top: 1px solid var(--line);
+    display: grid;
+    grid-template-columns: 1fr 180px;
+    min-height: 0;
+  }
+
+  .help {
+    border-left: 1px solid var(--line);
+    padding: 12px 14px;
+    overflow-y: auto;
+    font-size: 11px;
+    line-height: 1.5;
+    color: var(--muted);
+  }
+  .help h3 {
+    color: var(--ink);
+    font-size: 10px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    margin: 0 0 10px;
+    font-weight: 600;
+  }
+  .help ul { list-style: none; padding: 0; margin: 0; }
+  .help li {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 3px 0;
+  }
+  .help kbd {
+    background: var(--panel-2);
+    border: 1px solid var(--line);
+    border-radius: 3px;
+    padding: 1px 5px;
+    color: var(--ink);
+    font: inherit;
+    font-size: 10px;
+  }
+  .help .desc { color: #5d6573; font-size: 10px; white-space: nowrap; }
+
+  .log-wrap {
+    display: flex;
+    flex-direction: column;
+    min-height: 0;
+  }
+  .log-head {
+    padding: 10px 16px;
+    border-bottom: 1px solid var(--line);
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--muted);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .log {
+    flex: 1;
+    overflow-y: auto;
+    padding: 10px 16px 4px;
+    font-size: 13px;
+    line-height: 1.6;
+  }
+  .log .line { display: flex; gap: 10px; }
+  .log .line .gutter { color: var(--muted); user-select: none; min-width: 1.6em; }
+  .log .line.in .body { color: var(--ink); }
+  .log .line.out .body { color: var(--accent); }
+  .log .line.err .body { color: var(--warn); }
+  .log .line.praise .body { color: #ffd479; font-weight: 600; letter-spacing: 0.02em; }
+  .log .line.praise .gutter { color: #ffd479; }
+
+  .input-row {
+    display: flex;
+    align-items: center;
+    padding: 10px 16px 14px;
+    border-top: 1px solid var(--line);
+    gap: 10px;
+  }
+  .prompt {
+    color: var(--accent);
+    user-select: none;
+  }
+  .input {
+    flex: 1;
+    background: transparent;
+    border: 0;
+    color: var(--ink);
+    font: inherit;
+    outline: none;
+    caret-color: var(--accent);
+  }
+  .input::placeholder { color: var(--muted); }
+
+  /* scrollbar */
+  .log::-webkit-scrollbar { width: 8px; }
+  .log::-webkit-scrollbar-thumb {
+    background: #222a36; border-radius: 4px;
+  }
+
+  @media (max-width: 720px) {
+    .app { grid-template-rows: 1fr 180px; }
+  }
+</style>
+</head>
+<body>
+<div class="app">
+
+  <section class="stage">
+    <div class="stage-header">
+      <div><span class="dot"></span>SPARKY · ONLINE</span></div>
+      <div class="pos" id="status">cell:A1</div>
+    </div>
+    <div class="trace-indicator" id="traceIndicator">tracing</div>
+
+    <div class="arena-frame" id="frame" style="--cols:20; --rows:9;">
+      <div class="axis axis-x" id="axisX"></div>
+      <div class="axis axis-y" id="axisY"></div>
+      <div class="arena" id="arena">
+      <svg class="trail-svg" id="trailSvg"><polyline id="trailLine" points=""/></svg>
+      <div class="target" id="target">🎂</div>
+      <div class="robot" id="robot">
+        <svg viewBox="0 0 64 64">
+          <line class="antenna" x1="32" y1="14" x2="32" y2="6"/>
+          <circle class="antenna-tip" cx="32" cy="5" r="2.5"/>
+          <rect class="body" x="14" y="14" width="36" height="32" rx="6"/>
+          <rect class="visor" x="19" y="20" width="26" height="12" rx="3"/>
+          <circle class="eye" cx="26" cy="26" r="2"/>
+          <circle class="eye" cx="38" cy="26" r="2"/>
+          <rect class="body" x="18" y="46" width="8" height="10" rx="2"/>
+          <rect class="body" x="38" y="46" width="8" height="10" rx="2"/>
+        </svg>
+      </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="console">
+    <div class="log-wrap">
+      <div class="log-head">
+        <span>console</span>
+      </div>
+      <div class="log" id="log"></div>
+      <form class="input-row" id="form" autocomplete="off">
+        <span class="prompt">&gt;</span>
+        <input class="input" id="input" placeholder="up, down, left, right, trace on|off, where?, reset…" autofocus />
+      </form>
+    </div>
+    <aside class="help">
+      <h3>Commands</h3>
+      <ul>
+        <li><kbd>up</kbd><kbd>down</kbd></li>
+        <li><kbd>left</kbd><kbd>right</kbd></li>
+        <li><kbd>trace on</kbd><kbd>trace off</kbd></li>
+        <li><kbd>where?</kbd></li>
+        <li><kbd>reset</kbd></li>
+      </ul>
+    </aside>
+  </section>
+</div>
+
+<script>
+(() => {
+  const COLS = 20, ROWS = 9;
+  const arena = document.getElementById('arena');
+  const frame = document.getElementById('frame');
+  const stage = document.querySelector('.stage');
+  const robot = document.getElementById('robot');
+  const log   = document.getElementById('log');
+  const form  = document.getElementById('form');
+  const input = document.getElementById('input');
+  const statusEl = document.getElementById('status');
+  const axisX = document.getElementById('axisX');
+  const axisY = document.getElementById('axisY');
+
+  const colLabel = i => String(i + 1);
+  const rowLabel = i => String.fromCharCode(65 + i);
+  const cellName = (x, y) => `${rowLabel(y)}${colLabel(x)}`;
+
+  function parseCell(s) {
+    const m = s.trim().toUpperCase().match(/^([A-Z])(\d+)$/);
+    if (!m) return null;
+    const y = m[1].charCodeAt(0) - 65;
+    const x = parseInt(m[2], 10) - 1;
+    if (x < 0 || x >= COLS || y < 0 || y >= ROWS) return null;
+    return { x, y };
+  }
+
+  for (let i = 0; i < COLS; i++) axisX.appendChild(Object.assign(document.createElement('span'), { textContent: colLabel(i) }));
+  for (let i = 0; i < ROWS; i++) axisY.appendChild(Object.assign(document.createElement('span'), { textContent: rowLabel(i) }));
+
+  function fitArena() {
+    const cs = getComputedStyle(stage);
+    const padX = parseFloat(cs.paddingLeft) + parseFloat(cs.paddingRight);
+    const padY = parseFloat(cs.paddingTop)  + parseFloat(cs.paddingBottom);
+    const gutter = parseFloat(getComputedStyle(frame).getPropertyValue('--gutter')) || 22;
+    const availW = stage.clientWidth  - padX - gutter;
+    const availH = stage.clientHeight - padY - gutter;
+    const cell = Math.max(24, Math.floor(Math.min(availW / COLS, availH / ROWS)));
+    frame.style.setProperty('--cell', cell + 'px');
+  }
+
+  const state = { x: 0, y: 0 };
+  const traceIndicator = document.getElementById('traceIndicator');
+  const trailLine = document.getElementById('trailLine');
+  const target = document.getElementById('target');
+  let tracing = false;
+  let lastTraced = null;
+  const trailPoints = [];
+  let destination = null;
+
+  function positionTarget() {
+    if (!destination) return;
+    const cell = parseFloat(getComputedStyle(arena).getPropertyValue('--cell'));
+    target.style.setProperty('--tx', `${destination.x * cell}px`);
+    target.style.setProperty('--ty', `${destination.y * cell}px`);
+  }
+  function setDestination(x, y) {
+    destination = { x, y };
+    target.classList.add('on');
+    positionTarget();
+  }
+  function clearDestination() {
+    destination = null;
+    target.classList.remove('on');
+  }
+
+  function updateLine() {
+    const cell = parseFloat(getComputedStyle(arena).getPropertyValue('--cell'));
+    trailLine.setAttribute('points',
+      trailPoints.map(p => `${(p.x + 0.5) * cell},${(p.y + 0.5) * cell}`).join(' '));
+  }
+
+  function dropDot(x, y) {
+    if (lastTraced && lastTraced.x === x && lastTraced.y === y) return;
+    const cell = parseFloat(getComputedStyle(arena).getPropertyValue('--cell'));
+    const dot = document.createElement('div');
+    dot.className = 'trail-dot';
+    dot.dataset.gx = x;
+    dot.dataset.gy = y;
+    dot.style.left = `${(x + 0.5) * cell}px`;
+    dot.style.top  = `${(y + 0.5) * cell}px`;
+    arena.appendChild(dot);
+    trailPoints.push({ x, y });
+    updateLine();
+    lastTraced = { x, y };
+  }
+
+  function repositionTrail() {
+    const cell = parseFloat(getComputedStyle(arena).getPropertyValue('--cell'));
+    arena.querySelectorAll('.trail-dot').forEach(d => {
+      const gx = +d.dataset.gx, gy = +d.dataset.gy;
+      d.style.left = `${(gx + 0.5) * cell}px`;
+      d.style.top  = `${(gy + 0.5) * cell}px`;
+    });
+    updateLine();
+  }
+
+  function clearTrail() {
+    arena.querySelectorAll('.trail-dot').forEach(d => d.remove());
+    trailPoints.length = 0;
+    updateLine();
+    lastTraced = null;
+  }
+
+  function render() {
+    const cell = parseFloat(getComputedStyle(arena).getPropertyValue('--cell'));
+    robot.style.transform = `translate(${state.x * cell}px, ${state.y * cell}px)`;
+    statusEl.textContent = `cell:${cellName(state.x, state.y)}`;
+  }
+
+  function clamp(v, lo, hi) { return Math.max(lo, Math.min(hi, v)); }
+
+  function step(dx, dy) {
+    const nx = clamp(state.x + dx, 0, COLS - 1);
+    const ny = clamp(state.y + dy, 0, ROWS - 1);
+    const blocked = (nx === state.x && ny === state.y);
+    state.x = nx; state.y = ny;
+    return !blocked;
+  }
+
+  function exec(rawCmd) {
+    const cmd = rawCmd.trim().toLowerCase();
+    if (!cmd) return { kind: 'noop' };
+
+    if (cmd === 'help') return { kind: 'out', msg: 'commands: up · down · left · right · trace [on|off|clear] · reset' };
+    if (cmd === 'reset') {
+      state.x = 0; state.y = 0;
+      clearTrail();
+      clearDestination();
+      if (tracing) dropDot(state.x, state.y);
+      return { kind: 'out', msg: 'reset to A1' };
+    }
+    if (cmd === 'clear') { log.innerHTML = ''; return { kind: 'noop' }; }
+    if (cmd === 'where?' || cmd === 'where') {
+      let rx, ry;
+      do {
+        rx = Math.floor(Math.random() * COLS);
+        ry = Math.floor(Math.random() * ROWS);
+      } while (rx === state.x && ry === state.y);
+      setDestination(rx, ry);
+      return { kind: 'out', msg: `go to ${cellName(rx, ry)}` };
+    }
+
+    if (cmd === 'up')    return move(0, -1, 'up');
+    if (cmd === 'down')  return move(0,  1, 'down');
+    if (cmd === 'left')  return move(-1, 0, 'left');
+    if (cmd === 'right') return move( 1, 0, 'right');
+
+    if (cmd === 'trace' || cmd === 'trace on' || cmd === 'trace off' || cmd === 'trace clear') {
+      if (cmd === 'trace clear') {
+        clearTrail();
+        if (tracing) dropDot(state.x, state.y);
+        return { kind: 'out', msg: 'trail cleared' };
+      }
+      const next = cmd === 'trace on'  ? true
+                 : cmd === 'trace off' ? false
+                 : !tracing;
+      tracing = next;
+      traceIndicator.classList.toggle('on', tracing);
+      if (tracing) dropDot(state.x, state.y);
+      return { kind: 'out', msg: `tracing ${tracing ? 'on' : 'off'}` };
+    }
+
+    return { kind: 'err', msg: `unknown command: ${rawCmd.trim()}` };
+  }
+
+  const PRAISE_EMOJIS = '🎉🤖⭐🎯✨🏆🥳🚀💫🎊';
+
+  function move(dx, dy, label) {
+    const ok = step(dx, dy);
+    if (!ok) return { kind: 'err', msg: `wall — cannot move ${label}` };
+    if (tracing) dropDot(state.x, state.y);
+    const msg = `moved ${label} → ${cellName(state.x, state.y)}`;
+    if (destination && state.x === destination.x && state.y === destination.y) {
+      clearDestination();
+      return { kind: 'arrived', msg, praise: `${PRAISE_EMOJIS} Great job! You arrived at ${cellName(state.x, state.y)} — enjoy the cake! 🎂` };
+    }
+    return { kind: 'out', msg };
+  }
+
+  function writeLine(kind, text) {
+    const line = document.createElement('div');
+    line.className = `line ${kind}`;
+    const gutter = kind === 'in' ? '›' : kind === 'err' ? '!' : kind === 'praise' ? '★' : '·';
+    line.innerHTML = `<span class="gutter">${gutter}</span><span class="body"></span>`;
+    line.querySelector('.body').textContent = text;
+    log.appendChild(line);
+    log.scrollTop = log.scrollHeight;
+  }
+
+  // History
+  const history = [];
+  let histIdx = -1;
+
+  async function run(raw) {
+    writeLine('in', raw);
+    history.unshift(raw);
+    histIdx = -1;
+
+    const parts = raw.split(';').map(s => s.trim()).filter(Boolean);
+    for (const part of parts) {
+      if (/^goto\b/i.test(part)) {
+        await goTo(part);
+      } else {
+        const r = exec(part);
+        render();
+        if (r.kind === 'out') writeLine('out', r.msg);
+        else if (r.kind === 'err') writeLine('err', r.msg);
+        else if (r.kind === 'arrived') { writeLine('out', r.msg); writeLine('praise', r.praise); }
+      }
+      if (parts.length > 1) await new Promise(r => setTimeout(r, 280));
+    }
+  }
+
+  async function goTo(part) {
+    const arg = part.replace(/^goto\s*/i, '').trim();
+    let dest;
+    if (arg) {
+      dest = parseCell(arg);
+      if (!dest) return writeLine('err', `goto: unknown cell "${arg}"`);
+    } else if (destination) {
+      dest = { x: destination.x, y: destination.y };
+    } else {
+      return writeLine('err', 'goto: no destination — try "goto D7" or run "where?" first');
+    }
+    writeLine('out', `going to ${cellName(dest.x, dest.y)}…`);
+    while (state.x !== dest.x || state.y !== dest.y) {
+      let dx = 0, dy = 0, label = '';
+      if (state.x !== dest.x) {
+        dx = dest.x < state.x ? -1 : 1;
+        label = dx < 0 ? 'left' : 'right';
+      } else {
+        dy = dest.y < state.y ? -1 : 1;
+        label = dy < 0 ? 'up' : 'down';
+      }
+      const r = move(dx, dy, label);
+      render();
+      if (r.kind === 'out') writeLine('out', r.msg);
+      else if (r.kind === 'arrived') { writeLine('out', r.msg); writeLine('praise', r.praise); }
+      else if (r.kind === 'err') { writeLine('err', r.msg); return; }
+      await new Promise(r => setTimeout(r, 280));
+    }
+  }
+
+  form.addEventListener('submit', (e) => {
+    e.preventDefault();
+    const v = input.value;
+    if (!v.trim()) return;
+    input.value = '';
+    run(v);
+  });
+
+  input.addEventListener('keydown', (e) => {
+    if (e.key === 'ArrowUp') {
+      if (history.length === 0) return;
+      histIdx = Math.min(histIdx + 1, history.length - 1);
+      input.value = history[histIdx] || '';
+      e.preventDefault();
+    } else if (e.key === 'ArrowDown') {
+      histIdx = Math.max(histIdx - 1, -1);
+      input.value = histIdx === -1 ? '' : history[histIdx];
+      e.preventDefault();
+    }
+  });
+
+  // Boot
+  writeLine('out', 'robot console v1 — Sparky ready');
+  writeLine('out', 'try: up, down, left, right, trace, reset');
+  fitArena();
+  render();
+  window.addEventListener('resize', () => { fitArena(); render(); repositionTrail(); positionTarget(); });
+  new ResizeObserver(() => { fitArena(); render(); repositionTrail(); positionTarget(); }).observe(stage);
+})();
+</script>
+</body>
+</html>
