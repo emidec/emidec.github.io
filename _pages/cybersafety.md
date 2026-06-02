@@ -342,8 +342,8 @@ E. De Cristofaro, A. Friedman, G. Jourjon, D. Kaafar, M. Zubair Shafiq
 
 <script>
 (function(){
-  // Top-tier venues per CV: csrankings "most selective" CS confs + ICWSM/CSCW + PETS.
-  // Workshops, magazines, and other journals/venues (WebSci, SaTML, ESORICS, ...) are excluded.
+  /* Top-tier venues per CV: csrankings most-selective CS confs + ICWSM/CSCW + PETS;
+     workshops, magazines, and other venues (WebSci, SaTML, ESORICS, ...) excluded. */
   var TOP = /\b(NDSS|CCS|ICWSM|CSCW|ICML|NeurIPS|NIPS|ICLR|SIGMETRICS|IMC|PoPETS|PETS|Asiacrypt|Eurocrypt|ISMB|USENIX Security|WWW)\b/i;
 
   function txt(html){ var d=document.createElement('div'); d.innerHTML=html; return (d.textContent||'').trim(); }
@@ -363,7 +363,7 @@ E. De Cristofaro, A. Friedman, G. Jourjon, D. Kaafar, M. Zubair Shafiq
       for(var i=0;i<parts.length;i++){ if(/<strong/i.test(parts[i])){ vi=i+1; break; } }
       var venue = (vi>=0 && parts[vi]!=null) ? txt(parts[vi]) : txt(p.innerHTML);
 
-      // Year + venue acronym from the last "(... YEAR)" parenthetical on the venue line.
+      /* Year + venue acronym from the last "(... YEAR)" parenthetical on the venue line. */
       var re=/\(([^)]*?((?:19|20)\d{2}))\)/g, m, last=null;
       while((m=re.exec(venue))!==null){ last=m; }
       var year, acro;
