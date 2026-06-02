@@ -16,7 +16,7 @@ title: Publications
   </div>
   <div class="pub-filter-group">
     <span class="pub-filter-label">Topic</span>
-    <select id="pub-topic"><option value="all">All topics</option><option value="tml">Trustworthy ML</option><option value="cyb">Cybersafety</option></select>
+    <select id="pub-topic"><option value="all">All topics</option><option value="tml">Trustworthy ML</option><option value="cyb">Cybersafety</option><option value="pso">Private Set Operations</option><option value="gen">Genomic Privacy</option></select>
   </div>
   <div class="pub-filter-group">
     <span class="pub-filter-label">Show</span>
@@ -1012,10 +1012,14 @@ V. Auletta, C. Blundo, E. De Cristofaro, G. Raimato
                   (TOP.test(acro) || /S&P/i.test(acro));
 
       var strongEl = p.querySelector('strong');
-      var tkey = keyOf(strongEl ? strongEl.textContent : '');
+      var titleText = strongEl ? strongEl.textContent : '';
+      var tkey = keyOf(titleText);
+      var tl = titleText.toLowerCase();
       var topics = [];
       if(TML[tkey]) topics.push('tml');
       if(CYB[tkey]) topics.push('cyb');
+      if(/private set/.test(tl)) topics.push('pso');
+      if(/genomic|genetic|genome/.test(tl)) topics.push('gen');
 
       p.setAttribute('data-year', year);
       p.setAttribute('data-tier', isTop ? 'top' : 'other');
@@ -1056,18 +1060,42 @@ V. Auletta, C. Blundo, E. De Cristofaro, G. Raimato
       count.textContent = n + ' publication' + (n===1?'':'s');
     }
 
-    sel.addEventListener('change', function(){ state.year=sel.value; apply(); });
     var topicSel=document.getElementById('pub-topic');
-    if(topicSel) topicSel.addEventListener('change', function(){ state.topic=topicSel.value; apply(); });
+
+    function setTierActive(t){
+      Array.prototype.forEach.call(root.querySelectorAll('.pub-tier-btn'), function(x){
+        x.classList.toggle('pub-active', x.getAttribute('data-tier')===t);
+      });
+    }
+    /* Reflect the current filters in the URL query string so a filtered
+       view can be bookmarked or linked (e.g. ?topic=tml&tier=top&year=2024).
+       Defaults (all) are omitted to keep the URL clean. */
+    function syncURL(){
+      if(!history.replaceState) return;
+      var qs=[];
+      if(state.year!=='all') qs.push('year='+encodeURIComponent(state.year));
+      if(state.topic!=='all') qs.push('topic='+encodeURIComponent(state.topic));
+      if(state.tier!=='all') qs.push('tier='+encodeURIComponent(state.tier));
+      history.replaceState(null,'',location.pathname+(qs.length?'?'+qs.join('&'):''));
+    }
+    function getParam(k){ var m=new RegExp('[?&]'+k+'=([^&]*)').exec(location.search); return m?decodeURIComponent(m[1]):null; }
+
+    sel.addEventListener('change', function(){ state.year=sel.value; syncURL(); apply(); });
+    if(topicSel) topicSel.addEventListener('change', function(){ state.topic=topicSel.value; syncURL(); apply(); });
     Array.prototype.forEach.call(root.querySelectorAll('.pub-tier-btn'), function(b){
       b.addEventListener('click', function(){
         state.tier=b.getAttribute('data-tier');
-        Array.prototype.forEach.call(root.querySelectorAll('.pub-tier-btn'), function(x){
-          x.classList.toggle('pub-active', x===b);
-        });
-        apply();
+        setTierActive(state.tier);
+        syncURL(); apply();
       });
     });
+
+    /* Initialize filters from URL query params on load. */
+    var pTopic=getParam('topic'), pTier=getParam('tier'), pYear=getParam('year');
+    if(pTopic && /^(all|tml|cyb|pso|gen)$/.test(pTopic)){ state.topic=pTopic; if(topicSel) topicSel.value=pTopic; }
+    if(pTier && /^(all|top)$/.test(pTier)){ state.tier=pTier; setTierActive(pTier); }
+    if(pYear && (pYear==='all'||pYear==='last5'||pYear==='last10'||years[pYear])){ state.year=pYear; sel.value=pYear; }
+
     apply();
   }
 
