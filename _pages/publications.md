@@ -17,7 +17,7 @@ title: Publications
   <div class="pub-filter-group">
     <span class="pub-filter-label">Show</span>
     <button type="button" class="pub-tier-btn pub-active" data-tier="all">All venues</button>
-    <button type="button" class="pub-tier-btn" data-tier="top">Top-Tier<sup class="pub-note-ref">*</sup></button>
+    <span class="pub-tier-wrap"><button type="button" class="pub-tier-btn" data-tier="top">Top-Tier</button><a href="#pub-tier-note" class="pub-note-ref" aria-label="What counts as top-tier?">[*]</a></span>
   </div>
   <span id="pub-count"></span>
 </div>
@@ -31,7 +31,9 @@ title: Publications
 #pub-filters .pub-tier-btn:hover{border-color:#999}
 #pub-filters .pub-tier-btn.pub-active{background:#1a6b2a;border-color:#1a6b2a;color:#fff}
 #pub-count{margin-left:auto;color:#888;font-style:italic}
-#pub-filters .pub-note-ref{color:inherit;font-weight:700;margin-left:1px}
+#pub-filters .pub-tier-wrap{display:inline-flex;align-items:center}
+#pub-filters .pub-note-ref{margin-left:4px;color:#1a6b2a;font-weight:700;text-decoration:none}
+#pub-filters .pub-note-ref:hover{text-decoration:underline}
 #pub-tier-note{margin:2em 0 0;padding-top:1em;border-top:1px solid #e2e2e2;font-size:.8em;color:#888;line-height:1.5}
 #pub-tier-note a{color:#888;text-decoration:underline}
 #pub-tier-note .pub-note-star{color:#1a6b2a;font-weight:700}
@@ -959,7 +961,7 @@ V. Auletta, C. Blundo, E. De Cristofaro, G. Raimato
 **Performance Evaluation of Web Services invocation over Bluetooth**  
 9th ACM Conference on Modeling, Analysis, Simulation of Wireless and Mobile Systems (MSWiM 2006)
 
-<p id="pub-tier-note" markdown="0"><span class="pub-note-star">*</span> <strong>Top-tier</strong> refers to venues listed as the &ldquo;most selective&rdquo; in Computer Science as per <a href="https://csrankings.org" target="_blank" rel="noopener">csrankings.org</a>, plus the top specialized venues in Computational Social Science (ICWSM and CSCW) and in Privacy Technologies (PETS).</p>
+<p id="pub-tier-note" markdown="0"><span class="pub-note-star">[*]</span> <strong>Top-tier</strong> refers to venues listed as the &ldquo;most selective&rdquo; in Computer Science as per <a href="https://csrankings.org" target="_blank" rel="noopener">csrankings.org</a>, plus the top specialized venues in Computational Social Science (ICWSM and CSCW) and in Privacy Technologies (PETS).</p>
 
 <button type="button" id="pub-top-btn" aria-label="Back to top">&uarr; Back to top</button>
 
