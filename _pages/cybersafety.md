@@ -9,6 +9,11 @@ title: Cybersafety
 <br>This page provides a non-exhaustive list of my publications related to understanding and countering **cybersafety**, online harms, other socio-technical issues. For each entry, a link to an open-access version of the paper is also provided.
 
 ***
+B. Treves, M. Treves, M. Faloutsos, J. Blackburn, E. De Cristofaro  
+**ASTRO: Defining and Identifying Hostile Behavior on GitHub**  
+8th International Workshop on Cyber Social Threats (CySoc 2026)  
+[pdf](https://doi.org/10.36190/2026.01){: .btn--danger}{:target="_blank"}  
+
 A. Galeazzi, P. Paudel, M. Conti, E. De Cristofaro, G. Stringhini  
 **Revealing The Secret Power: How Algorithms Can Influence Content Visibility on Twitter/X**  
 33rd Network and Distributed System Security Symposium (NDSS 2026)  
