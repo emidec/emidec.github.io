@@ -10,6 +10,11 @@ title: Publications
 <br>This page lists all my peer-reviewed publications ordered by year, linking to open-access versions of each paper. You can also visit my [DBLP](http://dblp.uni-trier.de/pers/hd/c/Cristofaro:Emiliano_De){:target="_blank"} or my [Google Scholar](https://scholar.google.com/citations?hl=en&user=1wfzUuEAAAAJ&view_op=list_works&pagesize=100){:target="_blank"} pages to see them in different formats.
 
 *** 
+G. Ganev, M. Nazari, R. Davison, A. Fallah Dizche, X. Wu, R. Abbey, J.G Silva, E. De Cristofaro  
+**SMOTE and Mirrors: Exposing Privacy Leakage from Synthetic Minority Oversampling**  
+14th International Conference on Learning Representations (ICLR 2026)  
+[pdf](https://arxiv.org/abs/2510.15083){: .btn--danger}{:target="_blank"}  
+
 B. Treves, M. Treves, M. Faloutsos, J. Blackburn, E. De Cristofaro  
 **ASTRO: Defining and Identifying Hostile Behavior on GitHub**  
 8th International Workshop on Cyber Social Threats (CySoc 2026)  
@@ -19,11 +24,6 @@ P. Gaba (High School Student!), E. De Cristofaro
 **Group-Differentiated Discourse on Generative AI in High School Education: A Case Study of Reddit Communities**  
 8th International Workshop on Cyber Social Threats (CySoc 2026)  
 [pdf](https://arxiv.org/pdf/2603.24972){: .btn--danger}{:target="_blank"}  
-
-G. Ganev, M. Nazari, R. Davison, A. Fallah Dizche, X. Wu, R. Abbey, J.G Silva, E. De Cristofaro  
-**SMOTE and Mirrors: Exposing Privacy Leakage from Synthetic Minority Oversampling**  
-14th International Conference on Learning Representations (ICLR 2026)  
-[pdf](https://arxiv.org/abs/2510.15083){: .btn--danger}{:target="_blank"}  
 
 
 M.S.M.S. Annamalai, B. Balle, J. Hayes, G. Kaissis, E. De Cristofaro  
