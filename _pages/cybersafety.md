@@ -30,12 +30,12 @@ title: Cybersafety
 #pub-filters .pub-tier-btn:hover{border-color:#999}
 #pub-filters .pub-tier-btn.pub-active{background:#1a6b2a;border-color:#1a6b2a;color:#fff}
 #pub-count{margin-left:auto;color:#888;font-style:italic}
-#pub-filters .pub-tier-wrap{display:inline-flex;align-items:center}
-#pub-filters .pub-note-ref{margin-left:4px;color:#1a6b2a;font-weight:700;text-decoration:none}
+#pub-filters .pub-tier-wrap{display:inline-flex;align-items:flex-start}
+#pub-filters .pub-note-ref{margin-left:1px;font-size:.8em;line-height:1;color:#1a6b2a;font-weight:700;text-decoration:none}
 #pub-filters .pub-note-ref:hover{text-decoration:underline}
 #pub-tier-note{margin:2em 0 0;padding-top:1em;border-top:1px solid #e2e2e2;font-size:.8em;color:#888;line-height:1.5}
 #pub-tier-note a{color:#888;text-decoration:underline}
-#pub-tier-note .pub-note-star{color:#1a6b2a;font-weight:700}
+#pub-tier-note .pub-note-star{color:#1a6b2a;font-weight:700;margin-right:2px}
 #pub-top-btn{position:fixed;right:24px;bottom:24px;z-index:9999;display:none;align-items:center;gap:.35em;padding:.55em .9em;border:none;border-radius:24px;background:#1a6b2a;color:#fff;font-size:.85em;cursor:pointer;box-shadow:0 2px 8px rgba(0,0,0,.25)}
 #pub-top-btn:hover{background:#15571f}
 </style>
@@ -336,7 +336,7 @@ E. De Cristofaro, A. Friedman, G. Jourjon, D. Kaafar, M. Zubair Shafiq
 [pdf](https://arxiv.org/pdf/1409.2097){: .btn--danger}{:target="_blank"}  
 <span style="color:white;background-color:#1a6b2a;padding: 2px 8px;text-align: center;border-radius: 20px">media coverage:</span> [MIT Tech Review](http://www.technologyreview.com/view/530961/the-hidden-world-of-facebook-like-farms/), [Pacific Standard](http://www.psmag.com/navigation/nature-and-technology/hunt-fake-facebook-twitter-tumblr-fraud-likes-farms-social-media-friending-sharing-91154/), [The Telegraph](http://www.telegraph.co.uk/finance/newsbysector/mediatechnologyandtelecoms/11116543/The-real-story-behind-Facebook-likes.html), [ACM Tech News](http://technews.acm.org/#748178), [Yahoo Finance](http://finance.yahoo.com/news/pay-liked-facebook-inc-133021656.html), [Zero Hedge](http://www.zerohedge.com/news/2014-09-22/facebook-fraud-20-academic-study-exposes-farms), [Media Post](http://www.mediapost.com/publications/article/234791/facebook-likes-really-could-be-as-worthless-as-y.html), [The New Republic](http://www.newrepublic.com/article/121551/bot-bubble-click-farms-have-inflated-social-media-currency)  
 
-<p id="pub-tier-note" markdown="0"><span class="pub-note-star">[*]</span> <strong>Top-tier</strong> refers to venues listed as the &ldquo;most selective&rdquo; in Computer Science as per <a href="https://csrankings.org" target="_blank" rel="noopener">csrankings.org</a>, plus the top specialized venues in Computational Social Science (ICWSM and CSCW).</p>
+<p id="pub-tier-note" markdown="0"><span class="pub-note-star">[*]</span><strong>Top-Tier</strong> refers to venues listed as the &ldquo;most selective&rdquo; in Computer Science as per <a href="https://csrankings.org" target="_blank" rel="noopener">csrankings.org</a>, plus the top specialized venues in Computational Social Science (ICWSM and CSCW).</p>
 
 <button type="button" id="pub-top-btn" aria-label="Back to top">&uarr; Back to top</button>
 
@@ -382,8 +382,10 @@ E. De Cristofaro, A. Friedman, G. Jourjon, D. Kaafar, M. Zubair Shafiq
     var sortedYears = Object.keys(years).sort().reverse();
     var maxYear = sortedYears.length ? parseInt(sortedYears[0],10) : 0;
     var last5Threshold = maxYear - 5;
+    var last10Threshold = maxYear - 10;
     if(sortedYears.length){
       var o5=document.createElement('option'); o5.value='last5'; o5.textContent='Last 5 years'; sel.appendChild(o5);
+      var o10=document.createElement('option'); o10.value='last10'; o10.textContent='Last 10 years'; sel.appendChild(o10);
     }
     sortedYears.forEach(function(y){
       var o=document.createElement('option'); o.value=y; o.textContent=y; sel.appendChild(o);
@@ -394,9 +396,11 @@ E. De Cristofaro, A. Friedman, G. Jourjon, D. Kaafar, M. Zubair Shafiq
     function apply(){
       var n=0;
       pubs.forEach(function(p){
-        var okY = state.year==='all' ||
-                  (state.year==='last5' ? parseInt(p.getAttribute('data-year'),10) >= last5Threshold
-                                        : p.getAttribute('data-year')===state.year);
+        var py = parseInt(p.getAttribute('data-year'),10);
+        var okY = state.year==='all' ? true
+                : state.year==='last5' ? py >= last5Threshold
+                : state.year==='last10' ? py >= last10Threshold
+                : p.getAttribute('data-year')===state.year;
         var okT = state.tier==='all' || p.getAttribute('data-tier')==='top';
         var show = okY && okT;
         p.style.display = show ? '' : 'none';
