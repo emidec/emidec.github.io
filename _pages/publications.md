@@ -16,7 +16,7 @@ title: Publications
   </div>
   <div class="pub-filter-group">
     <span class="pub-filter-label">Topic</span>
-    <select id="pub-topic"><option value="all">All topics</option><option value="tml">Trustworthy ML</option><option value="sdata">Synthetic Data</option><option value="fl">Federated Learning</option><option value="cyb">Cybersafety</option><option value="pso">Private Set Operations</option><option value="gen">Genomic Privacy</option></select>
+    <select id="pub-topic"><option value="all">All topics</option><option value="tml">Trustworthy ML</option><option value="sdata">Synthetic Data</option><option value="fl">Federated Learning</option><option value="audit">DP Auditing</option><option value="cyb">Cybersafety</option><option value="pso">Private Set Operations</option><option value="gen">Genomic Privacy</option></select>
   </div>
   <div class="pub-filter-group">
     <span class="pub-filter-label">Show</span>
@@ -68,13 +68,13 @@ M.S.M.S. Annamalai, B. Balle, J. Hayes, G. Kaissis, E. De Cristofaro
 **SoK: The Hitchhiker’s Guide to Efficient, End-to-End, and Tight DP Auditing**  
 4th IEEE Secure and Trustworthy Machine Learning Conference (IEEE SaTML 2026)  
 [pdf](https://arxiv.org/pdf/2506.16666){: .btn--danger}{:target="_blank"}  
-{: data-topics="tml"}
+{: data-topics="tml audit"}
 
 M.S.M.S. Annamalai, B. Balle, J. Hayes, E. De Cristofaro  
 **To Shuffle or not to Shuffle: Auditing DP-SGD with Shuffling**  
 33rd Network and Distributed System Security Symposium (NDSS 2026)  
 [pdf](https://arxiv.org/pdf/2411.10614){: .btn--danger}{:target="_blank"}  
-{: data-topics="tml" data-tier="top"}
+{: data-topics="tml audit" data-tier="top"}
 
 
 A. Galeazzi, P. Paudel, M. Conti, E. De Cristofaro, G. Stringhini  
@@ -107,7 +107,7 @@ M.S.M.S. Annamalai, I. Bilogrevic, E. De Cristofaro
 **Beyond the Crawl: Unmasking Browser Fingerprinting in Real User Interactions**  
 34th The Web Conference (WWW 2025)  
 [pdf](https://arxiv.org/pdf/2502.01608.pdf){: .btn--danger}{:target="_blank"}  
-{: data-topics="tml" data-tier="top"}
+{: data-topics="tml fl" data-tier="top"}
 
 
 B. Treves, E. De Cristofaro, M. Faloutsos, Y. Dong  
@@ -127,13 +127,13 @@ G. Ganev, M.S.M.S. Annamalai, E. De Cristofaro
 **The Elusive Pursuit of Reproducing PATE-GAN: Benchmarking, Auditing, Debugging**  
 Transactions on Machine Learning Research (TMLR), Feb 2025  
 [pdf](https://arxiv.org/pdf/2406.13985.pdf){: .btn--danger}{:target="_blank"}  
-{: data-topics="tml sdata"}
+{: data-topics="tml sdata audit"}
 
 M.S.M.S. Annamalai, E. De Cristofaro  
 **Nearly Tight Black-Box Auditing of Differentially Private Machine Learning**  
 38th Annual Conference on Neural Information Processing Systems (NeurIPS 2024)  
 [pdf](https://arxiv.org/pdf/2405.14106.pdf){: .btn--danger}{:target="_blank"}  
-{: data-topics="tml" data-tier="top"}
+{: data-topics="tml audit" data-tier="top"}
 
 G. Ganev, K. Xu, E. De Cristofaro  
 **Graphical vs. Deep Generative Models: Measuring the Impact of Differentially Private Mechanisms and Budgets on Utility**  
@@ -146,7 +146,7 @@ M.S.M.S. Annamalai, G. Ganev, E. De Cristofaro
 **"What do you want from theory alone?" Experimenting with Tight Auditing of Differentially Private Synthetic Data Generation**  
 33rd USENIX Security Symposium (Usenix Security 2024)  
 [pdf](https://arxiv.org/pdf/2405.10994.pdf){: .btn--danger}{:target="_blank"}  
-{: data-topics="tml sdata" data-tier="top"}
+{: data-topics="tml sdata audit" data-tier="top"}
 
 
 A. Efstratiou, M. Efstratiou, S. Yudhoatmojo, J. Blackburn, E. De Cristofaro  
