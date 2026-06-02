@@ -58,9 +58,10 @@ B. Treves, M. Treves, M. Faloutsos, J. Blackburn, E. De Cristofaro
 [pdf](https://doi.org/10.36190/2026.01){: .btn--danger}{:target="_blank"}  
 {: data-topics="cyb"}
 
-P. Gaba (High School Student!), E. De Cristofaro  
+P. Gaba&dagger;, E. De Cristofaro  
 **Group-Differentiated Discourse on Generative AI in High School Education: A Case Study of Reddit Communities**  
 7th ICWSM Workshop on Cyber Social Threats (CySoc 2026)  
+<span style="font-size:.82em;color:#888">&dagger; High School Student</span>  
 [pdf](https://arxiv.org/pdf/2603.24972){: .btn--danger}{:target="_blank"}  
 
 
