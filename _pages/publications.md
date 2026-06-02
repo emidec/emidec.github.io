@@ -16,7 +16,7 @@ title: Publications
   </div>
   <div class="pub-filter-group">
     <span class="pub-filter-label">Topic</span>
-    <select id="pub-topic"><option value="all">All topics</option><option value="tml">Trustworthy ML</option><option value="sdata">Synthetic Data</option><option value="fl">Federated Learning</option><option value="audit">DP Auditing</option><option value="cyb">Cybersafety</option><option value="pso">Private Set Operations</option><option value="gen">Genomic Privacy</option></select>
+    <select id="pub-topic"><option value="all">All topics</option><option value="tml">Trustworthy ML</option><option value="cyb">Cybersafety</option><option value="sdata">Synthetic Data</option><option value="fl">Federated Learning</option><option value="audit">DP Auditing</option><option value="pso">Private Set Operations</option><option value="gen">Genomic Privacy</option></select>
   </div>
   <div class="pub-filter-group">
     <span class="pub-filter-label">Show</span>
@@ -58,10 +58,9 @@ B. Treves, M. Treves, M. Faloutsos, J. Blackburn, E. De Cristofaro
 [pdf](https://doi.org/10.36190/2026.01){: .btn--danger}{:target="_blank"}  
 {: data-topics="cyb"}
 
-P. Gaba&dagger;, E. De Cristofaro  
+P. Gaba (High School Student!), E. De Cristofaro  
 **Group-Differentiated Discourse on Generative AI in High School Education: A Case Study of Reddit Communities**  
 7th ICWSM Workshop on Cyber Social Threats (CySoc 2026)  
-<span style="font-size:.82em;color:#888">&dagger; High School Student</span>  
 [pdf](https://arxiv.org/pdf/2603.24972){: .btn--danger}{:target="_blank"}  
 
 
