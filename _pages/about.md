@@ -15,7 +15,7 @@ After graduating, I worked as a Research Scientist at [Xerox PARC](http://www.pa
 
 ### Research
 
-I am generally interested in impactful research in the broad Information Security field. Over the past few years, I have been focusing on [trustworthy machine learning](https://emilianodc.com/trustworthy-ML) and [socio-technical issues on the Web](https://emilianodc.com/cybersafety/).
+I am generally interested in impactful research in the broad Information Security field. Over the past few years, I have been focusing on [trustworthy machine learning](https://emilianodc.com/publications/?topic=tml) and [socio-technical issues on the Web](https://emilianodc.com/publications/?topic=cyb).
 I have published at top-tier conferences in security (IEEE S&P, NDSS, CCS, Usenix Security), machine learning (ICML, ICLR, NeurIPS), measurement (ACM IMC, SIGMETRICS) and other fields (e.g. WWW, ICWSM, CSCW, etc.)  
 
 My co-authors and I have received best paper awards from IEEE S&P, NDSS, ACM CCS, ACM IMC, ACM CSCW, AAAI ICWSM, and ACM WebSci, the Data Protection by Design Award from the Catalan Data Protection authority, and were runners-up for CSAW Applied Research Competitions and the INRIA-CNIL Privacy Protection Award. 
