@@ -15,6 +15,10 @@ title: Publications
     <select id="pub-year"><option value="all">All years</option></select>
   </div>
   <div class="pub-filter-group">
+    <span class="pub-filter-label">Topic</span>
+    <select id="pub-topic"><option value="all">All topics</option><option value="tml">Trustworthy ML</option><option value="cyb">Cybersafety</option></select>
+  </div>
+  <div class="pub-filter-group">
     <span class="pub-filter-label">Show</span>
     <button type="button" class="pub-tier-btn pub-active" data-tier="all">All venues</button>
     <span class="pub-tier-wrap"><button type="button" class="pub-tier-btn" data-tier="top">Top-Tier</button><a href="#pub-tier-note" class="pub-note-ref" aria-label="What counts as top-tier?">[*]</a></span>
@@ -969,7 +973,16 @@ V. Auletta, C. Blundo, E. De Cristofaro, G. Raimato
 (function(){
   /* Top-tier venues per CV: csrankings most-selective CS confs + ICWSM/CSCW + PETS;
      workshops, magazines, and other venues (WebSci, SaTML, ESORICS, ...) excluded. */
-  var TOP = /\b(NDSS|CCS|ICWSM|CSCW|ICML|NeurIPS|NIPS|ICLR|SIGMETRICS|IMC|PoPETS|PETS|Asiacrypt|Eurocrypt|ISMB|USENIX Security|WWW)\b/i;
+  var TOP = /\b(NDSS|CCS|ICWSM|CSCW|ICML|NeurIPS|NIPS|ICLR|SIGMETRICS|IMC|PoPETS|PETS|ISMB|USENIX Security|WWW)\b/i;
+
+  /* Topic membership, derived from the cybersafety and trustworthy-ML pages.
+     Keys are normalized titles: lowercase, alphanumeric only, first 40 chars. */
+  var CYB_KEYS = ['adblockingandcounterblockingasliceofthea','adherencetomisinformationonsocialmediath','alargeopendatasetfromtheparlersocialnetw','amultiplatformanalysisofpoliticalnewsdis','analyzinggenetictestingdiscourseontheweb','andwewillfightforourraceameasurementstud','astrodefiningandidentifyinghostilebehavi','beyondfishandbicyclesexploringthevarieti','censorshipinthewildanalyzingwebfiltering','challengesinthedecentralizedwebthemastod','characterizingkeystakeholdersinanonlineb','characterizingtheuseofimagesinstatespons','detectingcyberbullyingandcyberaggression','disinformationwarfareunderstandingstates','dissectingthemememagicunderstandingindic','doplatformmigrationscompromisecontentmod','exploringcontentmoderationinthedecentral','hateisnotbinarystudyingabusivebehaviorof','heresyourevidencefalseconsensusinpublict','howoverisitunderstandingtheincelcommunit','idramascored2024adatasetofthescoredsocia','imaprofessorwhichisntusuallyadangerousjo','isitaqoincidenceanexploratorystudyofqano','itisjustafluassessingtheeffectofwatchhis','kekcucksandgodemperortrumpameasurementst','lambrettalearningtorankfortwittersoftmod','loboevaluationofgeneralizationdeficienci','meanbirdsdetectingaggressionandbullyingo','measuringcharacterizinganddetectingfaceb','measuringgamergateataleofhatesexismandbu','nonpolaroppositesanalyzingtherelationshi','ontheoriginsofmemesbymeansoffringewebcom','payingforlikesunderstandingfacebooklikef','raidersofthelostkek35yearsofaugmented4ch','revealingthesecretpowerhowalgorithmscani','slappingcatsboppingheadsandoreoshakesund','theevolutionofthemanosphereacrosstheweb','thegospelaccordingtoqunderstandingtheqan','thewebcentipedeunderstandinghowwebcommun','toxicityinthedecentralizedwebandthepoten','trollmagnifierdetectingstatesponsoredtro','tuberaiderattributingcoordinatedhateatta','understandingtheeffectofdeplatformingons','understandingtheuseofeprintsonredditand4','understandingtheuseoffauxtographyonsocia','understandingwebarchivingservicesandthei','vikisystematiccrossplatformprofileinfere','whatisgababastionoffreespeechoranaltrigh','whysotoxicmeasuringandtriggeringtoxicbeh','youknowwhattodoproactivedetectionofyoutu'];
+  var TML_KEYS = ['acriticaloverviewofprivacyinmachinelearn','badvflbackdoorattacksinverticalfederated','beyondthecrawlunmaskingbrowserfingerprin','cerberusexploringfederatedpredictionofse','controlleddatasharingforcollaborativepre','differentiallyprivatemixtureofgenerative','efficientprivatestatisticswithsuccinctsk','exploitingunintendedfeatureleakageincoll','fpfedprivacypreservingfederateddetection','graphicalvsdeepgenerativemodelsmeasuring','knockknockwhostheremembershipinferenceon','localandcentraldifferentialprivacyforrob','loganmembershipinferenceattacksagainstge','measuringmembershipprivacyonaggregateloc','mldoctorholisticriskassessmentofinferenc','nearlytightblackboxauditingofdifferentia','oncollaborativepredictiveblacklisting','onutilityandprivacyinsyntheticgenomicdat','privacypreservingcrowdsourcingofwebsearc','proteanfederatedintrusiondetectioninnoni','robinhoodandmattheweffectsdifferentialpr','smoteandmirrorsexposingprivacyleakagefro','sokthehitchhikersguidetoefficientendtoen','syntheticdatamethodsusecasesandrisks','theelusivepursuitofreproducingpateganben','theimportanceofbeingdiscretemeasuringthe','theinadequacyofsimilaritybasedprivacymet','toshuffleornottoshuffleauditingdpsgdwith','understandingtheimpactofdatadomainextrac','whatdoesthecrowdsayaboutyouevaluatingagg','whatdoyouwantfromtheoryaloneexperimentin','whysotoxicmeasuringandtriggeringtoxicbeh'];
+  var CYB={}, TML={};
+  CYB_KEYS.forEach(function(k){ CYB[k]=1; });
+  TML_KEYS.forEach(function(k){ TML[k]=1; });
+  function keyOf(t){ return (t||'').toLowerCase().replace(/[^a-z0-9]/g,'').slice(0,40); }
 
   function txt(html){ var d=document.createElement('div'); d.innerHTML=html; return (d.textContent||'').trim(); }
 
@@ -998,8 +1011,15 @@ V. Auletta, C. Blundo, E. De Cristofaro, G. Raimato
       var isTop = !/workshop/i.test(venue) && !/magazine/i.test(venue) && !/web science/i.test(venue) &&
                   (TOP.test(acro) || /S&P/i.test(acro));
 
+      var strongEl = p.querySelector('strong');
+      var tkey = keyOf(strongEl ? strongEl.textContent : '');
+      var topics = [];
+      if(TML[tkey]) topics.push('tml');
+      if(CYB[tkey]) topics.push('cyb');
+
       p.setAttribute('data-year', year);
       p.setAttribute('data-tier', isTop ? 'top' : 'other');
+      p.setAttribute('data-topics', topics.join(' '));
       if(year) years[year]=true;
     });
 
@@ -1016,7 +1036,7 @@ V. Auletta, C. Blundo, E. De Cristofaro, G. Raimato
       var o=document.createElement('option'); o.value=y; o.textContent=y; sel.appendChild(o);
     });
 
-    var state={year:'all', tier:'all'};
+    var state={year:'all', tier:'all', topic:'all'};
     var count=document.getElementById('pub-count');
     function apply(){
       var n=0;
@@ -1027,7 +1047,9 @@ V. Auletta, C. Blundo, E. De Cristofaro, G. Raimato
                 : state.year==='last10' ? py >= last10Threshold
                 : p.getAttribute('data-year')===state.year;
         var okT = state.tier==='all' || p.getAttribute('data-tier')==='top';
-        var show = okY && okT;
+        var okTopic = state.topic==='all' ||
+                      (' '+(p.getAttribute('data-topics')||'')+' ').indexOf(' '+state.topic+' ')>=0;
+        var show = okY && okT && okTopic;
         p.style.display = show ? '' : 'none';
         if(show) n++;
       });
@@ -1035,6 +1057,8 @@ V. Auletta, C. Blundo, E. De Cristofaro, G. Raimato
     }
 
     sel.addEventListener('change', function(){ state.year=sel.value; apply(); });
+    var topicSel=document.getElementById('pub-topic');
+    if(topicSel) topicSel.addEventListener('change', function(){ state.topic=topicSel.value; apply(); });
     Array.prototype.forEach.call(root.querySelectorAll('.pub-tier-btn'), function(b){
       b.addEventListener('click', function(){
         state.tier=b.getAttribute('data-tier');

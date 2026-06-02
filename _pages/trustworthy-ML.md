@@ -237,7 +237,7 @@ J. Freudiger, E. De Cristofaro, A. Brito
 (function(){
   /* Top-tier venues per CV: csrankings most-selective CS confs + ICWSM/CSCW + PETS;
      workshops, magazines, and other venues (WebSci, SaTML, ESORICS, ...) excluded. */
-  var TOP = /\b(NDSS|CCS|ICWSM|CSCW|ICML|NeurIPS|NIPS|ICLR|SIGMETRICS|IMC|PoPETS|PETS|Asiacrypt|Eurocrypt|ISMB|USENIX Security|WWW)\b/i;
+  var TOP = /\b(NDSS|CCS|ICWSM|CSCW|ICML|NeurIPS|NIPS|ICLR|SIGMETRICS|IMC|PoPETS|PETS|ISMB|USENIX Security|WWW)\b/i;
 
   function txt(html){ var d=document.createElement('div'); d.innerHTML=html; return (d.textContent||'').trim(); }
 
