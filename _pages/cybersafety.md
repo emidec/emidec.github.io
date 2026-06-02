@@ -11,7 +11,7 @@ title: Cybersafety
 ***
 B. Treves, M. Treves, M. Faloutsos, J. Blackburn, E. De Cristofaro  
 **ASTRO: Defining and Identifying Hostile Behavior on GitHub**  
-8th International Workshop on Cyber Social Threats (CySoc 2026)  
+7th ICWSM Workshop on Cyber Social Threats (CySoc 2026)  
 [pdf](https://doi.org/10.36190/2026.01){: .btn--danger}{:target="_blank"}  
 
 A. Galeazzi, P. Paudel, M. Conti, E. De Cristofaro, G. Stringhini  
