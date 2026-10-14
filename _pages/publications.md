@@ -52,17 +52,17 @@ M.S.M.S. Annamalai, E. De Cristofaro, P. Kairouz
 [pre-print](https://arxiv.org/abs/2603.09781){: .btn--danger}{:target="_blank"}  
 {: data-topics="tml" data-tier="top"}
 
-G. Ganev, M. Nazari, R. Davison, A. Fallah Dizche, X. Wu, R. Abbey, J.G Silva, E. De Cristofaro  
-**SMOTE and Mirrors: Exposing Privacy Leakage from Synthetic Minority Oversampling**  
-14th International Conference on Learning Representations (ICLR 2026)  
-[pdf](https://arxiv.org/abs/2510.15083){: .btn--danger}{:target="_blank"}  
-{: data-topics="tml sdata" data-tier="top"}
-
 G. Ganev, E. De Cristofaro  
 **Rethinking Anonymity Claims in Synthetic Data Generation: A Model-Centric Privacy Attack Perspective**  
 25th ACM CCS Workshop on Privacy in the Electronic Society (WPES 2026)  
 [pdf](https://arxiv.org/abs/2601.22434){: .btn--danger}{:target="_blank"}  
 {: data-topics="sdata"}
+
+G. Ganev, M. Nazari, R. Davison, A. Fallah Dizche, X. Wu, R. Abbey, J.G Silva, E. De Cristofaro  
+**SMOTE and Mirrors: Exposing Privacy Leakage from Synthetic Minority Oversampling**  
+14th International Conference on Learning Representations (ICLR 2026)  
+[pdf](https://arxiv.org/abs/2510.15083){: .btn--danger}{:target="_blank"}  
+{: data-topics="tml sdata" data-tier="top"}
 
 B. Treves, M. Treves, M. Faloutsos, J. Blackburn, E. De Cristofaro  
 **ASTRO: Defining and Identifying Hostile Behavior on GitHub**  
