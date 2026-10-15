@@ -10,6 +10,10 @@ title: Publications
 <br>This page lists all my peer-reviewed publications ordered by year, linking to open-access versions of each paper. You can also visit my [DBLP](http://dblp.uni-trier.de/pers/hd/c/Cristofaro:Emiliano_De){:target="_blank"} or my [Google Scholar](https://scholar.google.com/citations?hl=en&user=1wfzUuEAAAAJ&view_op=list_works&pagesize=100){:target="_blank"} pages to see them in different formats.
 
 <div id="pub-filters" markdown="0">
+  <div class="pub-filter-group pub-search-group">
+    <span class="pub-filter-label">Search</span>
+    <input type="search" id="pub-search" placeholder="Title, author, venue…" aria-label="Search publications" autocomplete="off">
+  </div>
   <div class="pub-filter-group">
     <span class="pub-filter-label">Year</span>
     <select id="pub-year"><option value="all">All years</option></select>
@@ -30,6 +34,9 @@ title: Publications
 #pub-filters{display:flex;flex-wrap:wrap;align-items:center;gap:.6em 1.4em;margin:1.2em 0 .4em;padding:.7em .9em;border:1px solid #e2e2e2;border-radius:8px;background:#fafafa;font-size:.85em}
 #pub-filters .pub-filter-group{display:flex;align-items:center;gap:.5em}
 #pub-filters .pub-filter-label{font-weight:700;text-transform:uppercase;letter-spacing:.04em;color:#666;font-size:.85em}
+#pub-filters .pub-search-group{flex:1 1 100%}
+#pub-filters #pub-search{flex:1;min-width:0;padding:.3em .6em;border:1px solid #ccc;border-radius:5px;background:#fff;font-size:1em}
+#pub-filters #pub-search:focus{outline:none;border-color:#1a6b2a;box-shadow:0 0 0 2px rgba(26,107,42,.15)}
 #pub-filters select{padding:.25em .5em;border:1px solid #ccc;border-radius:5px;background:#fff;font-size:1em}
 #pub-filters .pub-tier-btn{cursor:pointer;padding:.3em .8em;border:1px solid #ccc;border-radius:20px;background:#fff;color:#333;font-size:1em;line-height:1.4}
 #pub-filters .pub-tier-btn:hover{border-color:#999}
@@ -1089,6 +1096,8 @@ V. Auletta, C. Blundo, E. De Cristofaro, G. Raimato
 
 <script>
 (function(){
+  /* Lowercase and strip accents so "fe" matches "Fé" etc. */
+  function norm(s){ s=(s||'').toLowerCase(); return s.normalize ? s.normalize('NFD').replace(/[\u0300-\u036f]/g,'') : s; }
   function txt(html){ var d=document.createElement('div'); d.innerHTML=html; return (d.textContent||'').trim(); }
 
   function init(){
@@ -1112,6 +1121,7 @@ V. Auletta, C. Blundo, E. De Cristofaro, G. Raimato
       var year = last ? last[2] : ((venue.match(/(?:19|20)\d{2}/g)||[]).slice(-1)[0] || '');
 
       p.setAttribute('data-year', year);
+      p._pubText = norm(p.textContent);
       if(year) years[year]=true;
     });
 
@@ -1128,7 +1138,7 @@ V. Auletta, C. Blundo, E. De Cristofaro, G. Raimato
       var o=document.createElement('option'); o.value=y; o.textContent=y; sel.appendChild(o);
     });
 
-    var state={year:'all', tier:'all', topic:'all'};
+    var state={year:'all', tier:'all', topic:'all', q:''};
     var count=document.getElementById('pub-count');
     function apply(){
       var n=0;
@@ -1141,7 +1151,10 @@ V. Auletta, C. Blundo, E. De Cristofaro, G. Raimato
         var okT = state.tier==='all' || p.getAttribute('data-tier')==='top';
         var okTopic = state.topic==='all' ||
                       (' '+(p.getAttribute('data-topics')||'')+' ').indexOf(' '+state.topic+' ')>=0;
-        var show = okY && okT && okTopic;
+        /* Every whitespace-separated search term must appear somewhere in the entry. */
+        var terms = norm(state.q).split(/\s+/).filter(Boolean);
+        var okQ = terms.every(function(t){ return p._pubText.indexOf(t)>=0; });
+        var show = okY && okT && okTopic && okQ;
         p.style.display = show ? '' : 'none';
         if(show) n++;
       });
@@ -1149,6 +1162,7 @@ V. Auletta, C. Blundo, E. De Cristofaro, G. Raimato
     }
 
     var topicSel=document.getElementById('pub-topic');
+    var search=document.getElementById('pub-search');
 
     function setTierActive(t){
       Array.prototype.forEach.call(root.querySelectorAll('.pub-tier-btn'), function(x){
@@ -1164,11 +1178,13 @@ V. Auletta, C. Blundo, E. De Cristofaro, G. Raimato
       if(state.year!=='all') qs.push('year='+encodeURIComponent(state.year));
       if(state.topic!=='all') qs.push('topic='+encodeURIComponent(state.topic));
       if(state.tier!=='all') qs.push('tier='+encodeURIComponent(state.tier));
+      if(state.q.trim()) qs.push('q='+encodeURIComponent(state.q.trim()));
       history.replaceState(null,'',location.pathname+(qs.length?'?'+qs.join('&'):''));
     }
-    function getParam(k){ var m=new RegExp('[?&]'+k+'=([^&]*)').exec(location.search); return m?decodeURIComponent(m[1]):null; }
+    function getParam(k){ var m=new RegExp('[?&]'+k+'=([^&]*)').exec(location.search); return m?decodeURIComponent(m[1].replace(/\+/g,' ')):null; }
 
     sel.addEventListener('change', function(){ state.year=sel.value; syncURL(); apply(); });
+    if(search) search.addEventListener('input', function(){ state.q=search.value; syncURL(); apply(); });
     if(topicSel) topicSel.addEventListener('change', function(){ state.topic=topicSel.value; syncURL(); apply(); });
     Array.prototype.forEach.call(root.querySelectorAll('.pub-tier-btn'), function(b){
       b.addEventListener('click', function(){
@@ -1179,8 +1195,9 @@ V. Auletta, C. Blundo, E. De Cristofaro, G. Raimato
     });
 
     /* Initialize filters from URL query params on load. */
-    var pTopic=getParam('topic'), pTier=getParam('tier'), pYear=getParam('year');
-    if(pTopic && /^(all|tml|cyb|pso|gen)$/.test(pTopic)){ state.topic=pTopic; if(topicSel) topicSel.value=pTopic; }
+    var pTopic=getParam('topic'), pTier=getParam('tier'), pYear=getParam('year'), pQ=getParam('q');
+    if(pQ && search){ state.q=pQ; search.value=pQ; }
+    if(pTopic && /^(all|tml|cyb|sdata|fl|audit|pso|gen)$/.test(pTopic)){ state.topic=pTopic; if(topicSel) topicSel.value=pTopic; }
     if(pTier && /^(all|top)$/.test(pTier)){ state.tier=pTier; setTierActive(pTier); }
     if(pYear && (pYear==='all'||pYear==='last5'||pYear==='last10'||years[pYear])){ state.year=pYear; sel.value=pYear; }
 
