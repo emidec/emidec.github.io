@@ -208,7 +208,7 @@ J. Patel, P. Paudel, E. De Cristofaro, G. Stringhini, J. Blackburn
 {: data-topics="cyb" data-tier="top"}
 
 
-P. Paudel, J. Blackburn, E. De Cristofaro, G. Stringhini, S. Zannettou  
+P. Paudel, J. Blackburn, E. De Cristofaro, S. Zannettou, G. Stringhini  
 **Lambretta: Learning to Rank for Twitter Soft Moderation**  
 44th IEEE Symposium on Security & Privacy (S&P 2023)  
 [pdf](https://arxiv.org/pdf/2212.05926.pdf){: .btn--danger}{:target="_blank"}  
@@ -240,7 +240,7 @@ M. Naseri, Y. Han, E. Mariconti, Y. Shen, G. Stringhini, E. De Cristofaro
 [pdf](https://arxiv.org/pdf/2209.03050.pdf){: .btn--danger}{:target="_blank"}  
 {: data-topics="tml fl" data-tier="top"}
 
-W. Man Si, J. Blackburn, E. De Cristofaro, G. Stringhini, S. Zannettou, Y. Zhang  
+W. Man Si, M. Backes, J. Blackburn, E. De Cristofaro, G. Stringhini, S. Zannettou, Y. Zhang  
 **Why So Toxic? Measuring and Triggering Toxic Behavior in Open-Domain Chatbots**  
 29th ACM Conference on Computer and Communications Security (ACM CCS 2022)  
 [honorable mention](https://www.sigsac.org/ccs/CCS2022/program/awards.html){: .btn--success}  
@@ -298,7 +298,7 @@ M. Naseri, J. Hayes, E. De Cristofaro
 [pdf](https://arxiv.org/pdf/2009.03561){: .btn--danger}{:target="_blank"}  
 {: data-topics="tml fl" data-tier="top"}
 
-A. Papasavva, M. Aliapoulios, C. Ballard, E. De Cristofaro, S. Zannettou, and J. Blackburn  
+A. Papasavva, M. Aliapoulios, C. Ballard, E. De Cristofaro, G. Stringhini, S. Zannettou, J. Blackburn  
 **The Gospel According to Q: Understanding the QAnon Conspiracy from the Perspective of Canonical Information**  
 16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
 [pdf](https://arxiv.org/pdf/2101.08750){: .btn--danger}{:target="_blank"}  
@@ -535,8 +535,8 @@ S. Zannettou, T. Caulfield, J. Blackburn, E. De Cristofaro, M. Sirivianos, G. St
 <span style="color:white;background-color:#1a6b2a;padding: 2px 8px;text-align: center;border-radius: 20px">media coverage:</span> [BBC Trending](https://www.bbc.co.uk/programmes/w3csws6t), [BBC News](https://www.bbc.com/news/blogs-trending-45888176), [MIT Technology Review](https://www.technologyreview.com/s/611332/this-is-where-internet-memes-come-from/), [CBS News](https://www.youtube.com/watch?v=oLUZnTN-zeo&feature=youtu.be), [The Independent](https://indy100.com/article/most-popular-memes-science-study-reddit-twitter-8386051), [VICE](https://motherboard.vice.com/en_us/article/zm884j/where-do-memes-come-from-researchers-studied-reddit-4chan), [Business Insider](https://www.businessinsider.com.au/origin-of-memes-study-2018-6), [The Daily Dot](https://www.dailydot.com/unclick/meme-studies), [Quartz](https://qz.com/1296094/most-popular-memes-finally-a-scientific-list-of-the-most-popular-memes-on-the-internet/), [El Pais](https://elpais.com/tecnologia/2019/03/26/actualidad/1553596590_520008.html), [MotherJones](https://www.motherjones.com/politics/2019/04/right-wing-groups-are-training-young-conservatives-to-win-the-next-meme-war/), [InfoWars](https://www.infowars.com/new-scientific-study-proves-the-left-cant-meme/), [Thinkprogress](https://thinkprogress.org/how-horrible-memes-thrive-on-the-internet-135bd2d2ea6b/), [Iflscience](http://www.iflscience.com/technology/scientists-discover-the-most-popular-memes-on-the-internet-finally/), [Hornet](https://hornet.com/stories/racist-memes-alt-right-memes/), [Bellingcat](https://bellingcat.com/news/americas/2018/10/31/magabomber-synagogue-shooter-likely-radicalized/)
 {: data-topics="cyb" data-tier="top"}
 
-G. Acs, L. Melis, C. Castelluccia, E. De Cristofaro (Extended Version)  
-**Differentially Private Mixture of Generative Neural Networks**  
+G. Acs, L. Melis, C. Castelluccia, E. De Cristofaro  
+**Differentially Private Mixture of Generative Neural Networks (Extended Version)**  
 IEEE Transactions on Knowledge and Data Engineering (TKDE 2018)  
 [pdf](https://arxiv.org/pdf/1709.04514.pdf){: .btn--danger}{:target="_blank"}
 {: data-topics="tml sdata"}
@@ -632,7 +632,7 @@ D. Chatzakou, N. Kourtellis, J. Blackburn, E. De Cristofaro, G. Stringhini, A. V
 {: data-topics="cyb"}
 
 
-G. Hine, J. Onaolapo, E. De Cristofaro, N. Kourtellis, I. Leontiadis, G. Stringhini, J. Blackburn  
+G. Hine, J. Onaolapo, E. De Cristofaro, N. Kourtellis, I. Leontiadis, R. Samaras, G. Stringhini, J. Blackburn  
 **Kek, Cucks, and God Emperor Trump: A Measurement Study of 4chan's Politically Incorrect Forum and Its Effects on the Web**  
 11th International AAAI Conference on Web and Social Media (ICWSM 2017)  
 [best paper runner-up](https://www.icwsm.org/2017/){: .btn--success}{:target="_blank"}  
@@ -773,7 +773,7 @@ K. Krol, E. Philippou, E. De Cristofaro, M. Angela Sasse
 
 
 A. Chaabane, T. Chen, M. Cunche, E. De Cristofaro, A. Friedman, D. Kaafar  
-**Censorship in the Wild: Analyzing Web Filtering in Syria**  
+**Censorship in the Wild: Analyzing Internet Filtering in Syria**  
 14th ACM Internet Measurement Conference (IMC 2014)  
 [best paper runner-up](https://conferences.sigcomm.org/imc/2014/){: .btn--success}{:target="_blank"}  
 [pdf](https://arxiv.org/pdf/1402.3401){: .btn--danger}{:target="_blank"}  
@@ -797,7 +797,7 @@ G. Danezis and E. De Cristofaro
 {: data-topics="gen"}
 
 
-I. Bilogrevic, E. De Cristofaro, J. Freudiger, E. Uzun  
+I. Bilogrevic, J. Freudiger, E. De Cristofaro, E. Uzun  
 **What's the Gist? Privacy-Preserving Aggregation of User Profiles**  
 19th European Symposium on Research in Computer Security (ESORICS 2014)  
 [pdf](https://arxiv.org/pdf/1405.1328){: .btn--danger}{:target="_blank"}
@@ -1042,7 +1042,7 @@ E. De Cristofaro, S. Jarecki, J. Kim, G. Tsudik
 
 
 E. De Cristofaro, J. Bohli, D. Westhoff  
-**FAIR: Fuzzy-based Aggregation providing In-network Resilience for real-time Sensor Networks**  
+**FAIR: Fuzzy-based Aggregation providing In-network Resilience for real-time Wireless Sensor Networks**  
 2nd ACM Symposium on Wireless Network Security (WiSec 2009)  
 [pdf](https://arxiv.org/pdf/0901.1095.pdf){: .btn--danger}{:target="_blank"}
 
@@ -1054,13 +1054,13 @@ E. De Cristofaro, X. Ding, G. Tsudik
 
 
 
-C. Blundo, E. De Cristofaro, C. Galdi, G. Persiano  
+C. Blundo, E. De Cristofaro, A. Del Sorbo, C. Galdi, G. Persiano  
 **A Distributed Implementation of the Certified Information Access Service**  
 13th European Symposium on Research in Computer Security (ESORICS 2008)  
 [pdf](http://people.na.infn.it/~galdi/ABSTRACTS/esorics08.pdf){: .btn--danger}{:target="_blank"}
 
 
-C. Blundo, E. De Cristofaro, A. Del Sorbo, C. Galdi, G. Persiano  
+C. Blundo, E. De Cristofaro, C. Galdi, G. Persiano  
 **Validating Orchestration of Web Services with BPEL and Aggregate Signatures**  
 6th IEEE Conference on Web Services (ECOWS 2008)
 

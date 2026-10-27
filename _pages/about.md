@@ -6,7 +6,7 @@ title: About
 
 
 I'm a Professor at University of California, Riverside. I'm affiliated with the Department of [Computer Science and Engineering](https://www1.cs.ucr.edu) and the [RAISE](https://raise.ucr.edu/) Institute.
-From 2013 to 2023, I was at University College London ([UCL](http://www.ucl.ac.uk/)), where I served as Director of the Academic Center of Excellence in Cyber Security Research ([ACE-CSR](https://www.ucl.ac.uk/cybersecurity-centre-of-excellence/)) and Head of the Information Security Research Group ([ISRG](https://sec.cs.ucl.ac.uk)).
+From 2013 to 2023, I was at University College London ([UCL](http://www.ucl.ac.uk/)), where I served as Director of the Academic Centre of Excellence in Cyber Security Research ([ACE-CSR](https://www.ucl.ac.uk/cybersecurity-centre-of-excellence/)) and Head of the Information Security Research Group ([ISRG](https://sec.cs.ucl.ac.uk)).
 
 In September 2023, I started the Security and Privacy Advanced research Lab ([SPALab](https://spalab.cs.ucr.edu)).
 I got my PhD from [UC Irvine](https://www.cs.uci.edu), advised by [Gene Tsudik](https://www.ics.uci.edu/~gts/).
@@ -18,7 +18,7 @@ After graduating, I worked as a Research Scientist at [Xerox PARC](http://www.pa
 I am generally interested in impactful research in the broad Information Security field. Over the past few years, I have been focusing on [trustworthy machine learning](https://emilianodc.com/publications/?topic=tml) and [socio-technical issues on the Web](https://emilianodc.com/publications/?topic=cyb).
 I have published at all four top-tier conferences in security (IEEE S&P, NDSS, CCS, USENIX Security), all three top-tier machine learning venues (ICML, ICLR, NeurIPS), and both top-tier measurement conferences (ACM IMC, SIGMETRICS), as well as other top-tiers in specialized fields (e.g., WWW, ICWSM, CSCW, PETS).  
 
-My co-authors and I have received best paper awards from IEEE S&P, NDSS, ACM CCS, ACM IMC, ACM CSCW, AAAI ICWSM, and ACM WebSci, the Data Protection by Design Award from the Catalan Data Protection Authority, and were runners-up for CSAW Applied Research Competitions and the INRIA-CNIL Privacy Protection Award. 
+My co-authors and I have received paper awards and recognitions from IEEE S&P, NDSS, ACM CCS, ACM IMC, ACM CSCW, AAAI ICWSM, and ACM WebSci, the Data Protection by Design Award from the Catalan Data Protection Authority, and were runners-up for CSAW Applied Research Competitions and the INRIA-CNIL Privacy Protection Award. 
 In 2025, I was named Distinguished Member of the Association for Computing Machinery (ACM).
 In 2022 and 2024, I achieved the top-4 security "grand slam" (<a href="images/eye_roll.jpg" target=_blank>uh?</a>).
 
@@ -27,7 +27,7 @@ In 2022 and 2024, I achieved the top-4 security "grand slam" (<a href="images/ey
 - *PhD in Networked Systems,* Sep 2011   
   University of California, Irvine  
   Dissertation: [Sharing Sensitive Information with Privacy](https://emilianodc.com/PAPERS/dissertation.pdf) 
-- *BSc in Computer Science,* Jul 2005  
+- *Laurea (5-year degree, BS + MS equivalent) in Computer Science,* Jul 2005  
   University of Salerno, Italy  
   Summa cum Laude, top 1% in graduating class
 
