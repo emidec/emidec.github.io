@@ -55,7 +55,8 @@ title: Publications
 *** 
 M.S.M.S. Annamalai, E. De Cristofaro, P. Kairouz  
 **CLIOPATRA: Extracting Private Information from LLM Insights**  
-40th Conference on Neural Information Processing Systems (NeurIPS 2026), *oral*  
+40th Conference on Neural Information Processing Systems (NeurIPS 2026)  
+[oral presentation](https://neurips.cc/virtual/2026/oral/152544){: .btn--success}{:target="_blank"}  
 [pre-print](https://arxiv.org/abs/2603.09781){: .btn--danger}{:target="_blank"}  
 {: data-topics="tml" data-tier="top"}
 
