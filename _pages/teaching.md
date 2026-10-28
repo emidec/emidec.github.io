@@ -24,3 +24,10 @@ title: Teaching
 -   [CS 260: Privacy Seminar](https://spalab.cs.ucr.edu/teaching/24s-cs260/), Spring 2024
 -   [CS 254: Network Security](https://spalab.cs.ucr.edu/teaching/24w-cs254/), Winter 2024
 -   [CS 179F: Project in Computer Science (Operating Systems)](https://github.com/emidec/cs179f-fall23), Fall 2023
+
+## UCL
+
+-   Security (BSc/MEng Computer Science), 2021-22 and 2022-23
+-   Privacy Enhancing Technologies (MSc Information Security), 2018-19 and 2019-20
+-   Computer Security II (MSc Information Security), 2013-14 to 2019-20
+-   Introduction to Cryptography (MSc Information Security), 2014-15 to 2017-18
