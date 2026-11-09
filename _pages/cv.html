@@ -34,6 +34,10 @@ author_profile: true
 .cv-sc { font-variant: small-caps; }
 .cv a { color: var(--cv-accent); text-decoration: none; }
 .cv a:hover { text-decoration: underline; }
+#cv-top-btn { position: fixed; right: 24px; bottom: 24px; z-index: 9999; display: none; align-items: center;
+  gap: .35em; padding: .55em .9em; border: none; border-radius: 24px; background: #1a6b2a; color: #fff;
+  font-size: .85em; cursor: pointer; box-shadow: 0 2px 8px rgba(0,0,0,.25); }
+#cv-top-btn:hover { background: #15571f; }
 @media (max-width: 640px) {
   .cv-links { text-align: left; }
   .cv-header h1 { font-size: 1.6rem; }
@@ -410,3 +414,15 @@ Google Scholar: <a href="https://scholar.google.com/citations?user=1wfzUuEAAAAJ"
 </ul>
 </section>
 </article>
+<button type="button" id="cv-top-btn" aria-label="Back to top">&uarr; Back to top</button>
+<script>
+(function () {
+  var btn = document.getElementById('cv-top-btn');
+  if (!btn) return;
+  btn.addEventListener('click', function () { window.scrollTo({top: 0, behavior: 'smooth'}); });
+  function sy() { return window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0; }
+  function toggle() { btn.style.display = sy() > 300 ? 'inline-flex' : 'none'; }
+  window.addEventListener('scroll', toggle, {passive: true});
+  toggle();
+})();
+</script>
