@@ -16,8 +16,12 @@ author_profile: true
 .cv-contact p { margin: 0; }
 .cv-links { text-align: right; }
 .cv-meta { margin: .9rem 0 0; font-size: .875em; color: var(--cv-muted); }
-.cv-nav { display: flex; flex-wrap: wrap; gap: .3rem 1rem; margin: 1.1rem 0 0; padding: .55rem 0;
+.cv-nav { margin: 1.1rem 0 0; padding: .55rem 0; overflow: hidden;
   border-top: 1px solid var(--cv-line); border-bottom: 1px solid var(--cv-line); font-size: .875em; }
+/* "|" between links; the one before the first link on each line falls outside the nav and is clipped */
+.cv-nav-list { display: flex; flex-wrap: wrap; row-gap: .3rem; margin-left: -1.4rem; }
+.cv-nav a { position: relative; margin-left: 1.4rem; }
+.cv-nav a::before { content: "|"; position: absolute; left: -.7rem; transform: translateX(-50%); color: var(--cv-muted); pointer-events: none; }
 .cv section { scroll-margin-top: 5rem; }
 .cv h2 { margin: 2.1rem 0 .7rem; padding-bottom: .25rem; font-size: 1.25rem; font-weight: 600;
   color: var(--cv-accent); border-bottom: 2px solid var(--cv-rule); }
@@ -57,7 +61,7 @@ LinkedIn: <a href="https://www.linkedin.com/in/emilianodc/">emilianodc</a><br>
 Google Scholar: <a href="https://scholar.google.com/citations?user=1wfzUuEAAAAJ">1wfzUuEAAAAJ</a></p>
 </div>
 <p class="cv-meta"><em>Last updated: November 9, 2026</em> · <a href="https://emilianodc.com/CV.pdf">PDF version</a></p>
-<nav class="cv-nav" aria-label="CV sections">
+<nav class="cv-nav" aria-label="CV sections"><div class="cv-nav-list">
 <a href="#research">Research</a>
 <a href="#education">Education</a>
 <a href="#employment">Employment</a>
@@ -69,7 +73,7 @@ Google Scholar: <a href="https://scholar.google.com/citations?user=1wfzUuEAAAAJ"
 <a href="#uc-riverside-service">UC Riverside Service</a>
 <a href="#teaching">Teaching</a>
 <a href="#mentoring">Mentoring</a>
-</nav>
+</div></nav>
 </header>
 
 <section id="research">
