@@ -38,6 +38,7 @@ If you want to do a PhD with me at UCR, just apply to the program; no need to em
 
 ### Open Source
 Some tools I built and maintain on [GitHub](https://github.com/emidec):
+{: style="margin-bottom: 0.3em"}
 - [**autobidder**](https://github.com/emidec/autobidder): fills in HotCRP review preferences (bids) automatically based on a selection of your papers. Everything runs locally.
 - [**when2meet-calendar-autofill**](https://github.com/emidec/when2meet-calendar-autofill): a Chrome extension that fills in your [when2meet](https://www.when2meet.com) availability from Google Calendar(s) or iCal feeds.
 
