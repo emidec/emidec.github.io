@@ -36,6 +36,11 @@ Sorry I can't reply to every inquiry. The volume is just too high and, unfortuna
 
 If you want to do a PhD with me at UCR, just apply to the program; no need to email first. I promise I read every application that mentions my name, and I do it early. If there's any chance it could work, I'll reach out. I know you'd like a sense of fit before paying UCR's non-refundable application fee, sorry! But I consider knowing whether our research interests match a prerequisite, and you can figure that out by skimming my papers.
 
+### Open Source
+Some tools I built and maintain on [GitHub](https://github.com/emidec):
+- [**autobidder**](https://github.com/emidec/autobidder): fills in HotCRP review preferences (bids) automatically based on a selection of your papers. Everything runs locally.
+- [**when2meet-calendar-autofill**](https://github.com/emidec/when2meet-calendar-autofill): a Chrome extension that fills in your [when2meet](https://www.when2meet.com) availability from Google Calendar(s) or iCal feeds.
+
 ### Personal
 I was born in Avellino, a small-ish town 40 miles east of Napoli surrounded by the mountains of the [Irpinia](https://en.wikipedia.org/wiki/Irpinia) region. Irpinia is known for its lush, [green scenery]([https://web.unisa.it/en/campus-life/surroundings/irpinia](https://stock.adobe.com/search?k=irpinia)) and <a href="images/castles.jpg" target="_blank">medieval castles</a>, the glorious [soccer team](https://en.wikipedia.org/wiki/U.S._Avellino_1912), hazelnuts, and <a href="images/truffle.jpg" target="_blank">black truffles</a>, as well as some amazing wines like Taurasi, Fiano di Avellino, and Greco di Tufo.  
 
